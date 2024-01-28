@@ -1,0 +1,12748 @@
+𒀀𒈾	PRP
+𒀀𒉿𒅋x	nan
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒉌𒁲𒀉𒌈𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒇷𒁀𒀠𒇷𒀉𒅟	V
+<EoL>
+𒀀𒈾	PRP
+𒉺𒅈𒍢	N
+𒊭	DET
+𒌉𒈨𒌍	N
+𒀴𒊏𒈬𒁀𒉌𒀉	PN
+<EoL>
+𒁹𒀭𒌓𒆜𒆳𒍪	PN
+𒀉𒁕𒀠𒉺𒀭𒉌	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+𒉺𒅈𒍝𒄠	N
+𒋼𒂊𒅕	V
+<EoL>
+𒅇	CNJ
+𒀀𒄷𒅟	N
+𒉿𒋗	N
+𒅖𒈨𒋗𒈠	V
+<EoL>
+𒈠𒄠𒈠𒀭	XP
+𒊭	DET
+𒄿𒈾	PRP
+𒄿𒁲𒋗	N
+<EoL>
+𒄑𒍝𒊍𒍪	V
+𒌑𒆷	MOD
+𒄿𒁀𒀸𒅆	V
+<EoL>
+𒅇	CNJ
+𒌉𒈨𒌍	N
+𒀴𒊏𒈬𒁀𒉌𒀉	PN
+<EoL>
+𒍝𒅈𒊒𒌈	N
+𒅎𒄷𒊒𒋗𒉡𒋾𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒍝𒅈𒊒𒌈	N
+𒁹𒅁𒉌𒀭	PN
+𒆪𒊒	nan
+<EoL>
+𒆪𒉡𒊌𒆠	N
+𒄿𒈾	PRP
+𒀀𒈠𒅈𒄿𒅟	N
+<EoL>
+𒆷	MOD
+𒌅𒄩𒊏𒄠	V
+<EoL>
+𒍢𒁀𒌅𒅟	N
+𒇻𒌑	CNJ
+𒄩𒈪𒅖	NU
+<EoL>
+𒆪𒍑𒁕𒀭𒉌	V
+<EoL>
+𒉺𒅈𒍝𒄠	N
+𒄿𒋫𒁀𒇻𒌑	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒅟𒅟𒀀	PN
+𒅇	CNJ
+𒈪𒅕𒋛𒅀	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒈠𒄩𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒇷𒁀𒀠𒇷𒀉𒆠𒈾𒋾	V
+<EoL>
+𒈾𒌅𒌑	V
+𒂊𒁉𒋳	N
+𒀭𒉡𒌝	DP
+<EoL>
+𒊭	DET
+𒌗𒁹𒄰	NU
+𒌗𒁹𒄰	N
+𒉿𒀸𒁀𒆪𒈠	V
+𒀀𒈾	PRP
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅀	N
+𒆷	MOD
+𒋫𒀸𒁍𒊏𒉏	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒀭𒌓𒂊𒁉𒊑	PN
+<EoL>
+𒀀𒈾	PRP
+𒍢𒊑𒆠𒈾	N
+𒀜𒋻𒁮	V
+<EoL>
+𒑑	NU
+𒑑	N
+𒍥	N
+𒂠𒊺	N
+𒑏	NU
+𒑏	N
+𒍥𒄖	N
+<EoL>
+𒋗𒁉𒆷𒉏	V
+<EoL>
+𒊭	DET
+𒍢𒁍𒁴	N
+𒈠𒄴𒊑𒅀	N
+<EoL>
+𒄿𒁀𒀸𒅆	V
+𒊕𒊩𒆳	N
+𒀀𒈾	PRP
+𒍢𒊑𒅀	N
+<EoL>
+𒇷𒇷𒄰𒈠	V
+𒇻𒊭𒁉𒆷𒆠𒅎𒈠	V
+<EoL>
+𒀀𒊭𒊑𒅖	AV
+𒀉𒈾𒀀𒈠	V
+<EoL>
+𒊭	DET
+𒌅𒊭𒁉𒆷𒉏	V
+<EoL>
+𒄿𒈾	PRP
+𒅖𒊑𒆠𒈾𒀀𒈠	N
+<EoL>
+𒄷𒌨𒍝𒈠	V
+𒅆𒋫𒌈	N
+<EoL>
+𒆠𒈠	PRP
+𒀀𒊭𒉺𒊒𒆠𒈾𒅆𒅎	V
+<EoL>
+𒋗𒁉𒆷𒉏	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒋛𒈾𒌈	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒀀𒊭𒊑𒀉𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒂗𒍪	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀀𒉿𒈝	N
+𒊭	DET
+𒀜𒊒𒁕𒄣	V
+<EoL>
+𒌑𒌌	MOD
+𒂵𒌈	N
+𒀀𒄭𒌈	N
+𒀀𒄭	N
+<EoL>
+𒁾𒁉	N
+𒌑𒌌	MOD
+𒋾𒁲𒂊	V
+𒀀𒄭	N
+<EoL>
+𒀀𒈾	PRP
+𒀀𒍪	N
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+<EoL>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒆷	MOD
+𒋼𒄖	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒀭𒉌𒆠𒀀𒄠	AV
+<EoL>
+x	nan
+𒌑𒄭𒀊	V
+<EoL>
+𒄿𒈾	PRP
+𒂍	N
+𒁮𒃼	N
+<EoL>
+𒊭	DET
+𒋫𒆷𒆠𒀀𒄠	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒇷𒁀𒅟	N
+<EoL>
+𒌑𒄭𒀊	V
+<EoL>
+𒀀𒈾	PRP
+𒁉𒄩𒀜	N
+𒆬𒌓	N
+<EoL>
+𒊭	DET
+𒋫𒈾𒁲𒉡	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒀀𒍝𒊍	V
+<EoL>
+𒋳𒄖𒀸	N
+𒅇	CNJ
+𒂵𒁍𒌝	N
+<EoL>
+𒀉𒋾𒅟𒈠	PRP
+<EoL>
+𒀀𒈾	PRP
+𒉺𒉌𒅀	N
+<EoL>
+𒈫	NU
+𒂆	N
+𒆬𒌓	N
+𒌑𒀫	V
+<EoL>
+𒀀𒈾	PRP
+𒍢𒁍𒋾𒅀	N
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒈾𒁲𒅔𒄴𒄭𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍𒅟	N
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	AJ
+<EoL>
+𒇷𒆠𒅋	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅟	N
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒀭𒀫𒌓	DN
+<EoL>
+𒅇	CNJ
+𒁁𒉌𒅀	N
+𒄠𒈪𒍝𒁺𒂵	RN
+<EoL>
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒀸𒋳	PRP
+𒁲𒅁𒁀𒀜	N
+𒀭𒂗𒍪𒊑𒈨𒉌	PN
+<EoL>
+𒅇	CNJ
+𒅁𒉌𒀭𒅎	PN
+𒀀𒄭𒋗	N
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒌓𒄒𒉣𒆠𒅀𒄴𒊒𒀸	SN
+<EoL>
+𒀀𒈬𒌨𒈠	V
+<EoL>
+𒅟𒉌𒅅	N
+𒊑𒅅𒊓𒁴	N
+𒌑𒊺𒍣𒁍𒋗𒉡𒋾	V
+<EoL>
+𒆪𒉡𒊌	N
+𒋃	N
+𒀭𒌓	DN
+𒋃	N
+𒀭𒀀𒀀	DN
+<EoL>
+𒅇	CNJ
+𒆪𒉡𒊌𒅟𒋾𒆪𒉡	N
+<EoL>
+𒋫𒀝𒉡𒅟	V
+<EoL>
+𒅟𒉌𒅅	N
+𒊑𒅅𒊓𒋾	N
+𒅆𒈾𒋾	IP
+<EoL>
+𒁹𒀭𒂗𒍪𒊑𒈨𒉌	PN
+𒋗𒌑	IP
+𒈾𒅆	V
+<EoL>
+𒆠𒈠	PRP
+𒀭𒂗𒍪𒊑𒈨𒉌	PN
+𒋗𒌑	IP
+<EoL>
+𒀀𒈾	PRP
+𒅆𒅎𒋾𒋗	N
+𒅋𒇷𒆪	V
+<EoL>
+𒁹𒅁𒉌𒀭𒅎	PN
+𒀀𒄷𒋗	N
+<EoL>
+𒀀𒈾	PRP
+𒂍	N
+𒀭𒂗𒍪𒊑𒈨𒉌	PN
+𒌨𒋫𒀝𒄀	V
+<EoL>
+𒊭	DET
+𒆪𒉡𒊌	N
+𒋃	N
+𒀭𒌓	DN
+𒋃	N
+𒀭𒀀𒀀	DN
+<EoL>
+𒅇	CNJ
+𒆪𒉡𒊌𒅟𒀜𒆪𒉡	N
+𒁀𒀝𒊏	V
+<EoL>
+𒆪𒉡𒊌	N
+𒈠𒀭𒉌𒅎𒈠	QP
+𒅎𒈠𒄴𒄩𒅈	V
+<EoL>
+𒁹𒅁𒉌𒀭𒅎	PN
+𒋗𒀀𒋾	IP
+<EoL>
+𒇷𒆠𒅕𒊑𒁍𒉌𒅅𒄣	V
+<EoL>
+𒄿𒈾	PRP
+𒈬𒌔𒄭𒋗	N
+𒅆𒋛	V
+<EoL>
+𒉌𒊭𒄠	N
+𒄿𒈾	PRP
+𒊭𒀊𒋾𒋗	N
+𒇷𒅖𒊭𒆠𒅔𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒂍	N
+𒀭𒂗𒍪𒊑𒈨𒉌	PN
+𒀀𒄭𒋗	N
+<EoL>
+𒆷	MOD
+𒌑𒊏𒀝𒂵	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁁𒉌𒅀	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒉿𒅋𒆜𒁯𒈠	PN
+<EoL>
+𒁹𒈾𒁉𒉌𒉌𒋗	PN
+𒀴	N
+x	nan
+𒁁𒉌𒅀	N
+<EoL>
+𒂵𒁺	PRP
+𒅟𒉌𒅟𒀜	N
+𒅆𒈠𒁴	N
+<EoL>
+𒊭	DET
+𒁁𒉌	N
+𒄿𒊑𒋗𒋗	V
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒁁𒉌𒅀	N
+𒀉𒋫𒀠𒄰	V
+<EoL>
+𒁁𒉌	N
+𒅟𒉌𒅟𒋾𒋗	N
+<EoL>
+𒇷𒈬𒌨	V
+<EoL>
+𒆠𒈠	PRP
+𒁲𒉏	N
+𒊭	DET
+𒈠𒄯	N
+𒁁𒉌𒅀	N
+<EoL>
+𒄿𒁀𒀸𒋗𒌑	V
+<EoL>
+𒁁𒉌	N
+𒀀𒈾	PRP
+𒁁𒂖	N
+𒀀𒉿𒋾𒋗	N
+<EoL>
+𒇷𒅅𒈬𒌨	V
+<EoL>
+𒅟𒉌𒅅	N
+𒁲𒉏	N
+𒂵𒄠𒊑	AJ
+<EoL>
+𒁁𒂖	N
+𒀀𒉿𒋾𒋗	N
+<EoL>
+𒇷𒊺𒍣𒁍	V
+<EoL>
+𒋳𒈠	MOD
+𒁕𒁀𒁀𒄠	N
+𒌑𒉺𒅈𒊏𒀝	V
+<EoL>
+𒅟𒉌𒅅	N
+𒅕𒊑𒋗𒁴	N
+<EoL>
+𒁁𒉌	N
+𒇷𒊭𒀝𒉌𒅅𒋳𒈠	V
+<EoL>
+𒀀𒈨𒊒𒋗	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+<EoL>
+𒀀𒈾	PRP
+𒁁𒉌𒅀	N
+𒇷𒅅𒊒𒁍	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒉡𒈠𒀭𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍𒅟	N
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	N
+<EoL>
+𒇷𒆠𒅋	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅟	N
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+<EoL>
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒀸𒋳	PRP
+𒌋	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒀀𒈾	PRP
+𒆰	N
+<EoL>
+𒅇	CNJ
+𒌋	NU
+𒄥	N
+𒃮𒌓𒁺	N
+𒃮𒌓𒁺	AJ
+<EoL>
+𒀀𒈾	PRP
+𒊮𒃲	N
+𒄞𒄭𒀀	N
+<EoL>
+𒈾𒁕𒉏	N
+<EoL>
+𒀸𒁍𒊏𒀝𒄣	V
+<EoL>
+𒀀𒈾	PRP
+𒈪𒉏	QP
+𒐃	NU
+𒊺𒄥𒈠	N
+𒊺𒄥𒈠	N
+<EoL>
+𒅇	CNJ
+𒐃	NU
+𒄥	N
+𒃮𒌓𒁺	N
+𒃮𒌓𒁺	AJ
+𒋫𒀜𒁲𒅔𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒆷	MOD
+𒊺𒆰	N
+𒈫	NU
+𒌓𒈪	N
+<EoL>
+𒄞𒀳𒄭𒀀𒅀	N
+𒄞𒀳𒄭𒀀𒅀	N
+𒄿𒊑𒂵	V
+<EoL>
+𒅆𒀉𒁺	N
+𒈠𒀀𒀜𒈠	V
+𒅖𒌅	PRP
+𒈠𒄴𒊑𒅀	N
+<EoL>
+𒃮𒌓𒁺	N
+𒃮𒌓𒁺	AJ
+𒋗𒁍𒇴	V
+𒌑𒌌	MOD
+𒄿𒇷𒄿	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒈠𒆷	REL
+𒀀𒉺𒇷𒅟𒀀	N
+<EoL>
+𒌑𒌌	MOD
+𒈠𒍢𒀀𒆪	V
+<EoL>
+𒀭𒉌𒌓	DP
+𒋼𒁍𒍑	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒁾𒁉	N
+𒍑𒋫𒁉𒆷𒀝𒄣	V
+<EoL>
+𒐃	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒅇	CNJ
+𒐃	NU
+𒄥	N
+𒃮𒌓𒁺	N
+𒃮𒌓𒁺	AJ
+<EoL>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒁁𒂖𒁺𒌝𒆠𒅀	PN
+<EoL>
+𒄿𒁲𒅔𒈠	V
+<EoL>
+𒉈𒈨𒀉𒌓	N
+𒆷	MOD
+𒄿𒊏𒀸𒅆	V
+<EoL>
+𒋗𒌒𒊏𒄠𒈠	V
+<EoL>
+𒋳𒈠	MOD
+𒊺𒄠	N
+𒇻𒌓𒁲𒅔	V
+𒋳𒈠	MOD
+𒍢𒁍𒌓	N
+𒋫𒊭𒀊𒉺𒊏𒄠	V
+<EoL>
+𒆠𒈠	PRP
+𒊺𒂊	N
+𒇻𒁍𒍑	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒁉𒅀	N
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅𒋗	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒈬𒌝𒇷𒅁𒅆𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍𒅟	N
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	AJ
+<EoL>
+𒇷𒆠𒅋	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅟	N
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒄿𒉡𒈠	SBJ
+𒀀𒈾𒆪	IP
+𒅇	CNJ
+𒅟𒋫	IP
+𒄿𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒉡𒍑𒋫𒌅𒌑	V
+<EoL>
+𒀀𒈠𒌓	N
+𒅖𒈪𒂊𒈠	V
+𒋼𒈪	N
+𒌑𒌌	MOD
+𒌑𒁀𒊏𒆪	V
+<EoL>
+𒋗𒄩	N
+𒈾𒁀𒄿𒅎	nan
+𒊭	DET
+𒂍𒀀𒉈𒍝𒆠	SN
+<EoL>
+𒄑𒍪𒄷𒌑𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒌑𒈠	IP
+𒈠𒄯	N
+𒀭𒋗𒁀𒉌	PN
+𒌉	N
+𒀭𒋗𒅁𒉌	PN
+<EoL>
+𒇻𒌓𒁍𒌒𒈠	V
+𒆠𒈬𒋗	PRP
+𒇷𒀉𒆪𒉡𒉌𒅔𒉌	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒀭𒋗𒁀𒉌	PN
+𒌑𒆷𒄠𒈪𒀉𒈠	V
+<EoL>
+𒀀𒀭𒈾𒄠	J
+𒄿𒋫𒀊𒆷𒀭𒉌𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒈠𒄴𒊑𒋗	PRP
+<EoL>
+𒀀𒈾𒆪𒌑	IP
+<EoL>
+𒈠𒀸𒅟𒉌	N
+𒄩𒁉𒀉𒈠𒀀	V
+<EoL>
+𒀀𒁉	N
+𒀜𒋫	IP
+𒋼𒅎𒈨𒂊𒈠	V
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒈬𒄴𒄭	N
+𒈠𒀸𒅟𒉌𒅀	N
+𒀸𒁍𒌑	V
+<EoL>
+𒌑𒌌	MOD
+𒋫𒀾𒋛	V
+𒅇	CNJ
+𒆠𒀀𒄠	AV
+<EoL>
+𒌑𒌌	MOD
+𒋫𒀝𒁉𒋳	V
+𒌝𒈠	PRP
+𒀜𒋫𒀀𒈠	IP
+<EoL>
+𒀀𒁲	PRP
+𒀜𒋫	IP
+𒂊𒊭𒀀𒄠	AV
+𒋫𒀠𒇷𒆪	V
+<EoL>
+𒀭𒉡𒌝	DP
+𒈠𒀸𒅟𒉡	N
+𒄩𒁉𒀉	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒀭𒀫𒌓𒈬𒁀𒉌𒀉	PN
+𒀀𒁉	N
+𒂟	N
+<EoL>
+𒀾𒉌𒅅𒈠	V
+𒁾𒁉	N
+𒀀𒉿𒅆	N
+𒀀𒁉	N
+𒂟	N
+<EoL>
+𒅇	CNJ
+𒈾𒀸𒁇	N
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅟	N
+<EoL>
+𒀉𒋻𒁺𒉏	V
+𒊻𒍣𒅕𒈠	V
+<EoL>
+𒈠𒀸𒅟𒉌	N
+𒆷	MOD
+𒄿𒄩𒀠𒇷𒅅	V
+<EoL>
+𒇷𒇷𒀀𒄠	V
+<EoL>
+𒀀𒈾𒆪𒌑	IP
+𒀸𒋳	PRP
+𒀀𒈠𒁴	N
+𒊭	DET
+𒀸𒁍𒊏𒀝𒆪	V
+<EoL>
+𒁍𒌌𒇻𒊓𒆪𒌑𒈠	V
+𒀀𒆷𒅟𒄠	N
+<EoL>
+𒌑𒌌	MOD
+𒀀𒆷𒀀𒆪𒌝	V
+<EoL>
+𒊺𒄠	N
+𒇷𒁲𒅖	V
+𒇷𒄑𒊒𒈠	V
+<EoL>
+𒇷	nan
+𒍣	nan
+𒁲	nan
+𒈠	nan
+𒀀𒁉	N
+𒀜𒋫	IP
+𒈬𒄷𒌨𒋗	V
+<EoL>
+𒅇	CNJ
+𒀀𒊮	N
+𒀀𒈾	PRP
+𒅕𒊑𒅆𒅎	N
+𒄿𒁲𒅔	V
+<EoL>
+𒁁𒉌𒅀𒌈	PN
+𒊭	RP
+𒈠𒄴𒊑𒅟	PRP
+𒌑	CNJ
+𒌍𒅖𒈨𒀀𒉌	PN
+<EoL>
+𒊭	DET
+𒂍𒀀𒉈𒍝𒆠	SN
+𒆬𒌓𒋗𒉡	N
+<EoL>
+𒀀𒈾	PRP
+𒀀𒁉𒅀	N
+𒅟𒋫	IP
+𒇷𒅖𒆪𒇻	V
+<EoL>
+𒀀𒁲	PRP
+𒁉𒅕𒌓	N
+𒀀𒅟𒀸𒊭𒁺𒌑	V
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒀸𒁍𒊏𒀝𒆪𒌝	V
+<EoL>
+𒀀𒁉	N
+𒀜𒋫	IP
+𒉌𒁲	N
+𒀀𒄭𒅎	N
+𒆷	MOD
+𒋫𒊏𒀸𒅆	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒅁𒂵𒌈	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒊑𒈨𒉌𒈠	PN
+<EoL>
+𒁾𒁉	N
+𒀭𒉌𒀀𒄠	DP
+<EoL>
+𒄿𒈾	PRP
+𒀀𒈠𒊑𒅎	N
+<EoL>
+𒀀𒈾	PRP
+𒁉𒀉	N
+<EoL>
+𒁹𒀀𒄷𒉿𒃼	PN
+<EoL>
+𒆷	MOD
+𒋫𒊭𒀾𒋛	V
+<EoL>
+𒇻	MOD
+𒋾𒁲	V
+<EoL>
+𒁉𒌓	N
+𒆷	MOD
+𒌅𒁀𒍝𒄴	V
+<EoL>
+𒀀𒉿𒈝	N
+𒄿𒈾	PRP
+𒄀𒅍	N
+<EoL>
+𒈾𒋛𒄴	V
+𒅇	CNJ
+𒈭𒄩	N
+<EoL>
+𒊭𒉡𒌝𒈠	AJ
+𒈾𒀜𒈾𒄣	AJ
+<EoL>
+𒀀𒈾	PRP
+𒀀𒈾xx𒁖𒆷𒆪	nan
+𒂇	N
+<EoL>
+𒍪𒄩𒊑𒅟	N
+𒀝𒁉	V
+<EoL>
+𒀀𒁲	PRP
+𒌓𒌝	N
+𒌓𒌋𒌋𒄰	NU
+𒌓𒌋𒌋𒄰	N
+<EoL>
+𒊭	DET
+𒀀𒆷𒄰	N
+𒁉𒌓	N
+<EoL>
+𒆷	MOD
+𒌅𒁕𒁀𒀊	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀴𒀭𒂗𒍪	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀀𒇳𒊬𒀀𒋢𒈠	PN
+<EoL>
+𒀭𒀀𒇳𒊬	DN
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒆠𒋛𒅎	N
+𒊭	DET
+𒁹𒅎𒁲𒀹𒁯	PN
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒈠𒄴𒊑𒅟	N
+𒊭𒀝𒈾𒀜	V
+<EoL>
+𒀭𒉌𒆠𒀀𒄠	AV
+𒈠𒄯	N
+𒁹𒄩𒅀𒀊𒉌𒀭	PN
+<EoL>
+𒀸𒆪𒌦𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+<EoL>
+𒆠𒋢𒌝	N
+𒊭	DET
+𒅎𒁲𒀹𒁯	PN
+𒈠𒊑𒅟	N
+<EoL>
+𒅖𒌅	PRP
+𒈬𒈫𒄰	NU
+𒈬𒈫𒄰	N
+𒄿𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒄿𒈾	PRP
+𒁉𒀉	N
+𒁹𒀴𒀭𒂗𒍪	PN
+<EoL>
+𒊭𒀝𒈾𒀜	V
+<EoL>
+𒊭	DET
+𒋗𒈝	N
+𒆠𒋛𒅎	N
+𒋗𒀀𒋾	IP
+𒂊𒁍𒍑	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+𒅎𒁲𒀹𒁯	PN
+𒈠𒊏𒅟	N
+<EoL>
+𒄀𒈪𒅋	V
+𒅇	CNJ
+𒄿𒅀𒀀𒋾	IP
+𒄀𒅎𒆷𒀭𒉌	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒁾𒁉	N
+𒀀𒈾	PRP
+𒍢𒅕	N
+𒀀𒉿𒅆	N
+<EoL>
+𒍑𒋫𒁉𒇴	V
+<EoL>
+𒀀𒉡𒈠	AV
+𒀀𒉿𒇴	N
+𒀀𒁉	N
+𒄷𒍣𒄑𒈠	V
+<EoL>
+𒊭	DET
+𒋗𒈝	N
+𒆠𒋛𒅎	N
+𒋗𒀀𒋾	IP
+𒇷𒁍𒍑	V
+<EoL>
+𒁹𒅎𒁲𒀹𒁯	PN
+𒀀𒄩𒅟	N
+𒄀𒈪𒅋	V
+<EoL>
+𒅇	CNJ
+𒄿𒅀𒀀𒋾	IP
+𒄀𒈪𒆷𒀭𒉌	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅𒋗	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒂊𒌀𒅗𒀭𒈾𒁉𒌝𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒀸𒋳	PRP
+𒄷𒍝𒈝	PN
+𒅇	CNJ
+𒌉𒈨𒌍	N
+𒀀𒉌𒋫𒇷𒈨	PN
+𒀀𒉿𒇷	N
+𒊭	DET
+𒀊𒆠𒁕𒄣	V
+<EoL>
+𒅇	CNJ
+𒅟𒉌𒅅𒋗𒉡	N
+𒈠𒄯	N
+𒀭𒂗𒍪𒅖𒈨𒀀𒉌	PN
+𒌅𒊺𒍣𒁀𒉌	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+𒅟𒉌𒆪	N
+𒇻𒌑	CNJ
+𒆪𒌨𒊒𒌝𒈠	V
+𒅟	nan
+𒇻	MOD
+𒊭𒆠𒅔	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒆠𒈠	PRP
+𒀀𒈾	PRP
+𒂍𒄭𒀀	N
+𒂟	N
+𒅟𒀸𒅆𒄿	EN
+𒄿𒋼𒅁𒊒	V
+<EoL>
+𒈨𒅎𒈨𒂊	REL
+𒈠𒆷	REL
+𒅁𒁍𒌑	V
+𒅇	CNJ
+𒀉𒌅𒊒𒉌	V
+𒅅𒁍𒉏𒈠	V
+<EoL>
+𒀜𒋫	IP
+𒋼𒈠𒄠	N
+𒌑𒌌	MOD
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒆠𒈠	PRP
+𒊭	DET
+𒁁𒂖	N
+𒇷𒈬𒌓𒋾𒅟	N
+𒀀𒈾𒆪	IP
+<EoL>
+𒀀𒈾	PRP
+𒈪𒅎𒈬𒅀	XP
+𒋗𒋫𒄴𒇻𒆠𒅎	N
+𒋫𒊍𒍝𒊍	V
+<EoL>
+𒋳𒈠	MOD
+𒀜𒋫	IP
+𒆷	MOD
+𒋫𒀸𒋰𒊏𒄠	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒀀𒈾	PRP
+𒈪𒅎𒈬𒅀	XP
+𒉌𒁲	N
+𒀀𒄭	N
+𒀀𒊏𒀸𒅆	V
+<EoL>
+𒅖𒌅	PRP
+𒌓𒌝	N
+𒉡𒍑𒋫𒌅𒌑	V
+𒉈𒈨𒂖𒅟	N
+𒌑𒌌	MOD
+𒀀𒈬𒌨	V
+<EoL>
+𒀀𒈾	PRP
+𒁕𒁀𒁉𒅎𒈠	N
+𒋫𒀜𒋰𒁀𒆷𒀭𒉌	V
+<EoL>
+𒄿𒉡𒈠	SBJ
+𒀀𒈾𒀭𒂗𒍪𒌑𒁀𒀠𒇷𒄑𒋢	PN
+𒊕𒊩𒆳	N
+𒋫𒀜𒁲𒉡	V
+<EoL>
+𒄿𒈾	PRP
+𒁲𒈾𒁴	N
+𒈨𒅎𒈨𒂊	REL
+𒀸𒇷𒅎	V
+<EoL>
+𒁹𒄿𒁷𒀭𒂗𒍪	PN
+𒆬𒌓	N
+𒀉𒁲𒈾𒀝𒄣𒈠	V
+𒌅𒈾𒍝𒀝𒆠x	nan
+<EoL>
+𒊕𒀴	N
+𒋫𒀜𒁲𒈾𒄠𒈠	V
+𒅖𒌅	PRP
+𒋫𒀜𒁲𒈾	V
+𒈠𒊒𒊻	V
+<EoL>
+𒀀𒁲	PRP
+𒂊𒊑𒁉𒅟	N
+𒊑𒅖𒅟	N
+𒌑𒅟𒀀𒀠	V
+<EoL>
+𒅇	CNJ
+𒅆𒋫𒀜	N
+𒆬𒌓	N
+𒆠𒈠	PRP
+𒊭	DET
+𒂵𒊍𒍝	N
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+𒌑𒌌	MOD
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒁺𒌝𒈬𒆪𒌝	AJ
+𒌑𒌌	MOD
+𒀀xxx𒀝𒈠	nan
+𒌑𒌌	MOD
+𒋫𒆠x	nan
+<EoL>
+𒉚	N
+𒄑𒂵𒍮𒄭𒀀	N
+𒋠	N
+𒀠𒆠𒀀𒄠𒈠	V
+𒀀𒈾	PRP
+𒆬𒌓	N
+x	nan
+x	nan
+<EoL>
+𒆪	nan
+𒁀	nan
+𒁕	nan
+𒊑	nan
+𒄣	nan
+𒈬	nan
+𒌈	nan
+𒈠	nan
+𒁹	NU
+𒈠𒈾	N
+𒋠	N
+𒄿𒊑𒋗𒋗𒈠	V
+<EoL>
+𒌑𒌌	MOD
+𒀉𒁲𒅔	V
+<EoL>
+𒆠𒈠	PRP
+𒊭	DET
+𒆷	MOD
+𒈪𒅎𒈬𒅀	XP
+𒅅𒁍𒉌𒄣𒈠	V
+<EoL>
+𒌑𒌌	MOD
+𒋫𒀝𒁉𒋗𒈠	V
+𒌑𒌌	MOD
+𒀉𒁲𒅔	V
+<EoL>
+𒀭𒉌𒀀𒋾	DP
+𒄖𒌌𒇻𒆷𒋾𒅟	N
+𒇻	MOD
+𒋾𒁲	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒊩𒀜𒆗𒅆	PN
+𒀜𒋻𒁮	V
+<EoL>
+𒁹	NU
+𒁹	N
+𒍥𒁕	N
+𒄿𒈾	PRP
+𒂍	N
+𒄿𒈾𒀜𒁲𒉡𒅆𒅎	V
+<EoL>
+𒁹𒀭𒈾𒁉𒌝𒊺𒂊𒈨	PN
+𒅇	CNJ
+𒅖𒋼𒂗	NU
+𒋗𒊌𒈾𒅆𒅎𒈠	V
+<EoL>
+𒀀𒁲	PRP
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+𒇷𒅟𒀠𒇷𒈬𒅆	V
+<EoL>
+𒇽𒈬	N
+x	nan
+𒋗𒌝𒄭𒅕𒋗	V
+<EoL>
+𒃻	N
+x	nan
+x	nan
+𒉺𒉺	nan
+𒆠𒁉	V
+<EoL>
+x	nan
+x	nan
+𒇷𒀉𒁲𒅔	V
+<EoL>
+x𒀸𒋗	nan
+<EoL>
+𒋼𒅎	N
+𒄷𒍝𒈝	PN
+x	nan
+x𒊏𒄠𒈠	nan
+<EoL>
+𒀀𒈾	PRP
+𒍣𒅎	N
+𒅟	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x𒅟	nan
+𒀀	nan
+𒀠	nan
+<EoL>
+𒀀𒈾	PRP
+𒊑𒌍	N
+𒌗	N
+𒀀𒈾𒆪	IP
+𒀀𒀠𒆷𒄰	V
+<EoL>
+𒍏𒊿𒄭𒀀	N
+𒊭	DET
+𒈠𒄯	N
+𒋃	N
+𒀭x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒈨𒄭𒅕	N
+𒁾𒁉𒅀	N
+𒋗𒁉𒇴	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒊕𒅍𒈠𒀭𒋧	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀫𒌓𒈾𒍢𒅕𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒀀𒁉𒅀𒌈	PN
+𒉺	N
+𒍑𒁇	N
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒉌𒋛𒅔𒆠	GN
+<EoL>
+𒀀𒊮𒄠	N
+𒍝𒀊𒌅	V
+<EoL>
+𒁹𒀀𒁉𒅀𒌈	PN
+𒋗𒌑	IP
+<EoL>
+𒄿𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒊩𒍑𒁇𒈨𒌍	N
+𒄿𒊭𒀊𒉺𒅈	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒁉𒁴	N
+𒈠𒁲𒅖	AV
+𒆠𒊒𒌒	V
+<EoL>
+𒅖𒌅	PRP
+𒊭𒀜𒁕𒀝𒁲𒅎	N
+<EoL>
+𒀀𒈾	PRP
+𒀀𒊮𒋗	N
+𒌑𒌌	MOD
+𒄿𒅋𒆷𒄰	V
+<EoL>
+𒁹𒄀𒅖𒈝	PN
+𒊕𒂅	N
+𒀀𒊮𒋗	N
+<EoL>
+𒊭𒀜𒁕𒀝𒁲𒅎	N
+<EoL>
+𒐀	NU
+𒊺𒄥𒋗	nan
+𒀉𒁀𒀠	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒁾𒁉	N
+𒍑𒋫𒁉𒆷𒄣	V
+<EoL>
+𒀀𒈾	PRP
+𒄀𒅖𒈝	PN
+𒊕𒂅	N
+𒀀𒊮𒋗	N
+<EoL>
+𒆠𒁉𒈠	V
+𒊺𒋗	N
+𒆷	MOD
+𒄿𒆷𒀊𒉺𒀜	V
+<EoL>
+𒀸𒋗𒈪𒅀	PRP
+𒀀𒈾	PRP
+𒍝𒆠𒁉𒋗	N
+<EoL>
+𒄿𒍣𒄑	V
+<EoL>
+𒁹	NU
+𒋡	N
+𒊺𒋗	N
+𒅋𒆷𒀊𒉺𒀜𒈠	V
+<EoL>
+𒉈𒅁𒊑𒄑𒍪	N
+<EoL>
+𒊭	DET
+𒅖𒌅	PRP
+𒊭𒀜𒁕𒀝𒁲𒅎	N
+<EoL>
+𒄿𒈾	PRP
+𒍪𒈬𒌨	N
+𒊕𒂅	N
+<EoL>
+𒄿𒇷𒅅𒆪𒌑	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒋗𒁀𒉌𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍𒅟	N
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	N
+<EoL>
+𒇷𒆠𒅋	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅟	N
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒊩𒁉𒀉𒋼𒌈	PN
+𒀀𒄩𒋾	N
+𒀸𒋾	N
+𒃲𒌺𒈾	N
+<EoL>
+𒆠𒀀𒄠	AV
+𒅅𒁉𒀀𒄠	V
+𒌝𒈠	PRP
+𒅆𒄿𒈠	IP
+<EoL>
+𒄿𒈾	PRP
+𒁍𒇻𒌓	N
+𒀀𒉿𒅆	N
+𒃲𒌺𒈾	N
+<EoL>
+𒆬𒌓	N
+𒉚	N
+𒐈	NU
+𒊕𒊩𒆳𒈨𒌍	N
+<EoL>
+𒀀𒈾	PRP
+𒀀𒉿𒅋𒈹	PN
+𒁮𒃼	N
+𒌉	N
+𒀀𒉿𒇷𒅀	PN
+<EoL>
+𒉿𒅆𒅁	N
+𒌓𒄒𒉣𒆠	SN
+𒊭	DET
+𒀭𒉡𒉌𒌈	DN
+𒀜𒁲𒅔𒈠	V
+<EoL>
+𒐈	NU
+𒊕𒊩𒆳𒈨𒌍	N
+𒌒𒇴𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒅆𒈾𒀀𒁴	IP
+𒈫	NU
+𒊕𒊩𒆳𒈨𒌍	N
+𒂖𒆠	V
+<EoL>
+x	nan
+𒌑𒋼𒅕𒋗𒌝	V
+<EoL>
+𒆷𒁉𒅖𒌈	PN
+𒋗𒄿	N
+𒊭	DET
+𒀀𒉿𒅆	N
+𒃲𒌺𒈾	N
+<EoL>
+𒀜𒊒𒌓𒈠	V
+<EoL>
+𒊕𒊩𒆳	N
+𒋗𒀀𒋾	IP
+𒌑𒌌	MOD
+𒀉𒁲𒅔	V
+<EoL>
+𒀭𒉌𒌓	DP
+𒅅𒁉𒀀𒄠	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒁾𒁉	N
+𒍑𒋫𒁉𒆷𒄣	V
+<EoL>
+𒅇	CNJ
+𒆷𒁉𒅖𒌈	PN
+𒋗𒄿	N
+𒀀𒉿𒅆	N
+𒃲𒌺𒈾	N
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅟	N
+𒀉𒋫𒀠𒄰	V
+<EoL>
+𒆠𒈠	PRP
+𒊏𒁍𒋾𒅟	N
+𒆠𒁉	V
+<EoL>
+𒊕𒊩𒆳	N
+𒋗𒀀𒋾	IP
+𒀀𒈾	PRP
+𒍪𒄩𒊑𒅀	N
+𒊭	DET
+𒀜𒊒𒁮	V
+<EoL>
+𒁉𒆠𒀉𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒇷𒅕𒁺𒉌𒅖𒅆	V
+<EoL>
+𒄿𒁮	N
+𒆷	MOD
+𒌅𒊭𒅈𒊭𒄠𒈠	V
+𒆷	MOD
+𒋫𒊭𒀊𒉺𒊏𒄠	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒄀𒅖𒈝	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒂵𒀠𒀀𒈾𒀭𒀫𒌓𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒁹𒄀𒅖𒀭𒄖𒆷	PN
+<EoL>
+𒌉	N
+𒀀𒁉𒅀𒌈	PN
+<EoL>
+𒀀𒈾	PRP
+𒊭𒁉𒅕	N
+𒈠𒁴	N
+<EoL>
+𒀀𒈾	PRP
+𒊓𒈾𒆠𒅎𒈠	N
+<EoL>
+𒀀𒈾𒆪	IP
+𒍑𒋫𒀜𒁲𒋗	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒅅𒁉𒀀𒄠	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒄿𒈾	PRP
+𒐃	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒆷	MOD
+𒈠𒁲𒅎	AJ
+<EoL>
+𒊭	DET
+𒅀𒋾	IP
+𒅇	CNJ
+𒂊𒅕𒊑𒅆𒅎	N
+<EoL>
+𒀸	NU
+𒀸	N
+𒑗	NU
+𒑗	N
+𒊺𒄥	N
+𒊺𒄥	N
+𒄿𒈾	PRP
+𒄑𒑏	N
+𒊏𒈠𒉌𒋗	RP
+<EoL>
+𒅋𒋼𒆠𒂊	V
+<EoL>
+𒈾𒁕𒀀𒀜	V
+𒀀𒉿𒌈	N
+𒀭𒉌𒌈	DP
+<EoL>
+𒋼𒅎𒅟	N
+𒂵𒄠𒊏𒄠	AJ
+<EoL>
+𒋗𒌒𒊏𒄠𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒊭𒁉𒅕	N
+𒈠𒁴	N
+<EoL>
+𒇻𒊭𒀾𒉌𒅅𒋗	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒊭𒄠𒅆𒅀	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒈾𒊏𒄠𒋫𒉌	PN
+𒌉𒊩	N
+𒅁𒂵𒌈𒈠	PN
+<EoL>
+𒁁𒉌	N
+𒅇	CNJ
+𒁁𒂖𒋾	N
+𒀸𒋗𒈪𒅀	PRP
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀊𒇻𒌓	N
+𒌉𒊩	N
+𒀀𒄭	N
+𒀀𒁉𒅀	N
+<EoL>
+𒅋𒇷𒆠𒂊𒈠	V
+𒁾𒉺𒋾𒊭	N
+<EoL>
+𒀉𒁲𒉆𒈠	V
+<EoL>
+𒉡𒊏𒌈	PN
+𒊭	DET
+𒄿𒈾	PRP
+𒉺𒉌𒅀	N
+<EoL>
+𒀊𒇻𒍝	N
+𒅋𒆪𒌑𒈠	V
+<EoL>
+𒅁𒁀𒀠𒆠𒌅𒅆𒄿𒈠	V
+<EoL>
+𒈠𒈾𒄴𒋫𒋗	N
+𒀊𒇻𒌑𒈠	V
+<EoL>
+𒅇	CNJ
+𒁾𒁉	N
+𒆷	MOD
+𒊏𒂵𒈪	N
+<EoL>
+𒋗𒍪𒁍	V
+<EoL>
+𒌑𒈠𒄠	AV
+𒉿𒅈𒆪𒌑	N
+<EoL>
+𒀀𒁍𒋢	N
+𒍝𒁉𒀉𒈠	V
+𒌑𒁕𒀊𒁀𒁀𒀭𒉌	V
+<EoL>
+𒀀𒇷𒅀𒌈	PN
+𒀀𒄩𒍝	N
+<EoL>
+𒈦	NU
+𒈠𒈾	N
+𒆬𒌓	N
+𒄿𒈾	PRP
+𒋢𒌦	N
+𒌉𒊩	N
+𒀀𒄭	N
+𒀀𒁉𒅀	N
+<EoL>
+𒅁𒌅𒌨𒈠	V
+𒊍𒁀𒀾𒋛𒄿𒈠	V
+<EoL>
+𒆠𒄿𒈠	CNJ
+𒈠𒄠𒈠𒀭	XP
+𒆷	MOD
+𒄿𒋗𒌑	V
+<EoL>
+𒄴𒋫𒀠𒂵𒀭𒉌	V
+<EoL>
+𒅇	CNJ
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+<EoL>
+𒁾𒉺𒌅𒅀	N
+𒄿𒈾	PRP
+𒂵𒋾	N
+𒀀𒁉𒅀𒈠	N
+<EoL>
+𒀀𒁲	PRP
+𒀀𒁉	N
+𒆷	MOD
+𒅋𒇷𒄰	V
+<EoL>
+𒌑𒌌	MOD
+𒀀𒁕𒀀𒀭	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒀀𒄴𒅟	N
+<EoL>
+𒂊𒇷𒅀	PRP
+𒆷	MOD
+𒋫𒈾𒁲	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒄷𒉿𒃼	PN
+<EoL>
+𒁹𒂊𒊑𒁀𒄠	PN
+<EoL>
+𒅇	CNJ
+𒄷𒍝𒈝	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒄩𒁍𒀸𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒇷𒌅𒆪𒉡𒋾	V
+<EoL>
+𒀸𒋳	PRP
+𒋼𒅎	N
+𒄀𒅕𒊑𒅎	N
+<EoL>
+𒊭	DET
+𒀠𒇷𒅟𒄠	V
+<EoL>
+𒀀𒉿𒇻𒌑	N
+𒉡𒌉𒆪𒉡	N
+𒊭	DET
+𒀉𒋾𒅀	PRP
+<EoL>
+𒌅𒉿𒂊𒊏𒉌𒋗𒉡𒋾	V
+<EoL>
+𒈠𒄠𒈠𒀭𒈠	XP
+<EoL>
+𒊭	DET
+𒆠𒊭𒋢	N
+𒌑𒊓𒄭𒊏𒄠	V
+<EoL>
+𒌑𒌌	MOD
+𒄿𒁀𒀸𒅆	V
+<EoL>
+𒅇	CNJ
+𒁹	NU
+𒇽	N
+𒈠𒄠𒈠𒀭	XP
+<EoL>
+𒌑𒌌	MOD
+𒀉𒊒𒁕𒄠	V
+<EoL>
+𒂊𒁲𒅆𒅀𒈠	AV
+𒂊𒋼𒉈𒇷	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒋼𒅎𒋗𒉡	N
+<EoL>
+𒀀𒈾	PRP
+𒉺	N
+𒈥𒌅	EN
+𒀸𒋰𒊏𒄠	V
+<EoL>
+𒀀𒋢𒊑	MOD
+𒆠𒀀𒄠	AV
+𒋫𒋡𒀊𒁀	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒋼𒅎𒋗𒉡	N
+<EoL>
+𒀀𒈾	PRP
+𒍢𒊑𒉌	N
+𒄠𒈪𒉏	QP
+𒆷	MOD
+𒅖𒁍𒊏𒄠	V
+<EoL>
+𒀸𒋳	PRP
+𒈠𒄩𒅈	N
+𒉺	N
+𒈥𒌅	EN
+<EoL>
+𒆠𒅕𒁉𒌅𒉡	V
+𒈠𒋛𒅅𒌓	N
+<EoL>
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	AJ
+𒌅𒋫𒊏	V
+<EoL>
+𒀸𒋳	PRP
+𒆠𒀀𒄠	AV
+𒀸𒁍𒊏𒆪𒉡𒅆	V
+<EoL>
+𒈠𒄠𒈠𒀭	XP
+𒊭	DET
+𒀀𒈾	PRP
+𒉺𒄩𒁴	N
+<EoL>
+x	nan
+𒅖𒊭𒅟𒉡	V
+𒌑𒌌	MOD
+𒄿𒁀𒀸𒅆	V
+<EoL>
+𒌑𒆷𒉡𒌝	PRP
+𒁹𒈾𒄿𒈬	PN
+𒈠𒄴𒊑𒅀	N
+<EoL>
+𒈠𒄠𒈠𒀭	XP
+𒌑𒌌	MOD
+𒄿𒁀𒀸𒅆	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒁉𒅀	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒁁𒇷𒍪𒉡	PN
+𒈠𒊏𒀜𒅟𒈠	N
+<EoL>
+𒁁𒇷	N
+𒅇	CNJ
+𒁁𒂖𒋾	N
+<EoL>
+𒀸𒋗𒈪𒅀	PRP
+𒁕𒊑𒅖	AV
+𒌓𒈪𒅎	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒋼𒅎	N
+𒁹	NU
+𒊕𒀴	N
+<EoL>
+𒊭	DET
+𒀀𒈾	PRP
+𒌉	N
+𒁁𒉌𒋗	N
+<EoL>
+𒈪𒆠𒀉	N
+𒁉𒅎	N
+<EoL>
+𒅕𒋗𒌑𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒍣𒁉𒋾𒅎	N
+<EoL>
+𒅟𒇻𒌑	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+<EoL>
+𒀀𒈾	PRP
+𒀀𒁉𒅀	N
+𒇻𒍑𒁓	V
+<EoL>
+𒀀𒁉	N
+𒇷𒄩𒋛𒄑𒈠	V
+<EoL>
+𒇷𒊺𒍪𒉌𒋗	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒀸𒆪𒁕𒈾𒄠	PN
+<EoL>
+𒀜𒋻𒁕𒄠	V
+<EoL>
+𒍪𒁀𒋫𒄠	N
+𒌑𒊭𒁉𒇴𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒀀𒁉	N
+𒄿𒊏𒈬	V
+<EoL>
+𒌑𒌌	MOD
+𒄿𒁲𒉡	V
+<EoL>
+𒇽	MOD
+𒀜𒋻𒁕𒄠	V
+<EoL>
+𒀀𒁉	N
+𒉿𒅈𒅟𒌓	N
+<EoL>
+𒇷𒅁𒊒𒍑	V
+<EoL>
+𒈠𒄩𒅈	N
+𒁁𒉌𒅀	N
+<EoL>
+𒅇	CNJ
+𒁁𒂖𒋾𒅀	N
+<EoL>
+𒂵𒋫𒅀	N
+𒈠𒋛𒀀𒈠	V
+<EoL>
+𒀝𒋫𒈾𒊏𒁀𒆪	V
+<EoL>
+𒀀𒁉	N
+𒀴	N
+𒋗𒀀𒋾	IP
+<EoL>
+𒆠𒈠	PRP
+𒆠𒅖𒋾	N
+<EoL>
+𒀀𒈾	PRP
+𒅀𒅆	IP
+𒇷𒁲𒈾	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒇻𒍑𒋫𒈥	PN
+<EoL>
+𒀭𒋗𒁀𒉌	PN
+𒁮𒃼	N
+<EoL>
+𒌉	N
+𒄿𒁉𒀭𒊩𒌆𒋚	PN
+<EoL>
+𒀴	N
+𒀭𒊩𒌆𒋚𒅟	DN
+<EoL>
+𒀀𒈾	PRP
+𒇻𒍑𒋫𒈥	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒋗𒁀𒉌𒈠	PN
+<EoL>
+𒌉𒊩𒈨𒌍	N
+𒅀𒋛𒀭	PN
+<EoL>
+𒆠𒀀𒄠	AV
+𒅖𒁓𒊏𒉏	V
+𒌝𒈠	PRP
+𒅆𒈾𒈠	IP
+<EoL>
+𒊺𒄠	N
+𒊭	DET
+𒄀𒌑𒆥	nan
+𒅖𒄭𒀀	N
+<EoL>
+𒈠𒄭𒅕	V
+<EoL>
+𒇷𒅁𒁀𒋗	N
+𒄭𒀊	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒉌𒉺𒋾𒉌	N
+<EoL>
+𒀉𒋾𒁉	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒅖𒁓𒊏𒉏	V
+<EoL>
+𒊺𒄠	N
+𒈠𒄴𒊏𒀀𒋫	V
+<EoL>
+𒇷𒅁𒁀𒅟	N
+𒄭𒀊	V
+<EoL>
+𒀀𒇷𒀀𒄠𒈠	V
+𒌉𒊩𒈨𒌍	N
+𒅀𒋛𒀭	PN
+<EoL>
+𒀀𒁍𒌌	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒀫𒌓𒈬𒊭𒅆	PN
+<EoL>
+𒁹𒀭𒂗𒍪𒄿𒁷𒉆	PN
+<EoL>
+𒅇	CNJ
+𒀀𒉿𒅋𒀭𒂗𒍪	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒄠𒈪𒁲𒋫𒈾𒈠	RN
+<EoL>
+𒇽𒈨𒌍	N
+𒋗𒌓	DET
+𒁉𒄩𒀀𒁴	N
+𒊭	DET
+𒄿𒈾	PRP
+𒊮𒂵𒆠	SN
+𒉿𒀸𒁍	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒅖𒁍𒊒𒉏	V
+𒌝𒈠	PRP
+𒋗𒉡𒈠	IP
+<EoL>
+𒐐𒐅	NU
+𒐐𒐅	CNJ
+𒐐𒐅	NU
+𒑗	NU
+𒑗	N
+𒐉	NU
+𒋡	N
+𒊺𒄥	N
+𒊺𒄥	N
+<EoL>
+𒀀𒈾	PRP
+𒉻	N
+𒂟	N
+𒁉𒅕𒋾	N
+𒊮𒂵𒆠	SN
+𒅇	CNJ
+𒀀𒄭𒀀𒁴	N
+<EoL>
+𒊭	DET
+𒌗𒃶𒃶𒌓𒁺	MN
+<EoL>
+𒄴𒄩𒀸𒊺𒄴	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒅖𒁍𒊒𒉏	V
+<EoL>
+𒀀𒈾	PRP
+𒇽𒈨𒌍	N
+𒋗𒌓	DET
+𒁉𒄩𒀀𒁴	N
+𒊭	DET
+𒄿𒈾	PRP
+𒊮𒂵𒆠	SN
+𒉿𒀸𒁍	V
+<EoL>
+𒀸𒋳	PRP
+𒄿𒉡𒈠	SBJ
+𒋫𒊭𒀊𒉺𒊏𒋗𒉡𒅆𒅎	V
+<EoL>
+𒇽𒈨𒌍	N
+𒁀𒀊𒁉𒇷	N
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒆪𒉡	N
+𒊭𒉺𒊑𒅎	N
+<EoL>
+𒀉𒋫𒀸𒉺𒅈	V
+<EoL>
+𒋗𒌒𒊏	V
+𒇽𒈨𒌍	N
+𒁀𒀊𒁉𒇷	N
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒆪𒉡	N
+𒇷𒅖𒁍𒊒𒉏𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒊺𒅎	N
+𒊭	DET
+𒂵𒋾𒆪𒉡	N
+<EoL>
+𒐐𒐅	NU
+𒐐𒐅	CNJ
+𒐐𒐅	NU
+𒑗	NU
+𒑗	N
+𒐉	NU
+𒋡	N
+𒊺𒄥	N
+𒊺𒄥	N
+<EoL>
+𒀀𒈾	PRP
+𒉻	N
+𒂟	N
+𒁉𒅕𒋾	N
+𒊮𒂵𒆠	SN
+𒅇	CNJ
+𒀀𒄭𒀀𒁴	N
+<EoL>
+𒊭	DET
+𒌗𒃶𒃶𒌓𒁺	MN
+𒋗𒌝𒄭𒊏𒋗𒉡𒋾	V
+<EoL>
+𒈧𒋗𒁍𒁍𒈨𒌍	N
+𒊭	DET
+𒈠𒄴𒊑𒆪𒉡	N
+<EoL>
+𒉿𒅈𒅟𒌓	N
+𒇷𒅁𒊒𒋢𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒍜𒋼𒊑𒂊𒁴	N
+𒊭𒀠𒈠𒀀𒁴	AJ
+<EoL>
+𒊺𒄠	N
+𒋗𒀀𒋾	IP
+<EoL>
+𒀀𒈾	PRP
+𒊮𒂵𒆠	SN
+𒋗𒁉𒆷	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒀫𒌓𒈾𒍢𒅕	PN
+<EoL>
+𒋼𒀀	N
+𒌓𒄒𒉣𒆠	SN
+𒅇	CNJ
+𒁲𒋻𒈨𒌍	N
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒁉𒂊𒋗𒄴𒈠	RN
+<EoL>
+𒌋𒐋	NU
+𒇽𒋢𒋛𒅅	N
+𒌓𒄒𒉣𒆠𒄠𒈾𒉡	SN
+𒅇	CNJ
+𒈾𒉿𒋗	N
+<EoL>
+𒅇	CNJ
+𒐉	NU
+𒊕𒀴𒈨𒌍	N
+𒊭	DET
+𒌉𒈨𒌍	N
+𒊑𒅖𒀭𒌓	PN
+𒁲𒋻	N
+<EoL>
+𒁹𒀭𒂗𒍪𒄿𒊑𒁀𒄠	PN
+𒅇	CNJ
+𒋀𒈨𒌍𒋗	N
+<EoL>
+𒀀𒈾	PRP
+𒊺𒅎	N
+𒊭	DET
+𒀀𒊮	N
+𒄘𒌦	N
+𒀭𒂗𒍪𒈬𒊭𒅆	PN
+<EoL>
+𒃲𒌺𒈾	N
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒂊𒍢𒁲𒅎	N
+𒅇	CNJ
+𒋗𒇷𒄿𒅎	N
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒆠𒈠	PRP
+𒁾𒁉	N
+𒀭𒉌𒀀𒄠	DP
+<EoL>
+𒋫𒄠𒈠𒊏	V
+<EoL>
+𒌋𒐋	NU
+𒇽𒋢𒋛𒅅	N
+𒌓𒄒𒉣𒆠𒄠𒈾𒉡	SN
+𒅇	CNJ
+𒈾𒉿𒋗	N
+<EoL>
+𒅇	CNJ
+𒐉	NU
+𒊕𒀴𒈨𒌍	N
+𒊭	DET
+𒌉𒈨𒌍	N
+𒊑𒅖𒀭𒌓	PN
+𒁲𒋻	N
+<EoL>
+𒁹𒀭𒂗𒍪𒄿𒊑𒁀𒄠	PN
+𒅇	CNJ
+𒋀𒈨𒌍𒋗	N
+<EoL>
+𒂵𒁺𒌝	PRP
+𒍥𒆜	N
+𒍢𒅎𒁕	V
+<EoL>
+𒀀𒈾	PRP
+𒀀𒊮	N
+𒄘𒌦	N
+𒀭𒂗𒍪𒈬𒊭𒅆	PN
+𒃲𒌺𒈾	N
+x	nan
+x	nan
+x	nan
+<EoL>
+𒌅𒌨𒁕𒀀𒈠	V
+<EoL>
+𒊺𒄠	N
+𒊭	DET
+𒀀𒊮	N
+𒄘𒌦𒋗	N
+<EoL>
+𒂊𒈠	AV
+𒌑𒅟𒀠𒆷𒈬𒋗𒉡𒋾	V
+<EoL>
+𒇷𒍢𒁺	V
+<EoL>
+𒅇	CNJ
+𒇷𒊺𒇻𒌑	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁮𒃼𒈨𒌍	N
+𒌓𒄒𒉣𒆠	SN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒁉𒂊𒋗𒄴𒈠	RN
+<EoL>
+𒀸𒋳	PRP
+𒊭	DET
+𒋫𒀸𒁍𒊏𒉏	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒌅𒉡𒈠	IP
+<EoL>
+𒁮𒃼𒈨𒌍	N
+𒇽𒈨𒌍	N
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒈠𒀜	N
+x	nan
+x	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒌑𒌌	MOD
+x	nan
+x	nan
+x	nan
+𒅋𒇷𒆪𒉏𒈠	V
+<EoL>
+𒅇	CNJ
+𒆬𒌓	N
+𒅆𒁲	N
+𒌑𒌌	MOD
+𒌑𒊭𒁉𒇻𒉏	V
+<EoL>
+𒋳𒈠	MOD
+𒁁𒂖𒉌	N
+𒄿𒂵𒀊𒁉	V
+<EoL>
+𒁹	NU
+x	nan
+x	nan
+𒇷𒊭𒆠𒅔𒈠	V
+<EoL>
+𒆬𒌓	N
+𒅆𒁲	N
+𒁮𒃼𒈨𒌍	N
+𒇽𒈨𒌍	N
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒈠𒀜	N
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒇷𒄑𒈪𒁮𒈠	V
+<EoL>
+𒇷𒅋𒆠𒀀𒄠	V
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒉏	V
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+𒄿𒅋𒆷𒀝	V
+<EoL>
+𒌑𒁕𒀊𒁀𒀊	V
+<EoL>
+𒀀𒈾	PRP
+𒀹𒁯𒅖𒈨𒋗	PN
+𒊭𒁉𒅕	N
+𒈠𒁴	N
+<EoL>
+𒀸𒋳	PRP
+𒆬𒌓	N
+𒅆𒁲	N
+𒁮𒃼𒈨𒌍	N
+𒋗𒉡𒋾	DET
+<EoL>
+𒁲𒆠𒂊𒅎𒈠	N
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒋗𒁍𒇷𒅎	N
+<EoL>
+𒀉𒋫𒀸𒉺𒅈	V
+<EoL>
+𒅇	CNJ
+𒀜𒌅𒉡	IP
+𒁮𒃼𒈨𒌍	N
+𒁁𒂖	N
+𒁉𒄩𒁴	N
+<EoL>
+𒆬𒌓	N
+𒅆𒁲	N
+𒁮𒃼𒈨𒌍	N
+𒋗𒉡𒋾	DET
+<EoL>
+𒇷𒄑𒈪𒁺𒈠	V
+<EoL>
+𒇷𒅋𒆪𒉌𒅅𒆪𒉡𒅆𒅎	V
+<EoL>
+𒋳𒈠	MOD
+𒆬𒌓	N
+𒅆𒁲𒋗𒉡	N
+𒆷	MOD
+𒍑𒋫𒁉𒇻𒉌𒅅𒆪𒉡𒅆𒅎	V
+<EoL>
+𒁮𒃼𒈨𒌍	N
+𒋗𒉡𒋾	DET
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅀	N
+<EoL>
+𒇷𒅕𒁺𒉏	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒄿𒁷𒉆	PN
+<EoL>
+𒋼𒀀	N
+𒌓𒄒𒉣𒆠	SN
+𒅇	CNJ
+𒁲𒋻𒈨𒌍	N
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒁉𒂊𒋗𒄴𒈠	RN
+<EoL>
+𒀸𒋳	PRP
+𒊭	DET
+𒋫𒀸𒁍𒊏𒉏	V
+𒌝𒈠	PRP
+𒀜𒌅𒉡𒈠	IP
+<EoL>
+𒄿𒈾	PRP
+𒋼𒀀	N
+𒀀𒇉𒅕𒉌𒈾	WN
+<EoL>
+𒈫	NU
+𒋗𒅆	NU
+𒍑	N
+𒊭𒀜𒋾𒊭𒄠	AV
+𒂍𒃲	N
+𒄿𒅁𒁉𒌍	V
+<EoL>
+𒌋𒌋𒐉	NU
+𒌋𒌋𒐉	NU
+𒍑	N
+𒉌𒉡	IP
+𒉌𒅁𒁉𒌍	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒈪𒈝	N
+𒅋𒇷𒄰𒈠	V
+<EoL>
+𒀀𒇉𒅕𒉌𒈾	WN
+𒀀𒈾	PRP
+𒂦	N
+𒋼𒀀	N
+𒄑𒍝𒉌𒅅	V
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒉏	V
+<EoL>
+𒀀𒈾	PRP
+𒇽𒈨𒌍	N
+𒋗𒌓	DET
+𒁉𒄩𒀀𒁴	N
+𒊭	DET
+𒄿𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+𒉿𒀸𒁍	V
+<EoL>
+𒀉𒋫𒀸𒉺𒅈	V
+<EoL>
+𒀉𒋾	PRP
+𒂟	N
+𒁉𒅕𒁴	N
+𒊭	DET
+𒄿𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+𒉿𒀸𒁍	V
+<EoL>
+𒂟	N
+𒊭	DET
+𒊭𒅟𒉏	N
+𒄿𒊭𒀝𒅟𒉡𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒈪𒅅𒁴	N
+𒋼𒀀	N
+𒀀𒇉𒅕𒉌𒈾	WN
+<EoL>
+𒌑𒁕𒀭𒈾𒉡	V
+<EoL>
+𒅇	CNJ
+𒄿𒈾	PRP
+𒅖𒄭𒀀	N
+𒋼𒀀	N
+𒊭	DET
+𒀀𒇉𒌓𒄒𒉣𒁴	WN
+<EoL>
+𒌑𒊭𒀸𒉺𒆪	V
+<EoL>
+𒆠𒈠	PRP
+𒄑𒍝𒀭𒆪𒉌𒅅𒆪𒉡𒅆𒅎	V
+<EoL>
+𒂵𒈪𒅕	AJ
+𒍝𒁉𒀉	N
+𒀀𒊮𒅎	N
+<EoL>
+𒁲𒆠𒄿𒈠	V
+<EoL>
+𒀉𒋾	PRP
+𒂟	N
+𒁉𒅕𒁴	N
+<EoL>
+𒄿𒈾	PRP
+𒅖𒄭𒀀	N
+𒋼𒀀	N
+𒊭	DET
+𒀀𒇉𒌓𒄒𒉣𒁴	WN
+<EoL>
+𒇷𒊭𒀸𒁉𒆪	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀉𒁕𒌈𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	N
+𒊑𒌍𒅟	N
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	AJ
+<EoL>
+𒇷𒆠𒅋	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅟	N
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+<EoL>
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒀸𒋳	PRP
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒆷𒈠	PRP
+𒌅𒊌𒆠	N
+𒊭	DET
+𒋼𒌍𒈬𒌑𒈠	V
+<EoL>
+𒇇𒇻𒄭𒀀	N
+𒀀𒈾	PRP
+𒅀𒄴𒊒𒊒	GN
+𒊭𒀊𒇷𒄿	AJ
+<EoL>
+𒀜𒋫𒊓𒄴	V
+<EoL>
+𒅇	CNJ
+𒁹	NU
+𒈨𒀜	NU
+𒇇𒇻𒄭𒀀	N
+<EoL>
+𒈠𒄴𒊑𒅀	N
+<EoL>
+𒄑𒍝𒊍𒍝	V
+<EoL>
+𒆠𒈠	PRP
+𒌅𒊌𒅟	N
+𒌍𒈬𒌑	V
+<EoL>
+𒀀𒈾	PRP
+𒈬𒌔𒄭	N
+𒌌𒇷𒀀𒁴	DET
+<EoL>
+𒀀𒈾	PRP
+𒅀𒄴𒊒𒊒	GN
+𒊭𒀊𒇷𒄿	AJ
+<EoL>
+𒍑𒋫𒁉𒅋𒅆𒈾𒋾	V
+<EoL>
+𒈬𒁹𒄰	NU
+𒈬𒁹𒄰	N
+𒅆𒈾	IP
+𒇷𒍣𒍝𒈠	V
+<EoL>
+𒀭𒀫𒌓𒈠	DN
+𒆷𒈠𒍝𒅟	N
+<EoL>
+𒇷𒊭𒀠𒇷𒅎𒅆𒈾𒋾	V
+<EoL>
+𒆠𒈠	PRP
+𒋫𒂵𒀊𒁍𒌑	V
+<EoL>
+𒅔𒉈𒅁𒁍𒍑	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅𒋗	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒋗𒅁𒉌𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒀀𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒀀𒋫	V
+𒇻	MOD
+𒁕𒊑𒀀𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍𒅟	N
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	AJ
+<EoL>
+𒇷𒆠𒅋	V
+<EoL>
+𒄿𒉡𒈠	SBJ
+𒌅𒍪𒌑	V
+𒈠𒅈𒍝𒋫𒈠	V
+<EoL>
+𒁉𒅀	N
+𒌑𒌌	MOD
+𒂊𒁍𒊭𒀝𒄣	V
+<EoL>
+𒌑𒌌	MOD
+𒌑𒈾𒄿𒁕𒅟	V
+<EoL>
+𒀀𒈾	PRP
+𒂊𒁲𒀸	PN
+𒀀𒈾	PRP
+𒁹	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒇷𒆠𒅎𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒁍𒊌𒇷	N
+𒍝𒁉𒂊	V
+<EoL>
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋳𒈠	MOD
+𒂊𒁲𒀸	PN
+𒆷	MOD
+𒊑𒅅𒈠	V
+<EoL>
+𒋛𒋾	N
+𒊺𒋗	N
+𒆷	MOD
+𒄿𒍝𒀊𒁍	V
+<EoL>
+𒁹	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒋗𒀀𒋾	IP
+𒀜𒋫	IP
+𒇷𒆥𒂍𒈠	V
+<EoL>
+𒍪𒁍	V
+𒋗𒈠	IP
+𒀀𒄭	N
+𒄿𒈾	PRP
+𒆠𒈾𒁴	AV
+𒀜𒋫	IP
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒀸𒁍𒊏𒀝𒄣	V
+𒆷	MOD
+𒌅𒍑𒋫𒀀	V
+<EoL>
+𒁹	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒋗𒀀𒋾	IP
+𒇷𒆠	V
+𒍪𒁍𒈠	V
+<EoL>
+𒇻𒌑	MOD
+𒌑𒊓𒌈	N
+<EoL>
+𒄿𒈾	PRP
+𒀭𒉌𒁴	DP
+𒀜𒄷𒌓𒅟	N
+𒇻𒈬𒌨	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒊕𒅍𒈬𒊭𒅆𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒀉𒋾𒅟	PRP
+𒆷	MOD
+𒀭𒈾𒄠𒊒	V
+<EoL>
+𒀭𒉌𒉌𒄿𒆠𒊭𒄠	PN
+𒋗𒄿	N
+<EoL>
+𒀀𒈾	PRP
+𒋫𒊑𒂊𒅀	V
+𒅋𒇷𒄰𒈠	V
+<EoL>
+𒀸𒋳	PRP
+𒊺	N
+𒁉𒁴	N
+𒀉𒋾𒅟	PRP
+<EoL>
+𒌑𒌌	MOD
+𒀭𒈾𒈨𒅕	V
+<EoL>
+𒀸𒋳	PRP
+𒁹𒀭𒅎𒊬𒀸	PN
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒁹𒀭𒅎𒊬𒀸	PN
+<EoL>
+𒅇	CNJ
+𒁹𒀭𒀫𒌓𒃼𒊏𒀜	PN
+<EoL>
+𒄿𒈾	PRP
+𒍝𒈪𒌷𒄿𒆠	SN
+<EoL>
+𒉡𒍑𒋫𒋾𒄿𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒅎𒊬𒀸𒈠	PN
+<EoL>
+𒀀𒈾𒆪	IP
+𒊭	DET
+𒂖𒆪𒌑	V
+<EoL>
+𒀀𒀊𒉺𒀠𒈠	V
+<EoL>
+𒅇	CNJ
+𒌝𒈠	PRP
+𒀭𒀫𒌓𒃼𒊏𒀜𒈠	PN
+<EoL>
+𒀀𒈾𒆪𒈠	IP
+𒀀𒀊𒉺𒀠𒈠	V
+<EoL>
+𒀸𒋳	PRP
+𒊺𒅎	N
+𒊭	RP
+𒁉𒋾𒅀	N
+<EoL>
+𒆠𒈠	PRP
+𒀝𒁍𒄣	V
+<EoL>
+𒄿𒈾	PRP
+𒅖𒆪𒌦𒀭𒀫𒌓𒆠	SN
+<EoL>
+𒊺𒄠	N
+𒀀𒀊𒉺𒀠𒅟	V
+<EoL>
+𒈪𒅎𒈠	XP
+𒆷	MOD
+𒋫𒈾𒊍𒍣𒅅	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀴𒀭𒀫𒌓𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒀀𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍𒅟	N
+<EoL>
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	AJ
+𒇷𒆠𒅋	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒀸𒋳	PRP
+𒁲𒅁𒁀𒁴	N
+𒊭	DET
+𒀭𒂗𒍪𒊺𒈪	PN
+𒀀𒄭𒋗	N
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒂍	N
+𒅆𒁾	N
+𒅟𒇻𒌑	V
+<EoL>
+𒁹𒀭𒀫𒌓𒈬𒁀𒉌𒀉	PN
+𒌉	N
+𒉺	N
+𒁮𒃼	N
+<EoL>
+𒀉𒋾	PRP
+𒈾𒀸𒁇	N
+𒊭	DET
+𒁁𒂖𒋗𒉡	PN
+<EoL>
+𒀀𒄭	N
+𒀭𒂗𒍪𒈾𒁲𒅔𒋗𒈪𒅎	PN
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒀉𒋫𒀠𒄰	V
+<EoL>
+𒀜𒋫	IP
+𒅇	CNJ
+𒌉	N
+𒀀𒄭	N
+𒀀𒁉𒅟	N
+<EoL>
+𒋗𒋫𒋾𒀀	V
+<EoL>
+𒈠𒄯	PRP
+𒀀𒉿𒅆	N
+𒁁𒂖𒋗𒉡	PN
+<EoL>
+𒁍𒌓𒋼𒊏𒀀𒋗𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+𒇷𒀉𒋫𒀠𒄰	V
+<EoL>
+𒁀𒇻𒋗	PRP
+𒆷	MOD
+𒋫𒀀𒀠𒄰	V
+<EoL>
+𒀀𒈾	PRP
+𒌷𒂦𒀭𒌓	SN
+𒌅𒌨𒁕𒀸𒋗	V
+<EoL>
+𒄿𒈾	PRP
+𒀭𒉌𒁴	DP
+𒀜𒄷𒌓	N
+<EoL>
+𒆪𒌌𒇷𒅎	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒇷𒂊	N
+<EoL>
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅𒋗𒉡𒋾	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒉺	N
+𒁮𒃼𒈨𒌍	N
+𒅇	CNJ
+𒁲𒋻𒈨𒌍𒈠	N
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒆪𒉡𒋾	V
+<EoL>
+𒀸𒋳	PRP
+𒀊𒇻𒌓	N
+𒊩𒈨	N
+𒀭𒌓	DN
+<EoL>
+𒊭	DET
+𒈾𒊏𒄠𒉌𒉌𒋗	PN
+<EoL>
+𒀀𒄭	N
+𒄿𒁉𒀭𒌓	PN
+<EoL>
+𒅋𒆪𒌑𒈠	V
+<EoL>
+𒇽𒈨𒌍	N
+𒂦𒆠	SN
+<EoL>
+𒀉𒋾	PRP
+𒄿𒁉𒀭𒌓	PN
+<EoL>
+𒄿𒁲𒉡	V
+<EoL>
+𒀀𒉿𒋾𒋗𒉡	N
+<EoL>
+𒉌𒈬𒌨𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒁉𒄿	N
+𒁾𒉺𒀀𒁴	N
+𒊭	DET
+𒀊𒇻𒋾	N
+<EoL>
+𒊭	DET
+𒄿𒁉𒀭𒌓	PN
+𒈾𒋗𒌑	V
+<EoL>
+𒁲𒉆	N
+𒀀𒈾	PRP
+𒄿𒁉𒀭𒌓	PN
+𒉌𒅅𒈬𒌨	V
+<EoL>
+𒅇	CNJ
+𒀸𒋳	PRP
+𒇽𒈨𒌍	N
+𒂦𒆠	SN
+<EoL>
+𒀀𒈾	PRP
+𒆷	MOD
+𒀀𒉿𒋾𒋗𒉡	N
+<EoL>
+𒄿𒁲𒉡	V
+<EoL>
+𒀀𒈾	PRP
+𒁉𒄿	N
+𒁾𒁉	N
+𒍢𒅎𒁕𒁴	N
+<EoL>
+𒆠𒈠	PRP
+𒊭	DET
+𒆷	MOD
+𒋗𒉌𒀀𒄠	PP
+<EoL>
+𒅁𒆪𒊒	V
+<EoL>
+𒊺𒅕𒌓	N
+<EoL>
+𒄿𒍢𒊒𒋗𒉡𒅆𒅎	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒆷	MOD
+𒋫𒊑𒅎𒈠	N
+<EoL>
+𒆷	MOD
+𒁀𒂵𒊑𒅎	N
+<EoL>
+𒅟𒉌𒄰	N
+𒉡𒊺𒍣𒅁𒋗𒉡𒋾	V
+<EoL>
+𒅟𒉌𒄰	N
+𒋗𒀀𒋾	DET
+𒅆𒈨𒀀	V
+<EoL><EoT>
+𒆷𒈠𒊍𒋤	N
+𒊭	DET
+𒁉𒅀𒀀𒋾𒅀	N
+<EoL>
+𒄿𒈾	PRP
+𒇷𒀉𒁴	N
+𒅇	CNJ
+𒋗𒈪	N
+𒁮𒆠𒅎	AJ
+<EoL>
+𒄿𒈾	PRP
+𒂍𒃲	N
+𒋫𒀜𒋫𒈾𒀠𒆷𒆪	V
+<EoL>
+𒀀𒁉	N
+𒅟𒋫	IP
+𒇷𒆷𒀊𒁉𒊒	V
+<EoL>
+𒀀𒁉	N
+𒀜𒋫	IP
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒆷𒈠𒊍𒍣	N
+𒁉𒅀𒋾𒅀	N
+𒇷𒄑𒍪𒌨𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒅟𒉌𒅅	N
+𒊕𒀴	N
+𒊭	DET
+𒀴𒀭𒊩𒌆𒋚	PN
+<EoL>
+𒌉	N
+𒀭𒊩𒌆𒅁𒊕𒆗	PN
+𒀴𒅟	N
+<EoL>
+𒊭	DET
+𒈠𒄯	N
+𒂊𒌀𒅗𒀭𒈾𒁉𒌝	PN
+𒋃	N
+𒊭𒀝𒉡	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒁍𒌌	N
+𒅟𒉌𒆠	N
+𒋗𒀀𒋾	IP
+<EoL>
+𒀀𒁉	N
+𒀜𒋫	IP
+𒀀𒀭𒈾	J
+𒋫𒁍𒆷𒀭𒉌𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒄯𒊏𒉏	N
+𒌅𒍑𒋼𒊺𒅕	V
+<EoL>
+𒄿𒉡𒈠	SBJ
+𒀀𒈾	PRP
+𒂊𒊑𒅁	N
+𒀀𒁉𒅀	N
+𒅟𒋫	IP
+<EoL>
+𒊻𒈾𒅀	N
+𒅁𒁀𒅆𒀀	V
+<EoL>
+𒁹𒁁𒉌𒅀𒌈	PN
+𒌉	N
+𒀭𒂗𒍪𒂊𒊑𒅖	PN
+<EoL>
+𒀀𒉿𒇴	N
+𒀭𒋀𒆠𒈠𒀭𒋧	PN
+<EoL>
+𒄑𒊓𒄴𒊏𒄠	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒀀𒁉𒅀	N
+𒀸𒋫𒈾𒀊𒉺𒊏𒄠𒈠	V
+<EoL>
+𒀀𒁉	N
+𒅟𒉌𒄰	N
+𒌑𒌌	MOD
+𒌑𒊭𒁉𒇴	V
+<EoL>
+𒆠𒈠	PRP
+𒀭𒋀𒆠𒈠𒀭𒋧	PN
+𒀀𒈾	PRP
+𒊩𒉌𒉺𒋾𒅀	N
+<EoL>
+𒅖𒋰𒊏𒄠	V
+<EoL>
+𒌌𒆷𒉡	PRP
+𒀀𒁉𒅀	N
+𒅟𒋫	IP
+<EoL>
+𒈠𒀭𒈾	QP
+𒌑𒈾𒄴𒀀	V
+<EoL>
+𒀀𒁉	N
+𒀜𒋫	IP
+𒆠𒈠	PRP
+𒀀𒀭𒉌	J
+𒋫𒁍𒆷𒀭𒉌	V
+<EoL>
+𒅟𒉌𒄰	N
+𒋗𒀀𒋾	DET
+𒋗𒁉𒇴𒈠	V
+<EoL>
+𒁹𒀭𒋀𒆠𒈠𒀭𒋧	PN
+𒀀𒈾	PRP
+𒆷	MOD
+𒋗𒀀𒀜𒁴	PP
+<EoL>
+𒆷	MOD
+𒌑𒊭𒀜𒁀𒁀𒀭𒉌𒈠	V
+<EoL>
+𒆠𒈠	PRP
+𒄿𒈾𒀭𒈾𒈠	AV
+𒀀𒈾	PRP
+𒀀𒁉𒅀	N
+𒅟𒋫	IP
+<EoL>
+𒇻𒊌𒋫𒅈𒊏𒀊	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒊭𒁉𒊑𒅀	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋝𒀭𒉡𒉌𒌈𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒀸𒋗𒈪𒅀	PRP
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒊭𒁉𒊑	N
+𒇷𒁀𒀠𒇷𒌅	V
+<EoL>
+𒊭𒁉𒊑	N
+𒀸𒋗𒈪𒅀	PRP
+𒇻	MOD
+𒊭𒅆	V
+𒇻	MOD
+𒁀𒇷𒀉	V
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕	N
+𒊭𒁉𒊑𒅀	N
+𒊑𒌍	N
+𒁕𒈪𒅅𒋾	N
+<EoL>
+𒊭𒁉𒊑𒅀	N
+𒇷𒆠𒅋	V
+<EoL>
+𒋗𒈝	N
+𒊭𒁉𒊑𒅀	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒄿𒇷𒅟	N
+𒇻	MOD
+𒅟𒅀𒀭	AJ
+<EoL>
+𒆠𒈠	PRP
+𒊭𒁉𒊑	N
+𒄿𒁺𒌑	V
+𒅖𒌅	PRP
+𒌗𒁹𒄰	NU
+𒌗𒁹𒄰	N
+<EoL>
+𒈥𒍝𒀀𒆪𒈠	V
+𒈾𒁲𒀀𒆪	V
+<EoL>
+𒄿𒉡𒈠	SBJ
+𒊭𒁉𒊑	N
+𒅖𒌅	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒀀𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒀭𒌓	DN
+𒊏𒄿𒈪𒋗	AJ
+<EoL>
+𒅋𒇷𒄰	V
+𒈥𒍝𒀀𒆪𒈠	V
+<EoL>
+𒀉𒋾	PRP
+𒊭𒁉𒊑𒅀	N
+𒌑𒌌	MOD
+𒀭𒈾𒈨𒅕	V
+<EoL>
+𒊭𒁉𒊑	N
+𒀀𒈾	PRP
+𒄭𒁲𒅎	N
+𒆷	MOD
+𒄿𒍝𒀊𒁀𒌓	V
+<EoL>
+𒁹	NU
+𒊕𒊩𒆳	N
+x	nan
+x	nan
+<EoL>
+𒈠	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒀀𒈾	PRP
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒋳𒈠	MOD
+𒊕𒊩𒆳	N
+𒄿𒈾	PRP
+𒂍	N
+𒀀𒄀𒊑𒊭	N
+<EoL>
+𒊌𒋫𒀠𒆷𒀠	V
+<EoL>
+𒁀𒈝𒈠𒀀	PRP
+𒁁𒇷𒊭	N
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒄩𒀜𒁕𒄠	N
+𒄿𒈾	PRP
+𒈬𒄴𒄭𒊭	N
+𒄿𒈾𒀜𒁲	V
+<EoL>
+𒅇	CNJ
+𒌑𒊭𒀝𒁀𒀀𒅆	V
+<EoL>
+𒅖𒌅	PRP
+𒄿𒈾𒀭𒈾	AV
+𒌓𒐉𒄰	NU
+𒌓𒐉𒄰	N
+<EoL>
+𒈪𒉌𒀀𒋾𒅀	N
+𒌑𒁕𒀭𒈾𒉆𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒊭𒁉𒊑𒅀	N
+𒀀𒀠𒆷𒄰	V
+<EoL>
+𒊭𒁉𒊑	N
+x	nan
+x	nan
+𒊕𒊩𒆳	N
+<EoL>
+𒊭	DET
+𒁀𒈝	PRP
+𒁁𒇷𒊭	N
+𒄩𒀜𒁕𒄠	N
+<EoL>
+𒄿𒈾	PRP
+𒈬𒄴𒄭𒊭	N
+𒀉𒁺𒌑	V
+𒅇	CNJ
+𒌑𒊭𒀝𒁍𒅆	V
+<EoL>
+𒁲𒉆	N
+𒊭𒁉𒊑	N
+𒌑𒊭𒄴𒄩𒍝𒀭𒉌	V
+<EoL>
+𒀀𒁲	PRP
+𒀀𒈾	PRP
+𒌓𒐊𒄰	NU
+𒌓𒐊𒄰	N
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒊭𒁉𒊑𒅀	N
+𒀀𒀠𒆷𒄰	V
+<EoL>
+𒊭𒁉𒊑	N
+𒁲𒉆	N
+𒋗𒀀𒋾	IP
+<EoL>
+𒆷	MOD
+𒄿𒂵𒄠𒈠𒅈	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁁𒇷𒋢𒉡	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒉿𒅋𒀭𒅎𒈠	PN
+<EoL>
+𒁁𒂖𒆠	N
+𒅇	CNJ
+𒁁𒇷𒀉𒆠	N
+𒇷𒁀𒇷𒌅𒆠	V
+<EoL>
+𒉿𒅈𒁕	N
+𒊭	DET
+𒆬𒌓	N
+𒋫𒊭𒂵𒇷𒈠	V
+𒋫𒊭𒈪	V
+<EoL>
+𒆠𒈠	PRP
+𒅀𒋾	IP
+𒌑𒌌	MOD
+𒍑𒋫𒈠𒊏𒍝𒀝𒆠	V
+<EoL>
+𒀸𒋳	PRP
+𒊩𒋛𒅁𒁉𒊑𒁴	PN
+𒊭	DET
+𒋫𒀸𒁍𒊑	V
+<EoL>
+𒄠𒈪𒉏	QP
+𒀀𒈾	PRP
+𒁁𒂖𒋗𒉡	PN
+𒋫𒀝𒁉𒀀	V
+<EoL>
+𒊩𒆳	N
+𒌑𒆷𒀀𒈪	MOD
+𒀀𒈾𒀜𒁲𒈾𒆪𒉡𒅆𒅎	V
+<EoL>
+𒀀𒈾𒆪𒈠𒈪	IP
+𒀀𒈾	PRP
+𒀀𒄩𒋾𒅀	N
+𒌑𒋫𒅈𒊏	V
+<EoL>
+𒀸𒋳	PRP
+𒁹𒊩	N
+𒀭𒊭𒆷𒌝𒈪	PN
+𒀝𒆷𒅆𒈠	V
+<EoL>
+𒊩𒆳	N
+𒌝𒈪	N
+𒀉𒁲𒈾𒀸𒅆	V
+𒌑𒌌	MOD
+𒀀𒈾𒀜𒁲𒅖𒅆	V
+<EoL>
+𒀀𒁲	PRP
+𒉿𒀸𒁀𒆪	V
+𒄿𒈾	PRP
+𒊒𒊌𒁉	N
+𒀊𒋫𒋛𒈠	V
+<EoL>
+𒉿𒅈𒅟𒉡𒈠	AV
+𒆠𒈠	PRP
+𒀜𒇻𒆠	N
+𒅖𒈬𒌑	V
+<EoL>
+𒌨𒁮𒈠	V
+𒌑	CNJ
+𒀀𒈾𒆪	IP
+𒀜𒋫𒄴𒆷𒀠𒈠	V
+<EoL>
+𒌓𒐊𒄰	NU
+𒌓𒐊𒄰	N
+𒂍	N
+𒄿𒁲𒅋𒈠	V
+𒌑𒌌	MOD
+𒅁𒋼	V
+<EoL>
+𒁹𒊩	N
+𒀭𒊭𒆷𒌝𒈪	PN
+𒊍𒁀𒀜𒈠	V
+<EoL>
+𒄩𒀊𒋫𒆪	V
+𒀊𒋛	V
+𒌝𒈠	PRP
+𒅆𒈠	IP
+<EoL>
+𒊩𒆳	N
+𒊭	DET
+𒁁𒂖𒋗𒉡	PN
+𒀀𒈾𒆪	IP
+x	nan
+<EoL>
+𒁁𒂖𒋾	N
+𒄿𒆠𒊭𒀭𒉌	V
+x	nan
+<EoL>
+𒌑𒄩𒀊𒁉𒅆𒈠	V
+𒀜𒋫𒆷𒀝	V
+<EoL>
+𒈾𒄴𒊏𒀸	N
+𒉿𒅈𒆠𒅀	PRP
+𒅋𒇷𒆪	V
+<EoL>
+𒀀𒁺𒊌𒋗𒉡𒋾𒈠	V
+𒀉𒌅𒊒	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒀭𒊭𒆷𒌝𒈪	PN
+<EoL>
+𒍑𒋫𒊑𒀀𒆠𒅖𒅆	V
+𒈠𒀸𒅟𒈾	N
+<EoL>
+𒊭	DET
+𒐊	NU
+𒈠𒈾	N
+𒄿𒁲𒅆𒈠	V
+𒆠𒇷𒂊𒅆	V
+<EoL>
+𒊩𒆳	N
+𒊻𒈾𒊭	N
+𒀭𒉌𒅖𒈠	AV
+<EoL>
+𒄿𒄩𒀠𒇷𒅅𒆠	V
+𒈠𒀸𒅟𒉡	N
+<EoL>
+𒇷𒁀𒀜𒋾𒅅𒅆	V
+𒌑	CNJ
+𒊭𒉌𒌓	AJ
+<EoL>
+𒀸𒋳	PRP
+𒁹𒊩	N
+𒋛𒅁𒁉𒊑𒁴	PN
+𒀜𒋾	IP
+<EoL>
+𒅇	CNJ
+𒁹𒁁𒂖𒋫𒉌	PN
+𒀀𒄩𒀜𒆠	N
+<EoL>
+𒀀𒈾	PRP
+𒌉𒊩	N
+x	nan
+x	nan
+𒅕	nan
+x	nan
+x	nan
+x	nan
+𒆠𒀀𒄠	AV
+<EoL>
+𒆠𒁉𒀀𒅆𒅎	V
+𒀀𒉿𒈝	N
+𒀀𒄷𒉌	N
+<EoL>
+𒊭	DET
+𒀀𒊭𒊑𒅖	AV
+𒉿𒀸𒁍	V
+𒊭𒀜𒋾𒊭𒈠	AV
+<EoL>
+𒐊	NU
+𒊩𒆳𒈨𒌍	N
+𒄿𒋻𒅈𒊒𒌑	V
+𒊭𒀜𒁕𒀝𒁲	AV
+<EoL>
+𒁹	NU
+𒊩𒆳	N
+𒀀𒄩𒀜𒉌	N
+𒅅𒆷𒀀𒈠	V
+<EoL>
+𒁍𒄩𒄠	N
+𒋗𒁀𒊑𒌓	AJ
+𒀀𒈾	PRP
+𒀀𒄭𒉌	N
+<EoL>
+𒀉𒁲𒅔𒈠	V
+𒀀𒄭	N
+𒀭𒉌𒅖	AV
+𒌒𒆷𒅆𒈠	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒋗𒁀𒊑𒌓	N
+𒌑𒌌	MOD
+𒊍𒁁	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+𒊩𒆳𒋾	N
+𒈠𒈠𒀭	XP
+<EoL>
+𒅖𒁍𒊏𒄠𒈠	V
+𒌝𒈠	PRP
+𒅆𒄿𒈠	IP
+<EoL>
+𒊩𒆳𒋾	N
+𒋼𒊑𒅎𒈠	V
+𒊩𒆳𒆠	N
+𒌅𒊑𒈠	V
+<EoL>
+𒊩𒆳𒍝	N
+𒌑𒊭𒊑𒅆𒈠	V
+𒊩𒆳𒍝	N
+𒀉𒁀𒀠	V
+𒅇	CNJ
+𒊩𒆳𒋾	N
+𒅅𒋫𒆷	V
+<EoL>
+𒁾𒉺𒆠	N
+𒇷𒇷𒅅𒈠	V
+𒊩𒆳𒋾	N
+𒅇	CNJ
+𒄿𒁲	N
+𒊩𒆳𒋾𒅀	N
+𒊭𒉌𒋾	AJ
+<EoL>
+𒊭	DET
+𒈬𒐌𒄰	NU
+𒈬𒐌𒄰	N
+𒇷𒊭𒀜𒁲𒉡𒉌	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒈬𒌅𒀭𒁕𒃶	PN
+𒅇	CNJ
+𒅀𒁍𒁍	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒇽𒀭𒋀𒆠	PN
+𒀴𒆪𒉡𒈠	N
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒄿𒄙𒈨𒅕	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒆪𒉡𒋾	V
+<EoL>
+𒀸𒋗𒈪𒅀	PRP
+𒇻	MOD
+𒁀𒀠𒄭𒌅𒉡	V
+<EoL>
+𒀀𒈾	PRP
+𒂍	N
+𒁉𒋾𒆪𒉡	N
+𒌑	CNJ
+𒂊𒊑𒅆𒅎	N
+<EoL>
+𒀀𒄴𒆪𒉡	N
+𒆷	MOD
+𒋫𒈾𒀜𒁲𒂊	V
+<EoL>
+𒁹	NU
+𒁹	N
+𒍥	N
+𒌑	CNJ
+𒃮	N
+𒌓𒁺𒀀	AJ
+<EoL>
+𒇻	MOD
+𒅕𒋢	AJ
+𒅇	CNJ
+𒂍𒀀𒀭𒊕𒉌	PN
+<EoL>
+𒀀𒁲	PRP
+𒌉𒈨𒌍	N
+𒅆𒅁𒊑𒅎	N
+<EoL>
+𒂊𒆷𒄠	N
+𒀀𒊭𒀊𒉺𒊏𒄠	V
+<EoL>
+𒆷	MOD
+𒌅𒊭𒁀𒆷𒉌𒅎	V
+<EoL>
+𒀀𒈾	PRP
+𒀀𒉿𒋾𒅎	N
+𒊭	DET
+𒋗𒁀𒀜𒀭𒂗𒆤𒆠	SN
+<EoL>
+𒀀𒈾	PRP
+𒈪𒉏	QP
+𒀀𒁲	PRP
+𒌓𒈪𒅎	N
+𒀭𒉌𒅎	DP
+<EoL>
+𒀀𒄴𒆪𒉡	N
+𒋫𒀜𒁲𒂊	V
+<EoL>
+𒋼𒅎	N
+𒀀𒉿𒋾𒅎	N
+𒊺𒋾	DP
+𒋗𒌒𒊏𒉌𒅎𒈠	V
+<EoL>
+𒇷𒅁𒁉	N
+𒇷𒉡𒄴	V
+<EoL>
+𒊭𒉌𒌓	AJ
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒊑𒈨𒉌	PN
+<EoL>
+𒆠𒀀𒄠	AV
+𒆠𒁉𒋗𒌝	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋫𒀀𒈠	IP
+𒋳𒈠	MOD
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒌅𒍝𒅟𒉺𒀭𒉌	V
+<EoL>
+𒁁𒂖	N
+𒋗𒆪𒅆𒅎	N
+𒌑	CNJ
+𒄑𒅆𒆕	N
+<EoL>
+𒄿𒆷𒅟𒄠𒈠	V
+<EoL>
+𒋗𒆪𒍑	N
+𒉿𒅆𒁍𒌓	N
+𒇷𒅁𒁉	N
+<EoL>
+𒀀𒇴	N
+𒄿𒈠𒅈𒈠	V
+<EoL>
+𒅆	N
+𒀭𒂗𒍪𒀭	PN
+𒋫𒁕𒀊𒁍𒁀	V
+<EoL>
+𒀭𒉌𒌓	DP
+𒆠𒁉𒋗𒌝	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒄩𒋾𒅀	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒂊𒁲𒀸𒈠	PN
+<EoL>
+𒆠𒈠	PRP
+𒋾𒁲𒂊	V
+𒄿𒈾	PRP
+𒁲𒅋𒄭𒅎	N
+<EoL>
+𒀠𒇷𒄰	V
+<EoL>
+𒀸𒋳	PRP
+𒊕𒀴	N
+𒊭	DET
+𒌑𒈾𒄿𒁺𒆠	V
+<EoL>
+𒊕𒀴	N
+𒋗𒀀𒋾	IP
+𒈪𒅔𒁲	AV
+𒄿𒁉𒄿	PN
+<EoL>
+𒄿𒅋𒆷𒄰𒈠	V
+<EoL>
+𒁀𒇻	PRP
+𒄿𒊭𒆷𒀭𒉌	V
+<EoL>
+𒌑𒊺𒄑𒍪𒋗	V
+<EoL>
+𒊕𒀴	N
+𒋗𒀀𒋾	IP
+𒀊𒉺𒁴	N
+<EoL>
+𒋗𒊌𒉌𒋗	V
+<EoL>
+𒅇	CNJ
+𒅟𒀭𒉆	N
+𒊭	DET
+𒍏	N
+<EoL>
+𒊭	DET
+𒂊𒍣𒁀𒀝𒆠	V
+<EoL>
+𒋗𒊌𒉌𒋗	V
+<EoL>
+𒀀𒈾	PRP
+𒁁𒇷𒌈	PN
+𒇽𒁉𒁷𒈾	N
+<EoL>
+𒁹𒄿𒁉𒄿	PN
+𒅆𒋛𒄿𒈠	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒆠𒁉𒄿	V
+𒌝𒈠	PRP
+𒀜𒋾𒈠	IP
+<EoL>
+𒊕𒀴	N
+𒉺𒀝𒁕𒀝𒆠	V
+<EoL>
+𒀀𒁲	PRP
+𒂊𒁲𒀸	PN
+𒄿𒅋𒆷𒄰	V
+<EoL>
+𒊕𒀴	N
+𒁀𒁀𒄠	N
+𒆷	MOD
+𒊻𒍢	V
+<EoL>
+𒄭𒋫𒅀𒀀𒁲𒋗𒈠	V
+<EoL>
+𒆷	MOD
+𒄿𒄩𒀸	V
+<EoL>
+𒀸𒋳	PRP
+𒈫	NU
+𒈦	NU
+𒂆	N
+𒆬𒌓	N
+𒊭	DET
+𒄿𒈾	PRP
+𒁉𒋾	N
+<EoL>
+𒁹𒀭𒌓𒈾𒍢𒅕	PN
+<EoL>
+𒌆𒍪𒁀𒊍𒋢	N
+𒂵𒀜𒈾	AJ
+<EoL>
+𒀉𒁲𒉆𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒁁𒇷𒌈	PN
+𒂊𒋼𒍣𒅁	V
+<EoL>
+𒁮𒃼𒍪	N
+𒇷𒁍𒋗𒈠	V
+<EoL>
+𒌆𒍪𒁀𒌓	N
+𒋗𒀀𒋾	IP
+<EoL>
+𒀀𒈾	PRP
+𒄿𒁉𒄿	PN
+𒄖𒌝𒈬𒊑	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁉𒋾𒄿	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒄿𒉌𒅁𒅆𒈾𒈠	PN
+<EoL>
+𒀭𒂗𒍪	DN
+𒅇	CNJ
+𒀭𒈹	DN
+𒀀𒄩𒆠	nan
+𒀸𒋗𒈪𒅀	PRP
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒆠	V
+<EoL>
+𒀸𒋳	PRP
+𒊕𒊩𒆳	N
+𒊭	DET
+𒋫𒀸𒋫𒈾𒀊𒉺𒊑𒅎	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋾𒈠	IP
+𒊕𒊩𒆳	N
+𒋼𒅕𒊑𒅎	V
+<EoL>
+𒀸𒋫𒀠𒈠	V
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒌑𒈠	IP
+<EoL>
+𒄴𒄩𒌅𒊭	N
+𒊕𒊩𒆳𒁴	N
+𒁮𒂵𒁴	AJ
+<EoL>
+𒄿𒊭𒀀	V
+𒅆𒄿	IP
+𒊕𒊩𒆳	N
+𒈾𒉿𒅕𒌓	AJ
+<EoL>
+𒌑𒌌	MOD
+𒄿𒋗	V
+𒄿𒈾	PRP
+𒍪𒈬𒌨	N
+𒆠𒀀𒄠	AV
+<EoL>
+𒅖𒋫𒈾𒀊𒉺𒊏𒄠	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒁾𒁉	N
+𒍑𒋫𒁉𒆷𒀝𒆠𒅎	V
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒁾𒁉	N
+𒌒𒆷𒀝𒆠𒅎	V
+<EoL>
+𒊕𒊩𒆳	N
+𒀉𒉌𒅖𒋳	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒊭	DET
+𒊕𒊩𒆳	N
+𒋫𒈾𒀜𒁲𒉌𒋳	V
+<EoL>
+𒊒𒊌𒆠𒋛𒄿𒋗	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋾𒄿𒈠	IP
+𒊕𒊩𒆳	N
+<EoL>
+𒌑𒌌	MOD
+𒌅𒊭𒊏𒄠𒈠	V
+<EoL>
+𒌅𒋗𒌑𒌝	AV
+𒋫𒈾𒀜𒁲𒅔	V
+<EoL>
+𒀉𒋾	PRP
+𒊭	DET
+𒊕𒊩𒆳	N
+𒋫𒈾𒀜𒁲𒅖𒋳	V
+<EoL>
+𒈠𒊒	N
+𒅆𒅁𒊑𒆠	N
+𒌅𒌨𒁲𒅎𒈠	V
+<EoL>
+𒊕𒊩𒆳	N
+𒇻𒊭𒊑𒀀𒀝𒆠𒅎	V
+<EoL>
+𒁉𒂵𒀜	MOD
+𒇻𒌑	CNJ
+𒀀𒁍𒊭	N
+<EoL>
+𒇻𒌑	CNJ
+𒌝𒈠𒊭	N
+𒆬𒌓	N
+𒌑𒅟𒀠𒇻𒉌𒅅𒆠𒅎	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒉡𒈠	IP
+𒈠𒊏𒀜𒉌	N
+<EoL>
+𒉌𒉺𒀜𒁕𒅈	V
+𒆷	MOD
+𒋫𒈠𒂵𒊑	V
+<EoL>
+𒊕𒊩𒆳	N
+𒉺𒀝𒁕𒀝𒆠𒅎	V
+<EoL>
+𒀀𒈾	PRP
+𒊕𒊩𒆳	N
+𒆷	MOD
+𒋼𒄀𒄿	V
+<EoL>
+𒁉𒂵𒀜	MOD
+𒀀𒉿𒈝	N
+𒄿𒊭𒀊𒉺𒊏𒀝𒆠𒅎	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+𒇻𒌑	CNJ
+𒊕𒊩𒆳	N
+<EoL>
+𒇻𒌑	CNJ
+𒆬𒌓	N
+𒌑𒅟𒀠𒆷𒀝𒆠	V
+<EoL>
+𒆷	MOD
+𒋫𒈠𒂵𒊑	V
+<EoL>
+𒁉𒂵𒀜	MOD
+𒄿𒈾	PRP
+𒁉𒄿𒅎	N
+𒄿𒊭𒀊𒉺𒊏𒀝𒆠	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋾𒈠	IP
+𒀀𒈾	PRP
+𒀀𒄩𒋾𒅀	N
+<EoL>
+𒌑𒌌	MOD
+𒀜𒁲𒅔	V
+𒀀𒈾	PRP
+𒅟𒀀𒋳	IP
+<EoL>
+𒀀𒈾𒀜𒁲𒈾𒀝𒄣	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁁𒋾𒄿	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒉆𒊏𒌈𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒆠	V
+<EoL>
+𒀸𒋳	PRP
+𒁹𒀭𒂗𒍪𒁁𒂖𒀊𒅆	PN
+<EoL>
+𒊭	DET
+𒆠𒀀𒄠	AV
+𒋫𒀸𒁍𒊑𒅎	V
+<EoL>
+𒌝𒈠	PRP
+𒄿𒈾	PRP
+𒂵𒁉𒂊𒅀	N
+<EoL>
+𒅋𒇷𒄰	V
+<EoL>
+𒁹𒀭𒌓𒈬𒊺𒍣𒅁	PN
+<EoL>
+𒀸𒋳	PRP
+𒍪𒄩𒅈𒁴	N
+<EoL>
+𒈪𒅎𒈠𒀀	XP
+𒌑𒁕𒀊𒁀𒀊	V
+<EoL>
+𒋳𒈠	MOD
+𒄿𒁕𒀊𒁍𒌒	V
+<EoL>
+𒀀𒉿𒌓	N
+𒆠𒈠	PRP
+𒋫𒅆𒅎𒋾𒆠	N
+𒅁𒅆	V
+<EoL>
+𒀀𒉿𒌈	N
+𒊭	DET
+𒀭𒂗𒍪𒁁𒂖𒀊𒅆	PN
+<EoL>
+𒄿𒅔𒆠	N
+𒈠𒄴𒊏𒀜	V
+<EoL>
+𒁹𒀭𒌓𒈬𒊺𒍣𒅁	PN
+<EoL>
+𒄿𒅔𒆠	N
+𒈠𒄴𒊏𒀜	V
+<EoL>
+𒀀𒊬	CNJ
+𒂊𒇷𒆠	PRP
+𒄭𒁍	V
+<EoL>
+𒆠𒈠	PRP
+𒋫𒂵𒀊𒁉𒄿	V
+<EoL>
+𒇷𒅔𒉈𒁍𒍑	V
+<EoL>
+𒀸𒋳	PRP
+𒁹𒀭𒈾𒁉𒌝𒈠𒌨	PN
+<EoL>
+𒈫	NU
+𒂆	N
+𒆬𒌓	N
+𒅟𒀭𒄣	AJ
+<EoL>
+𒄿𒈾	PRP
+𒂵𒋾	N
+𒀭𒌓𒁺𒌝𒆠	PN
+<EoL>
+𒇷𒆠𒂊𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒀭𒈾𒁉𒌝𒈠𒌨	PN
+<EoL>
+𒀉𒉌	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒋗𒀭𒆏𒋫	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒁉𒌓𒀭𒈹	PN
+𒈠𒊏𒀜𒅟𒈠	N
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒈹	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒊕𒊩𒆳	N
+𒊭	DET
+𒌉𒈨𒌍	N
+𒉡𒊏𒁴	PN
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒁹𒉡𒌫𒀭𒆏𒋫	PN
+𒀀𒄷𒅟	N
+<EoL>
+𒄿𒋾	PRP
+𒌉𒈨𒌍	N
+𒅖𒋫𒊏𒁴	N
+<EoL>
+𒋼𒅎𒅆𒈾	N
+𒂵𒄠𒊏𒄠	AJ
+<EoL>
+𒅋𒋫𒆠𒄩𒆪	V
+<EoL>
+𒀀𒈾	PRP
+𒀀𒈠𒁴	N
+𒅆𒈾𒋾	IP
+<EoL>
+𒌑𒌌	MOD
+𒋗𒄷𒍝𒆪	V
+<EoL>
+𒌉𒈨𒌍	N
+𒅖𒋫𒊏𒁴	N
+<EoL>
+𒆬𒌓	N
+𒂊𒇷𒋗	N
+𒄿𒋗𒌑𒈠	V
+<EoL>
+𒉌𒅆𒋗	N
+𒂊𒊺𒅕	NU
+𒀉𒊒	V
+<EoL>
+𒌑𒌌	MOD
+𒋗𒄷𒍝𒆪	V
+<EoL>
+𒅇	CNJ
+𒊭𒉌𒌓	AJ
+𒀸𒋳	PRP
+𒆷𒋼𒄀	PN
+<EoL>
+𒋼𒈪	N
+𒂵𒄠𒊏𒄠	AJ
+<EoL>
+𒋫𒋫𒈠𒅈	V
+<EoL>
+𒆠𒈠	PRP
+𒍪𒄩𒊒	N
+𒋗𒌑	IP
+<EoL>
+𒈠𒊑𒄿	N
+<EoL>
+𒋫𒋫𒈠𒅈	V
+<EoL>
+𒋳𒈠	MOD
+𒂍𒃲𒈝𒈠	N
+<EoL>
+𒆷	MOD
+𒅅𒁉	V
+𒍪𒄩𒊒	N
+𒋗𒌑	IP
+<EoL>
+𒀀𒈾	PRP
+𒉿𒋗𒊑𒅎	N
+𒈪𒉡	QP
+x	nan
+<EoL>
+𒍪𒄩𒊏	N
+𒊭𒌅	IP
+𒆷	MOD
+𒌅𒉿𒊭𒊏𒀸𒋗	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒅆𒋫𒀠𒈠	V
+𒍪𒄩𒊏	N
+<EoL>
+𒊭𒌅	IP
+𒉿𒊺𒊏𒀸𒋗	V
+𒂊𒁍𒊒	N
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒌑𒍣𒇷	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒁕𒈪𒅅𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒊩𒌆𒋜𒀭𒈾	DN
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒅖𒌅	PRP
+𒀠𒇷𒄰	V
+<EoL>
+𒄿𒈾	PRP
+𒌷𒂍𒋗𒀭𒂗𒍪𒈾𒆠𒈠	SN
+<EoL>
+𒀀𒈾𒆪	IP
+𒂊𒇷	PRP
+𒀀𒀀𒄿𒅎𒈠	XP
+<EoL>
+𒊺𒀀𒄠	N
+𒌋	NU
+𒄥	N
+𒄿𒋗𒌑	V
+<EoL>
+𒄿𒈾	PRP
+𒁲𒈾𒋾	N
+𒁺𒌒𒁍𒁀𒀀𒆪	V
+<EoL>
+𒅖𒌅	PRP
+𒄿𒈾𒀭𒈾	AV
+<EoL>
+𒌓𒐊𒄰	NU
+𒌓𒐊𒄰	N
+𒁹𒀭𒂗𒍪𒊑𒈨𒉌	PN
+<EoL>
+𒌋	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒌒𒁀𒆷𒀝𒄣	V
+<EoL>
+𒈪𒅎𒈠	XP
+𒆷	MOD
+𒋫𒈾𒍣𒅅	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒉌𒉌𒂊𒋾𒅕	PN
+<EoL>
+𒆷	MOD
+𒋼𒅅𒄀	V
+<EoL>
+𒉺𒉡𒋗	N
+𒆷	MOD
+𒄿𒍝𒇷𒈬	V
+<EoL>
+𒈫	NU
+𒋡	N
+𒁉	N
+𒇷𒅖𒋫𒀜𒋾	V
+<EoL>
+𒅇	CNJ
+𒋼𒂊𒅎	N
+𒁹𒈾𒁉𒀭𒌓	PN
+<EoL>
+𒊭	DET
+𒀸𒋳	PRP
+𒐈	NU
+𒊕𒀴	N
+<EoL>
+𒄿𒁲𒅔	V
+𒀀𒈬𒌨𒋗𒈠	V
+<EoL>
+𒋼𒅎𒋗	N
+𒂵𒄠𒊏	AJ
+𒋗𒌒𒊏	V
+<EoL>
+𒋳𒈠	MOD
+𒄿𒈾	PRP
+𒆠𒀉𒁴	N
+<EoL>
+𒀀𒄭	N
+𒀜𒋫	IP
+𒉌𒁲	N
+𒀀𒄭	N
+𒆷	MOD
+𒋫𒊏𒀸𒅆	V
+<EoL>
+𒆠𒈠	PRP
+𒋫𒋫𒄠𒊒𒌑𒋗	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒆠𒁉𒋗	V
+𒌝𒈠	PRP
+𒀜𒋫𒀀𒈠	IP
+<EoL>
+𒁹𒀭𒂗𒍪𒁕𒈪𒅅	PN
+<EoL>
+𒀀𒈾	PRP
+𒋼𒈪𒅟	N
+𒆷𒈠𒁲	N
+𒅖𒁍𒊏	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒆠𒅀	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒄿𒆠𒊭𒄠𒈠	PN
+<EoL>
+𒁾𒁉	N
+𒁁𒉌𒅀	N
+𒀸𒋳	PRP
+𒉺𒉌	N
+𒇇𒇻𒄭𒀀	N
+<EoL>
+𒊭	DET
+𒋼𒊑𒄷𒌑	V
+𒍝𒁀𒋾	N
+<EoL>
+𒅇	CNJ
+𒅟𒉌𒅟𒀜	N
+𒇇𒇻𒄭𒀀	N
+𒊭	DET
+𒀀𒈾	PRP
+𒍣𒂵	N
+<EoL>
+𒌅𒊺𒍪𒌑	V
+<EoL>
+𒇷𒆠𒅎𒈠	N
+<EoL>
+𒄿𒈾	PRP
+𒌗𒍩𒀀𒀭	NU
+𒌗𒍩𒀀𒀭	N
+𒌓𒌋𒌋𒐊𒄰	NU
+𒌓𒌋𒌋𒐊𒄰	NU
+𒌓𒌋𒌋𒐊𒄰	N
+<EoL>
+𒀀𒈾	PRP
+𒂍	N
+𒀀𒆠𒁴	N
+𒊓𒈾𒆠𒅎	N
+<EoL>
+𒀉𒋫𒀸𒉺𒊏𒀝𒄣	V
+<EoL>
+𒆠𒈠	PRP
+𒄿𒈾	PRP
+𒁾𒁉	N
+𒁁𒉌𒅀	N
+<EoL>
+𒅖𒊭𒀊𒊏𒀝𒄣	V
+<EoL>
+𒉺𒉌	N
+𒇇𒇻𒄭𒀀	N
+𒍝𒀊𒋫	V
+<EoL>
+𒅇	CNJ
+𒅟𒉌𒅟𒀜	N
+𒇇𒇻𒄭𒀀	N
+<EoL>
+𒊭	DET
+𒀀𒈾	PRP
+𒍣𒂵	N
+𒌅𒊺𒍪𒌑	V
+<EoL>
+𒇷𒆠𒀀𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒀀𒁕𒀭	N
+𒅖𒊭𒀊𒊏𒀝𒄣	V
+<EoL>
+𒀀𒈾	PRP
+𒂍	N
+𒀀𒆠𒁴	N
+𒋛𒅔𒂵	V
+<EoL>
+𒇻𒀴	N
+𒈠𒌅	V
+𒀀𒈾	PRP
+𒉺𒉌	N
+𒆷	MOD
+𒄿𒉺𒅈𒊑𒅅	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒌉𒈨𒌍	N
+x	nan
+𒌉	N
+𒀭𒀫𒌓𒈾𒍢𒅕	PN
+<EoL>
+𒀀𒈾	PRP
+𒌉𒈨𒌍	N
+𒅁𒉌𒀭𒂗𒍪	PN
+<EoL>
+𒌉	N
+𒀭𒀫𒌓𒈾𒍢𒅕	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒄿𒆠𒊭𒄠𒈠	PN
+<EoL>
+𒄿𒈾	PRP
+𒁾𒁉	N
+𒁁𒉌𒅀	N
+<EoL>
+𒀸𒋳	PRP
+𒉺𒉌	N
+𒇇𒇻𒄭𒀀	N
+𒊭	DET
+𒋼𒊑𒄷𒌑	V
+𒍝𒁀𒁴	N
+<EoL>
+𒅇	CNJ
+𒅟𒉌𒅟𒀜	N
+𒇇𒇻𒄭𒀀	N
+<EoL>
+𒊭	DET
+𒀀𒈾	PRP
+𒍢𒄿𒁴	N
+𒌅𒊺𒍪𒌑	V
+<EoL>
+𒇷𒆠𒂊𒅎𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒀀𒆷𒆠𒅎	N
+<EoL>
+𒅖𒊭𒀊𒊏𒀝𒄣	V
+<EoL>
+𒁾𒁉	N
+𒁁𒉌𒅀	N
+𒊭	DET
+𒅖𒊭𒀊𒊏𒀝𒄣	V
+<EoL>
+𒁹	NU
+𒈾𒀸𒁇	N
+𒅋𒆠𒀀𒄠𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅟	N
+𒀉𒋫𒀠𒄰	V
+<EoL>
+𒆠𒈠	PRP
+𒄿𒈾	PRP
+𒁾𒁉	N
+𒁁𒉌𒅀	N
+<EoL>
+𒅖𒊭𒀊𒊏𒀝𒄣	V
+<EoL>
+𒉺𒉌	N
+𒇇𒇻𒄭𒀀	N
+𒊭	DET
+𒋼𒊑𒄷𒌑	V
+<EoL>
+𒍝𒀊𒌓	V
+<EoL>
+𒅇	CNJ
+𒅟𒉌𒅟𒀜	N
+𒇇𒇻𒄭𒀀	N
+<EoL>
+𒊭	DET
+𒀀𒈾	PRP
+𒍢𒄿𒁴	N
+𒌅𒊺𒍪𒌑	V
+<EoL>
+𒇷𒆠𒀀𒄠𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒌗𒍩𒀀𒀭	NU
+𒌓𒌋𒌋𒄰	NU
+𒌓𒌋𒌋𒄰	N
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒍣𒅔𒂵𒄠	V
+<EoL>
+𒁹	NU
+𒇻𒀴	N
+𒈠𒌅𒌑	V
+𒀀𒈾	PRP
+𒉺𒉌	N
+𒆷	MOD
+𒄿𒉺𒊑𒅅	V
+<EoL>
+𒀀𒈾	PRP
+𒀀𒁕𒀭	N
+𒅖𒊭𒀊𒊏𒀝𒄣	V
+<EoL>
+𒌅𒆷𒁀𒁕𒄠𒈠	V
+<EoL>
+𒉺𒉡𒅟	N
+𒌑𒌌	MOD
+𒅁𒁀𒀊𒁀𒇻	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒈾𒅟𒅈𒌈	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒈾𒁲𒅔𒋗𒈪𒅎𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒆠	V
+<EoL>
+𒊩𒆳	N
+𒊭	DET
+𒌉𒊩	N
+𒀭𒅎𒊏𒁉	PN
+<EoL>
+𒀀𒈾	PRP
+𒁁𒂖𒋾𒊭	N
+𒀀𒉿𒌓	N
+<EoL>
+𒈬𒊒𒊻	N
+𒇷𒅁𒁉𒅀	N
+<EoL>
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒄿𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒀀𒄯𒅆𒈠	V
+<EoL>
+𒅇	CNJ
+𒌝𒈠	PRP
+𒅆𒄿𒈠	IP
+<EoL>
+𒋼𒈪	N
+𒅆	N
+𒈾𒅟𒅈𒁴	PN
+<EoL>
+𒀀𒊭𒅟𒀭𒈠	V
+𒊭	DET
+𒄩𒁲𒅟	N
+<EoL>
+𒀀𒊭𒉺𒊏𒀝𒄣	V
+<EoL>
+𒋼𒅎𒊭	N
+𒂵𒄠𒊏𒄠	AJ
+<EoL>
+𒇷𒅎𒁲𒅎𒈠	V
+𒋗𒌒𒊑	V
+<EoL>
+𒁹𒉌𒉌𒈾𒀊𒊺𒊏	PN
+<EoL>
+𒋗𒌒𒊑𒅎	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒊩𒆳𒅟𒆷𒁴	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒌓𒈬𒊺𒍣𒅁𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒆠	V
+<EoL>
+𒀸𒋳	PRP
+𒀀𒊮𒅎	N
+𒊭	DET
+𒀜𒋾	IP
+<EoL>
+𒅇	CNJ
+𒈾𒊏𒄠𒋫𒉌	PN
+𒋾𒄑𒁍𒋫𒋾𒈾	V
+<EoL>
+𒀀𒈾	PRP
+𒌉	N
+𒌓𒄒𒉣𒆠	SN
+𒁾𒁉	N
+𒅇	CNJ
+𒁾𒁉	N
+𒋰𒁀𒌈	PN
+<EoL>
+𒌑𒁕𒉌𒉆𒈠	V
+𒍑𒋫𒁉𒇴	V
+<EoL>
+𒀀𒁲	PRP
+𒀀𒆷𒄰	V
+𒀀𒊮𒄠	N
+𒌑𒌌	MOD
+𒄿𒍪𒍝𒆠𒈾𒅆𒅎	V
+<EoL>
+𒄿𒈾	PRP
+𒀀𒆷𒆠𒅀	N
+<EoL>
+𒀀𒈾	PRP
+𒁲𒋻	N
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒌑𒁕𒄩𒆠𒈾𒋾𒈾	V
+<EoL>
+𒀀𒉿𒋾𒆠𒈾	N
+𒄿𒈠𒊒𒌑𒈠	V
+<EoL>
+𒂍𒃲	N
+𒄿𒅟𒊭𒁺𒈠	V
+<EoL>
+𒄭𒁉𒅋𒋫𒆠	N
+𒌑𒂵𒈠𒊏𒆠𒅎	V
+<EoL>
+𒀊𒇻𒌈	N
+𒍢𒄭𒅕𒌈	AJ
+𒅇	CNJ
+𒊏𒁉𒌈	AJ
+<EoL>
+𒄿𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+𒌑𒌌	MOD
+𒄿𒁀𒀸𒅆	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒀫𒌓𒈾𒍢𒅕	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋰𒁀𒌈𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒁹𒂊𒌀𒅗𒀭𒈾𒁉𒌝	PN
+𒀀𒄷𒅟	N
+<EoL>
+𒅋𒇷𒄰𒈠	V
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒍪𒄩𒊒𒌑𒅀	N
+𒋠𒄭𒀀	N
+𒈾𒋗𒌑𒈠	N
+<EoL>
+𒁹𒁕𒁕𒀀	PN
+𒄿𒈬𒌨𒋗𒉡𒋾𒈠	V
+<EoL>
+𒆠𒈠	PRP
+𒅀𒋾	IP
+𒂵𒁉𒂊	N
+<EoL>
+𒀉𒋾𒋗𒉡	PRP
+𒅖𒋫𒁉𒈠	V
+<EoL>
+𒋠𒄭𒀀	N
+𒅎𒋫𒊭𒄴	V
+<EoL>
+𒅇	CNJ
+𒆬𒌓	N
+𒌝𒈪𒀀	N
+𒌔𒋫𒀠𒇷𒅅	V
+<EoL>
+𒋗𒌨𒆪𒌝	N
+𒄿𒈾	PRP
+𒈬𒄭𒅟	N
+<EoL>
+𒈾𒀀𒁲	V
+<EoL>
+𒀠𒄰𒈠	V
+𒀀𒉿𒈝	N
+𒀭𒉌𒁴	DP
+<EoL>
+𒀀𒈬𒌨𒅆𒈾𒋾	V
+<EoL>
+𒁹𒊭𒀜𒀭𒀫𒌓	PN
+<EoL>
+𒁮	N
+𒁹𒄿𒁉𒀭𒊩𒌆𒋚	PN
+𒀀𒄭𒅟	N
+<EoL>
+𒌝𒈠	PRP
+𒅆𒄿𒈠	IP
+𒀀𒈾	PRP
+𒍢𒅕	N
+<EoL>
+𒊑𒆪𒌑𒈠	V
+𒉿𒀸𒁍	V
+<EoL>
+𒍢𒁲𒌓	N
+𒉌𒊭𒀊𒉺𒀝𒈠	V
+<EoL>
+𒊺𒀀𒄠	N
+𒊭	DET
+𒄿𒈾	PRP
+𒄿𒁍𒊑	N
+<EoL>
+𒅋𒆪𒌑	V
+𒇷𒆪𒌌	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒁉𒅀	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀴𒀭𒆷𒄴𒈬𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒀀𒁉	N
+𒅟𒋫	IP
+𒇷𒁀𒀠𒇷𒌅	V
+<EoL>
+𒀀𒁉	N
+𒀜𒋫	IP
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕	N
+𒀀𒁉𒅀	N
+𒅟𒋫	IP
+𒊑𒌍𒅟	N
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	AJ
+<EoL>
+𒇷𒆠𒅋	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒈝	N
+𒀀𒁉𒅀	N
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝	N
+𒀀𒁉𒅀	N
+𒅟𒋫	IP
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+<EoL>
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒀸𒋳	PRP
+𒊭	DET
+𒀀𒁉	N
+𒅖𒁍𒊏𒄠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒁉𒈠	N
+<EoL>
+𒁕𒁀𒀊	N
+𒌉𒈨𒌍	N
+𒁍𒄷𒌝	PN
+𒉺𒇻	N
+<EoL>
+𒅁𒁀𒅆𒈠	V
+<EoL>
+𒀀𒉿𒈝	N
+𒆪𒌒𒁍𒊒𒌝	PN
+𒁲𒋻	N
+<EoL>
+𒊭	DET
+𒆬𒌓	N
+𒅔𒈾𒀜𒉡𒋳	V
+<EoL>
+𒆬𒌓	N
+𒋗𒀀𒋾	IP
+𒀉𒋫𒁲𒅔	V
+<EoL>
+𒅟𒉌𒅅	N
+𒆬𒌓	N
+𒊭	DET
+𒋫𒀜𒁲𒉡𒋗𒉡𒅆𒅎	V
+<EoL>
+𒇷𒆠𒀀𒈠	V
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅀	N
+𒀠𒄰𒈠	V
+<EoL>
+𒇽𒈬𒍑𒆠𒂊𒉆	N
+𒆷	MOD
+𒄿𒀀𒀊𒁀𒌅	V
+<EoL>
+𒊭	DET
+𒀀𒁉	N
+𒅖𒁍𒊏𒄠	V
+<EoL>
+𒆠𒈠	PRP
+𒀀𒁉	N
+𒅖𒁍𒊏𒄠	V
+<EoL>
+𒈫	NU
+𒅟𒉌𒆠	N
+𒋗𒉡𒋾	DET
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒀀𒁉𒅀	N
+𒅟𒋫	IP
+<EoL>
+𒁹𒋳𒆷𒆪𒀀𒈾𒀭𒀫𒌓	PN
+𒀴𒅟	N
+<EoL>
+𒍑𒋫𒁉𒇴	V
+<EoL>
+𒆠𒈠	PRP
+𒅟𒉌𒆠	N
+𒋗𒉡𒋾	DET
+<EoL>
+𒀀𒁉	N
+𒄿𒋫𒄠𒊒	V
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅀	N
+𒇷𒋼𒅕𒊏𒄠	V
+<EoL>
+𒁍𒌌𒇻𒊓𒆪𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒀀𒁉𒅀	N
+𒌑𒌌	MOD
+𒀠𒇷𒄰	V
+𒀀𒁉	N
+𒀜𒋫	IP
+<EoL>
+𒀀𒈾	PRP
+𒀀𒉿𒁴	N
+𒆷	MOD
+𒋫𒍝𒀊𒁀𒌓	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒄿𒁉𒀭𒂗𒍪	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒌅𒌅𒈾𒍢𒅕	PN
+<EoL>
+𒀭𒀫𒌓	DN
+𒀜𒈠	V
+<EoL>
+𒄿𒉡𒈠	SBJ
+𒀀𒊭𒇻𒅟	V
+<EoL>
+𒆠𒈠	PRP
+𒀀𒈾	PRP
+𒊮𒂵𒆠	SN
+<EoL>
+𒌑𒉿𒊺𒊒𒅟	V
+<EoL>
+𒆷	MOD
+𒄿𒁺𒌑𒈠	V
+<EoL>
+𒆷	MOD
+𒀸𒅆𒆪𒅟	V
+<EoL>
+𒆠𒊭	AV
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒋫𒆷𒀝	V
+<EoL>
+𒀀𒊭𒀠𒅟	V
+<EoL>
+𒀀𒁲	PRP
+𒌅𒌅𒅖𒋾𒃲	DN
+<EoL>
+𒅅𒁉𒄠	V
+<EoL>
+𒆷	MOD
+𒄿𒁺𒌑	V
+<EoL>
+𒋳𒈠	MOD
+𒀀𒄭	N
+𒀜𒋫	IP
+<EoL>
+𒆠𒍣𒅕	N
+𒇷𒁉𒅎	N
+<EoL>
+𒆷	MOD
+𒋫𒊏𒀸𒅆𒅎	V
+<EoL>
+𒋾𒁲	V
+𒀜𒋫	IP
+𒆠𒈠	SBJ
+<EoL>
+𒅖𒌅	PRP
+𒌓𒌋𒌋𒄰	NU
+𒌓𒌋𒌋𒄰	N
+<EoL>
+𒅤𒊭𒀭𒅎	PN
+𒐈	NU
+𒄞	N
+<EoL>
+𒅇	CNJ
+𒍝𒄩𒊏𒄠	N
+<EoL>
+𒀀𒈾	PRP
+𒈾𒁕𒉏	N
+𒀜𒊒𒌓𒈠	V
+<EoL>
+𒍝𒄩𒀸	N
+𒄴𒋫𒇷𒅅𒈠	V
+<EoL>
+𒅤𒊭𒀭𒅎	PN
+𒊭𒀠𒈠	V
+<EoL>
+𒀀𒊭𒅈	N
+𒄴𒇷𒆪𒌑	V
+<EoL>
+𒇷𒅅𒁉𒄣𒈠	V
+<EoL>
+𒇷𒅆𒇻𒉌𒆪𒍑𒋗	V
+<EoL>
+𒋳𒈠	MOD
+𒁁𒂖	N
+x	nan
+<EoL>
+𒈾𒁉𒅖𒋾𒅀	N
+𒀜𒋫	IP
+<EoL>
+𒍑𒋫𒄠𒊑𒍪𒉌𒅔𒉌	V
+<EoL>
+𒅤𒊭𒀭𒅎	PN
+𒆬𒌓	N
+𒊭𒈠𒀸𒋳𒈠	V
+<EoL>
+𒌅𒌨𒁕𒀸𒋗	V
+<EoL>
+𒀀𒈾	PRP
+𒄿𒁉𒀭𒂗𒍪	PN
+<EoL>
+𒌅𒌅𒈾𒍢𒅕	PN
+<EoL>
+𒌉	N
+𒅎𒌨𒀭	PN
+<EoL>
+𒀵	N
+𒀭𒀫𒌓	DN
+<EoL><EoT>
+𒀀𒈾	PRP
+𒇷𒁉𒄑𒍝	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒈬𒌦𒇷𒍢𒈠	PN
+<EoL>
+𒉌𒌓𒈲	N
+𒉌𒌓𒈲	N
+𒊭	DET
+𒀭𒌓𒈾𒍢𒅕	PN
+<EoL>
+𒀀𒁲𒀭	PN
+𒄿𒁲𒉆	V
+<EoL>
+𒅇	CNJ
+𒉌𒌓	N
+𒊭𒉌𒌓	AJ
+<EoL>
+𒁹𒇷𒁉𒀉𒀭𒂗𒍪	PN
+𒌉	N
+𒆗𒉏	PN
+<EoL>
+𒀉𒁲𒉆	V
+𒈠𒀭𒍝𒊍	N
+𒀜𒁲𒉡	V
+<EoL>
+𒈫	NU
+𒉌𒌓𒄭𒀀𒈲	N
+𒉌𒌓𒄭𒀀𒈲	N
+xx𒅆𒈾	nan
+<EoL>
+𒅇	CNJ
+𒁹	NU
+𒉌𒌓	N
+𒀀𒄭𒌈𒈠	AJ
+<EoL>
+𒀉𒋾	PRP
+𒉌𒌓𒄭𒀀𒈲	N
+𒉌𒌓𒄭𒀀𒈲	N
+𒅆𒈾𒋾	IP
+<EoL>
+𒄿𒈾	PRP
+𒄀𒂷	N
+𒂵𒋾𒊭	N
+<EoL>
+𒄿𒈾	PRP
+𒋢𒌅𒊌𒅟𒉏	N
+x	nan
+<EoL>
+𒄀𒂷	N
+𒂵𒋾𒊭	N
+xx	nan
+<EoL>
+𒀜𒌅𒉡	IP
+𒈠x𒀜	nan
+x	nan
+<EoL>
+x	nan
+<EoL>
+𒈫	NU
+𒉌𒌓𒄭𒀀	N
+xxxx	nan
+<EoL>
+𒅇	CNJ
+𒁹	NU
+𒉌𒌓	N
+𒀀𒄭xx	nan
+<EoL>
+𒄿𒈾	PRP
+𒋢𒌅𒊌𒅟𒉏	N
+xx	nan
+<EoL>
+𒋗𒁉𒆷xx	V
+<EoL>
+x	nan
+<EoL><EoT>
+𒀀𒈾	PRP
+𒊭𒁉𒅕	N
+𒀀𒇉	N
+<EoL>
+𒊏𒉺𒀸𒈪𒉌𒂍𒀀	PN
+<EoL>
+𒉺	N
+𒊩𒈨	N
+𒀭𒌓	DN
+<EoL>
+𒌉	N
+𒂄𒀭𒊩𒌆𒋚	PN
+<EoL>
+𒀴	N
+𒊓𒄠𒋢𒄿𒇻𒈾	RN
+<EoL>
+𒀀𒈾	PRP
+𒊭𒁉𒅕	N
+𒈾𒊑𒅎	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒊏𒉺𒀸𒈪𒉌𒂍𒀀𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒁹𒇷𒉿𒊏𒀀𒈾𒀭	PN
+<EoL>
+𒀴	N
+𒊩𒈨	N
+𒀭𒌓	DN
+𒀀𒈾	PRP
+𒈪𒉏	QP
+<EoL>
+𒋫𒀝𒆷	V
+<EoL>
+𒌑𒌌	MOD
+𒌉	N
+𒌷𒊮𒂵𒆠	SN
+<EoL>
+𒋗𒌑	IP
+<EoL>
+𒌑𒌌	MOD
+𒌉	N
+𒀀𒉿𒅆	N
+<EoL>
+𒀴	N
+𒊩𒈨	N
+𒀭𒌓	DN
+<EoL>
+𒉿𒍑𒊺𒅕	V
+<EoL>
+𒊩𒈨	N
+𒀭𒌓	DN
+𒊬𒊏𒄠	N
+<EoL>
+𒆷	MOD
+𒄿𒈠𒄩𒅈	V
+<EoL>
+𒀀𒈾	PRP
+𒊑𒅖𒀭𒌓	PN
+𒌑𒌌	MOD
+𒉿𒇷𒀉	V
+<EoL>
+𒌝𒈠𒋗	N
+𒊩𒆳	N
+𒊩𒈨	N
+𒀭𒌓	DN
+<EoL>
+𒀀𒈾	PRP
+𒈪𒉏	QP
+𒀀𒈾	PRP
+𒊑𒁺𒁴	N
+<EoL>
+𒋫𒊭𒄭𒅈𒋗	V
+<EoL>
+𒂵𒄖𒌝	N
+𒀀𒈾	PRP
+𒈠𒊭𒄿𒅎	N
+<EoL>
+𒊭𒆠𒅔	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒌝𒅗𒀭𒌓	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒀀𒄩𒄠𒄿𒁷𒉆𒈠	PN
+<EoL>
+𒊭	DET
+𒀸𒋫𒈾𒀊𒉺𒊏𒀝𒆪𒌑	V
+<EoL>
+𒆷	MOD
+𒋫𒈾𒊍𒍣𒅅	V
+<EoL>
+𒆬𒌓	N
+𒄿𒁀𒀸𒅆𒈠	V
+𒀸𒋫𒈾𒀊𒉺𒊏𒀝𒆪	V
+<EoL>
+𒊭	DET
+𒌋	NU
+𒂆	N
+𒆬𒌓	N
+𒁀𒇻𒄩	N
+<EoL>
+𒐈	NU
+𒄘	N
+𒆪𒇻𒂵	nan
+𒀸	NU
+𒄥	N
+𒆪𒊌𒊑	N
+<EoL>
+𒋡𒁺𒌝	PRP
+𒊭	DET
+𒈗𒀭𒂗𒍪	PN
+<EoL>
+𒁹	NU
+𒁹	N
+𒑑	NU
+𒑑	N
+𒍪𒌝𒆷𒇷𒂊	N
+<EoL>
+𒊭	DET
+𒐊	NU
+𒂆	N
+𒆬𒌓	N
+𒁍𒊏𒋗	N
+<EoL>
+𒊭	DET
+𒐈	NU
+𒂆	N
+𒉌	N
+𒀀𒋛	N
+<EoL>
+𒊭	DET
+𒌋	NU
+𒂆	N
+𒉌	N
+𒋗𒌫𒊩	N
+<EoL>
+𒌅𒌝𒈠𒁕𒄠	V
+<EoL>
+𒋢𒄷𒌨𒈠	V
+𒇷𒆠	V
+<EoL>
+𒌑𒌌	MOD
+𒋾𒁲	V
+𒆠𒈠	PRP
+𒀀𒈾	PRP
+𒁮𒆠𒈠	N
+𒆬𒌓	N
+<EoL>
+𒅇	CNJ
+𒉌𒁀𒄠	N
+𒆷	MOD
+𒌅𒈠𒄯	V
+<EoL>
+𒄑𒑏	N
+𒈫	NU
+𒂆	N
+𒆬𒌓	N
+𒁮𒋡𒄠	AJ
+𒊭𒈠𒄠	V
+<EoL>
+𒅇	CNJ
+𒉌𒄑	N
+𒌨𒋳𒈠	N
+𒄑𒑏𒋫	PRP
+𒄑𒑏𒋫	N
+<EoL>
+𒊭	DET
+𒐊	NU
+𒂆	N
+𒊭𒈠𒄠	V
+<EoL>
+𒑖	NU
+𒑖	N
+𒑐	NU
+𒑐	N
+𒆪𒊌𒊑	N
+𒊭	DET
+𒐊	NU
+𒂆	N
+𒆬𒌓	N
+<EoL>
+𒄿𒋾	PRP
+𒈗𒀭𒂗𒍪	PN
+𒈬𒄷𒌨	V
+<EoL>
+𒇻𒌑𒇻	N
+𒅟𒇻𒊭	N
+𒈾𒀜𒈾𒀜	V
+<EoL>
+𒁍𒊏𒊭	N
+𒊭	DET
+𒋼𒍣𒁀	V
+<EoL>
+𒀀𒈾	PRP
+𒁹	NU
+𒂆	N
+𒆬𒌓	N
+𒀜𒋫𒁲𒅔	V
+<EoL>
+𒀀𒈾	PRP
+𒂊𒍣𒍣𒅀	N
+<EoL>
+𒆬𒌓	N
+𒀀𒊭𒄠	V
+𒅇	CNJ
+𒁕𒋡𒋾	N
+<EoL>
+𒅟𒇻𒊭	N
+𒈾𒀜𒈾𒀜	V
+<EoL>
+𒆠	SBJ
+𒋫𒀜𒋫𒀠𒆪𒌑	V
+𒁕𒋡𒌈	N
+<EoL>
+𒀉𒋫𒍣𒄿	V
+𒍣𒁉𒀉	N
+𒋼𒈪𒅎	N
+<EoL>
+𒊑𒊭𒈠	V
+𒀠𒅟	V
+𒉌	N
+𒋗𒌫𒊩	N
+𒆷	MOD
+𒋫𒈠𒀸𒅆	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒌝𒅗𒀭𒌓	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒀀𒄩𒄠𒄿𒁷𒉆𒈠	PN
+<EoL>
+𒀀𒈾	PRP
+𒈪𒉏	QP
+𒀀𒉿𒌅	N
+𒄿𒈾	PRP
+<EoL>
+𒀸𒋫𒉿𒊑	N
+𒂊𒇷𒅟	PRP
+𒈠𒊑𒄑	V
+<EoL>
+𒀸𒁍𒊏𒆪𒈠	V
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+<EoL>
+𒉌	N
+𒋗𒌫𒊩	N
+𒊭	DET
+𒌋	NU
+𒂆	N
+𒆬𒌓	N
+𒋗𒁉𒆷	V
+<EoL>
+𒉌	N
+𒌑𒌌	MOD
+𒌅𒊭𒁉𒆷𒄠	V
+<EoL>
+𒅇	CNJ
+𒍪𒄩𒊏𒄠	N
+𒊑𒆪𒍪	N
+<EoL>
+𒋫𒄭𒅈𒊏𒁕𒄠	V
+<EoL>
+𒅖𒌅	PRP
+𒋼𒍣𒁀𒀭𒉌	V
+<EoL>
+𒁕𒋡𒋾	N
+𒀝𒁕𒈥	V
+<EoL>
+𒅇	CNJ
+𒉌	N
+𒋗𒌫𒊩	N
+𒅇	CNJ
+𒅟𒈾𒀝𒋾	N
+<EoL>
+𒌑𒌌	MOD
+𒄿𒋗𒌑	V
+𒄿𒈾	PRP
+𒆬𒌓	N
+<EoL>
+𒊭	DET
+𒌑𒊭𒁉𒆷𒀝𒆪𒌑	V
+<EoL>
+𒁹𒆠𒅁𒊏𒀊𒁀	PN
+𒃲𒉌𒅟	N
+<EoL>
+𒇷𒄑𒁀𒀜𒈠	V
+𒉌	N
+𒁕𒄠𒋡𒄠	AJ
+<EoL>
+𒊭	DET
+𒌋	NU
+𒂆	N
+𒆬𒌓	N
+𒉌	N
+𒋗𒌫𒊩	N
+<EoL>
+𒊭	DET
+𒐈	NU
+𒂆	N
+𒆬𒌓	N
+𒉌	N
+𒀀𒍪	N
+<EoL>
+𒅇	CNJ
+𒐊	NU
+𒂆	N
+𒉌	N
+𒄑𒂞	N
+<EoL>
+𒊭𒈠𒄠𒈠	V
+𒇷𒆠𒀀	V
+<EoL>
+𒉌	N
+𒈠𒀜	V
+𒋳𒈠	MOD
+𒉌	N
+<EoL>
+𒊭	DET
+𒄿𒁀𒌈	PN
+𒆷	MOD
+𒁕𒈪𒅅	V
+<EoL>
+𒋢𒄷𒌨𒈠	V
+𒉌	N
+𒁕𒄠𒋡𒄠	AJ
+<EoL>
+𒊭𒈠𒄠𒈠	V
+𒇷𒆠𒀀	V
+<EoL>
+𒊭	DET
+𒀸𒁍𒊏𒆪	V
+𒌑𒌌	MOD
+𒅅𒁍𒉌𒈠	V
+<EoL>
+𒆠𒈠	PRP
+𒀀x	nan
+x	nan
+x	nan
+x	nan
+𒌑𒋫𒈾𒊒	V
+<EoL>
+𒑏	NU
+𒑏	N
+𒉌	N
+𒄀	nan
+𒇻𒌑	CNJ
+𒀭𒈽𒂵𒅖	PN
+<EoL>
+𒅇	CNJ
+𒇻𒌑	CNJ
+𒆠𒅁𒊏𒁀	PN
+𒇷𒊺𒁉𒇻𒆪	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁉𒍪𒌑	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒈽𒈾𒍢𒅕𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒀸𒋗𒈪𒅀	PRP
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒄿𒉡𒈠	SBJ
+𒀜𒋫𒀠𒄰	V
+<EoL>
+𒌑𒌌	MOD
+𒀝𒁉𒀀𒆠𒅎	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+𒊒𒌓𒋫𒄠	N
+<EoL>
+𒊑𒅆𒈠	V
+𒅟𒋡𒀜𒆠	N
+<EoL>
+𒇻𒌑	MOD
+𒅟𒁉𒀉	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒁹𒊺𒇷𒁍	PN
+<EoL>
+𒅅𒁉𒀀𒄠𒈠	V
+<EoL>
+𒈠𒁲𒅖	AV
+𒄭𒁺𒍪	N
+𒋾𒄿𒁲	V
+<EoL>
+𒀀𒈾	PRP
+𒌗𒁹𒄰	NU
+𒌗𒁹𒄰	N
+𒀀𒆷𒄰	N
+<EoL>
+𒊒𒌓𒋫	N
+𒀀𒈾	PRP
+𒉺𒉌𒆠	N
+<EoL>
+𒌑𒌌	MOD
+𒋫𒅈𒁲𒂊𒈠	V
+<EoL>
+𒌑𒌌	MOD
+𒀀𒄩𒋾	N
+𒀉𒋾𒆠	PRP
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒍪𒁀𒋾	N
+𒂍	N
+𒄩𒈬𒋾	nan
+<EoL>
+𒀀𒉿𒅋𒌅𒌝	N
+<EoL>
+𒌑𒌌	MOD
+𒆠𒀀𒊭	AV
+𒄿𒅔𒆠	N
+<EoL>
+𒇷𒅁𒁀𒀸𒅆𒄿	V
+<EoL>
+𒈪𒅎𒈠	XP
+𒊭	DET
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒌑𒌌	MOD
+𒆪𒌒x	nan
+x	nan
+<EoL>
+𒁹	NU
+𒈦	NU
+𒋡	N
+𒉌𒄑	N
+𒐈	NU
+𒄩	N
+𒌑𒊭𒁉𒇴	V
+<EoL>
+𒆬𒌓	N
+𒋗𒁉𒅆𒈠	V
+𒀀𒈾	PRP
+𒍣𒁍𒋾𒆠	N
+<EoL>
+𒇻𒊭𒁉𒆷𒆠	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀸𒊑𒉌𒉌𒋗	PN
+𒊏𒅎	N
+𒀀𒉿𒇷𒂊	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒅎𒊬𒀸𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒁹𒀀𒊒𒄷𒌝	PN
+𒈠𒄴𒊑𒅀	N
+𒆠𒀀𒄠	AV
+𒅖𒆪𒌦	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒊺𒄠	N
+𒊭	DET
+𒂊𒇷𒅀	PRP
+𒄿𒋗𒌑	V
+<EoL>
+𒄿𒈾	PRP
+𒁉𒀉	N
+𒂊𒈪𒆠𒅀	N
+𒀀𒁀𒀠𒅟	N
+<EoL>
+𒀝𒁉𒋳	V
+𒋗𒌑	IP
+𒍪𒄩𒅈𒌓	N
+<EoL>
+𒊭	DET
+𒁉𒌓	N
+𒄿𒈾𒍝𒊒	V
+𒅇	CNJ
+𒉻𒉌	N
+<EoL>
+𒄿𒋼𒉡	V
+𒀉𒋼𒁉	V
+<EoL>
+𒆷	MOD
+𒈾𒌅𒌑	V
+𒀀𒈾	PRP
+𒈬𒊺𒍣𒁴	N
+<EoL>
+𒈨𒂊	N
+𒊒𒌓𒁺𒌑	V
+<EoL>
+𒆠𒈠	PRP
+𒀜𒋫𒀀	IP
+𒋰𒁍𒋾𒋗	N
+𒀀𒆷𒆠𒅎	N
+<EoL>
+𒆷	MOD
+𒋫𒄩𒀸	V
+𒂵𒁉𒅎	N
+<EoL>
+𒋢𒊌𒋾𒋗	N
+𒆷𒉺𒁴	N
+𒀜𒋫	IP
+<EoL>
+𒍪𒄩𒅈𒋫𒋗	N
+𒋼𒉈𒁉	V
+<EoL>
+𒋳𒈠	MOD
+𒄿𒈾	PRP
+𒆠𒈾𒁴	N
+𒋫𒊏𒈠𒉌	V
+<EoL>
+𒍪𒄩𒅈𒋫𒋗	N
+𒌓𒐊𒄰	NU
+𒌓𒐊𒄰	N
+<EoL>
+𒉿𒊺𒅕	V
+𒀜𒋫	IP
+𒈾𒅟𒊏𒋫	V
+<EoL>
+𒌑𒌌	MOD
+𒁉𒀉𒆪𒉡𒌑	N
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀴𒀭𒂗𒍪	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀀𒇳𒊬𒀀𒋢	PN
+𒅇	CNJ
+𒊭𒅆𒁍𒋾𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒀭𒀫𒌓	DN
+𒅇	CNJ
+𒀭𒀀𒇳𒊬	DN
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒄿𒁉𒀭𒌓	PN
+𒊭	DET
+𒋫𒀸𒁍𒊏𒉌𒀀𒅆	V
+<EoL>
+𒁹𒄿𒁉𒀭𒌓	PN
+𒄿𒈾	PRP
+𒈠𒄴𒊑𒉌	N
+<EoL>
+𒆠𒀀𒄠	AV
+𒅖𒆪𒌦	V
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒁾𒉺𒄠	N
+𒅖𒌅	PRP
+𒀀𒇷𒅎	N
+<EoL>
+𒌒𒇻𒉌𒋳𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒁉𒋾𒋗	N
+𒌑𒅟𒀠	V
+<EoL>
+𒆠𒈠	SBJ
+𒅖𒌅	PRP
+𒀀𒇷𒅎	N
+<EoL>
+𒄿𒊭𒉺𒊒𒉌𒄣	V
+<EoL>
+𒀀𒈾	PRP
+𒁉𒄿	N
+𒁾𒁉	N
+𒊭	DET
+𒅖𒌅	PRP
+𒀀𒇷𒅎	N
+<EoL>
+𒌒𒁀𒇻𒉌𒄣	V
+<EoL>
+𒂊𒁍𒍑	V
+<EoL>
+𒀸𒋳	PRP
+𒆪𒋛𒅀	PN
+𒊭	DET
+𒋫𒀸𒁍𒊏𒉌𒀀𒅆𒅎	V
+<EoL>
+𒁹𒌑𒈾𒊒𒌝	PN
+𒄿𒁷𒀭𒂗𒍪	PN
+<EoL>
+𒅇	CNJ
+𒇷𒁉𒀉𒀹𒁯	PN
+<EoL>
+𒀀𒉿𒅋𒋫𒄠	N
+<EoL>
+𒅕𒋼𒁺𒉌𒄣	V
+<EoL>
+𒆠𒈠	PRP
+𒉌𒀉𒇷𒅟	N
+<EoL>
+𒂊𒁍𒍑	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒊩𒆳𒅟𒆷𒋾𒅎	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒉈𒀭𒆠𒀉𒌈𒈠	PN
+<EoL>
+𒁁𒂖𒆠	N
+𒇷𒁀𒀠𒇷𒀉𒆠	V
+<EoL>
+𒀀𒊮𒆠	N
+𒀀𒈾	PRP
+𒋗𒈪𒅕𒍢𒁴	PN
+<EoL>
+𒅇	CNJ
+𒋫𒊏𒅀𒋾𒅎	PN
+𒋫𒀜𒁲𒉌	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒀀𒊮𒄠	N
+𒋼𒆠𒈪𒋗𒉡𒋾𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒊭𒉌𒅎	N
+𒋫𒈾𒀜𒁲𒉌	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒁲𒉡𒌝	N
+𒀀𒊮𒌝	N
+𒄿𒈾	PRP
+𒁉𒋾	N
+<EoL>
+𒀀𒇉	N
+𒀀𒋫𒀊𒁉𒅎	WN
+<EoL>
+𒋗𒍢𒄿𒅎	N
+<EoL>
+𒅔𒉌𒆠𒅎𒈪𒄿	V
+<EoL>
+𒁹𒋗𒈪𒅕𒍢𒁴	PN
+<EoL>
+𒅇	CNJ
+𒋫𒊏𒅀𒌈	PN
+<EoL>
+𒈠𒄴𒊑𒅀	N
+𒅖𒆪𒉡	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒉡𒈠	IP
+𒀀𒊮𒄠	N
+𒋗𒍣𒀀	N
+<EoL>
+𒅇	CNJ
+𒅀𒈬𒊑𒅎	nan
+<EoL>
+𒁾𒉺𒄠	N
+𒌒𒇴𒈠	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒀝𒁉𒋗	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+𒀀𒊮𒄠	N
+𒌑𒌌	MOD
+<EoL>
+𒋼𒁍𒍑	V
+<EoL>
+𒄿𒉡𒈠	SBJ
+𒀉𒋫𒀠𒅟𒆠𒅎𒈪	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋾𒈠	IP
+𒀀𒉈𒀭𒆠𒀉𒌈	PN
+<EoL>
+𒅖𒁍𒊏𒄠	V
+𒀀𒊮𒄠	N
+𒌑𒌌	MOD
+𒀀𒈾𒀜𒁲𒈾𒄣	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁁𒇷𒍪𒉡	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅋𒋫𒉌𒈠	PN
+<EoL>
+𒈪𒉡𒌝	QP
+𒊭	DET
+𒇷𒁀𒆠	N
+<EoL>
+𒅎𒊏𒍪𒈠	V
+𒆠𒀀𒄠	AV
+<EoL>
+𒋫𒀸𒁍𒊑𒅎	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋾𒈠	IP
+<EoL>
+𒄿𒈾	PRP
+𒊺𒄑𒉌	N
+𒋗𒄷𒋫𒆪	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒂊𒇷𒄿𒄿	V
+<EoL>
+𒋗𒌓𒆠	V
+<EoL>
+𒅖𒌅𒈠	CNJ
+𒆠𒀀𒄠	AV
+<EoL>
+𒀀𒊮𒄠	N
+𒊭	DET
+𒂊𒁉𒌅𒌑	V
+<EoL>
+𒋗𒌒𒊑𒅎𒈠	V
+<EoL>
+𒆠𒊏𒄠	N
+𒇻𒍑𒁍𒊌	V
+<EoL>
+𒌓𒄭𒉌	N
+𒌑𒊏𒁲𒅁	V
+<EoL>
+𒐂	NU
+𒄥	N
+𒅁𒁀𒋗𒌑	V
+<EoL>
+𒊕𒊩𒆳	N
+𒌑𒄩𒇷𒅅	V
+<EoL>
+𒂊𒇷𒄿	V
+𒀭𒌓	DN
+𒁉𒅋𒆠	N
+<EoL>
+𒌑𒊺𒂊𒁕	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒉡𒌫𒀭𒆏𒋫	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒌓𒇷𒉿𒅕𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒊩𒌆𒋜𒀭𒈾	DN
+𒀀𒈾	PRP
+𒁕𒊑𒀀𒁴	N
+<EoL>
+𒇷𒁀𒀠𒇷𒁺𒌑𒅟	V
+<EoL>
+𒆠𒈠	PRP
+𒇻𒀴𒄭𒀀	N
+𒋾𒋗𒌑	V
+𒌍𒈨𒈠	V
+<EoL>
+𒑚	NU
+𒈠𒈾	N
+𒆬𒌓	N
+𒊭	DET
+𒀀𒀀𒄿𒅎𒈠	XP
+<EoL>
+𒅟𒇷𒀀𒆪	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒁾𒁉	N
+<EoL>
+𒁹𒄿𒁀𒊬𒀸	PN
+<EoL>
+𒍪𒄩𒅈	N
+𒀀𒉿𒅆	N
+<EoL>
+𒊭	DET
+𒇻𒀴𒄭𒀀	N
+𒄩𒀸𒄷	V
+<EoL>
+𒍑𒋫𒁉𒆷𒀝𒄣	V
+<EoL>
+𒋳𒈠	MOD
+𒉌𒁲𒅋𒅟	N
+<EoL>
+𒋼𒅎𒅟	N
+𒂵𒄠𒊏𒄠	AJ
+<EoL>
+𒋗𒌒𒊏𒄠𒈠	V
+<EoL>
+𒀀𒉿𒈝	N
+𒆠𒄑𒍪	N
+𒇷𒅋𒆠𒈠	V
+<EoL>
+𒇷𒅋𒇷𒅟𒀝𒄣	V
+<EoL>
+𒇻𒀴𒄭𒀀	N
+𒄿𒁲𒅖𒋳	V
+<EoL>
+𒅇	CNJ
+𒍪𒄩𒊒	N
+𒊭	DET
+𒅋𒇷𒅟𒀝𒄣	V
+<EoL>
+𒀉𒋾	PRP
+𒀀𒆷𒀝𒁴	N
+<EoL>
+𒋗𒋫𒊍𒁉𒋫𒀸𒋗	V
+<EoL>
+𒀀𒈾	PRP
+𒉡𒌫𒀭𒆏𒋫	PN
+<EoL>
+𒌉	N
+𒅤𒊭𒀀𒁀	PN
+<EoL>
+𒁾	N
+𒀭𒌓𒇷𒉿𒅕	PN
+<EoL>
+𒌉	N
+𒅤𒊭𒀀𒁀	PN
+<EoL>
+𒀀𒄭𒋗	N
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒁲𒀭𒉌𒁴	PN
+<EoL>
+𒅇	CNJ
+𒊩𒌆𒋾𒀭𒀀𒀀	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅋𒋫𒉌𒈠	PN
+<EoL>
+𒁁𒇷	N
+𒅇	CNJ
+𒁁𒂖𒋾	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒆠𒈾𒋾	V
+<EoL>
+𒁹𒌍𒄿𒁷𒉆	PN
+<EoL>
+𒅇	CNJ
+𒌉𒆠𒋾𒁴	PN
+<EoL>
+𒈠𒄴𒊑𒆠𒈾	PRP
+<EoL>
+𒉿𒀸𒁍	V
+<EoL>
+𒌝𒈠	PRP
+𒁹𒄖𒇻𒌒𒌈𒈠	PN
+<EoL>
+𒄿𒈾	PRP
+𒄿𒁲𒅟	N
+<EoL>
+𒊭	DET
+𒀀𒈾	PRP
+𒈾𒄠𒊏𒄠𒊭𒊒𒌨	PN
+<EoL>
+𒁹	NU
+𒋡	N
+𒊺	N
+𒌑𒌌	MOD
+𒄿𒁲𒉆	V
+<EoL>
+𒅇	CNJ
+𒈪𒅎𒈠	XP
+<EoL>
+𒆷𒀀	MOD
+𒋫𒉺𒆷𒄩	V
+<EoL>
+𒋗𒇻𒌝𒆪𒉡	N
+<EoL>
+𒋗𒌒𒊏𒉏𒈠	V
+<EoL>
+𒇷𒁉	N
+𒇷𒉡𒄴	V
+<EoL>
+𒅇	CNJ
+𒌝𒈠	PRP
+𒅋𒋫𒉌	PN
+<EoL>
+𒁉𒊑𒆪	V
+<EoL>
+𒅇	CNJ
+𒆪𒍪	N
+<EoL>
+𒅅𒋫𒀸𒁺𒉌𒉌	V
+<EoL>
+𒂊𒊑𒅆𒅀𒈠	AV
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁁𒂖𒋫𒉌	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒈬𒇷𒍣𒈠	PN
+<EoL>
+𒀜𒈠𒋾	PRP
+𒀜𒈠𒋾	AV
+𒋫𒍣𒅎𒋫𒆠	N
+<EoL>
+𒄿𒋫𒀝𒆷𒀭𒉌	V
+<EoL>
+𒌑𒇻	CNJ
+𒄿𒈾	PRP
+𒉺𒉌𒆠	N
+<EoL>
+𒈬𒌅𒌝	N
+𒇷𒀉𒁀𒆷𒀭𒉌	V
+<EoL>
+𒉿𒅈𒅟𒌓	N
+𒌑𒌌	MOD
+𒋫𒀊𒊒𒋛	V
+<EoL>
+𒊩𒆳𒆠	N
+𒌑𒌌	MOD
+𒋫𒆠𒁉𒄿	V
+<EoL>
+𒍝𒀊𒋫𒋾𒈠	V
+<EoL>
+𒈠𒄩𒅈	N
+𒁁𒇷𒆠	N
+<EoL>
+𒅇	CNJ
+𒁁𒂖𒋾𒆠	N
+<EoL>
+𒌅𒈾𒍝𒈪𒅔𒉌	V
+<EoL>
+𒀜𒈠𒋾	PRP
+𒀜𒈠𒋾	AV
+𒌑𒈪𒅎	N
+<EoL>
+𒋫𒍣𒅎𒋫𒆠	N
+<EoL>
+𒄿𒋫𒀝𒆷𒀭𒉌	V
+<EoL>
+𒋳𒈠	MOD
+𒄿𒈾	PRP
+𒂵𒋾𒅀	N
+<EoL>
+𒅇	CNJ
+𒄿𒈾	PRP
+𒂍𒋾𒅀	N
+<EoL>
+𒄿𒁀𒀸𒅆𒈠	V
+<EoL>
+𒇻	MOD
+𒀀𒉺𒆠𒀉𒆠	V
+<EoL>
+𒁁𒂖𒆠	N
+𒅇	CNJ
+𒁁𒇷𒀉𒆠	N
+<EoL>
+𒀀𒀊𒉺𒀠	V
+<EoL>
+x	nan
+x	nan
+x	nan
+x𒋾	nan
+𒀀𒍣𒅕𒆠	V
+<EoL>
+𒊩𒆳	N
+𒇻	CNJ
+𒅟𒅀𒈾𒀜𒈠	V
+<EoL>
+𒁉𒅋𒌈	N
+𒇻	MOD
+𒅟𒅀𒈾𒀜	V
+<EoL>
+𒀭𒀀𒀀𒋾𒆷𒋾	PN
+<EoL>
+𒈠𒅈𒍝𒀜𒈠	V
+<EoL>
+𒁉𒅋𒌓	N
+𒌑𒌌	MOD
+𒄿𒊭𒆠	V
+<EoL>
+𒀸𒋳	PRP
+𒁹𒅟𒉌𒅀	PN
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊑𒅎	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋾𒈠	IP
+<EoL>
+𒆠𒈠	PRP
+𒌋	NU
+𒈠𒈾	N
+𒆬𒌓	N
+<EoL>
+𒊭	DET
+𒀀𒁍𒊭	N
+𒆷	MOD
+𒄿𒁺	V
+<EoL>
+𒀀𒁲	PRP
+𒁍𒅆𒆠	N
+𒀉𒋫xxx𒀠	nan
+<EoL><EoT>
+𒀀𒈾	PRP
+𒇷𒁉𒀉𒀭𒈽	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒈬𒈾𒉿𒅕𒌈𒈠	PN
+<EoL>
+𒁁𒉌	N
+𒅇	CNJ
+𒁁𒂖𒋾	N
+<EoL>
+𒇷𒁀𒇷𒌅𒅟	V
+<EoL>
+𒆠𒈠	PRP
+𒁀𒊑𒀀𒆪	V
+<EoL>
+𒌑𒌌	MOD
+𒀝𒁉𒆪𒌝	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋫𒀀𒈠	IP
+<EoL>
+𒊺𒄠	N
+𒅇	CNJ
+𒊺𒄑𒉌	N
+<EoL>
+𒌑𒊭𒁀𒆷𒆠𒅎	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒊺𒄠	N
+𒅇	CNJ
+𒊺𒄑𒉌	N
+<EoL>
+𒋗𒁉𒇴	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒊑𒈨𒉌	PN
+<EoL>
+𒅇	CNJ
+𒀭𒈽𒂵𒅖	PN
+<EoL>
+𒌝𒈠	PRP
+𒈬𒈾𒉿𒅕𒌈𒈠	PN
+<EoL>
+𒁁𒉌	N
+𒅇	CNJ
+𒁁𒂖𒋾	N
+<EoL>
+𒇷𒁀𒇷𒌅𒆪𒉡𒋾	V
+<EoL>
+𒀀𒁲𒈾𒉌𒆪𒉡	PRP
+𒀀𒁲𒈾𒉌𒆪𒉡	N
+<EoL>
+𒁀𒊑𒀀𒆪	V
+<EoL>
+𒀸	NU
+𒊺𒄥𒋫𒀀𒀭	N
+𒊺𒄥𒋫𒀀𒀭	N
+<EoL>
+𒋗𒁉𒆷𒉏𒈠	V
+<EoL>
+𒇻𒊌𒊒𒁀𒆪𒉡𒅆𒅎	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒌋𒁇𒀸	PN
+𒅇	CNJ
+𒀭𒀫𒌓𒈬𒁀𒉌𒀉	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒄿𒆠𒊭𒄠𒈠	PN
+<EoL>
+𒆠𒈠	PRP
+𒁁𒉌𒅀𒌈	PN
+𒁁𒂖	N
+𒁉𒄩𒋾𒅀	N
+<EoL>
+𒆷	MOD
+𒂊𒅁𒁍	V
+𒊭𒀜𒋾𒊭𒄠𒈠	AV
+<EoL>
+𒄿𒈾	PRP
+𒂊𒁍𒊑𒅎	N
+𒊺𒌝	N
+𒅟𒅆𒀉𒌈	AJ
+<EoL>
+𒅇	CNJ
+𒄿𒉌𒀀𒀜	N
+𒄞𒄭𒀀𒅀	N
+𒊭𒅈𒂵𒌈	AJ
+<EoL>
+𒄿𒈾	PRP
+𒂵𒋾𒋗	N
+𒅇	CNJ
+𒄿𒈾	PRP
+𒂵𒋾	N
+𒌉𒈨𒌍𒋗	N
+𒄿𒅟𒀸𒊭𒁺	V
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅀	N
+𒌑𒌒𒇻𒉌𒅖𒋗𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒍝𒁀𒁴𒈠	N
+𒌑𒍑𒋗𒊑𒅎	N
+<EoL>
+𒀀𒉿𒁴	N
+𒀀𒈾	PRP
+𒈠𒀠𒋫𒆠𒅎	N
+𒌑𒌓𒋼𒅕	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒄿𒈾	PRP
+𒂵𒋾	N
+𒁁𒉌𒅀𒌈	PN
+𒋗𒀀𒋾	IP
+<EoL>
+𒆷	MOD
+𒁀𒊑𒂊	AJ
+𒄿𒉌𒀀𒀜	N
+𒄞𒄭𒀀𒅀	N
+𒅟𒅆𒀉𒌈	AJ
+<EoL>
+𒄿𒈾	PRP
+𒂵𒋾𒋗	N
+𒅅𒅟𒀸𒁕𒈠	V
+<EoL>
+𒅈𒅟𒌈	N
+𒅆𒄿	DET
+𒌑𒌌	MOD
+𒅁𒉺𒊑𒄑𒈠	V
+<EoL>
+𒁹𒁁𒉌𒅀𒌈	PN
+𒋗𒌑	DET
+𒀀𒁲	PRP
+𒅆𒉌𒋗	AV
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅀	N
+𒅋𒇷𒄰𒈠	V
+<EoL>
+𒀸	NU
+𒀸	N
+𒑗	NU
+𒑗	N
+𒊺𒄥	N
+𒊺𒄥	N
+𒀀𒈾	PRP
+𒄿𒁲	N
+𒂟𒂠𒂷	N
+𒇽𒀳	N
+𒊮𒄞	N
+<EoL>
+𒅔𒈾𒁲𒅔𒋳	V
+<EoL>
+𒅈𒆠𒋗𒈠	PRP
+𒁹	NU
+𒈦	NU
+𒂆	N
+𒆬𒌓	N
+𒀀𒈾	PRP
+𒄿𒁲	N
+𒂟𒂠𒂷	N
+<EoL>
+𒊭	DET
+𒀀𒊮	N
+𒋼𒀀𒀭𒌓𒆠	SN
+𒁹𒀴𒀭𒁁𒇷𒌈	PN
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒆪𒉡	N
+𒌑𒊭𒁉𒇴	V
+𒆠𒈠	PRP
+𒍢𒄴𒁉	N
+𒋫𒄠𒈠𒊏	V
+<EoL>
+𒁹𒀭𒀫𒌓𒈬𒁀𒉌𒀉	PN
+𒌉	N
+𒂍𒁾𒁀𒀀	N
+𒂍𒁾𒁀𒀀	N
+<EoL>
+𒀀𒁲	PRP
+𒌓𒄒𒉣𒆠	SN
+𒇷𒅋𒇷𒅅	V
+<EoL>
+𒅈𒅟𒀜	N
+𒄿𒉌𒀀𒀜	N
+𒄞𒄭𒀀𒅀	N
+<EoL>
+𒊭𒅈𒅗𒌈	AJ
+𒇷𒅁𒊒𒍑	V
+<EoL>
+𒊑𒌍	N
+𒂟𒂠𒂷𒈨𒌍	N
+𒅟𒋛𒈬	N
+𒊭	DET
+𒄿𒈾	PRP
+𒀀𒊮𒅀	N
+<EoL>
+𒅅𒋢𒈬	V
+𒇷𒅖𒅆𒈠	V
+<EoL>
+𒅇	CNJ
+𒋼𒅎	N
+𒂍	N
+𒂷𒄀𒀀	N
+<EoL>
+𒊭	DET
+𒊩𒆷𒈠𒍝𒉌	PN
+𒊩𒈨	N
+𒀭𒌓	DN
+𒀀𒄩𒋾	N
+<EoL>
+𒅖𒁍𒊏𒄠	V
+𒇷𒅁𒊒𒍑𒈠	V
+<EoL>
+𒋼𒅎𒋗	N
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅀	N
+𒇷𒋼𒅕𒊏𒄠	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅋𒀭𒅎	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒌉𒊩𒂊𒇷𒂊𒈠	PN
+<EoL>
+𒁁𒉌	N
+𒅇	CNJ
+𒁁𒂖𒋾	N
+𒀸𒋗𒈪𒅀	PRP
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒄷𒍝𒆷𒌈	PN
+𒊩𒈨	N
+𒀭𒌓	DN
+<EoL>
+𒌉𒊩	N
+𒋢𒈬𒊏𒄴	PN
+<EoL>
+𒊭	DET
+𒌑𒆷𒈪𒁺𒅟	V
+<EoL>
+𒄠𒈪𒉌	QP
+𒀜𒉿𒊭	N
+<EoL>
+𒆷	MOD
+𒋫𒀝𒈬𒌨𒈠	V
+<EoL>
+𒄿𒁕𒈾𒁀𒀊	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒀸𒋰𒊏𒆪𒌝	V
+<EoL>
+𒂇𒍑	N
+𒋗𒁍𒌨𒈠	V
+<EoL>
+𒁹𒅁𒉌𒀭𒈥𒌅	PN
+<EoL>
+𒉺	N
+𒀀𒃼	N
+𒇷𒀉𒊒𒉌𒆪𒈠	V
+<EoL>
+𒀜𒉿𒊭	N
+𒄖𒈬𒌨	V
+<EoL>
+𒉌𒁲	N
+𒀀𒄭𒅎	N
+<EoL>
+𒆷	MOD
+𒋫𒊏𒀸𒅆	V
+<EoL>
+𒀀𒈾	PRP
+𒀀𒉿𒅋𒀭𒅎	PN
+<EoL>
+𒀀𒄭𒅀	N
+<EoL><EoT>
+𒀀𒈾	PRP
+𒇷𒁉𒀉𒀭𒅎	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒂖𒈨𒋳𒈠	PN
+<EoL>
+𒅆𒋫𒀜	N
+𒆬𒌓	N
+𒉓	N
+𒊭	DET
+𒂵𒋾𒅟	N
+<EoL>
+𒅟𒉌𒅅	N
+𒐕𒐈	NU
+𒐕𒐈	CNJ
+𒐕𒐈	NU
+𒄞	N
+𒈬𒐁	AJ
+<EoL>
+𒊭	DET
+𒀭𒆠𒉆𒄿𒁲	PN
+<EoL>
+𒅇	CNJ
+𒐊	NU
+𒄞	N
+𒈬𒐁	AJ
+<EoL>
+𒊭	DET
+𒀭𒂗𒍪𒅁𒉌	PN
+𒌉	N
+𒌗𒈾𒉿𒅕	PN
+<EoL>
+𒊭	DET
+𒀀𒈾	PRP
+𒉓	N
+𒆬𒌓	N
+𒅔𒈾𒀜𒉡𒉌𒅅𒄣𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒈾𒍝𒊑𒅎	N
+𒌅𒋼𒅕𒊒𒋗𒉡𒅆𒅎	V
+<EoL>
+𒇷𒆠𒀀𒄠𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒀠𒄰	V
+<EoL>
+𒆷	MOD
+𒌅𒆷𒀊𒉺𒌓	V
+<EoL>
+𒅈𒄭𒅖	AV
+<EoL>
+𒋛𒅔𒂵𒄠	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒀫𒌓𒈬𒊭𒅆	PN
+<EoL>
+𒁹𒀭𒀫𒌓𒆷𒈠𒍝𒋗	PN
+<EoL>
+𒅇	CNJ
+𒀭𒂗𒍪𒁁𒂖𒀊𒅆	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒄠𒈪𒍝𒁺𒂵𒈠	RN
+<EoL>
+𒆠𒈠	PRP
+𒂟	N
+𒊓𒄠𒄩𒊒𒌑	EN
+𒂟𒌝	N
+𒈠𒁺𒌝𒈠	AJ
+<EoL>
+𒀀𒈾	PRP
+𒀖𒄞𒄭𒀀	N
+𒇇𒇻𒄭𒀀	N
+<EoL>
+𒅇	CNJ
+𒂟	N
+𒉿𒍢𒀉	N
+𒌓𒄒𒉣𒆠𒅀𒄴𒊒𒀸	SN
+<EoL>
+𒊭𒄩𒁲𒅎	N
+<EoL>
+𒀀𒈾	PRP
+𒇷𒅁𒁍	N
+𒈠𒁴	N
+𒄿𒁉𒊒𒉏	V
+<EoL>
+𒇽𒌅𒌨𒄖𒈠𒀭𒉏	N
+<EoL>
+𒊭	DET
+𒅖𒌅	PRP
+𒂍𒄭𒀀	N
+𒂟	N
+𒅟𒀸𒅆𒄿	EN
+𒅋𒇷𒄰	V
+<EoL>
+𒅅𒁉𒀀𒄠	V
+<EoL>
+𒀀𒉿𒌈	N
+𒅆𒄿	IP
+𒋫𒆠𒀉𒌈	N
+<EoL>
+𒇻	MOD
+𒋾𒁲𒀀	V
+𒀸𒋰𒊏𒀝𒆪𒉡𒅆𒅎	V
+<EoL>
+𒆍𒃲	N
+𒀀𒁲	PRP
+𒀭𒌓	N
+𒆷	MOD
+𒅖𒂵𒀀𒄠	V
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒅕𒍢𒀉	N
+𒌓𒄒𒉣𒆠𒅀𒄴𒊒𒀸	SN
+<EoL>
+𒅇	CNJ
+𒄘	N
+𒀀𒇉𒌓𒄒𒉣𒆠	WN
+<EoL>
+𒅈𒄭𒅖	AV
+<EoL>
+𒀀𒈾	PRP
+𒇷𒅁𒁍	N
+𒈠𒁴	N
+𒇷𒄑𒋢𒄷𒉏	V
+<EoL>
+𒅇	CNJ
+𒈣𒄭𒀀	N
+𒊭	DET
+𒄿𒈾	PRP
+x	nan
+<EoL>
+𒅇	CNJ
+𒄘	N
+𒀀𒇉𒌓𒄒𒉣𒆠	WN
+x	nan
+<EoL>
+𒀀𒈾	PRP
+𒋼𒀀	N
+𒌓𒄒𒉣𒆠	SN
+x	nan
+x	nan
+<EoL>
+𒇷𒅎𒈪𒁺𒅆𒈾𒋾	V
+<EoL>
+𒂟	N
+𒇽𒉽	N
+𒆷	MOD
+𒄿𒅟𒀸𒊭𒀜	V
+<EoL>
+𒇻	MOD
+𒉡𒊌𒆪𒁕𒌅𒉡𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒁉𒄩𒀜	N
+𒀀𒅆	N
+𒈾𒍝𒊑𒅎	N
+<EoL>
+𒆷	MOD
+𒋼𒅅𒄀𒀀	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒉌𒀉𒈾𒀜𒀭𒂗𒍪	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀫𒌓𒆷𒈠𒍝𒋗𒈠	PN
+<EoL>
+𒀸𒋳	PRP
+𒁁𒇷𒍪𒉡	PN
+<EoL>
+𒌉𒊩	N
+𒆠𒍝𒁴	PN
+<EoL>
+𒅇	CNJ
+𒄷𒈾𒁀𒌈	PN
+<EoL>
+𒌉𒊩	N
+𒄩𒄿𒅎	PN
+𒀸𒁍𒊏𒄣	V
+<EoL>
+𒌝𒈠	PRP
+𒅆𒄿𒈾𒈠	IP
+<EoL>
+𒅖𒌅	PRP
+𒈬𒈫𒄰	NU
+𒈬𒈫𒄰	N
+<EoL>
+𒀀𒊮𒇴	N
+<EoL>
+𒌅𒌨𒊏𒀭𒉌𒅆𒅎	V
+<EoL>
+𒀀𒈪𒉌	QP
+𒁀𒊑𒀀𒉡	V
+<EoL>
+𒀀𒈾	PRP
+𒅁𒉌𒀭𒈥𒌅	PN
+<EoL>
+𒅇	CNJ
+𒌉𒅕𒍢𒁴	PN
+<EoL>
+𒀸𒁍𒌨𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒉡𒈠	IP
+<EoL>
+𒀉𒋾	PRP
+𒊭𒁉𒅕	N
+𒀀𒇉𒈠	N
+<EoL>
+𒀀𒈾	PRP
+𒅟𒋳	IP
+𒄭𒅈𒁕	V
+<EoL>
+𒂟𒀭𒌓	PN
+𒀀𒊮𒅆𒈾	N
+<EoL>
+𒀀𒁍𒌌	V
+<EoL>
+𒂟𒀭𒌓	PN
+𒀀𒈾	PRP
+𒊬𒊑𒅎	N
+<EoL>
+𒆷	MOD
+𒄿𒍝𒅟𒊏𒅟	V
+<EoL>
+𒇷𒅅𒊒𒁀𒉌𒄣	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒉡𒌫𒀭𒊕𒋻	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒂊𒋼𒈝	PN
+𒊏𒅎𒅟𒈠	N
+<EoL>
+𒀭𒌓	DN
+𒇷𒁀𒀠𒇷𒀉𒅟	V
+<EoL>
+𒁹𒁍𒄷𒊒𒌝	PN
+<EoL>
+𒆠𒄠	AV
+𒅅𒁉𒅎	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒐀	NU
+𒄥	N
+𒊺	N
+<EoL>
+𒀀𒈾	PRP
+𒉡𒌫𒀭𒊕𒋻	PN
+<EoL>
+𒀜𒁲𒅔	V
+<EoL>
+𒊺𒄠	N
+𒊭𒌅	IP
+𒀀𒈾	PRP
+𒀀𒄩𒋾𒅟	N
+<EoL>
+𒁹𒀭𒀀𒀀𒌝𒈪𒀀𒇷𒋾	PN
+<EoL>
+𒇷𒄑𒁉𒅋	V
+<EoL>
+𒆠𒄠	AV
+𒀸𒁍𒊏𒄣	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒌑𒈠	IP
+<EoL>
+𒊺𒄠	N
+𒀀𒊭𒊑𒅖	AV
+𒄿𒁲𒅔𒈠	V
+<EoL>
+𒀭𒉌𒆠𒀀𒄠	AV
+<EoL>
+𒀀𒈾𒆪	IP
+𒇻𒁲𒅔	V
+<EoL>
+𒄠𒈪𒉌	QP
+𒆷	MOD
+𒋫𒀜𒁲𒅔	V
+<EoL>
+𒇷𒅁𒁉	N
+𒌅𒌌𒋼𒈪𒅔	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒅀𒌈	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒄿𒁷𒉆𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒁾𒁉	N
+<EoL>
+𒀀𒈾	PRP
+𒀭𒋗𒁀𒉌	PN
+𒍑𒋫𒁉𒇴	V
+<EoL>
+𒀜𒋫	IP
+𒅇	CNJ
+𒀭𒋗𒁀𒉌	PN
+<EoL>
+𒁹𒈾𒁉𒀭𒂗𒍪	PN
+𒀾𒊏𒄠	nan
+<EoL>
+x	nan
+x	nan
+𒀴	N
+𒀀𒈾	PRP
+𒂵	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+x𒁲𒉡𒋗	nan
+<EoL>
+𒇷𒆠𒂊𒈠	V
+𒀀𒈾	PRP
+𒅁𒉌𒀭𒀫𒌓	PN
+<EoL>
+𒄿𒁲𒅔𒋗	V
+<EoL>
+𒉺𒉌𒅟	N
+𒈠𒁲𒅖	AV
+<EoL>
+𒁺𒉌𒅔𒋗	V
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒀸𒁍𒊏𒀝𒆪	V
+<EoL>
+𒉌𒁲	N
+𒀀𒄭	N
+𒆷	MOD
+𒋫𒊏𒀸𒅆	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒄿𒆠𒊭𒄠	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀫𒌓𒆷𒈠𒍝𒋗𒈠	PN
+<EoL>
+𒁹𒂊𒇷𒂊𒊑𒊓	PN
+<EoL>
+𒌉𒊩	N
+𒀭𒂗𒍪𒀀𒁍𒋗	PN
+<EoL>
+𒆠𒀀𒄠	AV
+𒌑𒇴𒈪𒁕𒀭𒉌	V
+<EoL>
+𒌝𒈠	PRP
+𒅆𒄿𒈠	IP
+<EoL>
+𒀀𒊮	N
+𒄿𒊑𒅖𒈠	V
+<EoL>
+𒄘𒌦	N
+𒀀𒊮	N
+<EoL>
+𒀉𒁀𒀠𒇷	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒀸𒋰𒊏𒆪	V
+<EoL>
+𒁾𒁉	N
+𒆠𒈠	PRP
+𒀀𒈠𒊑	N
+<EoL>
+𒀠𒄰𒈠	V
+𒊩𒈨	N
+𒀭𒌓	DN
+<EoL>
+𒀀𒁍𒌌𒇷	V
+<EoL>
+𒌑𒌌	MOD
+𒋫𒀠𒇷𒄰𒈠	V
+<EoL>
+𒈾𒀝	N
+𒈨𒂊	N
+<EoL>
+𒄿𒈾	PRP
+𒁉𒋾𒅟	N
+<EoL>
+𒌑𒌌	MOD
+𒄿𒍣𒁍𒉌	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅𒋗	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒋗𒁀𒉌𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍𒅟	N
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	AJ
+<EoL>
+𒇷𒆠𒅋	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅟	N
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒄿𒉡𒈠	SBJ
+𒍑𒌅	PRP
+𒌓𒄒𒉣𒆠	SN
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒀀𒇷𒄰	V
+<EoL>
+𒀉𒋾	PRP
+𒀀𒉿𒅆	N
+𒌑𒇥𒈹	PN
+𒀭𒈾𒈨𒅕𒈠	V
+<EoL>
+x	nan
+x	nan
+x	nan
+𒅀	nan
+𒀀𒉿𒅆	N
+𒊑𒅖𒀭𒍝𒂷𒂷	PN
+<EoL>
+𒌑𒆠𒅋𒈠	V
+<EoL>
+𒀸𒋳	PRP
+𒂊𒌀𒅗𒀭𒈾𒁉𒌝	PN
+𒋃	N
+𒀭𒀀𒀀	DN
+<EoL>
+𒆠𒀀𒄠	AV
+𒅅𒁉	V
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒉺𒉌	N
+𒉿𒆪𒁴	nan
+𒊭	DET
+𒀭𒂗𒍪𒁁𒂖𒀊𒅆	PN
+<EoL>
+𒂊𒌀𒅗𒀭𒈾𒁉𒌝	PN
+𒋃	N
+𒀭𒀀𒀀	DN
+<EoL>
+𒍝𒁉𒀉	V
+<EoL>
+𒅇	CNJ
+𒀀𒉿𒅆	N
+𒌑𒇥𒈹	PN
+𒆠𒀀𒄠	AV
+𒅅𒁉	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒅖𒋼𒂗	N
+𒆠𒅔𒉆	V
+𒊭𒉌𒀀𒄠	N
+𒆠𒅔𒉆	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒊭𒀸𒅆𒅎	NU
+𒆠𒅔𒉌	V
+<EoL>
+x	nan
+x	nan
+𒁉	nan
+𒂊	nan
+𒊍𒍝𒊍	V
+<EoL>
+𒀭𒉌𒌓	DP
+𒅅𒁉	V
+<EoL>
+𒅁𒉌𒀭𒀫𒌓	PN
+𒌉	N
+𒂍𒁾𒁀𒀀	N
+𒂍𒁾𒁀𒀀	N
+<EoL>
+𒄿𒈾	PRP
+𒆠𒁉𒀉	N
+𒀀𒉿𒅆	N
+𒌑𒇥𒈹	PN
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒀀𒉿𒅆	N
+𒀭𒂗𒍪𒅎𒄥𒀭𒉌	PN
+<EoL>
+𒅋𒇷𒄰𒈠	V
+<EoL>
+𒀀𒈾	PRP
+x	nan
+x	nan
+𒀭𒂗𒍪𒁁𒂖𒀊𒅆	PN
+𒋗𒀀𒋾	IP
+<EoL>
+𒅇	CNJ
+x	nan
+x	nan
+x	nan
+𒇷𒄑𒋢𒉌𒅅𒆪𒈠	V
+<EoL>
+𒊭𒀊𒋾𒋗𒉡	N
+𒅆𒈨	V
+<EoL>
+𒅇	CNJ
+𒋼𒈠𒄠	N
+𒂵𒄠𒊏𒄠	AJ
+𒋗𒌒𒊏𒄠	V
+<EoL>
+𒅇	CNJ
+𒀀𒉿𒅆	N
+𒌑𒇥𒈹	PN
+𒆠𒀀𒄠	AV
+𒅖𒁍𒊏𒄠	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+𒁕𒁀𒁀𒄠	N
+𒈠𒆷	REL
+𒇷𒅁𒁀𒅟	N
+<EoL>
+𒈾𒋗	V
+𒄖𒌝𒈨𒅕𒈠	V
+𒁺𒁍𒌒	V
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒀭𒂗𒍪𒅎𒄥𒀭𒉌	PN
+𒄑𒋢𒈾𒋾𒈠	V
+<EoL>
+𒁕𒁀𒁀𒄠	N
+𒊌𒁕𒄠𒈨𒅕𒈠	V
+<EoL>
+𒀜𒁕𒁍𒌒	V
+𒅇	CNJ
+𒋼𒈠𒄠	N
+𒂵𒄠𒊏𒄠	AJ
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒀀𒉿𒅆	N
+𒌑𒇥𒈹	PN
+𒅖𒋫𒀊𒊏𒄠	V
+<EoL>
+𒀀𒈾	PRP
+𒅁𒉌𒀭𒀫𒌓	PN
+𒌉	N
+𒂍𒁾𒁀𒀀	N
+𒂍𒁾𒁀𒀀	N
+<EoL>
+𒆠𒀀𒄠	AV
+𒅅𒁉	V
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒀀𒊮	N
+𒂍	N
+𒅇	CNJ
+𒄞𒄭𒀀	N
+<EoL>
+𒀀𒈾	PRP
+𒀭𒋗𒁀𒉌𒈠	PN
+<EoL>
+𒉺𒀝𒁺	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅𒋗	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒈠𒀭𒉡𒌝𒁀𒇻𒍑𒊭	PN
+<EoL>
+𒅇	CNJ
+𒀭𒈹𒂞𒊺𒈪𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒀸𒋗𒈪𒉌	PRP
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒀀𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒀀𒋫	V
+<EoL>
+𒇻	MOD
+𒁕𒊑𒀀𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍𒅟	N
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	AJ
+𒇷𒆠𒅋	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅟	N
+𒉌𒅖𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒌑𒌌	MOD
+𒄴𒄷𒅟𒀀	N
+𒉌𒄿𒉡	IP
+<EoL>
+𒁉𒋫𒌅𒉌	N
+𒌑𒌌	MOD
+𒁉𒀉𒅟𒀀	N
+<EoL>
+𒀀𒄴𒅟	N
+𒄿𒈾	PRP
+𒈬𒌔𒄭𒉌	N
+<EoL>
+𒀀𒈾	PRP
+𒈪𒉏	QP
+𒋫𒈾𒀜𒁲	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒂊𒊑x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒁾𒉺𒉌	N
+𒉡𒍑𒋫𒁉𒆷𒀝𒄣	V
+<EoL>
+𒊺𒄑𒉌	N
+𒊭	DET
+𒁹	NU
+𒈠𒈾	N
+𒊭	DET
+𒈫	NU
+𒈠𒈾	N
+<EoL>
+𒆠𒈠	PRP
+𒄿𒁀𒀸𒋗𒌑	V
+<EoL>
+𒅇	CNJ
+𒁹	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒆠𒈠	PRP
+𒋫𒀝𒁉𒀀𒀭𒉌𒀀𒅆𒅎	V
+<EoL>
+𒋗𒁉𒆷𒀭𒉌𒀀𒅆𒅎𒈠	V
+<EoL>
+𒆬𒌓	N
+𒈫	NU
+𒈠𒈾	N
+𒐈	NU
+𒈠𒈾	N
+<EoL>
+𒈠𒆷	REL
+𒋫𒄩𒀸𒊺𒄷	V
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒁾𒉺𒅟	N
+𒌅𒊭𒀊𒁀𒆷𒀭𒉌𒀀𒅆𒅎	V
+<EoL>
+𒄿	MOD
+𒉌𒀉𒁲𒅔𒈠	V
+<EoL>
+𒇷𒅁𒆷𒀝𒄣	V
+<EoL>
+𒉻	N
+𒌑𒌌	MOD
+𒉌𒋗	V
+<EoL>
+𒊺𒌝	N
+𒀭𒉡𒌑𒌝	DP
+𒊭	DET
+𒊺𒄑𒉌	N
+𒀭𒉡𒌈	DP
+<EoL>
+𒇷𒊏𒄷𒉌𒀀𒅆𒅎	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒋃	N
+𒀭𒌓	DN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒉌𒀉𒈾𒀜𒀭𒂗𒍪𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒊩𒈨	N
+𒀭𒌓	DN
+𒊩	N
+𒋼𒀀𒀭𒌓𒆠	SN
+<EoL>
+𒊭	DET
+𒌑𒇴𒈪𒁺𒅟𒀀𒈠	V
+<EoL>
+𒋫𒀸𒁓𒊏𒄠	V
+<EoL>
+𒆠𒈠	PRP
+𒋾𒁺𒌑	V
+𒂊𒁍𒀸	N
+<EoL>
+𒄿𒈾	PRP
+𒆠𒈠	PRP
+𒄿𒈾𒀭𒈾	AV
+<EoL>
+𒈠𒀭𒉡𒌝	QP
+𒈠𒀭𒈾𒄠	XP
+<EoL>
+𒄿𒉺𒀠	V
+<EoL>
+𒀸𒋳	PRP
+𒐀	NU
+𒃷	N
+𒀀𒊮	N
+𒉈𒋾	N
+<EoL>
+𒀀𒈾	PRP
+𒊏𒁉𒀀𒀭	N
+𒋼𒀀𒀭𒌓𒆠	SN
+<EoL>
+𒀝𒁉𒄿𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒀀𒊮𒌝	N
+𒋗𒌑	IP
+𒀀𒈾	PRP
+𒂟	N
+𒄀𒅍𒈨𒌍	N
+<EoL>
+𒄑𒄩𒄠	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒊭	DET
+𒋫𒀸𒋰𒊏𒄠	V
+<EoL>
+𒀀𒈾	PRP
+𒈠𒀸𒅟𒉏	N
+<EoL>
+𒈠𒊍𒍝𒊏𒄠	N
+𒇷𒅖𒆪𒌦	V
+<EoL>
+𒅖𒌅	PRP
+𒄿𒈾𒀭𒈾	AV
+𒌓𒌋𒄰	NU
+𒌓𒌋𒄰	N
+<EoL>
+𒌓𒋼𒁴	N
+𒆠𒈠	PRP
+𒂊𒇷𒅎	N
+<EoL>
+𒀀𒈾𒆪	IP
+𒅇	CNJ
+𒀜𒋫	IP
+<EoL>
+𒉡𒍑𒋫𒀜𒋫𒀀𒈠	V
+<EoL>
+𒊏𒁉𒀀𒀭	N
+𒋼𒀀𒀭𒌓𒆠	SN
+<EoL>
+𒄿𒋫𒅈𒊒𒉏	V
+<EoL>
+𒅟𒉌𒅅	N
+𒁁𒉌𒅀	N
+𒀀𒄠𒈠𒅈𒈠	V
+<EoL>
+𒋳𒈠	MOD
+𒀀𒊮𒌝	N
+𒋗𒌑	IP
+𒄿𒈾	PRP
+𒊏𒍝𒁉𒅎	nan
+<EoL>
+𒋗𒊌𒉡𒊌	V
+𒀀𒊮𒊭	N
+𒄿𒋫𒅈𒅆𒅎	V
+<EoL><EoT>
+𒀀𒈾	PRP
+xxx𒌈	nan
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒄩𒍣𒅕𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒆠	V
+<EoL>
+𒊭𒀠𒈠𒆪	V
+𒆷	MOD
+𒋫𒈾𒆪𒁲	V
+<EoL>
+𒀀𒈾	PRP
+𒈠𒀭𒆠𒋛𒆠	SN
+𒂟	N
+𒀝𒋗𒌓	V
+<EoL>
+x	nan
+𒊺𒄥	N
+𒊺𒄥	N
+𒄿𒈾	PRP
+𒂍	N
+𒆪𒉡𒆠𒅀	N
+<EoL>
+𒁉𒋾𒂊𒈠	V
+𒀀𒈾	PRP
+𒄿𒉌𒀀𒁴	N
+𒀉𒉌	V
+<EoL>
+𒋳𒈠	MOD
+𒊺𒅎	N
+𒁉𒋾𒀀𒄠	V
+<EoL>
+x	nan
+x	nan
+x	nan
+𒋾𒁲	V
+𒁹	NU
+𒍪𒁀𒌓	N
+𒀉𒉌𒈠	V
+<EoL>
+𒋳𒈠	MOD
+𒊺𒄠	N
+𒋳𒈠	MOD
+𒆬𒌓	N
+<EoL>
+𒊭𒈪𒈠	V
+𒀀𒈾	PRP
+𒄿𒉌𒀀𒁴	N
+𒀉𒉌	V
+<EoL>
+𒍏𒆪𒌓𒁕𒁴	N
+𒅇	CNJ
+𒍏𒉺𒀸	nan
+<EoL>
+𒉺	nan
+𒁲	nan
+𒈠	nan
+<EoL>
+𒇽𒂠𒂷	N
+𒀀𒈾	PRP
+𒌗𒁹𒄰𒈠	NU
+𒌗𒁹𒄰𒈠	N
+<EoL>
+𒀝𒊑𒈠	V
+𒄀𒂵𒉡𒌝	N
+𒈠𒇷	REL
+𒄿𒇷𒀀𒄠	V
+<EoL>
+𒇻	MOD
+𒅟𒋛𒅎	V
+<EoL>
+𒌆	N
+𒅈𒊒𒊏𒄠	N
+𒆠𒈠	PRP
+𒋫𒀊𒋫𒅈𒋛	V
+<EoL>
+𒉌𒄑	N
+𒅇	CNJ
+𒋗𒀀𒋾	IP
+𒄿𒁲𒉌𒈠	V
+<EoL>
+x	nan
+𒁍𒌨𒋗𒈪𒅀	N
+𒊭	DET
+𒌷	N
+𒉋	AJ
+<EoL>
+x	nan
+x	nan
+𒄷	nan
+𒉌	nan
+𒆠	nan
+<EoL>
+x	nan
+𒋛	nan
+𒊭	DET
+𒀸𒋗𒊏𒀝𒆠	V
+<EoL>
+x	nan
+x	nan
+𒀀𒈾	PRP
+𒉺𒉌𒅀	N
+𒅁𒅆	V
+<EoL>
+𒀀𒈾	PRP
+𒀀𒄀𒅕𒁴	N
+𒀀𒂵𒊑𒅎	N
+<EoL>
+𒆷	MOD
+𒌅𒈠𒆥	V
+x	nan
+x	nan
+x	nan
+𒋠𒄭𒀀	N
+<EoL>
+𒄿𒀉𒉌	V
+𒐀	NU
+𒄥	N
+𒃮	N
+<EoL>
+𒀀𒈾	PRP
+𒊺𒅎	N
+𒊭𒈪𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒍢𒅕	N
+𒇻	N
+𒍣𒅕𒆠	V
+<EoL>
+x	nan
+x	nan
+𒄿𒈾	PRP
+𒈬𒄷𒊑𒅎	N
+𒄿𒍝𒍪	V
+<EoL>
+x	nan
+x	nan
+x	nan
+𒌅	nan
+𒆪	nan
+𒁀	nan
+𒁴	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+𒇷𒁀x	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+𒇷𒆪𒇻	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒉺	N
+𒄩𒁀𒋾	N
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒈾𒁲𒅔𒋗𒈪𒅎𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒆠𒈠	PRP
+𒁺𒌦𒉌	N
+𒄩𒀊𒌅	V
+<EoL>
+𒋼𒌍𒈬𒌑𒈠	V
+𒋫𒀝𒆪𒁺𒈠	V
+<EoL>
+𒋫𒀸𒁓𒊏𒄠	V
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+<EoL>
+𒋗𒌒𒊏𒄠𒈠	V
+𒄷𒁍𒌓𒅟	N
+𒇷𒊭𒇷𒈬𒅟	V
+<EoL>
+𒄩𒁀𒋾𒅀	N
+𒊍𒁀𒀜𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒄿𒁉𒀭𒂗𒍪	PN
+𒌉	N
+𒋝𒀭𒉡𒉌𒌈	PN
+<EoL>
+𒅇	CNJ
+𒈪𒉌𒅀	PN
+𒀴	N
+𒊭	DET
+𒉡𒊏𒌈	PN
+<EoL>
+𒀊𒆠𒀉	V
+𒌝𒈠	PRP
+𒋗𒉡𒈠	IP
+<EoL>
+𒄭𒋾𒀉	N
+𒁺𒌦𒉏	N
+<EoL>
+𒅇	CNJ
+𒄷𒌒𒋾𒅟	N
+<EoL>
+𒉌𒉺𒀠𒅟	V
+x	nan
+x	nan
+x	nan
+x	nan
+𒁍	nan
+x	nan
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+x	nan
+x	nan
+x	nan
+<EoL>
+𒌑𒌌	MOD
+x	nan
+x	nan
+<EoL>
+𒅆	N
+𒉺	N
+𒋗𒄿	N
+𒀀𒈾	PRP
+𒊭𒅟𒉏	N
+𒀀𒍝𒊍	V
+<EoL>
+𒊭	DET
+𒋫𒀸𒋰𒊏𒄠	V
+𒐊	NU
+𒍪𒄩𒊒𒅀	N
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒁺𒌦𒉏	N
+𒉿𒀸𒁍	V
+<EoL>
+𒐊	NU
+𒍪𒄩𒊏𒌅𒅀	N
+<EoL>
+𒀀𒈾	PRP
+𒄿𒍣	N
+𒈾𒅆𒂊𒅎	AJ
+𒅋𒇷𒅟𒈠	V
+<EoL>
+𒍪𒁀𒌅𒋗𒉡	N
+𒌆𒁇𒅆𒋗𒉡	N
+<EoL>
+𒐉	NU
+𒈠𒁕𒌈	nan
+𒁹	NU
+𒄑𒈥𒍏	N
+<EoL>
+𒁹	NU
+𒄩𒍣𒉡	N
+𒈫	NU
+𒈠𒈾	N
+𒋠	N
+<EoL>
+𒂠𒃼	N
+𒊩𒆳	N
+𒄿𒈾	PRP
+𒈠𒀸𒇷𒅎	N
+<EoL>
+𒑒	NU
+𒑒	N
+𒍥𒁕	N
+𒁹	NU
+𒊺𒉻	N
+𒍪𒄩	N
+<EoL>
+𒐋	NU
+𒇻𒀴	N
+<EoL>
+𒐊	NU
+𒈠𒈾	N
+𒊬𒌈	N
+𒀭𒉡𒌝	DP
+𒊭	DET
+𒄿𒈾	PRP
+𒁺𒌦𒉏	N
+𒅋𒆪𒌑	V
+<EoL>
+𒀸𒋰𒊏𒄣	V
+𒆠𒈠	PRP
+𒊏𒁉𒁴	N
+𒂍𒃲	N
+𒆷	MOD
+𒀀𒅟	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒉺	N
+𒁮𒃼	N
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅𒋗	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒌓𒈾𒍢𒅕𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+𒇻	MOD
+𒁕𒊑𒀀𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍	N
+𒁕𒈪𒅅𒋾𒅟	N
+𒇷𒆠𒅋	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒆠𒈠	PRP
+𒋾𒁺𒌑	V
+𒌉𒈨𒌍	N
+𒀭𒂗𒍪𒄩𒍣𒅕	PN
+<EoL>
+𒆬𒌓	N
+𒀀𒈾	PRP
+𒉓	N
+𒊕𒀴𒈨𒌍	N
+𒄿𒈾	PRP
+𒂍𒃲	N
+𒈠𒄴𒊒	V
+<EoL>
+𒊕𒀴𒈨𒌍	N
+𒁍𒄴𒋗𒉡	N
+𒂍𒃲	N
+𒀀𒁍𒌌	V
+<EoL>
+𒆬𒄀	N
+𒂠𒄭𒀀	nan
+𒉈𒈨𒀉𒋫𒆪𒉡	N
+<EoL>
+𒀀𒈾𒆪𒈠	IP
+𒂍𒃲	N
+𒀀𒁍𒌌	V
+<EoL>
+𒆬𒌓	N
+𒅋𒆠𒋗𒉡	N
+𒅇	CNJ
+𒆬𒌓	N
+𒀀𒄭𒀀𒋾𒋗𒉡	N
+<EoL>
+𒀀𒈾𒆪𒈠	IP
+𒀀𒊭𒂵𒀠	V
+<EoL>
+𒀀𒊮	N
+𒌉𒈨𒌍	N
+𒀭𒂗𒍪𒄩𒍣𒅕	PN
+x	nan
+<EoL>
+𒅋𒆪𒉏𒈠	V
+𒄞𒀳𒄭𒀀	N
+𒄞𒀳𒄭𒀀	N
+𒍑𒋫𒀜𒁺𒌑	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒌝𒈠𒈪	PRP
+𒍪𒄩𒊒𒌑	N
+𒊭	DET
+𒉺	N
+𒁮𒃼	N
+<EoL>
+𒅁𒊑𒆪𒈠	V
+𒀀𒊮	N
+𒍑𒋫𒀜𒁺𒌑	V
+<EoL>
+𒀀𒊮	N
+𒌉𒈨𒌍	N
+𒀭𒂗𒍪𒄩𒍣𒅕	PN
+𒅀𒌑𒌝	PP
+<EoL>
+𒀀𒈾𒆪	IP
+𒀸𒋫𒀀𒄠	V
+<EoL>
+𒆠𒁉𒄿𒈠	V
+𒄞𒄭𒀀𒅀	N
+𒆷	MOD
+𒌑𒊭𒀜𒁺𒌑	V
+<EoL>
+𒅇	CNJ
+𒋳𒈠	MOD
+𒄞𒄭𒀀𒅟	N
+𒅆𒅁𒊏𒄠	N
+<EoL>
+𒄿𒁍𒋗	V
+𒀀𒈾	PRP
+𒍪𒄩𒊑𒅟	N
+𒆠𒁉𒄿𒈠	V
+<EoL>
+𒅆𒅁𒊏𒄠	N
+𒆠𒈠	PRP
+𒅆𒅁𒊑𒅎	N
+<EoL>
+𒇷𒋼𒅕𒊒	V
+<EoL><EoT>
+𒆠𒈠	PRP
+𒋼𒌍𒋼𒉌𒅎𒈬𒌑	V
+<EoL>
+𒅖𒌅	PRP
+𒌗𒈫𒄰	NU
+𒌗𒈫𒄰	N
+𒆬𒌓	N
+𒉓	N
+𒊭	DET
+𒂵𒋾	N
+𒁮𒃼𒈨𒌍	N
+<EoL>
+𒍑𒋫𒀜𒁕𒀭	V
+<EoL>
+𒅇	CNJ
+𒄿𒈾	PRP
+𒉺𒉌𒄿𒁴	AV
+<EoL>
+𒀸𒋳	PRP
+𒆬𒌓𒅟	N
+𒍝𒈠𒁲𒅎𒈠	N
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒀀𒆷𒆠𒅎	N
+<EoL>
+𒀸𒁍𒊏𒀝𒄣	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒊑𒊭𒌈	PN
+𒈾𒀸𒁇	N
+<EoL>
+𒁾𒁉	N
+𒀀𒉿𒅆	N
+𒀀𒈾	PRP
+𒀭𒋗𒅁𒉌𒋗	PN
+𒉺	N
+𒁮𒃼	N
+<EoL>
+𒀸𒋳	PRP
+𒆬𒌓	N
+𒉓	N
+𒊭	DET
+𒂵𒋾𒋗	N
+<EoL>
+𒇷𒆠𒂊𒅎𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒀀𒆷𒆠𒅎	N
+<EoL>
+𒅋𒆠𒀀𒄠𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+𒀉𒋫𒀠𒄰	V
+<EoL>
+𒆠𒈠	PRP
+𒄑𒍝𒀭𒂵𒀝𒄣	V
+<EoL>
+𒆬𒌓	N
+𒉓	N
+𒊭	DET
+𒂵𒋾𒅟	N
+<EoL>
+𒇷𒆠𒀀𒄠𒈠	V
+<EoL>
+𒀉𒋾	PRP
+𒊑𒊭𒌈	PN
+𒈾𒀸𒁇	N
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒀠𒅟𒄠	V
+<EoL>
+𒀀𒈾	PRP
+𒆬𒌓	N
+𒉺	nan
+x	nan
+x	nan
+<EoL>
+𒀸𒋰𒊏𒀝𒄣	V
+x	nan
+<EoL>
+𒂵𒈨𒅕	N
+𒆬𒌓	N
+𒊭	DET
+𒂵𒋾𒅟	N
+𒇷𒆠𒀀𒄠	V
+<EoL><EoT>
+𒄿𒉡𒈠	SBJ
+𒄿𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒉿𒀸𒁀𒋫	V
+<EoL>
+𒀸𒋳	PRP
+𒆬𒌓	N
+𒋫𒀸𒁉𒀉	N
+𒈫	NU
+𒈠𒈾	N
+𒆬𒌓	N
+<EoL>
+𒄖𒌝𒈬𒊑𒅎𒈠	V
+𒁀𒁀𒅆	N
+<EoL>
+𒀝𒁉𒄣𒈠	V
+𒆠𒀀𒄠	AV
+𒋫𒀝𒁉𒀀𒄠	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+<EoL>
+𒀀𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+𒀀𒈾	PRP
+𒈠𒅟𒉌𒅀	nan
+<EoL>
+𒇻𒌌𒇷𒅅𒈠	V
+<EoL>
+𒀀𒄭𒋾	N
+𒇻𒊻𒈪𒀉𒈠	V
+<EoL>
+𒆬𒌓	N
+𒇻𒌒𒇴	V
+𒀭𒉌𒌓	DP
+𒋫𒀝𒁉𒈠	V
+<EoL>
+𒆬𒌓	N
+𒌑𒌌	MOD
+𒌅𒊭𒁉𒇴	V
+<EoL>
+𒀀𒈾	PRP
+𒂊𒁉𒅆	N
+𒀭𒉌𒄿𒅎	DP
+<EoL>
+𒇻𒌑	MOD
+𒋾𒁲𒂊	V
+<EoL>
+𒆠𒈠	PRP
+𒄿𒈾	PRP
+𒊭𒈾	NU
+𒆷	MOD
+𒈠𒂵𒊑	N
+<EoL>
+𒋼𒋼𒁍𒍑	V
+<EoL>
+𒁹𒊑𒊭𒌈	PN
+𒈾𒀸𒁇	N
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅟	N
+𒀜𒋻𒁮	V
+<EoL>
+𒆬𒌓	N
+𒋫𒀸𒁉𒀉	N
+𒈫	NU
+𒈠𒈾	N
+𒆬𒌓	N
+<EoL>
+𒍢𒈪𒀉	V
+𒇷𒆠𒀀𒄠𒈠	V
+<EoL>
+𒀉𒋾	PRP
+𒊑𒊭𒌈	PN
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒀠𒄰	V
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒆠𒈠	PRP
+𒄿𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒆬𒌓	N
+𒍝𒈠𒁮𒈠	N
+𒁀𒁀𒇴	N
+<EoL>
+𒋫𒀝𒁍𒈠	V
+𒆷	MOD
+𒌅𒌒𒇴	V
+<EoL>
+𒀀𒈾	PRP
+𒂊𒁉𒅆	N
+𒀭𒉌𒄿𒅎	DP
+<EoL>
+𒇻	MOD
+𒋾𒁲𒂊	V
+<EoL><EoT>
+𒀭𒀫𒌓	DN
+𒊏𒅎𒅟	N
+𒀸𒋗𒈪𒉌	PRP
+𒇷𒆷𒀊𒁉𒅕𒅟	V
+<EoL>
+𒄿𒈾	PRP
+𒋗𒌌𒈪	N
+𒅇	CNJ
+𒁀𒆷𒁲	N
+𒇷𒅕𒋼𒀉𒁲𒅟	V
+<EoL>
+𒉌𒊺𒅎𒈨𒂊𒈠	V
+𒅁𒉌𒀭𒅎	PN
+𒁺𒃮	N
+<EoL>
+𒊭	DET
+𒀀𒉿𒅆	N
+𒁁𒇷𒉌	N
+𒀭𒂗𒍪𒄿𒆠𒊭𒄠	PN
+<EoL>
+𒀀𒈾	PRP
+𒊺𒂊	N
+𒉻	N
+𒀭𒌓	DN
+𒄘𒌦	N
+𒀀𒉿𒅆	N
+𒅁𒉌𒀭𒌓	PN
+𒀀𒁉	N
+𒂟	N
+<EoL>
+𒇷𒆠𒂊	N
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅟	N
+𒅋𒇷𒄰	V
+<EoL>
+𒀉𒋾	PRP
+𒅁𒉌𒀭𒅎	PN
+𒋗𒀀𒋾	IP
+<EoL>
+𒁕𒁀𒁀𒄠	N
+𒁺𒌝𒈬𒂵𒄠	AJ
+𒁺𒁍𒌒	V
+x	nan
+<EoL>
+𒈠𒅟𒀭	nan
+𒊺𒂊	N
+𒋗𒀀𒌅	IP
+𒇷𒈠𒀜𒁲𒁺	V
+<EoL>
+𒋼𒅎𒅟	N
+𒂵𒄠𒊏	AJ
+𒋗𒌒𒊏𒀭𒉌𒀀𒅆𒅎	V
+<EoL>
+𒊭	DET
+𒉺𒉌𒉌	N
+𒄿	MOD
+𒉌𒅁𒉺𒇷𒄑𒈠	V
+<EoL>
+𒋼𒈠𒄠	N
+𒂵𒄠𒊏	AJ
+𒄿	MOD
+𒉌𒅖𒁍𒊏𒀝𒆪	V
+<EoL>
+𒋳𒈠	MOD
+𒅁𒉌𒀭𒅎	PN
+𒋗𒌑	IP
+<EoL>
+𒐖	NU
+𒐖	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒊭	DET
+𒀀𒉿𒈝	N
+𒁁𒂖𒉌	N
+𒂊𒇷𒉌	PRP
+𒄿𒋗𒌑	V
+<EoL>
+𒄿𒇷𒅅𒆠	V
+<EoL>
+𒀉𒋾	PRP
+𒐖	NU
+𒐖	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒋗𒀀𒌅	IP
+<EoL>
+𒌋𒌋𒐀𒈫	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒌈𒋺	N
+𒐖𒌋𒌋𒐀𒈫	NU
+𒊺𒄥	N
+𒊺𒄥	N
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒄘𒌦	N
+𒀀𒉿𒅆	N
+𒀀𒁉	N
+𒂟	N
+𒄑𒍣𒍪	V
+<EoL>
+𒀉𒋾	PRP
+𒊺𒂊	N
+𒋗𒀀𒌅	IP
+𒇷𒅔𒈾𒋛𒄴𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒉻	N
+𒀭𒌓	DN
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒄿𒁷𒉆	PN
+𒇽𒃮𒀀	nan
+<EoL>
+𒄿𒁲𒅔	V
+<EoL>
+𒅇	CNJ
+𒋳𒈠	MOD
+𒅁𒉌𒀭𒅎	PN
+𒋗𒌑	IP
+<EoL>
+𒐖	NU
+𒐖	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒀀𒈾	PRP
+𒊭	DET
+𒂊𒇷𒉌	IP
+𒀀𒉿𒈝	N
+𒁁𒂖𒉌	N
+𒄿𒋗𒌑	V
+<EoL>
+𒄿𒇷𒅅𒆠	V
+<EoL>
+𒁕𒁀𒁀𒄠	N
+𒁺𒌝𒈬𒂵𒄠	AJ
+𒀉𒋾𒋗	PRP
+𒁺𒁍𒌒	V
+<EoL>
+𒐕	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒇷𒅋𒆠	V
+𒐕	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒀀𒈾	PRP
+𒉻	N
+𒀭𒌓	DN
+<EoL>
+𒇷𒄴𒁍𒋫𒀝𒄣𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒉻	N
+𒀭𒌓	DN
+𒆷	MOD
+𒉡𒋫𒀝𒅟𒀝	V
+<EoL>
+𒈠𒆷	REL
+𒉌𒅖𒁍𒊏𒀝𒆪	V
+𒅈𒄭𒅖	AV
+𒋼𒅎𒅟	N
+<EoL>
+𒈠𒆷	REL
+𒄿𒈠𒄴𒄩𒊏𒅟	V
+𒋗𒌒𒊏𒀭𒉌𒀀𒅆𒅎𒈠	V
+<EoL>
+𒆷𒈠	PRP
+𒀬	N
+𒌑𒊺𒊺𒊒	V
+<EoL>
+𒀀𒈾	PRP
+𒉻	N
+𒂍	N
+𒀭𒌓	DN
+𒄿	MOD
+𒉌𒀉𒁍𒌒	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒈠𒀭𒈾𒌈	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅀𒄠𒍢𒀭𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒆠	V
+<EoL>
+𒀸𒋳	PRP
+𒊺𒅎	N
+𒊭	DET
+𒌌𒇷𒆠𒀀𒄠	AV
+<EoL>
+𒀀𒈾	PRP
+𒄷𒋗𒌈	SN
+𒅔𒈾𒀜𒉡	V
+<EoL>
+𒀸𒋳	PRP
+𒊺𒅎	N
+𒈾𒁕𒉏	N
+<EoL>
+𒀀𒈾	PRP
+𒅀𒅆𒅎	IP
+𒄷𒋗𒌈	SN
+<EoL>
+𒅖𒁍𒊏𒄠	V
+<EoL>
+𒊺𒌝	N
+𒌑𒌌	MOD
+𒄿𒁀𒀸𒅆𒈠	V
+<EoL>
+𒌑𒌌	MOD
+𒀉𒁲𒉡𒉌𒅅𒆠𒅎	V
+<EoL>
+𒅖𒌅	PRP
+𒄿𒈾𒀭𒈾	AV
+𒌓𒌋𒌋𒄰	NU
+𒌓𒌋𒌋𒄰	N
+<EoL>
+𒂊𒁍𒊒𒌝	N
+<EoL>
+𒄿𒈾	PRP
+𒂊𒁍𒊑𒅎	N
+<EoL>
+𒊺𒀀𒄠	N
+𒄿𒈾𒀜𒁲𒉡𒆠𒅎	V
+<EoL>
+𒋳𒈠	MOD
+𒄷𒋗𒌈	SN
+<EoL>
+𒆷	MOD
+𒅖𒁍𒊏𒄠𒈠	V
+<EoL>
+𒀜𒋾	IP
+𒀀𒈾	PRP
+𒍢𒁍𒋾𒆠	N
+<EoL>
+𒋫𒀸𒋰𒊑𒅎	V
+<EoL>
+𒍢𒁍𒌓	N
+𒋫𒊭𒉺𒊑𒅎	V
+<EoL>
+𒀀𒅟𒀠𒆷𒆠𒅎	V
+<EoL>
+𒅖𒌅	PRP
+𒄿𒈾𒀭𒈾	AV
+𒄿𒉡𒈠	SBJ
+<EoL>
+𒍢𒁍𒌓	N
+𒋫𒅈𒋫𒅆𒄿	V
+<EoL>
+𒀀𒈾	PRP
+𒅀𒅆𒅎	IP
+𒋗𒌒𒊑𒅎	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒋗𒅁𒉌	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒄿𒇻𒉌𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+<EoL>
+𒁹𒅁𒆪𒉌𒉌𒋗	PN
+𒁲𒋻	N
+𒄿𒈾	PRP
+𒁍𒌔𒊑𒅎	N
+<EoL>
+𒈠𒂵𒀠	AV
+𒀉𒁍𒁀𒄠	V
+𒇷𒅖𒊭𒀊𒊏𒄠𒈠	V
+<EoL>
+𒅈𒅟𒀜	N
+𒁕𒁀𒁉𒅀	N
+𒇷𒅁𒉺𒊑𒄑	V
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒀝𒁉𒈠	V
+𒁾𒁉	N
+𒀀𒉿𒅆	N
+<EoL>
+𒀀𒈾	PRP
+𒃲𒌺𒈾	N
+𒀀𒈾	PRP
+𒅁𒆪𒀭𒈾𒁉𒌝	PN
+𒋗𒄿	N
+<EoL>
+𒁾𒉺	N
+𒀀𒈾	PRP
+𒋼𒈪𒋗	N
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒊑𒈨𒉌	PN
+𒁲𒋻	N
+<EoL>
+𒅇	CNJ
+𒁾𒁉	N
+𒁍𒌔𒊑	N
+𒀀𒈾	PRP
+𒀀𒉿𒇷𒂊	N
+𒁲𒋻𒈨𒌍	N
+<EoL>
+𒌑𒁕𒀭𒉌𒈾𒄠𒈠	V
+𒍑𒋫𒁉𒇴	V
+<EoL>
+𒄿𒈾	PRP
+𒁍𒌔𒊑𒅎	N
+𒄿𒈾	PRP
+𒁕𒁀𒁉𒅎	N
+<EoL>
+𒉺𒉌	N
+𒅁𒆪𒉌𒉌𒋗	PN
+𒋗𒀀𒋾	IP
+𒆷	MOD
+𒌅𒌒𒁀𒀠	V
+<EoL>
+𒈠𒆷	REL
+𒀀𒉿𒋾𒆪𒉡	N
+𒊭	DET
+𒀜𒋫	IP
+𒅇	CNJ
+𒋗𒌑	IP
+<EoL>
+𒄿𒈾	PRP
+𒁍𒌔𒊑	N
+𒀀𒉿𒈝	N
+𒀀𒈾	PRP
+𒉺𒉌	N
+𒀀𒉿𒅆	N
+<EoL>
+𒋫𒁕𒀊𒁍𒁀	V
+<EoL>
+𒀀𒉿𒇻𒌑	N
+𒄿𒈾	PRP
+𒈬𒌔𒄭	N
+𒅁𒆪𒉌𒉌𒋗	PN
+𒁲𒋻	N
+<EoL>
+𒄿𒊭𒀾𒋢𒌑	V
+<EoL>
+𒅇	CNJ
+𒁾𒉺𒋾𒋗𒉡	N
+𒈨𒄴𒊏𒄠	N
+<EoL>
+𒌑𒊭𒀊𒁀𒇻𒉏	V
+𒀀𒈾	PRP
+𒍣𒈪	N
+𒁕𒁀𒁉	N
+<EoL>
+𒊭	DET
+𒄿𒊺𒅎𒈬𒌑	V
+<EoL>
+𒀀𒉿𒈝	N
+𒊬𒊏𒄠	N
+𒌑𒆷𒄠𒈠𒀜	V
+<EoL>
+𒀸𒋳	PRP
+𒊺𒋀	nan
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒁾𒁉	N
+𒂊𒌀𒅗𒀭𒈾𒁉𒌝	PN
+𒍠𒄩	N
+<EoL>
+𒀀𒈾	PRP
+𒍠𒄩	N
+𒌓𒄒𒉣𒆠	SN
+𒀀𒉺𒇷𒅟	N
+<EoL>
+𒅈𒆠	PRP
+𒀭𒊩𒌆𒅁𒉌𒋗	PN
+𒌑𒊭𒀊𒁀𒇴	V
+<EoL>
+𒁹𒑜	NU
+𒁹𒑜	CNJ
+𒁹𒑜	NU
+𒂆	N
+𒆬𒌓	N
+𒊭	DET
+𒅆𒐋𒅅	NU
+𒆬𒌓	N
+𒅗𒈝	N
+𒉌𒌇𒈾	GN
+<EoL>
+𒅇	CNJ
+𒄑𒉡𒌫𒈠	N
+<EoL>
+𒁹𒀭𒊩𒌆𒅁𒉌𒋗	PN
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅟	N
+<EoL>
+𒍑𒋫𒁉𒇴	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒋗𒅁𒉌	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒈾𒁉𒌝𒈾𒍢𒅕𒈠	PN
+<EoL>
+𒊺𒀀𒄠	N
+𒀀𒈾	PRP
+𒀠𒆕𒂊𒅟	N
+<EoL>
+𒁹𒀭x𒊏𒁉	nan
+𒅋𒆠𒀀𒄠𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅟	N
+𒀉𒋫𒀠𒄰	V
+<EoL>
+𒀀𒊮	N
+𒁉𒄩𒋾𒅟	N
+𒋗𒋫𒀝𒅆𒀉𒈠	V
+<EoL>
+𒉈𒈨𒀉𒌓	N
+𒆷	MOD
+𒋫𒊏𒀸𒅆	V
+<EoL>
+𒀸𒋳	PRP
+𒀭𒋗𒅁𒉌	PN
+𒊭𒌓	N
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒊭	DET
+𒆠𒀀𒄠	AV
+𒋫𒀸𒁍𒊏𒄠	V
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+<EoL>
+𒁹	NU
+𒄞	N
+𒅈𒆠𒀀	AJ
+𒀀𒈾	PRP
+𒄞	N
+𒆠𒈠	PRP
+𒄞	N
+𒁍𒌔𒄭	N
+<EoL>
+𒀜𒁲𒅔𒋳𒈠	V
+𒁹	NU
+𒄞	N
+𒈬𒈫	AJ
+𒀉𒁲𒉆	V
+<EoL>
+𒅟𒉌𒅅	N
+𒅆𒈠𒁴	N
+𒉡𒍑𒋼𒍣𒅁	V
+x	nan
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒀭𒋗𒅁𒉌	PN
+𒊭𒌓	N
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒌝𒈠	PRP
+𒋗𒈠	IP
+𒄞𒅟	N
+𒌑𒋫𒅈𒊏𒀝𒆪	V
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒁹𒀭𒋗𒅁𒉌	PN
+𒋗𒀀𒋾	IP
+𒌑𒆠𒅕𒊑𒁍𒉏𒈠	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒀝𒁉𒋳	V
+𒄿𒂵𒀊𒁍𒈠	V
+<EoL>
+𒄞	N
+𒅈𒆠𒀀	AJ
+𒀀𒈾	PRP
+𒌋	NU
+𒂆	N
+𒆬𒌓	N
+<EoL>
+𒀉𒁲𒉡𒉌𒅅𒆪	V
+<EoL>
+𒅇	CNJ
+𒅟𒉌𒅅	N
+𒅆𒈠𒁴	N
+𒋫𒀜𒁲𒅔	V
+<EoL>
+𒈪𒉡𒌑	QP
+𒀀𒉿𒌈𒈠	N
+𒁕𒁀𒁀𒄠	N
+𒌅𒊺𒅕𒅆	V
+<EoL>
+𒁹𒀭𒋗𒅁𒉌	PN
+𒊭𒌓	N
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒌝𒈠	PRP
+𒋗𒈠	IP
+𒀀𒈾𒆪	IP
+𒅇	CNJ
+𒀭𒋗𒅁𒉌	PN
+𒀴𒅟	N
+<EoL>
+𒄞	N
+𒆠𒈠	PRP
+𒄞	N
+𒉡𒌒𒋼𒄴𒈠	V
+<EoL>
+𒅟𒉌𒅅	N
+𒅆𒈠𒁴	N
+𒉡𒍑𒋼𒍣𒅁	V
+<EoL>
+𒄞	N
+𒊭	DET
+𒂖𒆪𒌑	V
+𒌗𒁹𒄰	NU
+𒌗𒁹𒄰	N
+𒈠𒄴𒊑𒅀	N
+𒅖𒊭𒀝𒈾	V
+<EoL>
+𒊑𒅅𒊓𒋾𒅀	N
+𒌑𒌌	MOD
+𒂊𒂗𒉌	V
+𒀭𒉌𒌓	DP
+𒅅𒁉	V
+<EoL>
+𒀸𒋳	PRP
+𒈫	NU
+𒂆	N
+𒆬𒌓	N
+𒊭	DET
+𒀀𒈾	PRP
+𒁁𒂖𒋗𒉡	PN
+𒌉	N
+𒀭𒁕𒈪𒅅	PN
+<EoL>
+x	nan
+𒃷	N
+𒀀𒊮	N
+𒆷	MOD
+𒋼𒁍𒋗	V
+𒆬𒌓	N
+𒂊𒋛𒊑𒅎𒈠	N
+<EoL>
+𒋗𒁍𒅆	N
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+𒌉	N
+𒂍𒁾𒁀𒀀	N
+𒂍𒁾𒁀𒀀	N
+𒀀𒈾	PRP
+𒆬𒌓	N
+𒋗𒀀𒋾	IP
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+𒋗𒌓𒁺𒉏	N
+𒀀𒉿𒌓	N
+𒀊𒋫𒆠𒀉	V
+<EoL>
+x	nan
+x𒋾𒅟	nan
+<EoL>
+x	nan
+𒀴𒀭𒌌𒈦𒅆𒌈	PN
+𒉺	N
+𒉺𒉺	nan
+<EoL>
+x	nan
+x	nan
+𒀀𒊮	N
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+𒌑𒁕𒀭𒉌𒈾𒄠𒈠	V
+<EoL>
+𒍑𒋫𒁉𒇴	V
+𒀸𒋳	PRP
+𒊺𒂊	N
+𒉻𒅟	N
+𒊭	DET
+𒈬𒐉𒄰	NU
+𒈬𒐉𒄰	N
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒂵𒋾	N
+𒀴𒀭𒌌𒈦𒅆𒌈	PN
+𒉺	N
+𒉺𒉺	nan
+𒋗𒌓𒁺𒉏	N
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+𒄿𒉡𒈠	SBJ
+𒀴𒀭𒌌𒈦𒅆𒌈	PN
+𒋗𒌑	IP
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒄿𒅋𒆷𒄰	V
+<EoL>
+𒁾𒉺𒅟	N
+𒋗𒁉𒇴	V
+𒉺	N
+𒉺𒉺	nan
+𒋗𒀀𒋾	IP
+𒇷x	nan
+x	nan
+x	nan
+<EoL>
+𒊺𒂊	N
+𒉻𒅟	N
+𒇷𒊭𒇷𒈬𒅟	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒋗𒅁𒉌	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒈾𒁉𒌝𒈾𒍢𒅕𒈠	PN
+<EoL>
+𒀸𒋳	PRP
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+𒁹𒅁𒆪𒉌𒉌𒋗	PN
+𒁲𒋻	N
+<EoL>
+𒊭	DET
+𒂊𒇷𒅀	PRP
+𒈥𒍝𒀜	V
+𒄿𒋼𒁍𒍑	V
+<EoL>
+𒅇	CNJ
+𒆍𒃲𒄭𒀀	N
+𒍑𒋫𒁲𒀀𒀭𒉌	V
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒈠𒄯	N
+𒁁𒉌𒅀	N
+<EoL>
+𒀜𒁍𒌝𒈠	V
+<EoL>
+𒁾𒁉	N
+𒁁𒉌𒅀	N
+<EoL>
+𒀀𒈾	PRP
+𒅁𒆪𒉌𒉌𒋗	PN
+𒋗𒀀𒋾	IP
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒋗𒇷𒄿𒋗	V
+<EoL>
+𒄿𒅋𒆷𒄰	V
+<EoL>
+𒍢𒁉𒀉	N
+𒋼𒈪	N
+𒊑𒅆	V
+<EoL>
+𒊭	DET
+𒉺𒉌𒅟	N
+𒈾𒀊𒇷𒄑𒈠	V
+<EoL>
+𒆠𒈠	PRP
+𒁾𒁉	N
+𒊬𒊑	N
+<EoL>
+𒋫𒋫𒄠𒊒	V
+<EoL>
+𒀉𒋾	PRP
+𒅁𒆪𒉌𒉌𒋗	PN
+𒋗𒀀𒋾	IP
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒋛𒅔𒂵𒄠	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒋗𒅁𒉌	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒈾𒁉𒌝𒈾𒍢𒅕𒈠	PN
+<EoL>
+𒀸𒋳	PRP
+𒀀𒊮	N
+𒀀𒃼	N
+𒈾𒅆𒀀𒊑𒅖	GN
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒀀𒊮	N
+𒋗𒀀𒋾	IP
+𒌑𒋫𒀸𒊺𒊒𒉌𒅅𒆪	V
+<EoL>
+𒅇	CNJ
+𒁾𒁉	N
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒊑𒈨𒉌	PN
+𒁲𒋻	N
+<EoL>
+𒅇	CNJ
+𒅁𒉌𒀭𒈥𒌅	PN
+𒉺	N
+𒈥𒌅	EN
+<EoL>
+𒀸𒋳	PRP
+𒄞𒀳𒄭𒀀	N
+𒄞𒀳𒄭𒀀	N
+𒈾𒁕𒉏𒈠	N
+<EoL>
+𒋰𒁍𒋾𒅟	N
+𒀀𒆷𒆠𒅎	N
+<EoL>
+𒀉𒋫𒀠𒄰	V
+<EoL>
+𒆷𒈠	PRP
+𒊭𒀜𒌈	N
+𒀉𒋫𒀠𒆪	V
+<EoL>
+𒀀𒊮	N
+𒋗𒀀𒋾	IP
+<EoL>
+𒋗𒋫𒀝𒅆𒀉𒈠	V
+<EoL>
+𒉈𒈨𒀉𒌓	N
+<EoL>
+𒆷	MOD
+𒋫𒊏𒀸𒅆	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁁𒉌𒅀	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒋗𒅁𒉌𒈠	PN
+<EoL>
+𒄞𒀳𒄭𒀀	N
+𒄞𒀳𒄭𒀀	N
+𒊭	DET
+𒁁𒉌𒅀	N
+𒊭𒀠𒈬	V
+<EoL>
+𒆠𒈠	PRP
+𒁁𒉌	N
+𒄿𒁺𒌑	V
+<EoL>
+𒁹𒌋𒁇𒀭𒈾𒁉𒌝	PN
+𒇽𒂇	N
+<EoL>
+𒅇	CNJ
+𒂇	N
+𒂟𒆍𒂍𒃲𒈨𒌍	N
+𒂟𒆍𒂍𒃲𒈨𒌍	N
+𒂟𒆍𒂍𒃲𒈨𒌍	N
+<EoL>
+𒊭	DET
+𒀸	PRP
+𒆠𒁉𒀉	N
+𒂍𒃲	N
+<EoL>
+𒄿𒈾	PRP
+𒆍𒃲𒈨𒌍	N
+𒌓𒄒𒉣𒆠	SN
+𒀸𒁍𒈠	V
+<EoL>
+𒆍	N
+𒌑𒊓𒀭𒈾𒆪	V
+<EoL>
+𒄿𒉡𒈠	SBJ
+𒄑𒀳𒄭𒀀	N
+𒊭	DET
+𒌷𒆠	N
+x	nan
+x	nan
+<EoL>
+𒌑𒊭𒊍𒍝𒊏𒈠	V
+𒆷	MOD
+𒌑xxx𒌑	nan
+<EoL>
+𒁹𒌋𒁇𒀸𒀭𒈾𒁉𒌝𒈠	PN
+<EoL>
+𒌑𒈪x	nan
+<EoL>
+𒁹𒌋𒁇𒀭𒈾𒁉𒌝	PN
+𒋗𒌑	IP
+<EoL>
+𒁹	NU
+𒊕𒀴	N
+𒀀𒋫𒅈𒌓	AJ
+<EoL>
+𒊭	DET
+𒂍	N
+𒀀𒁉𒋗𒉡𒈠	N
+x	nan
+<EoL>
+𒐉	NU
+𒀜𒄷𒌑	N
+𒂵𒁺𒍑𒋗	PRP
+<EoL>
+𒀀𒈾	PRP
+𒆬𒌓𒅎	N
+𒀉𒁲𒉡𒈠	V
+<EoL>
+𒁹	NU
+𒀀𒄷𒋗	N
+𒊭	DET
+𒄿𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒈠𒄯	N
+𒀀𒉿𒅆	N
+𒀀𒁉	N
+𒂟	N
+𒄿𒁕𒀊𒁍𒁍	V
+<EoL>
+𒌋𒈫	NU
+𒂆	N
+𒆬𒌓𒄠	N
+𒅋𒆠	V
+<EoL>
+𒅇	CNJ
+𒋗𒉡	IP
+𒐊𒋫𒀀𒀭	NU
+𒅋𒆪𒌑	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒌋𒁇𒀸𒀭𒈾𒁉𒌝	PN
+𒋗𒀀𒋾	IP
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒀀𒉿𒅆	N
+𒀀𒁉	N
+𒂟	N
+<EoL>
+𒍑𒋼𒇻𒉌𒅖𒋗	V
+<EoL>
+𒁁𒉌	N
+𒆠𒈠	PRP
+𒊏𒁍𒋾	N
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒀀𒁉	N
+𒂟	N
+<EoL>
+𒇷𒅅𒁉𒈠	V
+𒁕𒁀𒀊𒋗	N
+𒇷𒅔𒈾𒈨𒅕	V
+<EoL>
+𒅇	CNJ
+𒆠𒈠	PRP
+𒀀𒄷𒋗	N
+𒊏𒁍𒌝	AJ
+x	nan
+x𒁍	nan
+<EoL>
+𒌋𒈫	NU
+𒂆	N
+𒆬𒌓	N
+𒇷x	nan
+<EoL>
+𒁁𒉌	N
+𒀀𒉿𒇴	N
+𒀀𒁉	N
+𒂟	N
+x	nan
+<EoL>
+𒇷𒅖𒄿	V
+x	nan
+x	nan
+<EoL>
+𒇷𒅋𒆠𒋗𒈠	V
+<EoL>
+𒇷𒅖𒋼𒁉𒅕𒋗𒈠	V
+𒀀𒈾	PRP
+𒁉𒄩𒋾𒋗	N
+<EoL>
+𒇷𒀉𒋫𒀠𒄰	V
+𒁁𒉌	N
+𒀜𒋫	IP
+𒀠𒄰	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒈾𒁉𒌝𒀜𒉺𒇴	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒁁𒆷𒉡𒌝𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻𒌑	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒇻𒌑	MOD
+𒊭𒀠𒈠𒋫	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅀	N
+𒋫𒀸𒁓𒊏𒄠	V
+<EoL>
+𒊭𒀠𒈠𒆪	V
+<EoL>
+𒊭𒆷𒄠𒅟	N
+𒀀𒈾	PRP
+𒁕𒊑𒀀𒁴	N
+<EoL>
+𒀭𒀫𒌓	DN
+𒇷𒅅𒁉	V
+<EoL>
+𒅖𒌅	PRP
+𒄿𒈾𒀭𒈾	AV
+𒌓𒈫𒄰	NU
+𒌓𒈫𒄰	N
+<EoL>
+𒀀𒈾𒆪	IP
+𒀀𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒀀𒀠𒆷𒄰	V
+<EoL>
+𒀸𒋳	PRP
+𒍪𒄩𒊑𒂊	N
+<EoL>
+𒊭	DET
+𒋫𒀸𒁓𒄠	V
+<EoL>
+𒀀𒈾	PRP
+𒌉𒀭𒌓	PN
+<EoL>
+𒀸𒋰𒊏𒄠	V
+<EoL>
+𒄿𒈾𒀜𒁲𒈾𒀝𒄣	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒈾𒁉𒌝𒀜𒉺𒇴	PN
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒆷𒌅𒋗	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅅𒅖𒀭𒂗𒍪𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒐋	NU
+𒈣𒄭𒀀	N
+𒀀𒇉𒅕𒉌𒈾𒈠	WN
+<EoL>
+𒋗𒂵𒀠𒁉𒀀𒄠	N
+<EoL>
+𒊭	DET
+𒋫𒀸𒁓𒄠	V
+<EoL>
+𒁾𒁉	N
+𒀴𒉌𒉌𒋗	PN
+𒀊𒉌𒂵𒄠	V
+<EoL>
+𒌝𒈠𒈪	PRP
+𒄿𒈾	PRP
+𒌓𒌋𒐈𒄰	NU
+𒌓𒌋𒐈𒄰	N
+<EoL>
+x	nan
+x	nan
+𒅟𒈪𒀊	V
+<EoL>
+𒉺𒉌	N
+𒈣𒄭𒀀𒅟	N
+𒍝𒀊𒌓𒈠	V
+<EoL>
+𒀀𒆷𒄰	N
+𒅁𒊭	V
+<EoL>
+𒆠𒈠	PRP
+𒁾𒁉	N
+𒀴𒉌𒉌𒋗	PN
+<EoL>
+𒀊𒉌𒂵𒄠	V
+<EoL>
+𒈣𒄭𒀀	N
+𒊍𒍝𒆠𒅁	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒀸𒋳	PRP
+𒍢𒁴	N
+𒀀𒁲	PRP
+𒄿𒈾𒀭𒈾	AV
+<EoL>
+𒌑𒄴𒄭𒅕	V
+𒈬𒅆𒌓	N
+<EoL>
+𒀀𒊏𒅟𒄠𒈠	V
+𒊺𒅕𒌓𒈠	N
+<EoL>
+𒄿𒈾	PRP
+𒅗	N
+𒀀𒇉𒀭𒌓	WN
+𒀀𒈾𒆪	IP
+<EoL>
+𒐈	NU
+𒈣𒄭𒀀	N
+𒊭	DET
+𒋫𒀸𒁓𒄠	V
+<EoL>
+𒀀𒇉𒌓𒄒𒉣𒆠	WN
+𒅅𒂵𒆷𒁉𒀀𒉌𒅎	V
+<EoL>
+𒀀𒇉𒅕𒉌𒈾	WN
+𒈾𒂵𒀠𒁉𒀀𒄠	N
+<EoL>
+𒌑𒌌	MOD
+𒄿𒇷𒀀	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒈾𒁉𒌝𒀜𒉺𒇴	PN
+<EoL>
+𒅇	CNJ
+𒉌𒉌𒅀𒌑𒋫	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀫𒌓𒈬𒊭𒅆𒈠	PN
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒌋	NU
+𒂟	N
+𒂊𒁉𒅖𒌓	N
+<EoL>
+𒅇	CNJ
+𒁹	NU
+𒇽𒄯𒄯𒋗𒉡	N
+<EoL>
+𒀀𒈾	PRP
+𒌑𒊏𒋾𒆪𒉡	N
+𒋛𒂊𒊑𒅎	N
+<EoL>
+𒀜𒋻𒁮	V
+<EoL>
+𒌑𒊏𒋾𒆪𒉡	N
+𒇷𒋛𒂊𒊒	V
+<EoL>
+𒄿𒈾	PRP
+𒋛𒊑𒆪𒉡	N
+<EoL>
+𒀀𒁲	PRP
+𒌑𒌨	N
+𒂍	N
+𒉌𒁾	N
+<EoL>
+𒊭	DET
+𒂵𒄄𒀀𒆠	N
+<EoL>
+𒅇	CNJ
+𒆠𒁲𒅎	N
+<EoL>
+𒆷	MOD
+𒋛𒂊𒊒	V
+<EoL>
+𒌑𒊏𒄠	N
+𒊭𒉌𒀀𒄠	AJ
+<EoL>
+𒆷	MOD
+𒋼𒋛𒂊𒅕𒊏	V
+<EoL>
+𒅖𒌅	PRP
+𒌑𒌨	N
+𒂍	N
+𒉌𒁾	N
+<EoL>
+𒊭	DET
+𒂵𒄄𒀀𒆠	N
+<EoL>
+𒅇	CNJ
+𒊭	DET
+𒆠𒁲𒅎	N
+<EoL>
+𒋼𒄑𒍣𒊏	V
+<EoL>
+𒌑𒊏𒋾𒆪𒉡	N
+𒀀𒄭𒀀𒁴	N
+<EoL>
+𒋛𒂊𒊏	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒈾𒁉𒌝𒀜𒉺𒇴	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀫𒌓𒈬𒊭𒅆𒈠	PN
+<EoL>
+𒀸𒋳	PRP
+𒀀𒊮𒅎	N
+𒊭	DET
+𒀀𒉿𒌅𒋗	N
+<EoL>
+𒆷	MOD
+𒂵𒄠𒊏	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒌑𒈾𒄴𒄭𒀉	V
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+<EoL>
+𒀀𒉿𒀜	N
+𒀀𒊮𒅎	N
+𒄖𒈬𒌨	V
+<EoL>
+𒅟𒉌𒅟𒄠	N
+𒋗𒍢𒅎𒈠	V
+<EoL>
+𒋼𒅎	N
+𒀀𒊮𒅎	N
+𒋗𒌒𒊏𒄠	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒌑𒈾𒄴𒄭𒀉𒈠	V
+<EoL>
+𒄠𒈪𒉏	QP
+𒅖𒌅	PRP
+𒋫𒀠𒇷𒆪	V
+<EoL>
+𒋼𒅎	N
+𒀀𒊮𒅎	N
+𒊭	DET
+𒀀𒉿𒌅𒋗	N
+<EoL>
+𒆷	MOD
+𒂵𒄠𒊏	V
+𒊭	DET
+𒌑𒈾𒄴𒄭𒁺𒅟	V
+<EoL>
+𒊭𒉺𒀸𒈠	N
+<EoL>
+𒌑𒌌	MOD
+𒋫𒀸𒁓𒄠	V
+<EoL>
+𒀀𒉿𒀀𒀜	N
+𒀀𒊮𒅎	N
+𒊭	DET
+𒆷	MOD
+𒂵𒄠𒊏	V
+<EoL>
+𒋫𒀝𒁕𒈠𒀀𒅈	V
+x	nan
+<EoL>
+𒅟𒉌𒄰	N
+𒌅𒍑𒋼𒍣𒄿𒅁	V
+<EoL>
+𒋳𒈠	MOD
+𒀀𒉿𒀜	N
+𒀀𒊮𒅎	N
+𒊭	DET
+𒆷	MOD
+𒂵𒄠𒊏	V
+𒋫𒀝𒁕𒈥	V
+<EoL>
+𒅟𒉌𒄰	N
+𒌅𒍑𒋼𒍣𒅁	V
+<EoL>
+𒅟𒉌𒄰	N
+𒋗𒀀𒋾	DET
+𒀀𒈾	PRP
+𒍪𒄩𒅈𒁴	N
+<EoL>
+𒄿𒁲𒅎𒈠	V
+<EoL>
+𒁾𒁉	N
+𒍪𒄩𒅈𒁴	N
+𒊭	DET
+𒅟𒉌𒄰	N
+<EoL>
+𒊭	DET
+𒀀𒊮𒅎	N
+𒆠𒀀𒄠	AV
+𒅇	CNJ
+𒆠𒀀𒄠	AV
+<EoL>
+𒁹𒀭𒈾𒁉𒌝𒀜𒉺𒇴	PN
+𒌒𒇴	V
+<EoL>
+𒀀𒈾	PRP
+𒍢𒊑𒅀	N
+𒋗𒁉𒇴	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒈾𒁉𒌝𒀜𒉺𒇴	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀫𒌓𒈬𒊭𒅆𒈠	PN
+<EoL>
+𒇽𒈨𒌍	N
+𒅁𒁍𒌈	N
+𒊭	DET
+𒋗𒌓𒉺𒇻𒆠	PN
+<EoL>
+𒋼𒅎𒋗𒉡	N
+𒌑𒋼𒅕𒊒𒉏𒈠	V
+<EoL>
+𒅇	CNJ
+𒆠𒀀𒄠	AV
+𒅅𒁍𒉏	V
+𒌝𒈠	PRP
+𒋗𒉡𒈠	IP
+<EoL>
+𒐖𒌋𒌋	NU
+𒐖𒌋𒌋	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒄑𒁀𒌷𒂵	N
+<EoL>
+𒀀𒈾	PRP
+𒀠𒆕𒋗	N
+𒇷𒀉𒁲𒅖𒋳	V
+<EoL>
+𒐏	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒍣𒂵	N
+𒆠𒌓	N
+<EoL>
+𒉻	N
+𒂍	N
+𒊭	DET
+𒀀𒁲	PRP
+𒌗𒋗𒆰𒀀	NU
+𒌗𒋗𒆰𒀀	N
+𒇷x	nan
+x	nan
+<EoL>
+𒆠𒀀𒄠	AV
+𒅅𒁍𒉏	V
+<EoL>
+𒃻𒋃	N
+𒂊𒁍𒍑𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒐗	NU
+𒐗	NU
+𒐗	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒀠𒆕𒅟	N
+<EoL>
+𒈪𒅎𒈠	XP
+𒌑𒌌	MOD
+𒄿𒋗	V
+<EoL>
+𒆠𒈠	PRP
+𒁾𒁉	N
+𒀭𒉌𒀀𒄠	DP
+<EoL>
+𒋫𒄠𒈠𒊒	V
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒀠𒄰𒈠	V
+<EoL>
+𒀀𒉿𒌓	N
+𒀭𒉌𒌓	DP
+<EoL>
+𒀊𒆷𒀭𒉌	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒈾𒁉𒌝𒀜𒉺𒇴	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀫𒌓𒈬𒊭𒅆𒈠	PN
+<EoL>
+𒀸𒋳	PRP
+𒄩𒍝𒉡𒌝𒊬	N
+<EoL>
+𒀀𒁲	PRP
+𒆷	MOD
+𒁀𒀸𒇻	V
+𒆷	MOD
+𒈾𒉺𒅆	N
+<EoL>
+𒁹𒆪𒌒𒁍𒌈	PN
+𒅖𒁓𒄠	V
+<EoL>
+𒋳𒈠	MOD
+𒄩𒍝𒉡𒌝𒊬	N
+𒆷	MOD
+𒁀𒀸𒇻𒈠	V
+<EoL>
+𒅇	CNJ
+𒈪𒅅𒊒	N
+𒄩𒈬𒌓	V
+<EoL>
+𒄩𒍝𒉡𒌝𒊬	N
+𒄿𒅟𒄠	N
+x	nan
+x𒀠𒆷x𒈠	nan
+<EoL>
+𒀀𒁲	PRP
+𒆷	MOD
+𒁀𒀸𒇻	V
+<EoL>
+𒆷	MOD
+𒅔𒈾𒀊𒉺𒇻	V
+<EoL>
+𒀀𒈾	PRP
+𒈪𒉏	QP
+𒄩𒍝𒉡𒌝𒊬	N
+<EoL>
+𒆷	MOD
+𒁀𒀸𒇻𒊻𒍪𒉡	N
+<EoL>
+𒅔𒈾𒀊𒉺𒇻	V
+<EoL>
+𒅇	CNJ
+𒈪𒉡𒌝	QP
+𒊭	DET
+𒀸𒋳	PRP
+𒀀𒊮𒅎	N
+<EoL>
+𒀀𒉿𒀀𒁴	N
+𒌅𒍝𒀊𒁀𒇻	V
+<EoL>
+𒀀𒈾	PRP
+𒀀𒉿𒀀𒁴	N
+𒀭𒉌𒁴	DP
+<EoL>
+𒍪𒌒𒁍𒅆	N
+𒌑𒌌	MOD
+𒌅𒋫𒀸𒊬	V
+<EoL>
+𒅟𒉌𒄰	N
+𒅈𒄭𒅖	AV
+𒌑𒌌	MOD
+𒌅𒊺𒍣𒅁𒋗𒈠	V
+<EoL>
+𒇻	MOD
+𒋾𒁲	V
+𒆠𒈠	PRP
+𒁾𒁉	N
+𒋫𒄠𒈠𒊒	V
+<EoL>
+𒀀𒆷𒈝	N
+𒌑𒇻𒌌𒋗𒈠	V
+<EoL>
+𒅟𒉌𒄰	N
+𒋗𒍢𒅁𒋗	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒈾𒁉𒌝𒀜𒉺𒇴	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀫𒌓𒈾𒍢𒅕𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒍪𒄩𒊑𒅟	N
+𒊭	DET
+𒀹𒁯𒆜𒆳𒍪	PN
+<EoL>
+𒄿𒈾	PRP
+𒂵𒋾𒋗𒉡	N
+𒊺𒀀𒄠	N
+𒄑𒁀𒌅𒈠	V
+<EoL>
+𒅅𒇻𒋗𒉡𒋾𒈠	V
+<EoL>
+𒋫𒀸𒁓𒄠	V
+<EoL>
+𒆠𒈠	PRP
+𒅖𒋼𒅖𒋗	AV
+<EoL>
+𒀝𒁉𒋳𒈠	V
+<EoL>
+𒌑𒌌	MOD
+𒅖𒈨𒀀𒉌	V
+<EoL>
+𒀀𒉿𒈝	N
+𒊭𒄀𒅋	V
+<EoL>
+𒀜𒉿𒄠	N
+𒌑𒌌	MOD
+𒄿𒈠𒄩𒅈	V
+<EoL>
+𒂊𒍪𒌒	PRP
+𒆷	MOD
+𒍪𒄩𒊑𒅟	N
+<EoL>
+𒍪𒄩𒊑	N
+𒌑	CNJ
+𒊭	DET
+𒉌𒋗𒆗𒉆	PN
+𒉺	N
+𒂍	N
+𒈛	N
+<EoL>
+𒊺𒀀𒄠	N
+𒈾𒋗𒈠	V
+𒄑𒁀𒍪𒉡𒋾𒈠	V
+<EoL>
+𒉡𒉺𒀜𒋼𒅕𒋗𒈠	V
+𒌑𒌌	MOD
+𒅎𒄥𒀭𒉌𒀀𒋾	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒈠	IP
+𒀀𒉿𒁴	N
+𒀭𒉌𒀀𒋾𒅔	DP
+<EoL>
+𒁹𒀭𒈾𒁉𒌝𒀜𒉺𒇴𒈠	PN
+𒄿𒁍𒌌𒅆𒈾𒋾	V
+<EoL>
+𒁾𒉺𒅟	N
+𒋗𒁉𒆷𒀸𒋳	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒋀𒆠𒅔𒃮	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒅎𒈠𒄫	PN
+<EoL>
+𒀀𒄷𒅟𒀀𒈠	N
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+<EoL>
+𒌓𒈪	N
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒊺𒄑𒉌	N
+𒀀𒊭𒄠𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒊕𒊩𒆳	N
+𒊒𒆪𒊓𒆪	V
+<EoL>
+𒑚	NU
+𒈠𒈾	N
+𒁹	NU
+𒂆	N
+𒆬𒌓	N
+𒉌𒌓	N
+𒀭𒌓	DN
+<EoL>
+𒈫	NU
+𒂆	N
+𒆬𒌓	N
+𒌑𒇻	CNJ
+𒐈	NU
+𒂆	N
+𒆬𒌓	N
+<EoL>
+𒀀𒈾	PRP
+𒈬𒄴𒄭	N
+<EoL>
+𒊑𒅅𒍣𒅎	N
+<EoL>
+𒁹𒀭𒂗𒍪𒄿𒋫𒋗	PN
+<EoL>
+𒇷𒊑𒁲	V
+<EoL>
+𒁹𒀭𒂗𒍪𒄿𒁷𒉆	PN
+<EoL>
+𒅇	CNJ
+𒀭𒂗𒍪𒄿𒋫𒋗	PN
+<EoL>
+𒀉𒋾𒅟	PRP
+<EoL>
+𒇷𒂖𒇷𒆪𒈠	V
+<EoL>
+𒊕𒊩𒆳	N
+𒋗𒁀𒊑𒋫	AJ
+<EoL>
+𒊭	DET
+𒁺𒌦𒉡𒈾𒀜	V
+<EoL>
+𒌑	CNJ
+𒍣𒄴𒊑𒀉	V
+<EoL>
+𒊭	DET
+𒌑𒁀𒇻	V
+<EoL>
+𒊭𒈠𒄠	V
+<EoL>
+𒌑𒆷𒋗𒈠	CNJ
+<EoL>
+𒊺𒄑𒉌	N
+𒊭	DET
+𒀀𒊭𒈬	V
+<EoL>
+𒌑𒌌	MOD
+𒄿𒈾𒀜𒁲𒉡𒉌	V
+<EoL>
+𒄀𒅎𒆷𒀭𒉌	V
+<EoL>
+𒁉𒅀	N
+𒆷	MOD
+𒄿𒍝𒊏𒅈	V
+<EoL>
+𒊭	DET
+𒌑𒍪𒁉𒂊	N
+𒄿𒋗𒌑	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒋀𒆠𒅔𒃮	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅁𒁀𒌈	PN
+𒀀𒄷𒅟𒀀𒈠	N
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒅟	N
+𒀸𒋗𒈪𒅀	PRP
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒆠𒈠	PRP
+𒅀𒄴𒋢𒊌𒀭	PN
+𒄿𒆷𒄰𒈠	V
+<EoL>
+𒁾𒉺𒅟	N
+𒆷	MOD
+𒌒𒁀𒆷𒀸𒋗𒌑𒈠	V
+<EoL>
+𒀭𒉌𒀉𒅟	N
+𒆷	MOD
+𒀭𒉌𒀉𒅟	N
+<EoL>
+𒄿𒈾	PRP
+𒉺𒉌𒁴	N
+𒀀𒈾	PRP
+𒀀𒈠𒊍𒆠	GN
+𒋫𒀠𒇷𒅅𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒊮	N
+𒈠𒁴	N
+𒌗𒁹𒄰	NU
+𒌗𒁹𒄰	N
+𒌅𒅆𒅎𒈠	V
+<EoL>
+𒈠𒋾𒈠	AV
+𒁾𒉺𒅟	N
+𒌑𒌌	MOD
+𒅋𒇷𒄰	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒁲𒈾𒁴	N
+𒋫𒋫𒀊𒆷𒀭𒉌	V
+<EoL>
+𒊭	DET
+𒁉𒊑𒀉	PRP
+𒌓𒈬𒅟𒀠	AV
+<EoL>
+𒀀𒆷𒆠𒅎	N
+𒌑𒌌	MOD
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒅖𒌅	PRP
+𒊮	N
+𒈠𒁴	N
+𒌗𒁹𒄰	NU
+𒌗𒁹𒄰	N
+<EoL>
+𒉿𒀸𒁀𒋫𒈠	V
+𒌑𒌌	MOD
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒁹𒅀𒄴𒋢𒊌𒀭	PN
+<EoL>
+𒌍	NU
+𒑛	NU
+𒈠𒈾	N
+𒐍	NU
+𒂆	N
+𒀭𒈾𒄰	N
+<EoL>
+𒍑𒋫𒁉𒆷𒆪𒉡𒅆	V
+<EoL>
+𒀀𒊭𒊑𒅖	AV
+𒀉𒈾𒋗𒌑𒈠	V
+<EoL>
+𒆬𒌓𒋗𒌑	N
+𒄿𒈾	PRP
+𒆪𒉡𒅟𒋾𒆪𒉡	N
+<EoL>
+𒇷𒅟𒉌𒅅	V
+𒀀𒈾	PRP
+𒌆𒄭𒀀	N
+𒆬𒌓	N
+𒀉𒋫𒀊𒅆	V
+<EoL>
+𒋳𒈠	MOD
+𒊭𒇷𒅎	V
+<EoL>
+𒀭𒇴	N
+𒊭𒀠𒈠	V
+𒀀𒇷𒅅	V
+<EoL>
+𒋳𒈠	MOD
+𒀀𒊭𒊑𒅖	AV
+𒆬𒌓	N
+𒄿𒁀𒅆	V
+<EoL>
+𒀀𒈾	PRP
+𒐊	NU
+𒂆	N
+𒄿𒁲𒅔	V
+<EoL>
+𒌆𒄭𒀀𒌅𒅟	N
+𒌑𒌌	MOD
+𒀭𒉌𒆠𒄠	AV
+x	nan
+<EoL>
+𒈪𒁲	AV
+𒁹𒌉𒀭𒌓	PN
+𒄿𒆷𒅟𒆪𒌝𒈠	V
+𒌆𒄭𒀀𒋾𒋗	N
+<EoL>
+𒄿𒊑𒅖𒅟	V
+𒌝𒈠	PRP
+𒀜𒋫𒀀𒈠	IP
+𒄿𒈾	PRP
+𒄑𒈣𒈠	N
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒋀𒆠𒅔𒃮	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅁𒁀𒌈	PN
+𒀀𒄷𒅟𒈠	N
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒍪𒄩𒀸	N
+𒁹𒁁𒂖𒋗𒉡	PN
+𒌉	N
+𒀀𒄭𒅀	N
+<EoL>
+𒀀𒈾	PRP
+𒁲𒉏	N
+𒄿𒂵𒊏𒉌𒀀𒋾	V
+<EoL>
+𒀸𒋳	PRP
+𒀀𒉿𒁴	N
+𒊭	DET
+𒄿𒁷𒀭𒉡𒈲𒁕	PN
+<EoL>
+𒌉	N
+𒀀𒋫𒀀	PN
+𒊭	DET
+𒄿𒈾	PRP
+𒀀𒁀𒁴𒆠	GN
+<EoL>
+𒄑𒁀𒋫𒉌𒈠	V
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒌋𒈫	NU
+𒂆	N
+𒆬𒌓	N
+𒂊𒇷	PRP
+𒁹𒌑𒋼𒂊	PN
+<EoL>
+𒀀𒄭𒅟	N
+𒄿𒋗	V
+<EoL>
+𒀀𒈾	PRP
+𒉌𒅖	N
+𒀭	N
+<EoL>
+𒄿𒁲𒉡𒉌𒋗𒈠	V
+𒀉𒈬𒈠	V
+<EoL>
+𒑚	NU
+𒈠𒈾	N
+𒐊	NU
+𒂆	N
+𒆬𒌓	N
+<EoL>
+𒀸𒋗𒈪𒅀	PRP
+𒁹𒀭𒁕𒃶𒍣𒅎𒊏𒋾	PN
+<EoL>
+𒆬𒌓	N
+𒅖𒆪𒇻	V
+𒀀𒉡𒌝𒈠	AV
+<EoL>
+𒀀𒈾	PRP
+𒂊𒊑𒅁𒌍	PN
+𒅇	CNJ
+𒈪𒉌𒀭𒁁𒂖𒋒	PN
+<EoL>
+𒀸𒋰𒊏𒄠	V
+𒄿𒍣𒄑𒈠	V
+<EoL>
+𒀀𒉿𒇴	N
+𒀭𒁕𒃶𒍣𒅎𒊏𒋾	PN
+<EoL>
+𒀀𒈾	PRP
+𒂍	N
+𒀭𒌓	DN
+𒄑𒊏𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒂍	N
+𒀭𒌓	DN
+𒅆𒁍𒋢	N
+<EoL>
+𒇷𒅅𒁉𒈠	V
+𒄭𒋛	N
+𒆪𒉡𒅟𒋾𒋗𒉡	N
+<EoL>
+𒇷𒆠𒈠	V
+𒊑𒅖𒉌	N
+<EoL>
+𒇷𒆠𒂖	V
+𒀀𒈾	PRP
+𒀀𒉿𒁴	N
+<EoL>
+𒀭𒉌𒁴	DP
+𒀀𒄴𒅟	N
+<EoL>
+𒆷𒀀	MOD
+𒋫𒈾𒁲	V
+𒈠𒁲𒅖	AV
+<EoL>
+𒍣𒊑𒅎	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒋀𒆠𒅔𒃮	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅁𒁀𒌈𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒊭𒀠𒈠𒀀𒆪	V
+<EoL>
+𒄿𒈾	PRP
+𒅀𒀊𒇷𒅀𒆠	GN
+𒀀𒈾𒆪	IP
+<EoL>
+𒁕𒈪𒅅	V
+𒂊𒁉𒋗𒈠	N
+<EoL>
+𒀭𒉡𒌝	DP
+𒊭	DET
+𒋼𒁍𒊭𒀭𒉌	V
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒉺𒉌	N
+𒉿𒍣𒋾𒅀	N
+<EoL>
+𒆷	MOD
+𒉌𒅔𒈾𒄠𒊒	V
+<EoL>
+𒀀𒈾	PRP
+𒂍𒋾	N
+𒅇	CNJ
+𒍪𒄩𒊑	N
+<EoL>
+𒆷	MOD
+𒋼𒄀	V
+𒁉𒋡𒀜	AV
+<EoL>
+𒀀𒈾	PRP
+𒌅𒌒𒅆𒆠𒅎	N
+<EoL>
+𒂍𒋫𒄠	N
+𒌑𒁕𒁀𒁍𒌑	V
+<EoL>
+𒁹	NU
+𒂆	N
+𒆬𒌓	N
+𒀀𒊭𒅈	N
+<EoL>
+𒁹𒊩𒋫𒊑𒅁𒌈	PN
+<EoL>
+𒄿𒋡𒁍𒆪𒌝	V
+<EoL>
+𒄿𒁲𒅔	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒋀𒆠𒄿𒅔𒌅𒄴	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅁𒆪𒀭𒊭𒆷𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒐊	NU
+𒋡	N
+𒉌𒄑	N
+𒊭	DET
+𒀉𒋾𒅀	PRP
+<EoL>
+𒅋𒆪𒉏	V
+𒊕𒊩𒆳	N
+<EoL>
+𒀉𒋫𒁀𒀝	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒀀𒉈𒆪𒁉	PN
+<EoL>
+𒀜𒋻𒁕𒄣	V
+<EoL>
+𒁹	NU
+𒋡	N
+𒉌𒄑	N
+𒊭	DET
+𒁉𒊭𒋾𒅎	N
+<EoL>
+𒋗𒁉𒇴	V
+<EoL>
+𒁹𒋫𒊑𒁍𒌝	PN
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒀀𒆷𒀝	V
+𒀀𒄭	N
+𒀀𒋫𒊏𒄠	V
+<EoL>
+𒌑𒌌	MOD
+𒅋𒇷𒅅	V
+<EoL>
+𒆠𒁉𒋳𒈠	V
+<EoL>
+𒇷𒅋𒇷𒅅𒈠	V
+<EoL>
+𒀀𒄩𒋗	N
+𒇷𒀉𒊏𒄠𒈠	V
+<EoL>
+𒆷𒈠	PRP
+𒀜𒋫𒀠𒆪	V
+<EoL>
+𒉌𒅟𒋛𒋗𒉡	N
+<EoL>
+𒇷𒁍𒋗	V
+<EoL>
+𒈨𒄭𒅕	N
+𒁾𒁉𒅀	N
+<EoL>
+𒋗𒁉𒇴	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒄭𒅀	N
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅𒋗	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅁𒆪𒀭𒊭𒆷𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒄭𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍𒅟	N
+<EoL>
+𒀀𒈾	PRP
+𒁕𒈪𒅅𒁴	AJ
+𒇷𒆠𒅋	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅟	N
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄴𒊑	PRP
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+<EoL>
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒋫𒀝𒁉𒀀𒄠	V
+𒌝𒈠	PRP
+𒀀𒋫𒈠	IP
+<EoL>
+𒆠𒈠	PRP
+𒀀𒈾	PRP
+𒌷𒌓𒄒𒉣𒆠𒈠	SN
+𒌑xx	nan
+x	nan
+<EoL>
+𒋼𒈪	N
+𒀀𒊭𒉺𒊏𒀝𒆪𒌝	V
+<EoL>
+𒋗𒈝𒅟	N
+𒌑𒌌	MOD
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒀸𒋳	PRP
+𒄀𒆪𒊒𒁉𒂊	N
+𒀸𒋳	PRP
+𒄩	nan
+𒉡	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+x𒈪	nan
+𒀸𒋳	PRP
+𒊭𒈠𒀸𒆠𒇷	N
+<EoL>
+𒊭	DET
+𒌑𒈾𒄿𒁺𒅟	V
+𒋗𒍑𒆪𒌌	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒀭𒀫𒌓𒈬𒊭𒅆	PN
+<EoL>
+𒁾𒁉	N
+𒍑𒋫𒁉𒆷𒀝𒆪𒌝	V
+<EoL>
+𒅇	CNJ
+𒄀𒆪𒊒𒁉𒂊	N
+𒄩	nan
+𒉡	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+𒁴	nan
+x	nan
+𒈠	nan
+𒁉	nan
+𒈠	nan
+x	nan
+x	nan
+<EoL>
+𒋗𒁉𒇴	V
+𒅇	CNJ
+𒆠𒈠	PRP
+𒊭	DET
+𒀀𒈾𒆪	IP
+<EoL>
+𒀠𒇷𒅟𒄠	V
+𒀀𒈾	PRP
+𒉺𒉌𒋗	N
+<EoL>
+𒄿𒍣𒄑	V
+<EoL>
+𒅇	CNJ
+𒀀𒊮	N
+𒁹	nan
+𒊭	DET
+𒋫	nan
+𒈪	nan
+𒅕	nan
+𒅀	nan
+𒀀𒁲	PRP
+𒌑𒌌	MOD
+<EoL>
+𒀀𒍝𒈪𒀉	V
+𒋗𒈝𒅟	N
+𒅈𒄭𒅖	AV
+<EoL>
+𒋗𒌒𒊏𒄠	V
+𒅇	CNJ
+𒈨𒄭𒅕	N
+𒁾𒁉𒅀	N
+<EoL>
+𒋗𒁉𒇴	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒋀𒆠𒅔𒃮	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒄿𒁷𒉆𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀀𒉿𒇻𒌑	N
+𒇽	N
+𒈠𒀭𒆠𒍮𒆠	SN
+<EoL>
+𒊺𒀀𒄠	N
+𒊭	DET
+𒅋𒆪𒉏	V
+<EoL>
+𒀀𒈾	PRP
+𒍢𒁍𒁴	N
+𒅖𒋫𒀝𒉡𒌑𒈠	V
+<EoL>
+𒊺𒀀𒄠	N
+𒄩𒀸𒄷𒌑	V
+<EoL>
+𒌋	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒄿𒁲𒅖𒋗𒉡𒅆𒅎𒈠	V
+<EoL>
+𒁹𒁁𒂖𒋗𒉡	PN
+𒊏𒁉𒀀𒉡𒌝	N
+<EoL>
+𒅇	CNJ
+𒅆𒁍𒌓	N
+𒌷𒆠	N
+<EoL>
+𒅟𒉌𒄰	N
+𒇷𒍣𒁍𒉏	V
+<EoL>
+𒋳𒈠	MOD
+𒋗𒉡𒋾	DET
+<EoL>
+𒌅𒍝𒀠𒇷𒅎𒋗𒉡𒋾	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒀉𒋾𒋗𒉡	PRP
+<EoL>
+𒅟𒉌𒄰	N
+𒇻𒍣𒁀𒄣	V
+<EoL>
+𒈠𒋾𒈠	AV
+𒀀𒈾	PRP
+𒍢𒁍𒁴	N
+<EoL>
+𒌑𒌌	MOD
+𒀸𒁍𒊏𒄣	V
+<EoL>
+𒅇	CNJ
+𒋳𒈠	MOD
+<EoL>
+𒀉𒋾	PRP
+𒅁𒊑𒅟	N
+<EoL>
+𒋫𒈠𒊏𒄠	V
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒀸𒁍𒊏𒄣	V
+<EoL>
+𒆷	MOD
+𒌅𒍑𒋫𒄩	V
+<EoL>
+𒄿𒈾	PRP
+𒀭𒉌𒁴	DP
+𒀜𒄷𒌓𒅟	N
+<EoL>
+𒇻𒈬𒌨	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒅔𒁀𒌈	PN
+<EoL>
+𒅇	CNJ
+𒀭𒅎𒈾𒈲	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒋀𒆠𒅔𒃮𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒇷𒌅𒆪𒉡𒋾	V
+<EoL>
+𒀀𒈾	PRP
+𒍣𒁍𒁴	N
+𒊭	DET
+𒀠𒇷𒄰	V
+<EoL>
+𒀀𒁲𒉌	AV
+𒍣𒁍𒋾	N
+𒌑𒌌	MOD
+𒂊𒁍𒍑	V
+<EoL>
+𒁾𒁉	N
+𒄿𒈾	PRP
+𒀀𒈠𒊑𒅎	N
+<EoL>
+𒁹𒀭𒅎𒈾𒍢𒅕	PN
+𒅇	CNJ
+𒀭𒅎𒉡𒊑	PN
+<EoL>
+𒀀𒆷𒄰	N
+𒇷𒁍𒋗𒉏	V
+<EoL>
+𒀀𒈾	PRP
+𒊺𒂊𒅎	N
+𒊭𒈪𒅎	N
+<EoL>
+𒀭𒉌𒆠𒀀𒄠	AV
+𒌑𒌌	MOD
+𒄿𒁀𒀸𒅆𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒌷𒄿𒅆𒅔𒆠	GN
+<EoL>
+𒀜𒋫𒆷𒀝	V
+<EoL>
+𒀀𒈾	PRP
+𒂍	N
+𒆷	MOD
+𒋼𒄀𒄿	V
+<EoL>
+𒋳𒈠	MOD
+𒊺𒀀𒄠	N
+𒆷	MOD
+𒋾𒊭𒀀	V
+<EoL>
+𒆬𒌓	N
+𒊭	DET
+𒋫𒄠𒋫𒄩𒊏	V
+<EoL>
+𒍪𒄩𒀸	N
+𒇷𒁲𒅎𒈠	V
+𒊺𒀀𒄠	N
+<EoL>
+𒇷𒊭𒈠𒆪𒉡𒅆𒅎	V
+<EoL>
+𒋳𒈠	MOD
+𒊺𒄑𒉌	N
+𒀀𒈾	PRP
+𒍝𒄩𒁴	N
+<EoL>
+𒋫𒀜𒁲𒈾	V
+𒉌𒄑	N
+𒈠𒄴𒊒𒌝𒈠	AV
+<EoL>
+𒆷𒈠	PRP
+𒂊𒁍𒊑𒅎	N
+𒋗𒁲𒈾	V
+<EoL>
+𒋳𒈠	MOD
+𒉡𒌫𒀭𒈥𒌅	PN
+<EoL>
+𒀉𒋫𒀠𒅟𒄠𒈠	V
+𒋠𒄭𒀀	N
+𒈾𒅆	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋫𒀀𒈠	IP
+𒐊	NU
+𒄘𒌦	N
+𒋠𒄭𒀀	N
+<EoL>
+𒀀𒈾	PRP
+𒀭𒋀𒆠𒅔𒃮	PN
+𒌑𒍪𒌨	V
+<EoL>
+𒋳𒈠	MOD
+𒅆𒈠𒄠	N
+𒈾𒅆	V
+<EoL>
+𒁹	NU
+𒅆𒈠𒄠	N
+𒇷𒍪𒊏𒄠	V
+<EoL>
+𒋼𒈠𒄠	N
+𒀭𒉌𒀀𒄠	DP
+𒁹𒀭𒅎𒈾𒈲	PN
+𒇷𒅁𒆷𒄠	V
+x	nan
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒂊𒊑𒁀𒄠	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒉿𒅋𒀭𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒆬𒌓	N
+𒀀𒈾	PRP
+𒌆𒄭𒀀	N
+𒅟𒍣𒄿𒈠	V
+<EoL>
+𒌆𒄭𒀀	N
+𒊭	DET
+𒈾𒁕𒉏	N
+<EoL>
+𒀀𒁲𒅔𒈠	V
+𒊭𒁉𒅋𒋾	N
+<EoL>
+𒌆𒄭𒀀𒅀	N
+𒄿𒈾	PRP
+𒄿𒈠𒅈𒆠	SN
+<EoL>
+𒁮𒃼𒊒𒋫𒄠	N
+<EoL>
+𒄿𒈾	PRP
+𒋡𒁴	N
+𒋫𒆠𒅋𒁴	AJ
+<EoL>
+𒀝𒈬𒌨𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒄩𒅆𒅎𒆠	SN
+<EoL>
+𒀀𒈾	PRP
+𒆬𒌓	N
+𒈠𒄩𒊑𒅎	N
+<EoL>
+𒀀𒋫𒍣	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒐋	NU
+𒈠𒈾	N
+𒆬𒌓	N
+<EoL>
+𒊭	DET
+𒄠𒄷𒊒	V
+𒊑𒅖𒀭𒌓	PN
+<EoL>
+𒍑𒋫𒁉𒆷𒄣	V
+<EoL>
+𒐈	NU
+𒈠𒈾	N
+𒆬𒌓	N
+𒆪𒉡𒆪𒅀	N
+<EoL>
+𒆷	MOD
+𒄿𒁉𒌅𒌑	V
+<EoL>
+𒅇	CNJ
+𒐈	NU
+𒂁	N
+𒄭𒂖𒁲𒌈	nan
+<EoL>
+𒀀𒈾	PRP
+𒄿𒁉𒀭𒊩𒌆𒋚	PN
+<EoL>
+𒁹𒀀𒉋𒉌𒉌𒋗	PN
+<EoL>
+𒅇	CNJ
+𒁹𒅁𒁀𒌈	PN
+<EoL>
+𒋫𒊭𒋛𒄿𒈠	V
+<EoL>
+𒋫𒈾𒁲𒅔	V
+<EoL>
+𒐈	NU
+𒈠𒈾	N
+𒆬𒌓	N
+<EoL>
+𒀀𒊭𒅈	N
+<EoL>
+𒉌𒀉𒇷𒅟	N
+𒋫𒈾𒁲𒅔	V
+<EoL>
+𒆬𒌓	N
+𒈧	N
+𒆷	MOD
+𒄿𒅟𒍝𒊏𒈾𒅆𒅎	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒂊𒊑𒁀𒄠	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒉿𒅋𒀭𒈠	PN
+𒀭𒌓	DN
+𒇷𒁀𒀠𒇷𒀉𒅟	V
+<EoL>
+𒊭𒀠𒈠𒀀𒆪	V
+𒐈	NU
+𒅆𒈠𒄠	N
+<EoL>
+𒀀𒊭𒄠𒈠	V
+𒌑𒌌	MOD
+𒀜𒊒𒁕𒄣	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒌑𒈠	IP
+𒀉𒋾𒋗𒈠	PRP
+<EoL>
+𒅆𒈠𒄠	N
+𒊭	DET
+𒊒𒁲𒅎	V
+𒇻𒊑𒁲𒄿𒈠	V
+<EoL>
+𒇻𒌓𒋫𒆷𒀝	V
+𒄿𒈾	PRP
+𒂊𒊑𒅁𒋾	N
+<EoL>
+𒄀𒊑𒅎	N
+𒈠𒄴𒊑𒁴	AJ
+<EoL>
+𒊭	DET
+𒄿𒊒𒁀𒄠	V
+𒅆𒈠𒄠	N
+<EoL>
+𒊭	DET
+𒄿𒈠𒆪𒋫𒄠	V
+<EoL>
+𒋳𒈠	MOD
+𒀭𒌓	DN
+𒀉𒁀𒇴	V
+𒀀𒊭𒈠𒄠𒈠	V
+<EoL>
+𒅈𒄭𒅖	AV
+𒀜𒋫𒆷𒄰	V
+<EoL>
+𒁲𒅔	N
+𒀭𒌓	DN
+𒀀𒉡𒌝	DP
+<EoL>
+𒄿𒁉𒋳	N
+𒊭	DET
+𒋼𒁍𒋗	V
+<EoL>
+𒋳𒈠	MOD
+𒀀𒉿𒈝	N
+<EoL>
+𒀀𒉿𒇴𒈠	N
+𒆷	MOD
+𒄿𒁲	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒄿𒁉𒅖	N
+𒀀𒉿𒈝	N
+<EoL>
+𒁹𒊩𒁀𒅟𒌈	PN
+𒋠	N
+<EoL>
+𒌑𒌌	MOD
+𒄿𒋗𒈠	V
+𒆬𒌓	N
+𒄿𒊑𒅖𒅟𒈠	V
+<EoL>
+𒆬𒌓	N
+𒌑𒌌	MOD
+𒋫𒈾𒁲𒅆𒅎	V
+<EoL>
+𒌑𒇻𒌑𒈠	CNJ
+𒋠	N
+𒌑𒌌	MOD
+𒋫𒊭𒄠𒅆	V
+<EoL>
+𒀀𒈾	PRP
+𒈪𒉏	QP
+𒂊𒋼𒁍𒊭𒄠	V
+<EoL>
+𒀭𒉌𒀀𒄠	DP
+𒋼𒋼𒉈𒁉𒅖	V
+<EoL>
+𒅇	CNJ
+𒊺𒀀𒄠	N
+𒊭	DET
+𒌑𒈾𒄿𒁺𒅟	V
+<EoL>
+𒌑𒌌	MOD
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒀀𒈾	PRP
+x𒅆𒅎𒈠	nan
+𒋫𒀸𒋫𒅟𒀭	V
+<EoL>
+𒐉	NU
+𒅆𒈠𒄠	N
+𒊭	DET
+𒁉𒊑𒉌	PRP
+<EoL>
+𒀀𒈾	PRP
+𒁹𒉌𒉌𒅇𒀭𒌓	PN
+𒀀𒁲𒉆	V
+<EoL>
+𒆬𒌓	N
+𒅆𒄿𒅎𒅆𒈾	N
+<EoL>
+𒊭	DET
+𒋼	nan
+𒆪	nan
+𒌑	CNJ
+𒆬𒌓𒄠	N
+<EoL>
+𒈠𒇷	REL
+𒆬𒌓𒅎	N
+<EoL>
+𒇷𒄴𒊒𒊍𒈠	V
+<EoL>
+𒊭𒁉𒅋𒋾	N
+<EoL>
+𒆬𒌓	N
+𒁀𒄠𒋫𒄠	N
+<EoL>
+𒇷𒁲𒈾𒄣	V
+<EoL>
+𒅇	CNJ
+𒂵𒈪𒅕	N
+<EoL>
+𒅆𒈪𒅟	N
+<EoL>
+𒄷𒊒𒊍	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒂊𒊑𒁀𒄠	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒉿𒅋𒀭𒈠	PN
+𒀭𒌓	DN
+𒇷𒁀𒀠𒇷𒀉𒅟	V
+<EoL>
+𒀀𒉡𒌝	DP
+𒊭	DET
+𒌑𒈾𒄿𒁺𒅟	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒌑𒈠	IP
+𒆠𒈠	PRP
+𒂊𒊑𒁉𒅟	N
+<EoL>
+𒆬𒌓	N
+𒋡𒋾	N
+𒀀𒉿𒇷𒅎	N
+𒌑𒋢𒄴	V
+<EoL>
+𒆬𒌓	N
+𒋡𒋾	N
+𒀀𒉿𒇷𒅎	N
+<EoL>
+𒌑𒌌	MOD
+𒋫𒋢𒄴	V
+𒅇	CNJ
+𒆬𒌓	N
+𒈧	N
+𒌑𒍝𒀊	V
+<EoL>
+𒁲𒅔	N
+𒀭𒌓	DN
+𒂊𒁉𒋳	N
+𒀀𒉡𒌝	DP
+<EoL>
+𒊭	DET
+𒋼𒁍𒋗	V
+𒋳𒈠	MOD
+𒆬𒌓	N
+𒋡𒋾	N
+<EoL>
+𒀀𒉿𒇷𒅎	N
+𒀀𒁲𒉌	AV
+𒆷	MOD
+𒋫𒈾𒊓𒄴	V
+<EoL>
+𒆬𒌓	N
+𒋡𒋾	N
+𒀀𒉿𒅆	N
+𒌑𒋢𒄴	V
+<EoL>
+𒅇	CNJ
+𒋼𒅎𒅟	N
+𒅈𒄭𒅖	AV
+<EoL>
+𒋗𒌒𒊏𒄠	V
+<EoL>
+𒅇	CNJ
+𒊭𒁉𒅋𒋾	N
+𒆬𒌓	N
+<EoL>
+𒊭	DET
+𒄿𒈾	PRP
+𒋡𒋾𒅟	N
+𒄿𒊑𒄷	V
+<EoL>
+𒁹	NU
+𒊺	N
+𒆬𒌓	N
+𒀀𒈾	PRP
+𒈠𒈠𒀭	XP
+<EoL>
+𒁀𒇻𒅀	PRP
+𒆷	MOD
+𒌅𒅆𒍣	V
+<EoL>
+𒁹	NU
+𒊺	N
+𒆬𒌓	N
+𒌅𒅆𒍣𒈠	V
+<EoL>
+𒀀𒉺𒇷𒅀	N
+𒌑𒌌	MOD
+𒋼𒇷𒄿	V
+<EoL>
+𒅇	CNJ
+𒅆𒈬𒌝	N
+𒌑𒌌	MOD
+𒄿𒁀𒀸𒅆𒈠	V
+<EoL>
+𒌑𒌌	MOD
+𒀜𒋫𒀠𒄰	V
+<EoL>
+𒁹𒄿𒇻𒀭𒌓	PN
+𒅆𒈠𒄠	N
+<EoL>
+𒊭	DET
+𒄿𒁀𒀸𒋗𒌑	V
+<EoL>
+𒄿𒆷𒄀𒀀𒈠	V
+𒀀𒈾	PRP
+𒐊	NU
+𒌓𒈪	N
+<EoL>
+𒄿𒆷𒄰	V
+𒅇	CNJ
+𒀀𒈾𒆪	IP
+𒊑𒅖	N
+𒂊𒊑𒅁𒋾	N
+<EoL>
+𒊭	DET
+𒄿𒊒𒁀𒄠	V
+𒌑𒂵	V
+<EoL>
+𒋳𒈠	MOD
+𒅆𒈬𒌝	N
+<EoL>
+𒅎𒋫𒀝𒌓	V
+<EoL>
+𒅈𒄭𒅖	AV
+<EoL>
+𒀜𒋫𒆷𒄰	V
+<EoL>
+𒊭	DET
+𒅈𒄭𒅖	AV
+<EoL>
+𒀜𒇻𒆠𒅎	N
+<EoL>
+𒄿𒈾	PRP
+𒋡𒋾𒅀	N
+<EoL>
+𒍝𒀊𒋫𒆪	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒂊𒊑𒁀𒄠	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒉿𒅋𒀭𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒊭𒀠𒈠𒀀𒆪	V
+<EoL>
+𒌆𒄭𒀀𒋾𒅀	N
+𒀜𒋫𒁲𒅔	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾𒆪	IP
+𒀀𒈾	PRP
+𒀀𒋗𒌨𒆠	SN
+<EoL>
+𒀜𒋫𒍣	V
+𒄑𒈣	N
+𒊭	DET
+𒉌𒌓𒄯	N
+<EoL>
+𒁹𒀀𒁕𒅀𒌈	PN
+𒀀𒄷𒅟	N
+<EoL>
+𒊏𒆠𒅁	V
+𒄿𒈾	PRP
+𒄑𒈣	N
+<EoL>
+𒅆𒀀𒋾	IP
+𒁀𒄠𒌈	N
+<EoL>
+𒄿𒅀𒌅𒌦	PP
+<EoL>
+𒇻𒌑	CNJ
+𒇽	N
+𒀜𒋫	IP
+<EoL>
+𒀉𒋾𒋗	PRP
+𒊑𒅟𒄠𒈠	V
+<EoL>
+𒉌𒌓𒄯𒄭𒀀	N
+𒁍𒊑𒀀𒈠	V
+<EoL>
+𒁀𒈠𒀜	N
+𒊑𒅅𒋛𒅎	N
+<EoL>
+𒅇	CNJ
+𒊭	DET
+𒄿𒁀𒀸𒋗𒌑	V
+<EoL>
+𒈠𒄩𒊍	V
+<EoL>
+𒀸𒋰𒊏𒄣	V
+𒇻𒌑	CNJ
+𒇽	N
+𒀜𒋫	IP
+<EoL>
+𒉌𒌓𒄯	N
+𒅖𒋼𒅔	NU
+<EoL>
+𒁮𒂵𒄠	AJ
+𒌑𒋢𒊌𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒂍	N
+𒄿𒁲𒅔	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒂊𒊑𒁀𒄠	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒉿𒅋𒀭𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒊭𒀠𒈠𒀀𒆪	V
+<EoL>
+𒀀𒈾	PRP
+𒅀𒀊𒇷𒅀𒆠	GN
+<EoL>
+𒂊𒋼𒊒𒌒	V
+<EoL>
+𒄿𒆷𒋫𒄠	N
+𒀝𒋫𒀸𒁕𒄠	V
+<EoL>
+𒀉𒋾	PRP
+𒄿𒆷𒁴	N
+<EoL>
+𒉡𒋫𒅟𒀠𒈠	V
+<EoL>
+𒉡𒍣	V
+<EoL>
+𒂁	N
+𒈾𒀸𒉺𒅟𒄠	N
+<EoL>
+𒊭	DET
+𒁹𒄿𒇻𒀭𒌓	PN
+<EoL>
+𒌑𒊭𒁉𒇴	V
+<EoL>
+𒄿𒈾	PRP
+𒂍	N
+𒁹𒈪𒉌𒀭𒁁𒂖𒋒	PN
+<EoL>
+𒇷𒊭𒆠𒅔	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒄭𒅆𒄴𒁴	N
+<EoL>
+𒊭	DET
+𒁹𒁀𒅟𒁴	PN
+<EoL>
+𒄿𒍣𒄑	V
+<EoL>
+𒋳𒈠	MOD
+𒀭𒌓	DN
+𒅅𒋫𒁉	V
+<EoL>
+𒀀𒈾𒆪	IP
+𒅈𒄭𒅖	AV
+<EoL>
+𒀜𒋫𒆷𒄰	V
+<EoL>
+𒇽	MOD
+𒀀𒉿𒈝	N
+<EoL>
+𒀜𒋫	IP
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒂊𒊑𒁀𒄠	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒇽𒀭𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒊭𒀠𒈠𒀀𒆪	V
+𒈪𒅎𒈠	XP
+<EoL>
+𒆷	MOD
+𒋫𒈾𒀝𒆪𒌓	V
+<EoL>
+𒆬𒌓	N
+𒌑𒌌	MOD
+𒅎𒄷𒊏𒀭𒉌𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒊓𒈠𒉏𒆠	SN
+𒂊𒋼𒌅𒊌	V
+<EoL>
+𒀸𒋳	PRP
+𒊕𒀴	N
+𒊭	DET
+𒀀𒈾	PRP
+𒁹𒋢𒌝𒈠𒀭	PN
+<EoL>
+𒀜𒁲𒉡	V
+𒊕𒀴	N
+𒊭𒀀𒌅	DET
+<EoL>
+𒀉𒋾	PRP
+𒋢𒈬𒄩𒄠𒈬	PN
+<EoL>
+𒋢𒄩𒉿𒅎	EN
+𒀀𒈾	PRP
+𒋗𒁀𒊑	N
+<EoL>
+𒀀𒊭𒄠	V
+<EoL>
+𒅆𒁍𒅀	N
+𒁹𒀀𒁀𒀀	PN
+<EoL>
+𒌉	N
+𒀭𒉿𒅕𒄿𒁷𒉆	PN
+<EoL>
+𒁹𒅁𒂵𒌈	PN
+𒋰𒁍𒋗	N
+<EoL>
+𒅇	CNJ
+𒄿𒌅𒌨𒀸𒁺𒌑	PN
+<EoL>
+𒀀𒉿𒅖	AV
+𒁹𒋢𒈬𒄩𒄠𒈬	PN
+<EoL>
+𒄿𒈾	PRP
+𒆍𒀭𒊏	SN
+𒉿𒀸𒁍	V
+<EoL>
+𒀀𒇷𒅅	V
+𒌅𒊏𒀸𒋗𒈠	V
+<EoL>
+𒅆𒁍𒋗	N
+𒇷𒅅𒁍𒈠	V
+<EoL>
+𒀀𒉿𒌈	N
+𒅆𒈾	IP
+𒇷𒅅𒂵𒁉𒅀	V
+<EoL>
+𒀀𒉿𒅖	AV
+𒇽	N
+𒄿𒈾	PRP
+𒆍𒀭𒊏	SN
+<EoL>
+𒉿𒀸𒁍	V
+𒉌𒁲	N
+𒀀𒄭	N
+<EoL>
+𒆷	MOD
+𒋫𒊏𒀸𒅆	V
+x	nan
+<EoL>
+𒀀𒉿𒁴	N
+𒅆𒈾𒋾	IP
+<EoL>
+𒄖𒈬𒌨	V
+𒊕𒀴	N
+𒀀𒈾	PRP
+𒌋𒐎	NU
+𒂆	N
+𒆬𒌓	N
+<EoL>
+𒄿𒈾	PRP
+𒀸𒋗𒌨𒆠	SN
+𒀉𒁲𒉆	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒂊𒊑𒁀𒄠	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒉿𒅋𒀭𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒊭𒀠𒈠𒀀𒆪	V
+<EoL>
+𒈪𒅎𒈠	XP
+𒆷	MOD
+𒋫𒈾𒆪𒌓	V
+<EoL>
+𒌆𒄭𒀀	N
+𒀜𒋫𒁲𒅔	V
+<EoL>
+𒀀𒈾	PRP
+𒌅𒆪𒌌𒋾	N
+𒀭𒌓	DN
+<EoL>
+𒀀𒈾	PRP
+𒀀𒋗𒌨𒆠	SN
+<EoL>
+𒀜𒋫𒍣	V
+<EoL>
+𒐐	NU
+𒌆𒄭𒀀	N
+𒊭	DET
+𒁁𒂖𒋗𒉡	PN
+<EoL>
+𒄿𒁲𒉆	V
+<EoL>
+𒈫	NU
+𒈦	NU
+𒈠𒈾	N
+𒁹	NU
+𒈦	NU
+𒂆	N
+𒆬𒌓	N
+<EoL>
+𒉌𒌓	N
+𒋢𒄭𒅎𒆠	SN
+<EoL>
+𒅇	CNJ
+𒐌	NU
+𒂆	N
+𒆬𒌓	N
+𒉌𒌓	N
+𒀭𒌓	DN
+<EoL>
+𒊭	DET
+𒂊𒇷𒅀	PRP
+𒄿𒋗	V
+<EoL>
+𒐈	NU
+𒂆	N
+𒆬𒌓	N
+𒀀𒈾	PRP
+𒂵𒄠𒊑𒋗	N
+<EoL>
+𒄴𒊒𒊍𒈠	nan
+𒐉	NU
+𒂆	N
+𒆬𒌓	N
+<EoL>
+𒀭𒉌𒀀𒄠	DP
+𒅇	CNJ
+𒀭𒉌𒀀𒄠	DP
+<EoL>
+𒁹𒀭𒂗𒍪𒈾𒀊𒊺𒊏𒄠	PN
+<EoL>
+𒍑𒋫𒁉𒆷𒋗	V
+<EoL>
+𒄿𒍣𒄑𒈠	V
+<EoL>
+𒅟𒉌𒆠	N
+<EoL>
+𒇷𒄀𒈠	V
+<EoL>
+𒊑𒅆	N
+𒇷𒆠𒅋	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒂊𒊑𒁀𒄠	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒉿𒅋𒀭𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒇷𒁀𒀠𒇷𒀉𒅟	V
+<EoL>
+𒊭𒀠𒈠𒀀𒆪	V
+<EoL>
+𒄿𒈾	PRP
+𒀀𒋗𒌨𒆠	SN
+𒀀𒈾𒆪	IP
+<EoL>
+𒍢𒁍𒋾	N
+𒂊𒋼𒁍𒌀	V
+<EoL>
+𒅆𒈠𒄠	N
+𒅆𒈾	NU
+𒊭𒆷𒊭𒀜	NU
+<EoL>
+𒂊𒄿𒇴𒈠	V
+𒅈𒄭𒅖	AV
+<EoL>
+𒀜𒋫𒆷𒄰	V
+<EoL>
+𒄑𒈣	N
+𒊭	DET
+𒉌𒌓𒄯𒄭𒀀	N
+<EoL>
+𒁹𒀀𒄷𒅟	N
+𒅕𒅟𒁀𒄠	V
+<EoL>
+𒄿𒈾	PRP
+𒇷𒅁𒁉𒅎	N
+<EoL>
+𒁀𒄠𒌈	N
+𒄿𒅀𒌅	PP
+<EoL>
+𒀸𒁍𒊏𒄣	V
+𒇻𒌑	MOD
+𒀀𒉿𒈝	N
+𒀜𒋫	IP
+<EoL>
+𒉌𒌓𒄯𒄭𒀀	N
+𒋗𒉡𒋾	DET
+<EoL>
+𒀀𒈾	PRP
+𒊑𒅅𒋛𒅎	N
+<EoL>
+𒋼𒊏𒋗𒉡𒋾𒈠	V
+<EoL>
+𒁀𒈠𒀜	N
+𒊑𒅅𒋛𒅎	N
+<EoL>
+𒈠𒄩𒊍	V
+<EoL>
+𒍣𒁉𒀉	N
+𒋼𒈪𒅎	N
+<EoL>
+𒀀𒈾	PRP
+𒉺𒉌𒅀	N
+<EoL>
+𒇻𒌑	MOD
+𒋾𒋗	V
+<EoL>
+𒅈𒄭𒅖	AV
+<EoL>
+𒀜𒋫𒆷𒄰	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀴𒀭𒂗𒍪	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋫𒊑𒊭	PN
+𒌉𒊩𒅟𒀀𒈠	N
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀀𒋩	DN
+<EoL>
+𒀸𒋗𒈪𒅀	PRP
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒀀𒈬𒌨𒊑𒁴	N
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋫𒀀𒈠	IP
+<EoL>
+𒌅𒌨𒁕𒀸𒅆	V
+<EoL>
+𒍪𒄩𒀸	N
+𒌑𒌌	MOD
+𒉿𒅆𒅁𒈠	V
+<EoL>
+𒀀𒈬𒌨𒊑𒋫𒄠	N
+<EoL>
+𒌑𒌌	MOD
+𒀜𒊒𒁕𒄣	V
+<EoL>
+𒆠𒈠	PRP
+𒍪𒄩𒀸	N
+<EoL>
+𒅖𒌅	PRP
+𒈠𒀜	N
+<EoL>
+𒋗𒁇𒁴	GN
+𒀉𒋫𒀠𒄰	V
+<EoL>
+𒀀𒈬𒌨𒊑𒋫𒄠	N
+<EoL>
+𒅇	CNJ
+𒍪𒄩𒊏𒄠	N
+<EoL>
+𒀜𒁕𒊏𒁕𒄣	V
+<EoL>
+𒀸𒋳	PRP
+𒋼𒅎	N
+𒋫𒈠𒅈𒋾	N
+<EoL>
+𒊭	DET
+𒄿𒁉𒀭𒌓	PN
+𒌑𒊭𒁉𒆷𒄣	V
+<EoL>
+𒁹𒀭𒂗𒍪𒄿𒁷𒉆	PN
+𒈾𒀊𒁕𒊑	N
+<EoL>
+𒁾𒉺𒄠	N
+𒌑𒊭𒁉𒇴	V
+<EoL>
+𒅇	CNJ
+𒀭𒂗𒍪𒄿𒁷𒉆	PN
+<EoL>
+𒄴𒊑𒅖𒀴𒊏	PN
+<EoL>
+𒐈	NU
+𒂠	N
+𒊭	DET
+𒋾𒈾𒁴	N
+<EoL>
+𒀀𒈾	PRP
+𒍪𒄩𒅈𒁴	N
+<EoL>
+𒌑𒊭𒁉𒇴	V
+<EoL>
+𒀉𒁲𒉡𒉌𒆪𒌝	V
+<EoL>
+𒀭	N
+𒅇	CNJ
+𒀭𒌓	DN
+𒄀𒈪𒅋𒈠	V
+<EoL>
+𒆠𒈠	PRP
+𒀀𒈝	N
+𒅖𒈬𒈠	V
+<EoL>
+𒅅𒊒𒁀𒄣	V
+x	nan
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒇷𒅖𒈨𒈠	V
+<EoL>
+𒇷𒅅𒊒𒁀𒄠	V
+<EoL>
+𒁹𒁁𒂖𒋾𒆷𒈠𒍣	PN
+𒋡𒁺𒌝	PRP
+𒌉𒊩𒈨𒌍𒊭	N
+<EoL>
+𒌅𒌨𒁕𒀸𒅆	V
+𒀉𒋾	PRP
+𒀭𒂗𒍪𒄿𒁷𒉆	PN
+<EoL>
+𒅇	CNJ
+𒊑𒅅𒊓	N
+𒅇	CNJ
+𒌆𒇻𒁀𒊑𒂊	N
+𒋗𒁉𒇴	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒋫𒌅𒌫𒈠𒌈	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋫𒊑𒊭𒀀𒈠	PN
+<EoL>
+𒀭𒀹𒁯	DN
+𒅇	CNJ
+𒀭𒌨𒈨𒌈	DN
+<EoL>
+𒇷𒁀𒀠𒇷𒁕𒆠	V
+<EoL>
+𒀸𒋳	PRP
+𒀀𒈬𒌨𒊑𒁴	N
+<EoL>
+𒅇	CNJ
+𒀭𒀀𒋩𒋫𒀀𒅀𒅈	PN
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒉏	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒌅𒉡𒈠	IP
+<EoL>
+𒌅𒌨𒁲𒅖𒋗𒉡𒋾	V
+<EoL>
+𒍪𒄩𒀸	N
+𒄿𒈾	PRP
+𒈠𒀀𒀜	N
+<EoL>
+𒋗𒁇𒁴	GN
+𒉿𒅆𒅁𒈠	V
+<EoL>
+𒌑𒌌	MOD
+𒀜𒊒𒁕𒀸𒋗𒉡𒋾	V
+<EoL>
+𒆠𒈠	PRP
+𒅅𒋫𒀸𒁮	V
+<EoL>
+𒀀𒋫𒊏𒁕𒋗𒉡𒋾	V
+<EoL>
+𒀸𒋳	PRP
+𒋼𒅎	N
+𒋫𒈠𒅈𒋾	N
+<EoL>
+𒊭	DET
+𒄿𒁉𒀭𒌓	PN
+𒌑𒊭𒁉𒇴	V
+<EoL>
+𒁹𒀭𒂗𒍪𒄿𒁷𒉆	PN
+𒈾𒀊𒁕𒊑	N
+<EoL>
+𒁾𒉺𒄠	N
+𒌑𒊭𒁉𒇴	V
+<EoL>
+𒅇	CNJ
+𒀭𒂗𒍪𒄿𒁷𒉆	PN
+<EoL>
+𒄴𒊑𒅖𒀴𒊏	PN
+<EoL>
+𒐈	NU
+𒂠	N
+𒊭	DET
+𒋾𒈾𒁴	N
+<EoL>
+𒌑𒊭𒁉𒆷𒆠𒅎	V
+<EoL>
+𒀉𒁲𒉡𒉌𒅅𒆠𒅎	V
+<EoL>
+𒆠𒈠	PRP
+𒀀𒄩𒋾	N
+𒀜𒋾	IP
+<EoL>
+𒀀𒈝	N
+𒀀𒋩	SN
+𒅖𒈨𒈠	V
+<EoL>
+𒄿𒅟𒊏𒁀𒆪𒉡𒅆𒅎	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾𒆪	IP
+𒈠𒄩𒅈	N
+<EoL>
+𒀹𒁯	DN
+𒅇	CNJ
+𒀭𒌨𒈨𒌈	DN
+<EoL>
+𒀀𒈾	PRP
+𒁀𒆷𒋾𒆪𒉡	N
+<EoL>
+𒀝𒋫𒈾𒊏𒀊	V
+<EoL>
+𒁹𒁁𒂖𒋾𒆷𒈠𒍣	PN
+<EoL>
+𒂵𒁺𒌝	PRP
+𒌉𒊩𒈨𒌍𒊭	N
+<EoL>
+𒀉𒋾	PRP
+𒀭𒂗𒍪𒄿𒁷𒉆	PN
+<EoL>
+𒌅𒌨𒁕𒀸𒅆	V
+𒅇	CNJ
+𒊑𒅅𒊓𒄠	N
+<EoL>
+𒊭	DET
+𒇽𒀭𒅎	PN
+𒅇	CNJ
+𒉿𒀝𒇻	N
+𒅅𒉡𒆪	V
+<EoL>
+𒅇	CNJ
+𒌆𒇻𒁀𒊑𒂊	N
+𒋗𒁉𒆷𒉏	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒇷𒌅𒋗	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋢𒈬𒌔𒆠𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒄿𒁉𒀭𒅎	PN
+𒁮𒃼	N
+𒄿𒁕𒈠𒊏𒊍𒆠	GN
+<EoL>
+𒃻𒋗	N
+𒀭𒌓𒈠𒄫	PN
+<EoL>
+𒄿𒈾	PRP
+𒉺𒉌𒁴	N
+𒄿𒉡𒈠	SBJ
+𒀀𒈾	PRP
+𒌓𒇷𒁴	N
+𒀀𒈾	PRP
+𒂍𒀀𒉈𒍝𒆠	SN
+<EoL>
+𒀀𒉿𒈝	N
+𒅋𒇷𒄰	V
+𒀸𒋳	PRP
+𒄿𒁉𒀭𒅎	PN
+𒋗𒀀𒋾	IP
+<EoL>
+𒆠𒀀𒄠	AV
+𒀝𒁉𒄣	V
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+<EoL>
+𒀀𒉿𒇻𒌑	N
+𒊭	DET
+𒅖𒁲𒅔	N
+𒆷	MOD
+𒄿𒋗𒌑𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒁉𒄩𒋾𒋗𒉡	N
+𒆷	MOD
+𒄑𒍝𒊍𒍪	V
+<EoL>
+𒄿𒈾	PRP
+𒂇𒍑𒈨𒌍	N
+𒋫𒊍𒍪𒄩𒋗𒉡𒋾𒈠	V
+<EoL>
+𒍢𒁍𒌓𒆪𒉡	N
+𒄿𒅁𒁍𒋗	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒄿𒁉𒀭𒅎	PN
+𒀭𒉡𒌝	DP
+<EoL>
+𒅆𒁉𒅕	N
+𒄿𒆠	N
+𒋗	nan
+𒌓	nan
+x	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+x	nan
+<EoL>
+𒀀𒊮𒇴	N
+𒋗𒀀𒋾	IP
+𒀀𒈾	PRP
+𒄿𒁲𒅟	N
+<EoL>
+𒋼𒅕𒋗𒈠	V
+𒆪𒉺𒅈𒌓	nan
+𒊭	DET
+𒂍𒁴	N
+<EoL>
+𒊭	DET
+𒌉𒊩	N
+𒂍𒁴	N
+𒇷𒅋𒆠𒈠	V
+<EoL>
+𒅖𒋾𒀀𒀜	NU
+𒇷𒁍𒍑	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒀀𒉿𒌓	N
+𒀭𒉌𒌓	DP
+𒀝𒁉𒄣𒈠	V
+<EoL>
+𒀀𒀭𒉆	J
+𒋫𒁍𒆷𒀭𒉌	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒄿𒁉𒀭𒅎	PN
+𒋗𒌑	IP
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒉿𒅈𒆠𒅟	PRP
+𒅋𒇷𒄰	V
+<EoL>
+𒁾𒁉	N
+𒅅𒋗𒁕𒀝𒅟𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒍢𒊑𒅟	N
+𒀜𒋻𒁕𒀸𒋗	V
+<EoL>
+𒋳𒈠	MOD
+𒀀𒉿𒌈	N
+𒄿𒅔𒅟	N
+𒈠𒄴𒊏𒀜	V
+<EoL>
+𒁾𒉺𒅟	N
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒋗𒁉𒇴𒈠	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾𒆪	IP
+𒀭𒉌𒆠𒀀𒄠	AV
+𒇻𒍑𒌁𒁲𒋗𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒄿𒁲𒅟	N
+𒋼𒅕𒋗	V
+<EoL>
+𒊭𒉌𒌓	AJ
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒁹𒀴𒀭𒁕𒃶	PN
+𒈠𒁲𒅖	AV
+<EoL>
+𒅀𒋾	IP
+𒅇	CNJ
+𒊭	DET
+𒂍	N
+𒈾𒀊𒁕𒊑𒅀	N
+<EoL>
+𒌑𒈾𒊍𒍣𒅎	V
+x	nan
+<EoL>
+𒆠𒀀𒄠	AV
+𒅅𒁉𒀀𒄠	V
+<EoL>
+𒀀𒉿𒈝	N
+𒋗𒌑	IP
+𒆠𒅕𒁀𒄠	N
+<EoL>
+𒉿𒅈𒅟𒊍𒍪	N
+<EoL>
+𒁍𒊒𒍑	V
+x	nan
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅𒋗	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒉌𒉌𒀀𒋛𒄿𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒀭	N
+𒈾𒍢𒅕𒅟	V
+𒊑𒌍	N
+𒁕𒈪𒅅𒋾𒅟	N
+<EoL>
+𒇷𒆠𒅋	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅟	N
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	N
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒀸𒋳	PRP
+𒊭	DET
+𒀭𒂗𒍪𒄿𒌅𒊏𒄠	PN
+𒅇	CNJ
+𒀭𒂗𒍪𒊺𒈪	PN
+<EoL>
+𒊭	DET
+𒁾𒉺𒅟	N
+𒌅𒊭𒁉𒇴	V
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+<EoL>
+𒀉	N
+𒄑𒈣	N
+𒅇	CNJ
+𒂖𒈨𒋳	PN
+𒊏𒈠𒀭𒅟	RP
+<EoL>
+𒋗𒋫𒊍𒍣𒅅𒈠	V
+<EoL>
+x	nan
+𒂟	N
+𒌅𒌒𒁀𒀠𒋗𒉡𒅆	V
+<EoL>
+x	nan
+𒌆	N
+𒊺𒄠	N
+𒅇	CNJ
+𒆬𒌓	N
+<EoL>
+𒄿𒁲𒅔𒈠	V
+<EoL>
+𒂟	N
+𒇷𒇷𒅟𒄠	V
+<EoL>
+𒊭	DET
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒀸𒁍𒊏𒄠	V
+𒉌𒁲	N
+𒀀𒄭𒅎	N
+𒌑𒅆𒊏𒄠	V
+<EoL>
+𒀀𒈾	PRP
+𒌑𒌝	N
+𒀀𒁕𒉏	N
+𒊭	DET
+𒀸𒆪𒉡𒋗𒉡𒅆	V
+<EoL>
+𒇷𒅋𒇷𒆪𒉏𒈠	V
+<EoL>
+𒉚	N
+𒋠	N
+𒊭	DET
+𒄩𒀸𒄩𒀜	V
+<EoL>
+𒇷𒅋𒆪𒌑	V
+<EoL>
+𒀉	N
+𒄑𒈣	N
+𒀀𒈾	PRP
+𒌓𒌋𒌋𒄰	NU
+𒌓𒌋𒌋𒄰	N
+𒇷𒇷𒄰	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒁉𒅀	N
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒁁𒂖𒋗𒉡	PN
+𒈠𒊒𒅟𒈠	N
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒀸𒋗𒈪𒅀	PRP
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒀸𒋳	PRP
+𒀀𒉿𒀀𒁴	N
+𒊭	DET
+𒂍	N
+𒀀𒄩𒋾𒅀	N
+<EoL>
+𒆪𒌓𒋾𒅆𒈾	N
+𒅇	CNJ
+𒂵𒈠𒊑𒅆𒈾	N
+<EoL>
+𒁹𒊭𒄠𒄷𒌝	PN
+𒅇	CNJ
+𒀀𒄷𒅆𒈾	PN
+𒄴𒄷𒅀	N
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒅋𒇷𒆪𒉏𒈠	V
+<EoL>
+𒁹𒀸𒁲𒍪𒊏	PN
+𒄿𒈬𒌨𒋗𒉡𒋾𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒊺𒅎	N
+𒊭	RP
+𒈠𒄴𒊑𒅟	PRP
+<EoL>
+𒁉𒋼𒂊	V
+𒅇	CNJ
+𒋫𒁀𒅆	N
+<EoL>
+𒁹𒄿𒁷𒀭𒂗𒍪	PN
+𒆷	MOD
+𒉿𒀸𒊏𒄠	AJ
+<EoL>
+𒅇	CNJ
+𒈫	NU
+𒇽	N
+𒀉𒋾𒋗	PRP
+<EoL>
+𒀉𒄭𒅈𒁮	V
+<EoL>
+𒆠𒈠	SBJ
+𒅖𒌅	PRP
+𒉺𒈾	N
+𒋫𒀝𒈪𒆷𒉌	V
+<EoL>
+𒅇	CNJ
+𒄀𒈪𒅋𒆷𒅟	N
+𒊏𒁍𒌝	AJ
+<EoL>
+𒂊𒇷𒅀	PRP
+𒊭𒀝𒉡	V
+<EoL>
+𒌓𒄒𒉣𒆠	SN
+𒅟𒇻𒋗	N
+𒄿𒁲𒂊	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒊺𒀀𒄠	N
+𒋗𒀀𒋾	IP
+<EoL>
+𒀀𒈾	PRP
+𒁉𒋼	V
+𒆷	MOD
+𒋫𒈾𒀜𒁲𒅔	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒆠𒁉	V
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+<EoL>
+𒀀𒈾	PRP
+𒊑𒅁𒁀𒋾𒋗	N
+𒇷𒅟𒇷	V
+<EoL>
+𒅇	CNJ
+𒄿𒉡𒈠	SBJ
+𒀀𒉿𒁴	N
+𒊭	DET
+𒂍	N
+𒀀𒄩𒋾𒋗	N
+<EoL>
+𒌋	NU
+𒂆	N
+𒆬𒄀	N
+𒁹	NU
+𒈠𒈾	N
+𒆬𒌓	N
+<EoL>
+𒀀𒈾	PRP
+𒅆𒅎	N
+𒊺𒅎	N
+𒀉𒋾	PRP
+𒁮𒃼	N
+<EoL>
+𒅋𒆠𒂊𒈠	V
+𒀸𒋗𒈪𒋗	PRP
+<EoL>
+𒀀𒈾	PRP
+𒁮𒃼	N
+𒂵𒁀𒄠	N
+<EoL>
+𒀸𒆪𒌦	V
+𒋗𒍪𒌒𒅟	N
+<EoL>
+𒊏𒁉𒀀𒄠	AJ
+𒇻𒄯	V
+𒆠𒈠	PRP
+𒊭	DET
+𒍣𒍣𒅅𒋫𒅟	N
+<EoL>
+𒄿𒍝𒀊𒁀𒌅	V
+𒈠𒆷	REL
+𒄿𒁀𒋗	V
+𒆪𒌌𒇷𒈠𒀭𒉌	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒂊𒊑𒅁𒀭𒂗𒍪	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒆪𒌨𒆪𒌨𒌈	PN
+𒀀𒄩𒀜𒅟𒈠	N
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒁁𒉌	N
+𒀭𒅎	DN
+𒀸𒋗𒈪𒅀	PRP
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒊭𒀠𒈠𒆪	V
+𒀀𒈾𒆪	IP
+𒅇	CNJ
+𒀜𒋫𒀀𒈠	IP
+<EoL>
+𒉌𒅕𒋼𒄴	V
+𒄿𒊭𒉌𒈠	V
+<EoL>
+𒌝𒈪	N
+𒌑𒆷𒁕𒉌	V
+<EoL>
+𒀀𒈾	PRP
+𒈪𒉌𒅎	QP
+𒄿𒈾	PRP
+𒆷	MOD
+𒀀𒇷𒅀	N
+<EoL>
+𒌑	CNJ
+𒋗𒈪𒅀	N
+𒀀𒋫𒈾𒄀	V
+<EoL>
+𒅇	CNJ
+𒁉𒆷𒆠	N
+𒈪𒄭𒅕𒋾𒅀	N
+<EoL>
+𒌑𒅟𒀠	V
+𒀀𒉡𒌝𒈠	AV
+<EoL>
+𒁹𒌍𒂊𒊑𒁀	PN
+<EoL>
+𒁹𒄿𒁉𒀭𒌓	PN
+<EoL>
+𒅇	CNJ
+𒅁𒉌𒊺𒀸	PN
+<EoL>
+𒅆𒋫𒀀𒀠	V
+<EoL>
+𒊭	DET
+𒄿𒋼𒁍𒊭𒉌	V
+<EoL>
+𒄿𒈾	PRP
+𒁉𒋾𒅎	N
+𒊑𒆠𒅎	AJ
+<EoL>
+𒉿𒀸𒁀𒆪	V
+𒌑	CNJ
+𒈬𒌓	N
+𒈠𒋾𒄿	N
+<EoL>
+𒀀𒈠𒀜	V
+𒄿𒈾	PRP
+𒁍𒄷𒌨	N
+<EoL>
+𒍝𒁉𒄿	N
+𒄿𒋫𒁉𒀀𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒈠	IP
+𒈠𒊏𒀜	N
+<EoL>
+𒉡𒆪𒍑𒋾	N
+𒈠𒊏𒀜	N
+<EoL>
+𒄷𒌅𒌒𒋾	N
+𒊭	DET
+𒁁𒂖𒇷𒀉	N
+<EoL>
+𒋫𒄴𒉡𒂵	V
+<EoL>
+𒌑𒈠𒄠	N
+𒈠𒊏𒀜	N
+<EoL>
+𒁹𒌍𒈠𒄫	PN
+𒁁𒇷𒅟	N
+<EoL>
+𒀀𒋫𒄩𒊍	V
+<EoL>
+𒀠𒅟𒄠𒈠	V
+<EoL>
+𒉿𒅈𒅟𒋾	N
+𒁍𒊒𒍑	V
+<EoL>
+𒋳𒈠	MOD
+𒆷	MOD
+𒆠𒀀𒄠𒈠	AV
+<EoL>
+𒀀𒁉	N
+𒀀𒍝𒁀𒀜	V
+𒆷	MOD
+<EoL>
+𒀀𒈾	PRP
+𒈨𒂊	N
+𒀀𒈠𒆪𒌓	V
+<EoL>
+𒌑	CNJ
+𒁉𒂊𒅖𒋫𒄠	N
+<EoL>
+𒀀𒊭𒅟𒀝𒅟	V
+<EoL>
+𒀜𒋫	IP
+𒁀𒀠𒄭𒋫	V
+<EoL>
+𒌑	CNJ
+𒀀𒈾𒆪	IP
+𒈬𒌓	N
+𒄿𒋫x	nan
+𒀀𒈠𒀜	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒊭𒁉𒊑𒅀	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒁁𒂖𒆰	PN
+𒀴𒅟𒈠	N
+<EoL>
+𒊭𒁉𒊑	N
+𒀜𒋫	IP
+𒀉𒋾𒅀	PRP
+𒀴𒆠𒉡𒉌	PN
+𒌉	N
+𒅆𒅁𒀭𒂗𒍪	PN
+<EoL>
+𒀀𒈾	PRP
+𒌉	N
+𒆪	nan
+𒌌	nan
+𒀀𒉿𒇷	N
+𒁲𒆠𒄿	N
+𒆬𒌓	N
+<EoL>
+𒋫𒀜𒊒𒁮	V
+<EoL>
+𒁹	NU
+𒂆	N
+𒆬𒌓	N
+𒊭	DET
+𒀝𒁉𒀀𒆪	V
+<EoL>
+𒈦	NU
+𒂆	N
+𒆬𒌓	N
+𒅈𒁺𒌝	PN
+𒌉	N
+𒀭xxx	nan
+<EoL>
+𒀉𒁲𒉆	V
+<EoL>
+𒅇	CNJ
+𒈦	NU
+𒂆	N
+𒆬𒌓	N
+𒅈𒊏𒁍	PN
+𒀿	N
+𒀉𒁲𒉆	V
+<EoL>
+𒌓𒈠𒄠	AV
+𒆬𒌓	N
+𒋗𒀀𒋾	IP
+𒊭𒁉𒊑	N
+𒀜𒋫	IP
+<EoL>
+𒌑𒌌	MOD
+𒋫𒄠𒄷𒌨𒈠	V
+𒄿𒈾	PRP
+𒂵𒀊𒇷𒀀𒋾	N
+<EoL>
+𒊭	DET
+𒁍𒌔𒊑	N
+𒊭	DET
+𒀀𒉿𒇷𒂊	N
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+𒂆	N
+𒆬𒌓	N
+x	nan
+𒍮𒈠	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+x𒅟𒅈	nan
+x	nan
+x	nan
+<EoL>
+𒄿𒈾	PRP
+𒂵𒋾	N
+𒊭𒁉𒊑𒅀	N
+𒅟𒋫	IP
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+𒁉	nan
+𒇷	nan
+𒀀𒆷𒀝𒆠𒀀𒄠𒈠	V
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+𒊏	nan
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒊭𒁉𒊑𒅀	N
+<EoL>
+𒌑𒌒𒁀𒇴	V
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+𒄿𒈾	PRP
+𒉺𒉌	N
+𒈾𒁉𒅖𒋾𒅀	N
+<EoL>
+𒀀𒈾	PRP
+𒊭𒁉𒊑𒅀	N
+𒅟𒋫	IP
+<EoL>
+𒀝𒋫𒈾𒅈𒊏𒀊	V
+<EoL>
+𒅈𒄭𒅖	AV
+𒊭𒁉𒊑	N
+𒁾𒉺𒋗	N
+<EoL>
+𒀀𒈾	PRP
+𒅈𒊏𒁍	PN
+𒇷𒅋𒇷𒄰𒈠	V
+<EoL>
+𒆷	MOD
+𒄿𒋫𒅈𒈠	V
+𒆷	MOD
+𒄿𒁕𒀊𒁍𒌒	V
+<EoL>
+𒌑𒆪𒇷𒂊	N
+𒊭	DET
+𒀀𒆪𒇻	V
+𒅇	CNJ
+𒀸𒌅𒌑	V
+<EoL>
+𒄿𒈾	PRP
+𒇷𒅁𒁉𒅀	N
+𒌑𒌌	MOD
+𒄿𒁲𒂊	V
+<EoL>
+𒅇	CNJ
+x	nan
+𒀸	nan
+𒊺	nan
+𒊏	nan
+𒊭	DET
+𒃻	N
+𒅇	CNJ
+𒁉	N
+𒊭	DET
+𒀀𒆪𒇻	V
+<EoL>
+𒅇	CNJ
+𒀸𒌅𒌑	V
+𒀀𒈾	PRP
+𒋼𒈪𒋗𒈠	N
+<EoL>
+𒀀𒍝𒄠𒈪𒁕𒄠𒈠	V
+𒀀𒈾	PRP
+𒈠𒄯	N
+𒊭𒁉𒊑𒅀	N
+<EoL>
+𒅟𒋫	IP
+𒀀𒀠𒆷𒄰	V
+<EoL>
+x	nan
+x	nan
+x	nan
+𒈪	nan
+𒀀	nan
+𒄀	nan
+<EoL>
+x𒁕𒀭𒉌	nan
+<EoL>
+x	nan
+𒍢𒄴𒁉	nan
+𒊭𒁉𒊑𒅀	N
+𒇷𒇷𒄰	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒄭𒅀	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒄠𒈠𒅈𒉌𒉌𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+𒇻	MOD
+𒁀𒀠𒁕𒋫	V
+<EoL>
+𒀀𒈾	PRP
+𒋗𒌌𒈪𒅟	N
+𒀸𒁍𒊏𒄠	V
+<EoL>
+𒋗𒈝𒅟	N
+𒈠𒄯	PRP
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+<EoL>
+𒇻	MOD
+𒁕𒊑	V
+<EoL>
+𒐊	NU
+𒋡	N
+𒃼𒋳𒊬	N
+𒊭	DET
+𒀴𒌍𒊺𒅆	PN
+<EoL>
+𒀀𒄭	N
+𒀜𒋫	IP
+𒋗𒈪	N
+𒋫𒀾𒆪𒊒	V
+<EoL>
+𒄠𒋫𒄩𒅈	V
+<EoL>
+𒅇	CNJ
+𒄯𒊏𒉏	N
+𒊭	DET
+𒄿𒈾	PRP
+𒂊𒈥𒆠	SN
+<EoL>
+𒀸𒁍𒌑	V
+𒀀𒁲𒉌	AV
+𒌑𒌌	MOD
+𒄿𒊓𒉌𒂵𒄠𒈠	V
+<EoL>
+𒋫𒈠𒅈𒋫𒅟	N
+<EoL>
+𒌑𒌌	MOD
+𒌑𒊭𒁉𒆷𒀝𒆪	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒐊	NU
+𒋡	N
+𒁍𒊏𒊭	N
+<EoL>
+𒁹𒀴𒌍𒊺𒅆	PN
+𒍑𒋫𒁉𒆷𒀝𒆪	V
+<EoL>
+𒀀𒄭	N
+𒀜𒋫	IP
+𒇷𒅁𒁀𒋾	N
+<EoL>
+𒆷	MOD
+𒋫𒈠𒀠𒆷	V
+<EoL>
+𒋳𒈠	MOD
+𒀀𒆷𒀝	N
+𒍢𒄴𒊑	N
+𒄿𒁀𒀸𒅆	V
+<EoL>
+𒄭𒊺𒄴𒋫	N
+𒈠𒆷	REL
+𒋫𒊭𒀊𒉺𒊏	V
+<EoL>
+𒇻𒊭𒁉𒆷𒀝𒆪	V
+<EoL>
+𒅇	CNJ
+𒋳𒈠	MOD
+𒍢𒄴𒊒	N
+𒆷	MOD
+𒄿𒅋𒆷𒅟	V
+<EoL>
+𒁾𒉺𒅟	N
+𒅈𒄭𒅖	AV
+𒋗𒌒𒊏𒄠𒈠	V
+<EoL>
+𒄭𒊺𒄴𒋫	N
+𒈠𒆷	REL
+𒋫𒊭𒀊𒉺𒊏	V
+<EoL>
+𒇻𒊭𒁉𒆷𒀝𒆪	V
+<EoL>
+𒄑𒂵𒀸𒋫	N
+𒅇	CNJ
+𒉌𒌓𒅟𒉺𒍢𒀀	N
+<EoL>
+𒌆𒁇𒋛𒅅	N
+𒋗𒋫𒄴𒋾𒄿𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒆬𒌓	N
+𒊭𒈠𒄠𒈠	V
+<EoL>
+𒋗𒁉𒇴	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒉌𒅔𒌅𒄴	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒉺𒄷𒊏𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒇷𒌅𒅟	V
+<EoL>
+𒄿𒉡𒌑𒈠	SBJ
+𒀀𒋫	IP
+𒅇	CNJ
+𒀀𒈾𒆪𒌑	IP
+<EoL>
+𒉌𒅔𒈾𒄠𒊒𒌑	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒌑𒈠	IP
+<EoL>
+𒆬𒌓	N
+𒀀𒉡𒌝𒈨𒀀𒄠	DP
+<EoL>
+𒀉𒉆𒄠	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒋫𒁍𒆷𒀭𒉌	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+<EoL>
+𒄀𒅕𒊏𒄠	N
+𒀠𒇷𒅅	V
+<EoL>
+𒆬𒌓	N
+𒌑𒌌	MOD
+𒈾𒅆𒀀𒀝𒆪	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+<EoL>
+𒌓𒄰	nan
+𒄿𒈾	PRP
+𒌓𒄒𒉣𒆠	SN
+<EoL>
+𒇻𒅆𒅎𒈠	V
+𒆬𒌓	N
+𒇻𒊭𒁉𒆷𒆪	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒁹𒋝𒀭𒂗𒍪	PN
+<EoL>
+𒀜𒋻𒁕𒆪𒌑	V
+<EoL>
+𒆬𒌓	N
+𒋗𒁉𒇴	V
+<EoL>
+𒀉𒋾	PRP
+𒆬𒌓	N
+𒀀𒄷𒅟	N
+<EoL>
+𒇷𒅋𒇷𒅟𒄠	V
+<EoL>
+𒈠𒅈	N
+𒅆𒅁𒊑𒅎	N
+<EoL>
+𒊭	DET
+𒀸𒁓𒊏𒄠	V
+<EoL>
+𒆷	MOD
+𒌑𒆷𒉺𒋫𒄠	V
+<EoL>
+𒅈𒄭𒅖	AV
+𒌅𒌨𒁕	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒉌𒉌𒀀𒋛𒅀	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅁𒆪𒀭𒊭𒆷𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+<EoL>
+𒅖𒌅	PRP
+𒊭𒀜𒁕𒀝𒁮	N
+𒀀𒈾	PRP
+𒊺𒆰	N
+<EoL>
+𒊭	DET
+𒊭𒈠𒀸𒆠𒅋𒇷	N
+𒌑𒈾𒄿𒀉𒅟𒈠	V
+<EoL>
+𒌑𒌌	MOD
+𒌅𒊭xx	nan
+<EoL>
+𒁾𒉺𒋾𒅀	N
+𒀀𒁲	PRP
+𒄩𒄠𒅆𒋗	NU
+𒌑𒊭𒁉𒆷𒆪𒈠	V
+<EoL>
+𒈨𒄭𒅕	N
+𒁾𒉺𒋾𒅀	N
+𒌑𒌌	MOD
+𒌅𒊭𒁉𒇴	V
+<EoL>
+𒅇	CNJ
+𒋼𒅎𒅟	N
+𒌑𒌌	MOD
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒆠𒊭	AV
+𒋫𒀠𒆷𒄰	V
+<EoL>
+𒀀𒈾	PRP
+𒌑𒁲𒅀	N
+𒋗𒌨𒆪𒁉𒅎	N
+<EoL>
+𒊻𒈾𒅀	N
+𒄿𒁀𒀸𒅆𒀀	V
+x	nan
+<EoL>
+𒁹𒀭𒅀𒀊𒇷𒅀𒅖𒋫𒈥	PN
+x	nan
+x	nan
+<EoL>
+𒆠𒈠	PRP
+𒌑𒁲𒂊	N
+𒆪𒌦𒉡𒆠𒅎	AJ
+<EoL>
+𒌋	NU
+𒂆	N
+𒆬𒌓	N
+𒄿𒈾	PRP
+𒄀𒅕𒊑𒅎𒈠	N
+x	nan
+<EoL>
+𒀸𒋗	PRP
+𒆠𒀀𒄠𒈠	AV
+𒇻𒌒𒁍𒁕𒆪	V
+<EoL>
+𒌗𒆥𒀭𒈹	NU
+𒌗𒆥𒀭𒈹	N
+𒌓𒌍𒄰	NU
+𒌓𒌍𒄰	N
+<EoL>
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅟	N
+𒀀𒀠𒆷𒄰	V
+<EoL>
+𒑏	NU
+𒑏	N
+𒍢𒊏𒄠	N
+𒊭	DET
+𒊭𒈠𒀸𒆠𒅋𒇷	N
+x	nan
+<EoL>
+𒉌𒌓𒆪𒉡𒄰	N
+𒀀𒈾	PRP
+𒀭𒅀𒀊𒇷𒅀𒅖𒋫𒈥	PN
+<EoL>
+𒄿𒁲𒅎𒈠	V
+𒀀𒈾	PRP
+𒈠𒄴𒊑𒅀	N
+<EoL>
+𒌅𒌨𒁮	V
+<EoL>
+𒊭𒀜𒌈	N
+𒆷	MOD
+𒄿𒄑𒍣𒁀𒀭𒉌	V
+<EoL>
+𒀸	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒄿𒁲𒅔𒈠	V
+𒄀XX𒈾𒄭𒀀	nan
+<EoL>
+𒅇	CNJ
+𒄀X𒄭𒀀	nan
+𒋗𒁉𒅖	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀴𒋛𒃻	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒄀𒅖𒀭𒀫𒌓𒈠	PN
+<EoL>
+𒆠𒈠	PRP
+𒋫𒀜𒌅𒆷𒀭𒉌	V
+<EoL>
+𒀀𒈾	PRP
+𒂍𒅀	N
+𒉺𒉌𒅀	N
+𒌑𒌌	MOD
+𒌑𒊓𒄭𒅕	V
+<EoL>
+𒀉𒋾	PRP
+𒌝𒈪𒅀	N
+𒌑𒌌	MOD
+𒄠𒋫𒇷𒅅	V
+<EoL>
+𒆠𒈠	PRP
+𒋾𒁺𒌑	V
+𒊭	DET
+𒄩𒅈𒊏𒉌𒅎	N
+<EoL>
+𒊭	DET
+𒉺𒉌𒅀	N
+𒅇	CNJ
+𒀀𒈠𒀜	V
+<EoL>
+𒅇	CNJ
+𒁀𒀠𒋫𒆪	V
+𒅇𒇷	MOD
+𒄿𒁲𒂊	V
+<EoL>
+𒀀𒊮	N
+𒋗𒋫𒀝𒅆𒀉	V
+<EoL>
+𒀀𒈾	PRP
+𒂍𒋾𒅟	N
+𒆷	MOD
+𒋼𒄖	V
+<EoL>
+𒆷	MOD
+𒄿𒄩𒋾𒀀𒈠	V
+𒇷𒁉	N
+𒆷	MOD
+𒄿𒊑𒅅	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒌝𒈪𒅟	N
+<EoL>
+𒆷	MOD
+𒋼𒄖	V
+𒉻	N
+𒄿𒁲𒅔	V
+<EoL>
+𒅈𒄭𒅖	AV
+𒑖	NU
+𒑖	N
+𒍥𒁕	N
+𒋗𒁉𒇴	V
+<EoL>
+𒀀𒈠𒌈	N
+𒄿𒈾	PRP
+𒂍𒃲	N
+𒌑𒍪𒁀	V
+<EoL>
+𒉌𒁕𒄭𒅎	N
+𒉌𒁕𒄭𒅎	N
+𒆷	MOD
+𒋫𒊏𒅆𒀀𒄠	V
+<EoL>
+𒅇	CNJ
+𒆷	MOD
+𒄿𒄩𒋾𒈠	V
+𒇷𒁉	N
+<EoL>
+𒆷	MOD
+𒄿𒈠𒊏𒊍	V
+𒀉𒋾𒅟	PRP
+𒋗𒌦𒍣𒅕𒅟	V
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒀸𒁍𒊏𒀝𒆪	V
+<EoL>
+𒉌𒁕𒄭𒅎	N
+𒉌𒁕𒄭𒅎	N
+𒆷	MOD
+𒋫𒊏𒀸𒅆	V
+<EoL>
+𒀀𒈾	PRP
+𒇷𒁍	N
+𒈠𒋾𒅎	N
+<EoL>
+𒆷	MOD
+𒋫𒆷𒀝	V
+<EoL>
+𒀀𒁉	N
+𒀀𒄭	N
+𒀜𒋫𒈠	IP
+𒉌𒁕𒄭𒅎	N
+𒉌𒁕𒄭𒅎	N
+<EoL>
+𒆷	MOD
+𒋫𒊏𒅆𒀀𒄠	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒅗𒀭𒌓	PN
+<EoL>
+𒁹𒀭𒊩𒌆𒅁𒂊𒊑𒅖	PN
+<EoL>
+𒅇	CNJ
+𒅎𒄥𒀭𒂗𒍪	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒀴𒊏𒂵𒅖𒈠	PN
+<EoL>
+𒀸𒋳	PRP
+𒁲𒉏	N
+𒊭	DET
+𒋫𒁲𒈾𒉈	V
+𒄿𒅀𒁴	IP
+𒉌𒉌	N
+<EoL>
+𒈠𒄩𒅈	N
+𒊑𒅖𒀭𒌓	PN
+𒄀𒅎𒆷𒉌	V
+<EoL>
+𒀀𒈾	PRP
+𒅁𒁀𒁴	PN
+𒆠𒁉𒈠	V
+<EoL>
+𒆬𒌓	N
+𒇷𒊭𒁉𒇴	V
+<EoL>
+𒀀𒈾	PRP
+𒅁𒁀𒁴	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒆬𒌓	N
+𒆷	MOD
+𒈠𒁺	AJ
+𒆷	MOD
+𒊩𒈠	XP
+<EoL>
+𒀀𒉡𒈠	AV
+𒆬𒌓	N
+𒋗𒁉𒇴	V
+<EoL>
+𒋳𒈠	MOD
+𒆬𒌓	N
+𒀀𒁉	N
+𒆷	MOD
+𒄿𒁲𒈾𒆪	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾𒆪	IP
+𒀸𒁍𒊏𒆪	V
+<EoL>
+𒅅𒋡𒀊𒇷𒀉	PRP
+𒅅𒋡𒀊𒇷𒀉	N
+𒂊𒊑𒅖𒄭𒃲	TN
+<EoL>
+𒁾𒉺	N
+𒀭𒉌𒅎	DP
+𒅅𒋡𒀊𒇷𒀉	PRP
+𒅅𒋡𒀊𒇷𒀉	N
+<EoL>
+𒂊𒊑𒅖𒄭𒃲	TN
+𒄭𒁉𒋗𒈠	V
+<EoL>
+𒅇	CNJ
+𒀜𒆷𒀝	V
+<EoL>
+𒌓𒈪𒊭	N
+𒌅	nan
+𒁁	nan
+𒁍	nan
+<EoL>
+𒐈	NU
+𒉺𒅈𒋛𒅟𒁴	N
+𒁉	N
+<EoL>
+𒐊	NU
+𒉺𒊑𒋛	N
+𒊺	N
+𒀀𒈾	PRP
+𒆠𒍝𒁴	N
+<EoL>
+𒊭	DET
+𒍪𒄩𒊑𒂊	N
+<EoL>
+𒁾𒁉	N
+𒀭𒀴𒊏𒂵𒅖	PN
+<EoL>
+𒀀𒈾	PRP
+𒅗𒀭𒌓	PN
+<EoL>
+𒁹𒀭𒊩𒌆𒃲𒂊𒊑𒅖	PN
+<EoL>
+𒅇	CNJ
+𒅎𒄥𒀭𒂗𒍪	PN
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒋫𒀀	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒉡𒌫𒀭𒌓𒈠	PN
+<EoL>
+𒀀𒉿𒅋𒌈	N
+<EoL>
+𒊭	DET
+𒍣𒅎𒊏𒄩𒈬	PN
+<EoL>
+𒆷	MOD
+𒋫𒅟𒀾𒋛	V
+<EoL>
+𒈪𒁲𒊓	N
+<EoL>
+𒈠𒄴𒊏𒆪	V
+<EoL>
+𒇷𒋼𒅅	V
+<EoL><EoT>
+𒁁𒉌	N
+𒀭𒈾𒁉𒌝	DN
+<EoL>
+𒀸𒋗𒈪𒅀	PRP
+𒇷𒆷𒀊𒁉𒅕𒅟	V
+<EoL>
+𒇻	MOD
+𒊭𒀠𒈠𒋫	V
+<EoL>
+𒅖𒋾𒅖𒋗	AV
+𒅇	CNJ
+𒅆𒉌𒋗	AV
+<EoL>
+𒀸𒋳	PRP
+𒐊	NU
+𒇻𒀴	N
+𒀀𒈾	PRP
+𒁾𒊬𒍠𒂵	N
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒀴𒆪𒁉	PN
+𒈬𒋾	N
+𒀀𒄩𒋾𒅟	N
+<EoL>
+𒂵𒁉𒂊𒅎𒈠	N
+𒇻𒀴𒄭𒀀	N
+<EoL>
+𒅇	CNJ
+𒄩𒍝𒉡𒌝	N
+𒋗𒁍𒇷𒅎	V
+<EoL>
+𒀸𒁍𒊏𒀝𒄣𒈠	V
+<EoL>
+𒋼𒅎𒅟	N
+𒊑𒂵𒄠	AJ
+𒌑𒌌	MOD
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒄿𒈾𒀭𒈾	AV
+𒁾𒁉	N
+𒍑𒋫𒁉𒆷𒀝𒄣	V
+<EoL>
+𒊭	DET
+𒄘𒌦𒄭𒀀	N
+𒀀𒊮𒅀	N
+𒅇	CNJ
+𒅗𒆟	N
+𒂍	N
+<EoL>
+𒐊	NU
+𒇻𒀴	N
+𒅇	CNJ
+𒀜𒋫	IP
+<EoL>
+𒐍	NU
+𒇻𒀴	N
+𒋗𒁉𒇴𒈠	V
+<EoL>
+𒌫𒊏𒄠	AV
+𒄿𒈾	PRP
+𒆍	N
+𒁍𒆪𒈪	N
+<EoL>
+𒐊	NU
+𒇻𒀴	N
+𒇻𒋼𒅕𒊏𒀝𒄣	V
+<EoL>
+𒌋	NU
+𒇻𒀴	N
+𒈪𒀉𒄖𒊒𒋾	N
+<EoL>
+𒍢𒅎𒁕𒄠𒈠	V
+𒋗𒁉𒇴	V
+<EoL>
+𒌋𒄠	N
+𒇻𒈠𒇷	V
+<EoL>
+𒄿𒈾	PRP
+𒌗𒀳𒃮𒀀	MN
+𒌓𒌍𒄰	NU
+𒌓𒌍𒄰	N
+<EoL>
+𒋗𒁉𒇴	V
+<EoL>
+𒀀𒈾	PRP
+𒊭	DET
+𒀸𒁍𒊏𒀝𒄣	V
+<EoL>
+𒆷	MOD
+𒌅𒍑𒋫𒀀	V
+<EoL>
+𒄿𒈾	PRP
+𒇇𒇻𒄭𒀀𒅟	N
+𒇻𒀴	N
+𒀀𒈾	PRP
+<EoL>
+𒌋	NU
+𒇻𒀴	N
+𒋗𒁉𒇴	V
+<EoL>
+𒄿𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+𒌋	NU
+𒇻𒀴	N
+<EoL>
+𒀀𒈾𒀜𒁲𒈾𒀝𒄣	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀀𒍣𒅕𒀭𒁕𒃶	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀭𒂗𒍪𒁁𒂖𒆰𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒇷𒁀𒀠𒇷𒀉𒅟	V
+<EoL>
+𒊭	DET
+𒋼𒁍𒊭𒀭𒉌	V
+𒁕𒈪𒅅	V
+<EoL>
+𒀝𒁉𒄿𒈠	V
+𒐍	NU
+𒋡	N
+𒉌𒄑	N
+<EoL>
+𒀀𒈾	PRP
+𒁕𒀊𒋾	N
+𒄿𒁲𒉡𒆪𒄣	V
+<EoL>
+𒁕𒀊𒋫𒄠	N
+𒌑𒌌	MOD
+<EoL>
+𒌅𒊭𒁉𒇴	V
+<EoL>
+𒅇	CNJ
+𒀀𒉿𒈝	N
+𒈠𒂵𒀠	AV
+<EoL>
+𒄿𒋼𒅁𒊭𒀭𒉌	V
+<EoL>
+𒌓	N
+𒈠𒋾𒄿𒈠	AV
+<EoL>
+𒈪𒅎𒈠	XP
+𒆷	MOD
+𒅅𒁉𒄠	V
+<EoL>
+𒅇	CNJ
+𒌑𒉌𒋾𒅀	N
+<EoL>
+𒊭	DET
+𒀀𒈾	PRP
+𒊭	DET
+𒌷𒆠	N
+𒀀𒄩𒉡𒋫	SN
+<EoL>
+𒀜𒇻𒆠	N
+𒍣𒉌𒂊𒆪𒈠	V
+<EoL>
+𒄑𒈣	N
+𒍑𒋫𒉿𒆷𒀭𒉌	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒐍	NU
+𒋡	N
+𒉌𒄑	N
+𒊭	DET
+𒋫𒀝𒁉𒄠𒈠	V
+<EoL>
+𒀀𒈾	PRP
+𒀀𒉿𒅆	N
+𒀜𒁲𒉡	V
+<EoL>
+𒀉𒈾𒄠𒈠	V
+<EoL>
+𒌑𒉌𒋾𒅟	N
+𒇻𒉿𒅆𒊏𒆪	V
+<EoL>
+𒐍	NU
+𒋡	N
+𒉌𒄑	N
+𒈫	NU
+𒂆	N
+𒆬𒌓	N
+<EoL>
+𒌑𒁀𒀠	V
+<EoL>
+x	nan
+𒅆	nan
+𒅅𒇻𒉌𒅔𒉌	V
+<EoL>
+𒊭	DET
+𒈫	NU
+𒂆	N
+𒆬𒌓	N
+<EoL>
+𒁕𒀊𒋫𒄠	N
+𒁉𒆷𒄠𒈠	V
+𒈠𒂵𒀠	AV
+𒆷	MOD
+𒄿𒁍𒋗𒉌𒉌	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁁𒂖	N
+𒁉𒁴	N
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒌉𒊩	N
+𒀭𒂗𒍪xx𒈠	nan
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒀸𒋗𒈪𒅀	PRP
+<EoL>
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+𒇷𒁀𒀠𒇷𒌅𒅟	V
+<EoL>
+𒁉𒌈	N
+𒊭𒅆	V
+𒅇	CNJ
+𒍪𒄩𒊒𒌑	N
+<EoL>
+𒊭𒀠𒈬	V
+𒅇	CNJ
+𒄞𒄭𒀀	N
+𒅆𒊒𒋗𒉡	N
+<EoL>
+𒊭𒅆	V
+𒄿𒈾	PRP
+𒀀𒊮𒅎	N
+<EoL>
+𒊺𒄠	N
+𒌍	NU
+𒊺𒄥	N
+𒊺𒄥	N
+<EoL>
+𒂖𒆠	V
+𒄿𒈾	PRP
+𒀀𒊮	N
+xx𒅆	nan
+<EoL>
+𒐇	NU
+𒊺𒄥	N
+𒊺𒄥	N
+𒂖𒆠	V
+<EoL>
+𒅇	CNJ
+𒆠𒀀𒄠	AV
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒌝𒈠	PRP
+𒀜𒋫𒈠	IP
+<EoL>
+𒀠𒉺𒄠	N
+𒌑𒊭𒁉𒆷𒆠𒅎	V
+<EoL>
+𒀠𒉺𒄠	N
+𒌑𒌌	MOD
+𒄿𒁲𒉡𒉌	V
+<EoL>
+𒀀𒉿𒈝	N
+𒊭	DET
+𒀠𒉺𒄠	N
+<EoL>
+𒌅𒊭𒁉𒆷𒀝𒆪𒌝𒈠	V
+<EoL>
+𒋗𒌒𒊏𒈠	V
+𒀀𒉿𒆷𒄠	N
+𒊭𒌅	IP
+<EoL>
+𒀀𒀠𒉺𒄠	N
+𒇻𒊑𒅖	V
+<EoL>
+𒅇	CNJ
+𒀜𒋫	IP
+𒅖𒌅	PRP
+𒌓𒈪𒅎	N
+<EoL>
+𒊭	DET
+𒀠𒇷𒆪	V
+𒋼𒅎𒅟	N
+<EoL>
+𒌑𒌌	MOD
+𒋫𒀸𒁍𒊏𒄠	V
+<EoL>
+𒁹𒀀𒉋𒀭𒈥𒌅	PN
+<EoL>
+𒌉	N
+𒉌𒉌𒌝𒈠𒋾	PN
+<EoL>
+𒀀𒆷𒀝𒋫𒋗	N
+𒊓𒀜𒊏𒀜𒈠	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒀝𒁉𒋗	V
+𒌝𒈠	PRP
+𒀀𒈾𒆪𒈠	IP
+<EoL>
+𒋢𒄷𒌨𒋗𒈠	V
+<EoL>
+𒋼𒅎𒋗	N
+𒋗𒌒𒊏𒄠	V
+<EoL>
+𒅇	CNJ
+𒀀𒈾	PRP
+𒀀𒊮	N
+𒊺𒄑𒉌	N
+<EoL>
+𒀀𒄭	N
+𒌑𒌌	MOD
+𒈾𒁲𒄿	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒂗𒍪𒊺𒈪	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒇽𒀭𒄩𒉌𒈠	PN
+<EoL>
+𒂍	N
+𒀭𒁀𒌑	DN
+<EoL>
+𒂍	N
+𒀭𒊩𒌆𒄈𒋢	PN
+<EoL>
+𒀀𒅟𒊏𒀊𒆪𒌝	V
+<EoL>
+𒁉𒊑𒀀𒆪𒌑𒈠	V
+<EoL>
+𒀸𒁍𒊏𒆪𒌝	V
+<EoL>
+𒂵𒋾	N
+𒍝𒅟𒀜	V
+<EoL>
+𒁍𒇷𒁕𒉌	V
+<EoL>
+𒁹	NU
+𒂆	N
+𒆬𒌓	N
+<EoL>
+𒀉𒉆𒈠	V
+𒇻𒆪𒌌	V
+<EoL>
+𒅇	CNJ
+𒆷	MOD
+𒀀𒋫𒁀𒀠	V
+<EoL>
+𒁺𒌝𒂵𒄠	N
+<EoL>
+𒂊𒁉𒅖𒅟	V
+<EoL>
+𒐊	NU
+𒄩	N
+𒋗𒁉𒇴	V
+<EoL>
+𒀀𒈾	PRP
+𒀭𒁀𒌑	DN
+<EoL>
+𒋳𒈠	MOD
+𒄿𒁀𒋗𒌑	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒁉𒋾𒄿	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒌉𒌓𒄒𒉣𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒆠	V
+<EoL>
+𒀀𒉡𒌝𒈠	AV
+𒀀𒈾	PRP
+𒁉𒊒𒊒𒁴	PN
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒌉𒌓𒄒𒉣𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒇷𒁀𒀠𒇷𒌅𒆠	V
+<EoL>
+𒄿𒈾	PRP
+𒌓𒈪	N
+𒀸𒋰𒊏𒀝𒆠𒈪	V
+<EoL>
+𒄿𒈾	PRP
+𒅟𒉌𒅟𒁴	N
+𒀀𒄭𒀀𒁴	AJ
+<EoL>
+𒊭	DET
+𒄿𒁀𒀸𒅆𒀀	V
+x	nan
+<EoL>
+𒅟𒉌𒅟	N
+𒊭	DET
+<EoL>
+𒁹𒅖𒆳𒊏𒉈x	nan
+<EoL>
+𒇷𒉿𒁲𒈠	V
+<EoL>
+𒇷𒅋𒆠	V
+<EoL>
+𒋳𒈠	MOD
+𒄿𒈾	PRP
+<EoL>
+𒅟𒉌𒅟𒁴	N
+<EoL>
+𒀀𒃶𒁴	AJ
+𒆷	MOD
+𒄿𒋫𒈠𒅈	V
+<EoL>
+𒅟𒉌𒅟	N
+𒇷𒉿𒁲𒈠	V
+<EoL>
+𒄿𒈾	PRP
+𒁉𒊭𒀭𒉌	N
+𒆪𒉡𒅟𒁴	N
+<EoL>
+𒅟𒉌𒅅𒋗	N
+𒇷𒉿𒁲𒈠	V
+<EoL>
+𒇷𒅋𒆠	V
+𒆪𒉡𒅟	N
+<EoL>
+𒋳𒈠	MOD
+𒄿𒈾	PRP
+𒆪𒉡𒅟𒁴	N
+<EoL>
+𒀀𒄭𒀀𒁴	AJ
+𒆷	MOD
+𒌑𒉿𒁲𒈠	V
+<EoL>
+𒆷	MOD
+𒄿𒈬𒌨	V
+𒁉𒊭𒀭𒈾	N
+<EoL>
+𒇷𒅁𒋼𒈠	V
+𒅟𒉌𒅟	N
+<EoL>
+𒇷𒉿𒁲𒈠	V
+𒇷𒅋𒆠	V
+<EoL>
+𒄿𒈾	PRP
+𒆪𒉡𒆠𒋗	N
+𒇷𒅅𒉡𒊌	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒀭𒀫𒌓𒈾𒍢𒅕	PN
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒀀𒁉𒂊𒋗𒄴𒈠	RN
+<EoL>
+𒁹𒅁𒉌𒀭x	nan
+x	nan
+x	nan
+𒆠𒀀𒄠	AV
+<EoL>
+x	nan
+x	nan
+x	nan
+𒌑𒇴𒈪𒁕𒀭𒉌	V
+<EoL>
+𒌝𒈠	PRP
+𒋗𒌑𒈠	IP
+<EoL>
+𒀀𒈾	PRP
+𒀭𒀫𒌓𒈾𒍢𒅕	PN
+𒉺	N
+𒁮𒃼	N
+<EoL>
+𒀸𒋳	PRP
+𒋚	N
+𒉈𒈨𒀉𒋾𒋗	N
+𒊭	DET
+𒌗𒃶𒃶𒌓𒁺	MN
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒋗𒁍𒇷𒅎	V
+<EoL>
+𒀸𒋫𒈾𒀊𒉺𒅈𒋳𒈠	V
+<EoL>
+𒋚	N
+𒉈𒈨𒀉𒋾𒋗	N
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒌑𒌌	MOD
+𒌑𒊭𒁉𒇴	V
+<EoL>
+𒆠𒀀𒄠	AV
+𒌑𒇴𒈪𒁕𒀭𒉌	V
+<EoL>
+𒀀𒈾	PRP
+𒈪𒉏	QP
+𒀀𒁲	PRP
+𒄿𒈾𒀭𒈾	AV
+<EoL>
+𒋚	N
+𒉈𒈨𒀉𒋾𒅟	N
+𒊭	DET
+𒌗𒃶𒃶𒌓𒁺	MN
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒆷	MOD
+𒌅𒊭𒁉𒇴	V
+<EoL>
+𒆠𒈠	PRP
+𒁾𒁉	N
+𒀭𒉌𒀀𒄠	DP
+𒋫𒄠𒈠𒊒	V
+<EoL>
+𒋚	N
+𒉈𒈨𒀉𒋾𒅟	N
+𒊭	DET
+𒌗𒃶𒃶𒌓𒁺	MN
+<EoL>
+𒀀𒈾	PRP
+𒆍𒀭𒊏𒆠	SN
+<EoL>
+𒋗𒁉𒇴	V
+<EoL><EoT>
+𒀀𒈾	PRP
+𒅎𒄥𒀭𒂗𒍪	PN
+<EoL>
+𒅇	CNJ
+𒀀𒉿𒅋𒀭𒌓	PN
+<EoL>
+𒊭	DET
+𒀭𒀫𒌓	DN
+𒌑𒁀𒀠𒆷𒌅𒋗𒉡𒋾	V
+<EoL>
+𒆠𒉈𒈠	V
+<EoL>
+𒌝𒈠	PRP
+𒅔𒁉𒈹𒈠	PN
+<EoL>
+𒀭𒌓	DN
+𒅇	CNJ
+𒀭𒀫𒌓	DN
+𒁕𒊑𒅖	AV
+𒌓𒈪	N
+<EoL>
+𒇷𒁀𒀠𒇷𒌅𒆪𒉡𒋾	V
+<EoL>
+𒀸𒋳	PRP
+𒀀𒄩𒋾	N
+𒍝𒇻𒄷𒌝	PN
+𒁮𒃼	N
+<EoL>
+𒊭	DET
+𒁲𒋻𒈨𒌍	N
+𒅎𒄷𒊒𒌑𒈠	V
+<EoL>
+𒅖𒌅	PRP
+𒌓𒄒𒉣𒆠	SN
+𒀀𒈾	PRP
+𒋫𒊑𒋗	N
+<EoL>
+𒅖𒋫𒀊𒊏𒄠	V
+<EoL>
+x	nan
+𒁉𒋡𒀜	AV
+𒀸𒋗	PRP
+𒊕𒀴	N
+<EoL>
+𒈠𒄩𒅈	N
+𒁲𒋻𒈨𒌍	N
+<EoL>
+𒄿𒊭𒀝𒅟𒀭	V
+<EoL>
+𒊕𒀴	N
+𒅖𒌅	PRP
+𒈬𒐈𒄰	NU
+𒈬𒐈𒄰	N
+<EoL>
+𒄿𒈾	PRP
+𒂍	N
+𒀀𒋛𒊑	N
+<EoL>
+𒄿𒈾	PRP
+𒊑𒌍	N
+𒈠𒀝𒆪𒊑𒅎	N
+<EoL>
+𒈾𒁲	V
+<EoL>
+𒄿𒈾	PRP
+𒉿𒅈𒆠𒅎	PRP
+<EoL>
+𒊬𒀸	N
+𒍝𒇻𒄷𒌝	PN
+𒀀𒈾	PRP
+𒂍	N
+𒀭𒀫𒌓	DN
+<EoL>
+𒀉𒁲𒅔𒈠	V
+<EoL>
+𒍝𒇻𒄷𒌝	PN
+𒄿𒈾	PRP
+𒂍	N
+𒀭𒀫𒌓	DN
+<EoL>
+𒄑𒆪𒌨𒈠	V
+𒊕𒀴	N
+𒅋𒆠𒀀𒄠𒈠	V
+<EoL>
+𒀉𒋫𒀠𒄰	V
+<EoL>
+𒋳𒈠	MOD
+𒄿𒈾	PRP
+𒆠𒈾𒁴	AV
+<EoL>
+𒋫𒊏𒄠𒈠𒉌𒅔𒉌	V
+<EoL>
+𒆷	MOD
+𒌅𒍑𒋫𒄩x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+𒈠	nan
+𒂊𒍣𒂗𒉌	V
+<EoL>
+𒀀𒉿𒌈	N
+𒂵𒄠𒊏	V
+<EoL>
+𒋳𒈠	MOD
+𒄿𒈾	PRP
+𒁾𒁉𒊭	N
+<EoL>
+𒊕𒀴	N
+𒊭𒋼𒅕	V
+<EoL>
+𒆠𒅎𒊑𒋗	N
+𒅇	CNJ
+𒄭𒁉x	nan
+<EoL>
+𒇷𒁍𒌌𒈠	V
+𒌑	CNJ
+x	nan
+x	nan
+<EoL><EoT>

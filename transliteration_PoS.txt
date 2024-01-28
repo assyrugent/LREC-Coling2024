@@ -1,0 +1,12748 @@
+a-na	PRP
+a-wi-il-x	nan
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ni-di-it-tum-ma	PN
+<EoL>
+{d}UTU	DN
+li-ba-al-li-iṭ-ka	V
+<EoL>
+a-na	PRP
+pa-ar-ṣi	N
+ša	DET
+DUMU.MEŠ	N
+er₃-ra-mu-ba-li₂-iṭ	PN
+<EoL>
+{diš}{d}UTU-illat-su₂	PN
+id-da-al-pa-an-ni	V
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+pa-ar-ṣa-am	N
+te-e-er	V
+<EoL>
+u₃	CNJ
+a-hu-ka	N
+pi-šu	N
+iš-me-šu-ma	V
+<EoL>
+ma-am-ma-an	XP
+ša	DET
+i-na	PRP
+i-di-šu	N
+<EoL>
+iz-za-az-zu	V
+u₂-la	MOD
+i-ba-aš-ši	V
+<EoL>
+u₃	CNJ
+DUMU.MEŠ	N
+er₃-ra-mu-ba-li₂-iṭ	PN
+<EoL>
+sa₃-ar-ru-tum	N
+im-hu-ru-šu-nu-ti-ma	V
+<EoL>
+um-ma	PRP
+sa₃-ar-ru-tum	N
+{diš}ib-ni-DINGIR	PN
+ku-ru	nan
+<EoL>
+ku-nu-uk-ki	N
+i-na	PRP
+a-ma-ar-i-ka	N
+<EoL>
+la	MOD
+tu-ha-ra-am	V
+<EoL>
+ṣi-ba-tu-ka	N
+lu-u₂	CNJ
+ha-mi-iš	NU
+<EoL>
+ku-uš-da-an-ni	V
+<EoL>
+pa-ar-ṣa-am	N
+i-ta-ba-lu-u₂	V
+<EoL><EoT>
+a-na	PRP
+ka-ka-a	PN
+u₃	CNJ
+mi-ir-si-ia	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-ma-gir₁₄-ma	PN
+<EoL>
+{d}UTU	DN
+li-ba-al-li-iṭ-ki-na-ti	V
+<EoL>
+na-ṭu₂-u₂	V
+e-pe₂-šum	N
+an-nu-um	DP
+<EoL>
+ša	DET
+ITI.1(diš).KAM	NU
+ITI.1(diš).KAM	N
+wa-aš-ba-ku-ma	V
+a-na	PRP
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+a-na	PRP
+šu-ul-mi-ia	N
+la	MOD
+ta-aš-pu-ra-nim	V
+<EoL>
+a-nu-um-ma	AV
+{d}UTU-e-pi₂-ri	PN
+<EoL>
+a-na	PRP
+ṣe-ri-ki-na	N
+aṭ-ṭar-dam	V
+<EoL>
+3(ban₂)	NU
+3(ban₂)	N
+ZID₂	N
+DABIN	N
+1(ban₂)	NU
+1(ban₂)	N
+ZID₂.GU	N
+<EoL>
+šu-bi-la-nim	V
+<EoL>
+ša	DET
+ṣi-bu-tim	N
+ma-ah-ri-ia	N
+<EoL>
+i-ba-aš-ši	V
+SAG.GEME₂	N
+a-na	PRP
+ṣe-ri-ia	N
+<EoL>
+li-li-kam-ma	V
+lu-ša-bi-la-ki-im-ma	V
+<EoL>
+a-ša-ri-iš	AV
+id-na-a-ma	V
+<EoL>
+ša	DET
+tu-ša-bi-la-nim	V
+<EoL>
+i-na	PRP
+iš-ri-ki-na-a-ma	N
+<EoL>
+hu-ur-ṣa-ma	V
+ši-ta-tum	N
+<EoL>
+ki-ma	PRP
+a-ša-pa-ru-ki-na-ši-im	V
+<EoL>
+šu-bi-la-nim	V
+<EoL><EoT>
+a-na	PRP
+si-na-tum	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-a-ša-re-ed-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}SUEN	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+a-wi-lum	N
+ša	DET
+aṭ-ru-da-kum	V
+<EoL>
+u₂-ul	MOD
+qa₂-tum	N
+a-hi-tum	N
+a-hi	N
+<EoL>
+ṭup-pi₂	N
+u₂-ul	MOD
+ti-de-e	V
+a-hi	N
+<EoL>
+a-na	PRP
+A.ZU	N
+um-ma	PRP
+at-ta-ma	IP
+<EoL>
+a-na	PRP
+a-wi-lim	N
+la	MOD
+te-gu	V
+<EoL>
+a-na-ku	IP
+an-ni-ki-a-am	AV
+<EoL>
+x	nan
+u₂-ṭa₃-ab	V
+<EoL>
+i-na	PRP
+E₂	N
+DAM.GAR₃	N
+<EoL>
+ša	DET
+ta-la-qi₂-a-am	V
+<EoL>
+a-na-ku	IP
+li-ba-ka	N
+<EoL>
+u₂-ṭa₃-ab	V
+<EoL>
+a-na	PRP
+pi₂-ha-at	N
+KU₃.BABBAR	N
+<EoL>
+ša	DET
+ta-na-di-nu	V
+<EoL>
+a-na-ku	IP
+a-za-az	V
+<EoL>
+šum-gu-rum	N
+u₃	CNJ
+qa₂-bu-um	N
+<EoL>
+it-ti-ka-ma	PRP
+<EoL>
+a-na	PRP
+pa-ni-ia	N
+<EoL>
+2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+u₂-ṣur	V
+<EoL>
+a-na	PRP
+ṣi-bu-ti-ia	N
+<EoL><EoT>
+a-na	PRP
+a-wi-lim	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-na-di-in-ah-he-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš-ka	N
+a-na	PRP
+da-mi-iq-tim	AJ
+<EoL>
+li-ki-il	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ka	N
+aš-pu-ra-am	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+{d}MARDUK	DN
+<EoL>
+u₃	CNJ
+be-li₂-ia	N
+am-mi-ṣa-du-qa₂	RN
+<EoL>
+lu	MOD
+da-ri	V
+<EoL>
+aš-šum	PRP
+di-ib-ba-at	N
+{d}SUEN-re-me-ni	PN
+<EoL>
+u₃	CNJ
+ib-ni-{d}IŠKUR	PN
+a-hi-šu	N
+<EoL>
+ša	DET
+i-na	PRP
+ZIMBIR{ki}-ia-ah-ru-rum	SN
+<EoL>
+a-mu-ur-ma	V
+<EoL>
+ka-ni-ik	N
+ri-ik-sa-tim	N
+u₂-še-zi-bu-šu-nu-ti	V
+<EoL>
+ku-nu-uk	N
+SANGA	N
+{d}UTU	DN
+SANGA	N
+{d}a-a	DN
+<EoL>
+u₃	CNJ
+ku-nu-uk-ka-ti-ku-nu	N
+<EoL>
+ta-ak-nu-ka	V
+<EoL>
+ka-ni-ik	N
+ri-ik-sa-ti	N
+ši-na-ti	IP
+<EoL>
+{diš}{d}SUEN-re-me-ni	PN
+šu-u₂	IP
+na-ši	V
+<EoL>
+ki-ma	PRP
+{d}SUEN-re-me-ni	PN
+šu-u₂	IP
+<EoL>
+a-na	PRP
+ši-im-ti-šu	N
+il-li-ku	V
+<EoL>
+{diš}ib-ni-{d}IŠKUR	PN
+a-hu-šu	N
+<EoL>
+a-na	PRP
+E₂	N
+{d}SUEN-re-me-ni	PN
+ur-ta-ag-gi	V
+<EoL>
+ša	DET
+ku-nu-uk	N
+SANGA	N
+{d}UTU	DN
+SANGA	N
+{d}a-a	DN
+<EoL>
+u₃	CNJ
+ku-nu-uk-ka-at-ku-nu	N
+ba-aq-ra	V
+<EoL>
+ku-nu-uk	N
+ma-an-ni-im-ma	QP
+im-ma-ah-ha-ar	V
+<EoL>
+{diš}ib-ni-{d}IŠKUR	PN
+šu-a-ti	IP
+<EoL>
+li-qe₂-er-ri-bu-ni-ik-kum	V
+<EoL>
+i-na	PRP
+mu-uh₂-hi-šu	N
+ši-si	V
+<EoL>
+ni-ša-am	N
+i-na	PRP
+ša-ap-ti-šu	N
+li-iš-ša-ki-in-ma	V
+<EoL>
+a-na	PRP
+E₂	N
+{d}SUEN-re-me-ni	PN
+a-hi-šu	N
+<EoL>
+la	MOD
+u₂-ra-ag-ga	V
+<EoL><EoT>
+a-na	PRP
+be-li₂-ia	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-wi-il-iš₂-tar₂-ma	PN
+<EoL>
+{diš}na-bi-i₃-li₂-šu	PN
+IR₃	N
+x	nan
+be-li₂-ia	N
+<EoL>
+qa₂-du	PRP
+ka-ni-ka-at	N
+ši-ma-tim	N
+<EoL>
+ša	DET
+be-li₂	N
+i-ri-šu-šu	V
+<EoL>
+a-na	PRP
+ma-har	N
+be-li₂-ia	N
+it-ta-al-kam	V
+<EoL>
+be-li₂	N
+ka-ni-ka-ti-šu	N
+<EoL>
+li-mu-ur	V
+<EoL>
+ki-ma	PRP
+di-nim	N
+ša	DET
+ma-har	N
+be-li₂-ia	N
+<EoL>
+i-ba-aš-šu-u₂	V
+<EoL>
+be-li₂	N
+a-na	PRP
+be-el	N
+a-wa-ti-šu	N
+<EoL>
+li-ig-mu-ur	V
+<EoL>
+ka-ni-ik	N
+di-nim	N
+ga-am-ri	AJ
+<EoL>
+be-el	N
+a-wa-ti-šu	N
+<EoL>
+li-še-zi-bu	V
+<EoL>
+šum-ma	MOD
+da-ba-ba-am	N
+u₂-pa-ar-ra-ak	V
+<EoL>
+ka-ni-ik	N
+er-re-šu-tim	N
+<EoL>
+be-li₂	N
+li-ša-ak-ni-ik-šum-ma	V
+<EoL>
+a-me-ru-šu	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+<EoL>
+a-na	PRP
+be-li₂-ia	N
+li-ik-ru-bu	V
+<EoL><EoT>
+a-na	PRP
+a-we-lim	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+šu-nu-ma-DINGIR-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš-ka	N
+a-na	PRP
+da-mi-iq-tim	N
+<EoL>
+li-ki-il	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ka	N
+aš-pu-ra-am	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+<EoL>
+lu	MOD
+da-ri	V
+<EoL>
+aš-šum	PRP
+1(u)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+a-na	PRP
+NUMUN	N
+<EoL>
+u₃	CNJ
+1(u)	NU
+GUR	N
+DUH.E₃	N
+DUH.E₃	AJ
+<EoL>
+a-na	PRP
+ŠA₃.GAL	N
+GU₄.HI.A	N
+<EoL>
+na-da-nim	N
+<EoL>
+aš-pu-ra-ak-kum	V
+<EoL>
+a-na	PRP
+mi-nim	QP
+5(aš)	NU
+ŠE.GUR-ma	N
+ŠE.GUR-ma	N
+<EoL>
+u₃	CNJ
+5(aš)	NU
+GUR	N
+DUH.E₃	N
+DUH.E₃	AJ
+ta-ad-di-in-ma	V
+<EoL>
+i-na	PRP
+la	MOD
+ŠE.NUMUN	N
+2(diš)	NU
+u₄-mi	N
+<EoL>
+GU₄.APIN.HI.A-ia	N
+GU₄.APIN.HI.A-ia	N
+i-re-qa₂	V
+<EoL>
+ši-id-du	N
+ma-a-ad-ma	V
+iš-tu	PRP
+ma-ah-ri-ia	N
+<EoL>
+DUH.E₃	N
+DUH.E₃	AJ
+šu-bu-lam	V
+u₂-ul	MOD
+i-le-i	V
+<EoL>
+a-na-ku	IP
+ma-la	REL
+a-pa-li-ka-a	N
+<EoL>
+u₂-ul	MOD
+ma-ṣi-a-ku	V
+<EoL>
+an-ni-tam	DP
+te-pu-uš	V
+<EoL>
+i-na-an-na	AV
+ṭup-pi₂	N
+uš-ta-bi-la-ak-kum	V
+<EoL>
+5(aš)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+u₃	CNJ
+5(aš)	NU
+GUR	N
+DUH.E₃	N
+DUH.E₃	AJ
+<EoL>
+a-na	PRP
+{d}SUEN-be-el-du-um-qi₂-ia	PN
+<EoL>
+i-di-in-ma	V
+<EoL>
+ne-me-et-tam	N
+la	MOD
+i-ra-aš-ši	V
+<EoL>
+šu-up-ra-am-ma	V
+<EoL>
+šum-ma	MOD
+še-am	N
+lu-ud-di-in	V
+šum-ma	MOD
+ṣi-bu-ut	N
+ta-ša-ap-pa-ra-am	V
+<EoL>
+ki-ma	PRP
+še-e	N
+lu-pu-uš	V
+<EoL><EoT>
+a-na	PRP
+a-bi-ia	N
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂-šu	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+šu-mu-um-li-ib-ši-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš-ka	N
+a-na	PRP
+da-mi-iq-tim	AJ
+<EoL>
+li-ki-il	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ka	N
+aš-pu-ra-am	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+lu	MOD
+da-ri	V
+<EoL>
+i-nu-ma	SBJ
+a-na-ku	IP
+u₃	CNJ
+ka-ta	IP
+i-na	PRP
+ZIMBIR{ki}	SN
+<EoL>
+nu-uš-ta-tu-u₂	V
+<EoL>
+a-ma-tam	N
+iš-mi-e-ma	V
+ṭe₄-mi	N
+u₂-ul	MOD
+u₂-ba-ra-ku	V
+<EoL>
+ŠU.HA	N
+na-ba-i-im	nan
+ša	DET
+E₂.DURU₅-bi₂-sa₃{ki}	SN
+<EoL>
+is-su₂-hu-u₂-ma	V
+<EoL>
+um-ma	PRP
+a-na-ku-u₂-ma	IP
+ma-har	N
+DINGIR-šu-ba-ni	PN
+DUMU	N
+DINGIR-šu-ib-ni	PN
+<EoL>
+lu-ud-bu-ub-ma	V
+ki-mu-šu	PRP
+li-ID-ku-nu-ni-in-ni	V
+<EoL>
+i-na-an-na	AV
+DINGIR-šu-ba-ni	PN
+u₂-la-am-mi-id-ma	V
+<EoL>
+a-an-na-am	J
+i-ta-ap-la-an-ni-ma	V
+<EoL>
+i-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+ma-ah-ri-šu	PRP
+<EoL>
+a-na-ku-u₂	IP
+<EoL>
+ma-aš-ka-ni	N
+ha-bi-it-ma-a	V
+<EoL>
+a-bi	N
+at-ta	IP
+te-IM-me-e-ma	V
+<EoL>
+ša	DET
+i-na	PRP
+mu-uh-hi	N
+ma-aš-ka-ni-ia	N
+aš-bu-u₂	V
+<EoL>
+u₂-ul	MOD
+ta-aš₂-si	V
+u₃	CNJ
+ki-a-am	AV
+<EoL>
+u₂-ul	MOD
+ta-aq-bi-šum	V
+um-ma	PRP
+at-ta-a-ma	IP
+<EoL>
+a-di	PRP
+at-ta	IP
+e-ša-a-am	AV
+ta-al-li-ku	V
+<EoL>
+an-nu-um	DP
+ma-aš-ka-nu	N
+ha-bi-it	V
+<EoL>
+i-na-an-na	AV
+a-na	PRP
+a-we-lim	N
+{d}MARDUK-mu-ba-li₂-iṭ	PN
+a-bi	N
+EREN₂	N
+<EoL>
+as₂-ni-iq-ma	V
+ṭup-pi₂	N
+a-we-lim	N
+a-bi	N
+EREN₂	N
+<EoL>
+u₃	CNJ
+NA.AŠ.BAR	N
+a-na	PRP
+ma-ah-ri-ka	N
+<EoL>
+iṭ-ṭar-du-nim	V
+us-si₂-ir-ma	V
+<EoL>
+ma-aš-ka-ni	N
+la	MOD
+i-ha-al-li-iq	V
+<EoL>
+li-li-a-am	V
+<EoL>
+a-na-ku-u₂	IP
+aš-šum	PRP
+a-ma-tim	N
+ša	DET
+aš-pu-ra-ak-ku	V
+<EoL>
+pu-ul-lu-sa-ku-u₂-ma	V
+a-la-ka-am	N
+<EoL>
+u₂-ul	MOD
+a-la-a-ku-um	V
+<EoL>
+še-am	N
+li-di-iš	V
+li-iz-ru-ma	V
+<EoL>
+li	nan
+zi	nan
+di	nan
+ma	nan
+a-bi	N
+at-ta	IP
+mu-hu-ur-šu	V
+<EoL>
+u₃	CNJ
+A.ŠA₃	N
+a-na	PRP
+er-re-ši-im	N
+i-di-in	V
+<EoL>
+be-li₂-ia-tum	PN
+ša	RP
+ma-ah-ri-ka	PRP
+u₂	CNJ
+sin-iš-me-a-ni	PN
+<EoL>
+ša	DET
+E₂.DURU₅-bi₂-sa₃{ki}	SN
+KU₃.BABBAR-šu-nu	N
+<EoL>
+a-na	PRP
+a-bi-ia	N
+ka-ta	IP
+li-iš-qu₂-lu	V
+<EoL>
+a-di	PRP
+bi-ir-tam	N
+a-ka-aš-ša-du-u₂	V
+<EoL>
+a-na	PRP
+ša	DET
+aš-pu-ra-ak-ku-um	V
+<EoL>
+a-bi	N
+at-ta	IP
+ni-di	N
+a-hi-im	N
+la	MOD
+ta-ra-aš-ši	V
+<EoL><EoT>
+a-na	PRP
+ip-qa₂-tum	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-re-me-ni-ma	PN
+<EoL>
+ṭup-pi₂	N
+an-ni-a-am	DP
+<EoL>
+i-na	PRP
+a-ma-ri-im	N
+<EoL>
+a-na	PRP
+bi-it	N
+<EoL>
+{diš}a-hu-wa-qar	PN
+<EoL>
+la	MOD
+ta-ša-as₂-si	V
+<EoL>
+lu	MOD
+ti-de	V
+<EoL>
+bi-tam	N
+la	MOD
+tu-ba-za-ah	V
+<EoL>
+a-wi-lum	N
+i-na	PRP
+GI.IL₂	N
+<EoL>
+na-si-ih	V
+u₃	CNJ
+tah-ha	N
+<EoL>
+ša-nu-um-ma	AJ
+na-ad-na-kum	AJ
+<EoL>
+a-na	PRP
+a-na-x-x-tak₂-la-ku	nan
+NIMGIR	N
+<EoL>
+ṣu₂-ha-ri-ka	N
+aq-bi	V
+<EoL>
+a-di	PRP
+u₄-um	N
+U₄.2(u).KAM	NU
+U₄.2(u).KAM	N
+<EoL>
+ša	DET
+a-la-kam	N
+bi-tam	N
+<EoL>
+la	MOD
+tu-da-ba-ab	V
+<EoL><EoT>
+a-na	PRP
+IR₃-{d}SUEN	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}a-šur₄-a-su-ma	PN
+<EoL>
+{d}a-šur₄	DN
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+ki-si-im	N
+ša	DET
+{diš}im-di-iš₈-tar₂	PN
+<EoL>
+ša	DET
+i-na	PRP
+ma-ah-ri-ka	N
+ša-ak-na-at	V
+<EoL>
+an-ni-ki-a-am	AV
+ma-har	N
+{diš}ha-ia-ab-ni-DINGIR	PN
+<EoL>
+aš-ku-un-ma	V
+<EoL>
+um-ma	PRP
+a-na-ku-ma	IP
+<EoL>
+ki-su-um	N
+ša	DET
+im-di-iš₈-tar₂	PN
+ma-ri-ka	N
+<EoL>
+iš-tu	PRP
+MU.2(diš).KAM	NU
+MU.2(diš).KAM	N
+i-na	PRP
+ZIMBIR{ki}	SN
+<EoL>
+i-na	PRP
+bi-it	N
+{diš}IR₃-{d}SUEN	PN
+<EoL>
+ša-ak-na-at	V
+<EoL>
+ša	DET
+šu-lum	N
+ki-si-im	N
+šu-a-ti	IP
+e-pu-uš	V
+<EoL>
+um-ma	PRP
+a-na-ku-ma	IP
+im-di-iš₈-tar₂	PN
+ma-ra-ka	N
+<EoL>
+gi-mi-il	V
+u₃	CNJ
+i-ia-a-ti	IP
+gi-im-la-an-ni	V
+<EoL>
+a-nu-um-ma	AV
+ṭup-pi₂	N
+a-na	PRP
+ṣe-er	N
+a-wi-lim	N
+<EoL>
+uš-ta-bi-lam	V
+<EoL>
+a-nu-ma	AV
+a-wi-lam	N
+a-bi	N
+hu-si₂-is-ma	V
+<EoL>
+ša	DET
+šu-lum	N
+ki-si-im	N
+šu-a-ti	IP
+li-pu-uš	V
+<EoL>
+{diš}im-di-iš₈-tar₂	PN
+a-ha-ka	N
+gi-mi-il	V
+<EoL>
+u₃	CNJ
+i-ia-a-ti	IP
+gi-mi-la-an-ni	V
+<EoL><EoT>
+a-na	PRP
+a-wi-lim	N
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂-šu	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+e-tel-pi₄-{d}na-bi-um-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+lu	MOD
+da-ri	V
+<EoL>
+aš-šum	PRP
+hu-za-lum	PN
+u₃	CNJ
+DUMU.MEŠ	N
+a-li₂-ta-li-me	PN
+a-wi-le	N
+ša	DET
+ap-qi₂-da-kum	V
+<EoL>
+u₃	CNJ
+ka-ni-ik-šu-nu	N
+ma-har	N
+{d}SUEN-iš-me-a-ni	PN
+tu-še-zi-ba-ni	V
+<EoL>
+um-ma	PRP
+at-ta-ma	IP
+ka-ni-ku	N
+lu-u₂	CNJ
+qu₂-ur-ru-um-ma	V
+ka	nan
+lu	MOD
+ša-ki-in	V
+<EoL>
+i-na-an-na	AV
+ki-ma	PRP
+a-na	PRP
+E₂.HI.A	N
+ERIM	N
+ka-aš-ši-i	EN
+i-te-eb-ru	V
+<EoL>
+mi₃-im-me-e	REL
+ma-la	REL
+ip-pu-u₂	V
+u₃	CNJ
+it-tu-ru-ni	V
+iq-bu-nim-ma	V
+<EoL>
+at-ta	IP
+ṭe₄-ma-am	N
+u₂-ul	MOD
+ta-aš-pu-ra-am	V
+<EoL>
+ki-ma	PRP
+ša	DET
+be-el	N
+le-mu-ut-ti-ka	N
+a-na-ku	IP
+<EoL>
+a-na	PRP
+mi-im-mu-ia	XP
+šu-ta-ah-lu-qi₂-im	N
+ta-az-za-az	V
+<EoL>
+šum-ma	MOD
+at-ta	IP
+la	MOD
+ta-aš-tap-ra-am	V
+<EoL>
+a-na-ku	IP
+a-na	PRP
+mi-im-mu-ia	XP
+ni-di	N
+a-hi	N
+a-ra-aš-ši	V
+<EoL>
+iš-tu	PRP
+u₄-um	N
+nu-uš-ta-tu-u₂	V
+ne-me-el-ka	N
+u₂-ul	MOD
+a-mu-ur	V
+<EoL>
+a-na	PRP
+da-ba-bi-im-ma	N
+ta-at-tab-ba-la-an-ni	V
+<EoL>
+i-nu-ma	SBJ
+a-na-{d}SUEN-u₂-ba-al-li-is-su	PN
+SAG.GEME₂	N
+ta-ad-di-nu	V
+<EoL>
+i-na	PRP
+di-na-tim	N
+mi₃-im-me-e	REL
+aš-li-im	V
+<EoL>
+{diš}i-din-{d}SUEN	PN
+KU₃.BABBAR	N
+id-di-na-ak-kum-ma	V
+tu-na-za-ak-ki-x	nan
+<EoL>
+SAG.IR₃	N
+ta-ad-di-na-am-ma	V
+iš-tu	PRP
+ta-ad-di-na	V
+ma-ru-uṣ	V
+<EoL>
+a-di	PRP
+e-re-bi-ka	N
+re-iš-ka	N
+u₂-ka-a-al	V
+<EoL>
+u₃	CNJ
+ši-ta-at	N
+KU₃.BABBAR	N
+ki-ma	PRP
+ša	DET
+qa₂-as-sa₃	N
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+u₂-ul	MOD
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+du-um-mu-qu₂-um	AJ
+u₂-ul	MOD
+a-x-x-x-ag-ma	nan
+u₂-ul	MOD
+ta-ki-x	nan
+<EoL>
+ŠAM₂	N
+{giš}GA.RIG₂.HI.A	N
+SIG₂	N
+al-qi₂-a-am-ma	V
+a-na	PRP
+KU₃.BABBAR	N
+x	nan
+x	nan
+<EoL>
+$KU	nan
+$BA	nan
+$DA	nan
+$RI	nan
+kum	nan
+mu	nan
+tum	nan
+ma	nan
+1(diš)	NU
+MA.NA	N
+SIG₂	N
+i-ri-šu-šu-ma	V
+<EoL>
+u₂-ul	MOD
+id-di-in	V
+<EoL>
+ki-ma	PRP
+ša	DET
+la	MOD
+mi-im-mu-ia	XP
+iq-bu-ni-kum-ma	V
+<EoL>
+u₂-ul	MOD
+ta-aq-bi-šu-ma	V
+u₂-ul	MOD
+id-di-in	V
+<EoL>
+an-ni-a-ti	DP
+gu-ul-lu-la-ti-ka	N
+lu	MOD
+ti-de	V
+<EoL>
+i-na-an-na	AV
+{mi₂}at-kal-ši	PN
+aṭ-ṭar-dam	V
+<EoL>
+1(barig)	NU
+1(barig)	N
+ZI₃.DA	N
+i-na	PRP
+E₂	N
+i-na-ad-di-nu-ši-im	V
+<EoL>
+{diš}{d}na-bi-um-še-e-me	PN
+u₃	CNJ
+iš-te-en	NU
+šu-uk-na-ši-im-ma	V
+<EoL>
+a-di	PRP
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+li-ka-al-li-mu-ši	V
+<EoL>
+{lu₂}MUHALDIM	N
+x	nan
+šu-um-hi-ir-šu	V
+<EoL>
+NINDA	N
+x	nan
+x	nan
+PA.PA	nan
+qi₂-bi	V
+<EoL>
+x	nan
+x	nan
+li-id-di-in	V
+<EoL>
+x-aš-šu	nan
+<EoL>
+ṭe₄-em	N
+hu-za-lum	PN
+x	nan
+x-ra-am-ma	nan
+<EoL>
+a-na	PRP
+zi-im	N
+ka	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x-ka	nan
+a	nan
+al	nan
+<EoL>
+a-na	PRP
+re-eš	N
+ITI	N
+a-na-ku	IP
+a-al-la-kam	V
+<EoL>
+{urudu}ŠEN.HI.A	N
+ša	DET
+ma-har	N
+SANGA	N
+{d}x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+me-he-er	N
+ṭup-pi₂-ia	N
+šu-bi-lam	V
+<EoL><EoT>
+a-na	PRP
+SAG.IL₂.MA.AN.SUM	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}MARDUK-na-ṣi-ir-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+a-bi-ia-tum	PN
+UGULA	N
+UŠ.BAR	N
+<EoL>
+ša	DET
+i-na	PRP
+i₃-si-in{ki}	GN
+<EoL>
+A.ŠA₃-am	N
+ṣa-ab-tu	V
+<EoL>
+{diš}a-bi-ia-tum	PN
+šu-u₂	IP
+<EoL>
+i-na	PRP
+ZIMBIR{ki}	SN
+<EoL>
+{mi₂}UŠ.BAR.MEŠ	N
+i-ša-ap-pa-ar	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+bi-tim	N
+ma-di-iš	AV
+qe₂-ru-ub	V
+<EoL>
+iš-tu	PRP
+ša-ad-da-aq-di-im	N
+<EoL>
+a-na	PRP
+A.ŠA₃-šu	N
+u₂-ul	MOD
+i-il-la-kam	V
+<EoL>
+{diš}gi-mil-lum	PN
+SAG.TUN₃	N
+A.ŠA₃-šu	N
+<EoL>
+ša-ad-da-aq-di-im	N
+<EoL>
+2(aš)	NU
+ŠE.GUR-šu	nan
+it-ba-al	V
+<EoL>
+a-nu-um-ma	AV
+ṭup-pi₂	N
+uš-ta-bi-la-kum	V
+<EoL>
+a-na	PRP
+gi-mil-lum	PN
+SAG.TUN₃	N
+A.ŠA₃-šu	N
+<EoL>
+qi₂-bi-ma	V
+še-šu	N
+la	MOD
+i-la-ap-pa-at	V
+<EoL>
+aš-šu-mi-ia	PRP
+a-na	PRP
+sa₃-ki-pi₂-šu	N
+<EoL>
+i-zi-iz	V
+<EoL>
+1(diš)	NU
+SILA₃	N
+še-šu	N
+il-la-ap-pa-at-ma	V
+<EoL>
+ne-ep-re-es-su₂	N
+<EoL>
+ša	DET
+iš-tu	PRP
+ša-ad-da-aq-di-im	N
+<EoL>
+i-na	PRP
+zu-mu-ur	N
+SAG.TUN₃	N
+<EoL>
+i-le-eq-qu₂-u₂	V
+<EoL><EoT>
+a-na	PRP
+a-we-lim	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+DINGIR-šu-ba-ni-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš-ka	N
+a-na	PRP
+da-mi-iq-tim	N
+<EoL>
+li-ki-il	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ka	N
+aš-pu-ra-am	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+lu	MOD
+da-ri	V
+<EoL>
+{mi₂}bi-it-te-tum	PN
+a-ha-ti	N
+aš-ti	N
+GAL.UKKEN.NA	N
+<EoL>
+ki-a-am	AV
+iq-bi-a-am	V
+um-ma	PRP
+ši-i-ma	IP
+<EoL>
+i-na	PRP
+bu-lu-uṭ	N
+a-we-lim	N
+GAL.UKKEN.NA	N
+<EoL>
+KU₃.BABBAR	N
+ŠAM₂	N
+3(diš)	NU
+SAG.GEME₂.MEŠ	N
+<EoL>
+a-na	PRP
+a-wi-il-IŠTAR	PN
+DAM.GAR₃	N
+DUMU	N
+a-we-li-ia	PN
+<EoL>
+wa-ši-ib	N
+ZIMBIR{ki}	SN
+ša	DET
+an-nu-ni-tum	DN
+ad-di-in-ma	V
+<EoL>
+3(diš)	NU
+SAG.GEME₂.MEŠ	N
+ub-lam-ma	V
+<EoL>
+i-na	PRP
+ši-na-a-tim	IP
+2(diš)	NU
+SAG.GEME₂.MEŠ	N
+el-qi₂	V
+<EoL>
+x	nan
+u₂-te-er-šu-um	V
+<EoL>
+la-pi₂-iš-tum	PN
+ŠU.I	N
+ša	DET
+a-we-lim	N
+GAL.UKKEN.NA	N
+<EoL>
+aṭ-ru-ud-ma	V
+<EoL>
+SAG.GEME₂	N
+šu-a-ti	IP
+u₂-ul	MOD
+id-di-in	V
+<EoL>
+an-ni-tam	DP
+iq-bi-a-am	V
+<EoL>
+i-na-an-na	AV
+ṭup-pi₂	N
+uš-ta-bi-la-kum	V
+<EoL>
+u₃	CNJ
+la-pi₂-iš-tum	PN
+ŠU.I	N
+a-we-lim	N
+GAL.UKKEN.NA	N
+<EoL>
+a-na	PRP
+ma-ah-ri-ka	N
+it-ta-al-kam	V
+<EoL>
+ki-ma	PRP
+ra-bu-ti-ka	N
+qi₂-bi	V
+<EoL>
+SAG.GEME₂	N
+šu-a-ti	IP
+a-na	PRP
+ṣu₂-ha-ri-ia	N
+ša	DET
+aṭ-ru-dam	V
+<EoL>
+pi₂-qi₂-id-ma	V
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+li-ir-du-ni-iš-ši	V
+<EoL>
+i-dam	N
+la	MOD
+tu-ša-ar-ša-am-ma	V
+la	MOD
+ta-ša-ap-pa-ra-am	V
+<EoL><EoT>
+a-na	PRP
+gi-mil-lum	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-qa₂-al-a-na-{d}MARDUK-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+{diš}gi-mil-{d}GU.LA	PN
+<EoL>
+DUMU	N
+a-bi-ia-tum	PN
+<EoL>
+a-na	PRP
+ša-pi₂-ir	N
+ma-tim	N
+<EoL>
+a-na	PRP
+sa-na-qi₂-im-ma	N
+<EoL>
+a-na-ku	IP
+uš-ta-ad-di-šu	V
+<EoL>
+ki-a-am	AV
+iq-bi-a-am	V
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+i-na	PRP
+5(aš)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+la	MOD
+ma-di-im	AJ
+<EoL>
+ša	DET
+ia-ti	IP
+u₃	CNJ
+e-er-re-ši-im	N
+<EoL>
+1(aš)	NU
+1(aš)	N
+3(barig)	NU
+3(barig)	N
+ŠE.GUR	N
+ŠE.GUR	N
+i-na	PRP
+{geš}BAN₂	N
+ra-ma-ni-šu	RP
+<EoL>
+il-te-qe₂-e	V
+<EoL>
+na-ṭa-a-at	V
+a-wa-tum	N
+an-ni-tum	DP
+<EoL>
+ṭe₄-em-ka	N
+ga-am-ra-am	AJ
+<EoL>
+šu-up-ra-am-ma	V
+<EoL>
+a-na	PRP
+ša-pi₂-ir	N
+ma-tim	N
+<EoL>
+lu-ša-as₂-ni-iq-šu	V
+<EoL><EoT>
+a-na	PRP
+ša-am-ši-ia	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+na-ra-am-ta-ni	PN
+DUMU.MUNUS	N
+ip-qa₂-tum-ma	PN
+<EoL>
+be-li₂	N
+u₃	CNJ
+be-el-ti	N
+aš-šu-mi-ia	PRP
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+ap-lu-ut	N
+DUMU.MUNUS	N
+a-hi	N
+a-bi-ia	N
+<EoL>
+il-le-qe₂-e-ma	V
+ṭup-pa-ti-ša	N
+<EoL>
+id-di-nam-ma	V
+<EoL>
+nu-ra-tum	PN
+ša	DET
+i-na	PRP
+pa-ni-ia	N
+<EoL>
+ap-lu-sa₃	N
+il-qu₂-u₂-ma	V
+<EoL>
+ib-ba-al-ki-tu-ši-i-ma	V
+<EoL>
+ma-na-ah-ta-šu	N
+ap-lu-u₂-ma	V
+<EoL>
+u₃	CNJ
+ṭup-pi₂	N
+la	MOD
+ra-ga-mi	N
+<EoL>
+šu-zu-bu	V
+<EoL>
+u₂-ma-am	AV
+wa-ar-ku-u₂	N
+<EoL>
+a-bu-su	N
+ṣa-bi-it-ma	V
+u₂-da-ab-ba-ba-an-ni	V
+<EoL>
+a-li-ia-tum	PN
+a-ha-sa₃	N
+<EoL>
+1/2(diš)	NU
+MA.NA	N
+KU₃.BABBAR	N
+i-na	PRP
+su-un	N
+DUMU.MUNUS	N
+a-hi	N
+a-bi-ia	N
+<EoL>
+ip-ṭu₂-ur-ma	V
+aṣ-ba-as₂-si-i-ma	V
+<EoL>
+ki-i-ma	CNJ
+ma-am-ma-an	XP
+la	MOD
+i-šu-u₂	V
+<EoL>
+ih-ta-al-qa₂-an-ni	V
+<EoL>
+u₃	CNJ
+um-ma	PRP
+a-na-ku-ma	IP
+<EoL>
+ṭup-pa-tu-ia	N
+i-na	PRP
+qa₂-ti	N
+a-bi-ia-ma	N
+<EoL>
+a-di	PRP
+a-bi	N
+la	MOD
+il-li-kam	V
+<EoL>
+u₂-ul	MOD
+a-da-a-an	V
+<EoL>
+a-nu-um-ma	AV
+a-ah-ka	N
+<EoL>
+e-li-ia	PRP
+la	MOD
+ta-na-di	V
+<EoL><EoT>
+a-na	PRP
+a-hu-wa-qar	PN
+<EoL>
+{diš}e-ri-ba-am	PN
+<EoL>
+u₃	CNJ
+hu-za-lum	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ha-bu-rum-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-li-ṭu₂-ku-nu-ti	V
+<EoL>
+aš-šum	PRP
+ṭe₄-em	N
+ge-er-ri-im	N
+<EoL>
+ša	DET
+al-li-ka-am	V
+<EoL>
+a-wi-lu-u₂	N
+NU.BANDA₃-ku-nu	N
+ša	DET
+it-ti-ia	PRP
+<EoL>
+tu-wa-e-ra-ni-šu-nu-ti	V
+<EoL>
+ma-am-ma-an-ma	XP
+<EoL>
+ša	DET
+ki-ša-su	N
+u₂-sa-hi-ra-am	V
+<EoL>
+u₂-ul	MOD
+i-ba-aš-ši	V
+<EoL>
+u₃	CNJ
+1(diš)	NU
+LU₂	N
+ma-am-ma-an	XP
+<EoL>
+u₂-ul	MOD
+iṭ-ru-da-am	V
+<EoL>
+e-di-ši-ia-ma	AV
+e-te-ne-li	V
+<EoL>
+a-nu-um-ma	AV
+ṭe₄-em-šu-nu	N
+<EoL>
+a-na	PRP
+UGULA	N
+MAR.TU	EN
+aš-tap-ra-am	V
+<EoL>
+a-su-ri	MOD
+ki-a-am	AV
+ta-qa-ab-ba	V
+<EoL>
+a-nu-um-ma	AV
+ṭe₄-em-šu-nu	N
+<EoL>
+a-na	PRP
+ṣe-ri-ni	N
+am-mi-nim	QP
+la	MOD
+iš-pu-ra-am	V
+<EoL>
+aš-šum	PRP
+ma-ha-ar	N
+UGULA	N
+MAR.TU	EN
+<EoL>
+qe₂-er-be₂-tu-nu	V
+ma-si-ik-tam	N
+<EoL>
+a-na	PRP
+da-mi-iq-tim	AJ
+tu-ta-ra	V
+<EoL>
+aš-šum	PRP
+ki-a-am	AV
+aš-pu-ra-ku-nu-ši	V
+<EoL>
+ma-am-ma-an	XP
+ša	DET
+a-na	PRP
+pa-ha-tim	N
+<EoL>
+x	nan
+iš-ša-ka-nu	V
+u₂-ul	MOD
+i-ba-aš-ši	V
+<EoL>
+u₂-la-nu-um	PRP
+{diš}na-i-mu	PN
+ma-ah-ri-ia	N
+<EoL>
+ma-am-ma-an	XP
+u₂-ul	MOD
+i-ba-aš-ši	V
+<EoL><EoT>
+a-na	PRP
+a-bi-ia	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+be-le-su₂-nu	PN
+ma-ra-at-ka-ma	N
+<EoL>
+be-li	N
+u₃	CNJ
+be-el-ti	N
+<EoL>
+aš-šu-mi-ia	PRP
+da-ri-iš	AV
+u₄-mi-im	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+ṭe₄-em	N
+1(diš)	NU
+SAG.IR₃	N
+<EoL>
+ša	DET
+a-na	PRP
+DUMU	N
+be-li₂-šu	N
+<EoL>
+mi-qi₂-it	N
+pi₂-im	N
+<EoL>
+ir-šu-u₂-ma	V
+<EoL>
+i-na	PRP
+ṣi₂-bi-ti-im	N
+<EoL>
+ka-lu-u₂	V
+<EoL>
+um-ma	PRP
+a-na-ku-ma	IP
+<EoL>
+a-na	PRP
+a-bi-ia	N
+lu-uš-pur	V
+<EoL>
+a-bi	N
+li-ha-si-is-ma	V
+<EoL>
+li-še-ṣu₂-ni-šu	V
+<EoL>
+a-nu-um-ma	AV
+aš-qu₂-da-na-am	PN
+<EoL>
+aṭ-ṭar-da-am	V
+<EoL>
+ṣu₂-ba-ta-am	N
+u₂-ša-bi-lam-ma	V
+<EoL>
+a-na	PRP
+ša	DET
+a-bi	N
+i-ra-mu	V
+<EoL>
+u₂-ul	MOD
+i-di-nu	V
+<EoL>
+lu₂	MOD
+aṭ-ṭar-da-am	V
+<EoL>
+a-bi	N
+wa-ar-ka-tam	N
+<EoL>
+li-ip-ru-us₂	V
+<EoL>
+ma-ha-ar	N
+be-li₂-ia	N
+<EoL>
+u₃	CNJ
+be-el-ti-ia	N
+<EoL>
+qa₂-ta-ia	N
+ma-si-a-ma	V
+<EoL>
+ak-ta-na-ra-ba-ku	V
+<EoL>
+a-bi	N
+IR₃	N
+šu-a-ti	IP
+<EoL>
+ki-ma	PRP
+qi₂-iš-ti	N
+<EoL>
+a-na	PRP
+ia-ši	IP
+li-di-na	V
+<EoL><EoT>
+a-na	PRP
+lu-uš-ta-mar	PN
+<EoL>
+DINGIR-šu-ba-ni	PN
+DAM.GAR₃	N
+<EoL>
+DUMU	N
+i-bi-{d}NIN.ŠUBUR	PN
+<EoL>
+IR₃	N
+{d}NIN.ŠUBUR.KA	DN
+<EoL>
+a-na	PRP
+lu-uš-ta-mar	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+DINGIR-šu-ba-ni-ma	PN
+<EoL>
+DUMU.MUNUS.MEŠ	N
+ia-si-AN	PN
+<EoL>
+ki-a-am	AV
+iš-pur-ra-nim	V
+um-ma	PRP
+ši-na-ma	IP
+<EoL>
+še-am	N
+ša	DET
+GI.U₂.KIN	nan
+SAHAR.HI.A	N
+<EoL>
+ma-hi-ir	V
+<EoL>
+li-ib-ba-šu	N
+DUG₃-ab	V
+<EoL>
+i-na-an-na	AV
+ni-pa-ti-ni	N
+<EoL>
+it-ti-pi₂	V
+<EoL>
+ki-a-am	AV
+iš-pur-ra-nim	V
+<EoL>
+še-am	N
+ma-ah-ra-a-ta	V
+<EoL>
+li-ib-ba-ka	N
+DUG₃-ab	V
+<EoL>
+a-li-a-am-ma	V
+DUMU.MUNUS.MEŠ	N
+ia-si-AN	PN
+<EoL>
+a-pu-ul	V
+<EoL><EoT>
+a-na	PRP
+{d}MARDUK-mu-ša-lim	PN
+<EoL>
+{diš}{d}SUEN-i-din-nam	PN
+<EoL>
+u₃	CNJ
+a-wi-il-{d}SUEN	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+am-mi-di-ta-na-ma	RN
+<EoL>
+LU₂.MEŠ	N
+šu-ut	DET
+pi₂-ha-a-tim	N
+ša	DET
+i-na	PRP
+ša₃-ga{ki}	SN
+wa-aš-bu	V
+<EoL>
+ki-a-am	AV
+iš-pu-ru-nim	V
+um-ma	PRP
+šu-nu-ma	IP
+<EoL>
+5(u).7(aš)	NU
+5(u).7(aš)	CNJ
+5(u).7(aš)	NU
+3(barig)	NU
+3(barig)	N
+4(diš)	NU
+SILA₃	N
+ŠE.GUR	N
+ŠE.GUR	N
+<EoL>
+a-na	PRP
+ŠUKU	N
+ERIM	N
+bi-ir-ti	N
+ša₃-ga{ki}	SN
+u₃	CNJ
+a-hi-a-tim	N
+<EoL>
+ša	DET
+ITI.GAN.GAN.E₃	MN
+<EoL>
+ih-ha-aš-še-eh	V
+<EoL>
+ki-a-am	AV
+iš-pu-ru-nim	V
+<EoL>
+a-na	PRP
+LU₂.MEŠ	N
+šu-ut	DET
+pi₂-ha-a-tim	N
+ša	DET
+i-na	PRP
+ša₃-ga{ki}	SN
+wa-aš-bu	V
+<EoL>
+aš-šum	PRP
+i-nu-ma	SBJ
+ta-ša-ap-pa-ra-šu-nu-ši-im	V
+<EoL>
+LU₂.MEŠ	N
+ba-ab-bi-li	N
+a-na	PRP
+ma-ah-ri-ku-nu	N
+ša-pa-ri-im	N
+<EoL>
+it-ta-aš-pa-ar	V
+<EoL>
+šu-up-ra	V
+LU₂.MEŠ	N
+ba-ab-bi-li	N
+<EoL>
+a-na	PRP
+ma-ah-ri-ku-nu	N
+li-iš-pu-ru-nim-ma	V
+<EoL>
+i-na	PRP
+ŠE-im	N
+ša	DET
+qa₂-ti-ku-nu	N
+<EoL>
+5(u).7(aš)	NU
+5(u).7(aš)	CNJ
+5(u).7(aš)	NU
+3(barig)	NU
+3(barig)	N
+4(diš)	NU
+SILA₃	N
+ŠE.GUR	N
+ŠE.GUR	N
+<EoL>
+a-na	PRP
+ŠUKU	N
+ERIM	N
+bi-ir-ti	N
+ša₃-ga{ki}	SN
+u₃	CNJ
+a-hi-a-tim	N
+<EoL>
+ša	DET
+ITI.GAN.GAN.E₃	MN
+šu-um-hi-ra-šu-nu-ti	V
+<EoL>
+MAŠ₂.ŠU.GID₂.GID₂.MEŠ	N
+ša	DET
+ma-ah-ri-ku-nu	N
+<EoL>
+wa-ar-ka-tam	N
+li-ip-ru-su-ma	V
+<EoL>
+i-na	PRP
+{uzu}te-re-e-tim	N
+ša-al-ma-a-tim	AJ
+<EoL>
+ŠE-am	N
+šu-a-ti	IP
+<EoL>
+a-na	PRP
+ša₃-ga{ki}	SN
+šu-bi-la	V
+<EoL><EoT>
+a-na	PRP
+{d}MARDUK-na-ṣi-ir	PN
+<EoL>
+KAR	N
+ZIMBIR{ki}	SN
+u₃	CNJ
+DI.KU₅.MEŠ	N
+ZIMBIR{ki}	SN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-bi-e-šu-uh-ma	RN
+<EoL>
+1(u).6(diš)	NU
+{lu₂}SU.SI.IG	N
+ZIMBIR{ki}-am-na-nu	SN
+u₃	CNJ
+na-wi-šu	N
+<EoL>
+u₃	CNJ
+4(diš)	NU
+SAG.IR₃.MEŠ	N
+ša	DET
+DUMU.MEŠ	N
+ri-iš-{d}UTU	PN
+DI.KU₅	N
+<EoL>
+{diš}{d}SUEN-i-ri-ba-am	PN
+u₃	CNJ
+ŠEŠ.MEŠ-šu	N
+<EoL>
+a-na	PRP
+ŠE-im	N
+ša	DET
+A.ŠA₃	N
+GU₂.UN	N
+{d}SUEN-mu-ša-lim	PN
+<EoL>
+GAL.UKKEN.NA	N
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+e-ṣe-di-im	N
+u₃	CNJ
+šu-li-i-im	N
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+ki-ma	PRP
+ṭup-pi₂	N
+an-ni-a-am	DP
+<EoL>
+ta-am-ma-ra	V
+<EoL>
+1(u).6(diš)	NU
+{lu₂}SU.SI.IG	N
+ZIMBIR{ki}-am-na-nu	SN
+u₃	CNJ
+na-wi-šu	N
+<EoL>
+u₃	CNJ
+4(diš)	NU
+SAG.IR₃.MEŠ	N
+ša	DET
+DUMU.MEŠ	N
+ri-iš-{d}UTU	PN
+DI.KU₅	N
+<EoL>
+{diš}{d}SUEN-i-ri-ba-am	PN
+u₃	CNJ
+ŠEŠ.MEŠ-šu	N
+<EoL>
+qa₂-du-um	PRP
+ZI₃.KASKAL	N
+ṣi-im-da	V
+<EoL>
+a-na	PRP
+A.ŠA₃	N
+GU₂.UN	N
+{d}SUEN-mu-ša-lim	PN
+GAL.UKKEN.NA	N
+x	nan
+x	nan
+x	nan
+<EoL>
+ṭu₂-ur-da-a-ma	V
+<EoL>
+ŠE-am	N
+ša	DET
+A.ŠA₃	N
+GU₂.UN-šu	N
+<EoL>
+e-ma	AV
+u₂-ka-al-la-mu-šu-nu-ti	V
+<EoL>
+li-ṣi-du	V
+<EoL>
+u₃	CNJ
+li-še-lu-u₂	V
+<EoL><EoT>
+a-na	PRP
+DAM.GAR₃.MEŠ	N
+ZIMBIR{ki}	SN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-bi-e-šu-uh-ma	RN
+<EoL>
+aš-šum	PRP
+ša	DET
+ta-aš-pu-ra-nim	V
+<EoL>
+um-ma	PRP
+at-tu-nu-ma	IP
+<EoL>
+DAM.GAR₃.MEŠ	N
+LU₂.MEŠ	N
+ZIMBIR{ki}	SN
+<EoL>
+ša	DET
+i-na	PRP
+ma-at	N
+x	nan
+x	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+u₂-ul	MOD
+x	nan
+x	nan
+x	nan
+il-li-ku-nim-ma	V
+<EoL>
+u₃	CNJ
+KU₃.BABBAR	N
+IGI.SA₂	N
+u₂-ul	MOD
+u₂-ša-bi-lu-nim	V
+<EoL>
+šum-ma	MOD
+be-el-ni	N
+i-qa₂-ab-bi	V
+<EoL>
+1(diš)	NU
+x	nan
+x	nan
+li-ša-ki-in-ma	V
+<EoL>
+KU₃.BABBAR	N
+IGI.SA₂	N
+DAM.GAR₃.MEŠ	N
+LU₂.MEŠ	N
+ZIMBIR{ki}	SN
+<EoL>
+ša	DET
+i-na	PRP
+ma-at	N
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+li-iṣ-mi-dam-ma	V
+<EoL>
+li-il-qi₂-a-am	V
+<EoL>
+ša	DET
+ta-aš-pu-ra-nim	V
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+i-il-la-ak	V
+<EoL>
+u₂-da-ab-ba-ab	V
+<EoL>
+a-na	PRP
+eš₁₈-dar-iš-me-šu	PN
+ša-pi₂-ir	N
+ma-tim	N
+<EoL>
+aš-šum	PRP
+KU₃.BABBAR	N
+IGI.SA₂	N
+DAM.GAR₃.MEŠ	N
+šu-nu-ti	DET
+<EoL>
+de-ke-e-em-ma	N
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+šu-bu-li-im	N
+<EoL>
+it-ta-aš-pa-ar	V
+<EoL>
+u₃	CNJ
+at-tu-nu	IP
+DAM.GAR₃.MEŠ	N
+be-el	N
+pi₂-ha-tim	N
+<EoL>
+KU₃.BABBAR	N
+IGI.SA₂	N
+DAM.GAR₃.MEŠ	N
+šu-nu-ti	DET
+<EoL>
+li-iṣ-mi-du-ma	V
+<EoL>
+li-il-qu₂-ni-ik-ku-nu-ši-im	V
+<EoL>
+šum-ma	MOD
+KU₃.BABBAR	N
+IGI.SA₂-šu-nu	N
+la	MOD
+uš-ta-bi-lu-ni-ik-ku-nu-ši-im	V
+<EoL>
+DAM.GAR₃.MEŠ	N
+šu-nu-ti	DET
+a-na	PRP
+ma-ah-ri-ia	N
+<EoL>
+li-ir-du-nim	V
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-i-din-nam	PN
+<EoL>
+KAR	N
+ZIMBIR{ki}	SN
+u₃	CNJ
+DI.KU₅.MEŠ	N
+ZIMBIR{ki}	SN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-bi-e-šu-uh-ma	RN
+<EoL>
+aš-šum	PRP
+ša	DET
+ta-aš-pu-ra-nim	V
+um-ma	PRP
+at-tu-nu-ma	IP
+<EoL>
+i-na	PRP
+KAR	N
+{id₂}ir-ni-na	WN
+<EoL>
+2(diš)	NU
+šu-ši	NU
+US₂	N
+ša-at-ti-ša-am	AV
+E₂.GAL	N
+i-ip-pe₂-eš	V
+<EoL>
+2(u).4(diš)	NU
+2(u).4(diš)	NU
+US₂	N
+ni-nu	IP
+ni-ip-pe₂-eš	V
+<EoL>
+i-na-an-na	AV
+mi-lum	N
+il-li-kam-ma	V
+<EoL>
+{id₂}ir-ni-na	WN
+a-na	PRP
+BAD₃	N
+KAR	N
+is-sa₃-ni-iq	V
+<EoL>
+ša	DET
+ta-aš-pu-ra-nim	V
+<EoL>
+a-na	PRP
+LU₂.MEŠ	N
+šu-ut	DET
+pi₂-ha-a-tim	N
+ša	DET
+i-na	PRP
+ZIMBIR{ki}	SN
+wa-aš-bu	V
+<EoL>
+it-ta-aš-pa-ar	V
+<EoL>
+it-ti	PRP
+ERIM	N
+bi-ir-tim	N
+ša	DET
+i-na	PRP
+ZIMBIR{ki}	SN
+wa-aš-bu	V
+<EoL>
+ERIM	N
+ša	DET
+ša-ka-nim	N
+i-ša-ak-ka-nu-ma	V
+<EoL>
+i-na	PRP
+mi-iq-tim	N
+KAR	N
+{id₂}ir-ni-na	WN
+<EoL>
+u₂-da-an-na-nu	V
+<EoL>
+u₃	CNJ
+i-na	PRP
+SAHAR.HI.A	N
+KAR	N
+ša	DET
+{id₂}BURANUN-tim	WN
+<EoL>
+u₂-ša-aš-pa-ku	V
+<EoL>
+ki-ma	PRP
+is-sa₃-an-qu₂-ni-ik-ku-nu-ši-im	V
+<EoL>
+ga-mi-ir	AJ
+ṣa-bi-it	N
+A.ŠA₃-im	N
+<EoL>
+di-ki-i-ma	V
+<EoL>
+it-ti	PRP
+ERIM	N
+bi-ir-tim	N
+<EoL>
+i-na	PRP
+SAHAR.HI.A	N
+KAR	N
+ša	DET
+{id₂}BURANUN-tim	WN
+<EoL>
+li-ša-aš-pi₂-ku	V
+<EoL><EoT>
+a-na	PRP
+a-wi-lim	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+id-da-tum-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	N
+re-eš-ka	N
+a-na	PRP
+da-mi-iq-tim	AJ
+<EoL>
+li-ki-il	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ka	N
+aš-pu-ra-am	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+<EoL>
+lu	MOD
+da-ri	V
+<EoL>
+aš-šum	PRP
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+la-ma	PRP
+tu-uk-ki	N
+ša	DET
+te-eš-mu-u₂-ma	V
+<EoL>
+U₈.UDU.HI.A	N
+a-na	PRP
+ia-ah-ru-ru	GN
+ša-ap-li-i	AJ
+<EoL>
+at-ta-sa-ah	V
+<EoL>
+u₃	CNJ
+1(diš)	NU
+me-at	NU
+U₈.UDU.HI.A	N
+<EoL>
+ma-ah-ri-ia	N
+<EoL>
+iz-za-az-za	V
+<EoL>
+ki-ma	PRP
+tu-uk-ka	N
+eš-mu-u₂	V
+<EoL>
+a-na	PRP
+mu-uh₂-hi	N
+ul-li-a-tim	DET
+<EoL>
+a-na	PRP
+ia-ah-ru-ru	GN
+ša-ap-li-i	AJ
+<EoL>
+uš-ta-bi-il-ši-na-ti	V
+<EoL>
+MU.1(diš).KAM	NU
+MU.1(diš).KAM	N
+ši-na	IP
+li-zi-za-ma	V
+<EoL>
+{d}MARDUK-ma	DN
+la-ma-sa₃-ka	N
+<EoL>
+li-ša-al-li-im-ši-na-ti	V
+<EoL>
+ki-ma	PRP
+ta-qa₂-ab-bu-u₂	V
+<EoL>
+in-ne-ep-pu-uš	V
+<EoL><EoT>
+a-na	PRP
+a-wi-lim	N
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂-šu	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+DINGIR-šu-ib-ni-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-a-ta	V
+lu	MOD
+ba-al-ṭa-a-ta	V
+lu	MOD
+da-ri-a-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš-ka	N
+a-na	PRP
+da-mi-iq-tim	AJ
+<EoL>
+li-ki-il	V
+<EoL>
+i-nu-ma	SBJ
+tu-ṣu₂-u₂	V
+ma-ar-ṣa-ta-ma	V
+<EoL>
+pi₂-ia	N
+u₂-ul	MOD
+e-pu-ša-ak-kum	V
+<EoL>
+u₂-ul	MOD
+u₂-na-i-da-ka	V
+<EoL>
+a-na	PRP
+e-ṭi-rum	PN
+a-na	PRP
+1(diš)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+le-qe₂-em-ma	V
+<EoL>
+a-na	PRP
+bu-uq-li	N
+ṣa-pe₂-e	V
+<EoL>
+aš-pu-ra-am	V
+<EoL>
+šum-ma	MOD
+e-ṭi-rum	PN
+la	MOD
+ri-iq-ma	V
+<EoL>
+si-ti	N
+ŠE-šu	N
+la	MOD
+i-ṣa-ap-pu	V
+<EoL>
+1(diš)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+šu-a-ti	IP
+at-ta	IP
+li-qe-e₂-ma	V
+<EoL>
+ṣu₂-pu	V
+šu-ma	IP
+a-hi	N
+i-na	PRP
+ki-na-tim	AV
+at-ta	IP
+<EoL>
+a-na	PRP
+ša	DET
+aš-pu-ra-ak-kum	V
+la	MOD
+tu-uš-ta-a	V
+<EoL>
+1(diš)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+šu-a-ti	IP
+li-qe₂	V
+ṣu₂-pu-ma	V
+<EoL>
+lu-u₂	MOD
+u₂-sa-tum	N
+<EoL>
+i-na	PRP
+an-ni-tim	DP
+at-hu-ut-ka	N
+lu-mu-ur	V
+<EoL><EoT>
+a-na	PRP
+a-wi-lim	N
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+SAG.IL₂-mu-ša-lim-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+it-ti-ka	PRP
+la	MOD
+an-na-am-ru	V
+<EoL>
+{d}i₃-li₂-i-qi₂-ša-am	PN
+ŠU.I	N
+<EoL>
+a-na	PRP
+ta-re-e-ia	V
+il-li-kam-ma	V
+<EoL>
+aš-šum	PRP
+ŠE	N
+bi-tim	N
+it-ti-ka	PRP
+<EoL>
+u₂-ul	MOD
+an-na-me-er	V
+<EoL>
+aš-šum	PRP
+{diš}{d}IŠKUR-šar-rum	PN
+<EoL>
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+a-na-ku	IP
+{diš}{d}IŠKUR-šar-rum	PN
+<EoL>
+u₃	CNJ
+{diš}{d}MARDUK-qar-ra-ad	PN
+<EoL>
+i-na	PRP
+za-mi-ri₂-i{ki}	SN
+<EoL>
+nu-uš-ta-ti-i-ma	V
+<EoL>
+um-ma	PRP
+{d}IŠKUR-šar-rum-ma	PN
+<EoL>
+a-na-ku	IP
+ša	DET
+el-qu₂-u₂	V
+<EoL>
+a-ap-pa-al-ma	V
+<EoL>
+u₃	CNJ
+um-ma	PRP
+{d}MARDUK-qar-ra-ad-ma	PN
+<EoL>
+a-na-ku-ma	IP
+a-ap-pa-al-ma	V
+<EoL>
+aš-šum	PRP
+še-im	N
+ša	RP
+bi-ti-ia	N
+<EoL>
+ki-ma	PRP
+aq-bu-kum	V
+<EoL>
+i-na	PRP
+iš-ku-un-{d}MARDUK{ki}	SN
+<EoL>
+še-am	N
+a-ap-pa-al-ka	V
+<EoL>
+mi-im-ma	XP
+la	MOD
+ta-na-az-zi-iq	V
+<EoL><EoT>
+a-na	PRP
+a-wi-lim	N
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+IR₃-{d}MARDUK-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-a-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš-ka	N
+<EoL>
+a-na	PRP
+da-mi-iq-tim	AJ
+li-ki-il	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+lu	MOD
+da-ri	V
+<EoL>
+aš-šum	PRP
+di-ib-ba-tim	N
+ša	DET
+{d}SUEN-še-mi	PN
+a-hi-šu	N
+<EoL>
+ša	DET
+i-na	PRP
+E₂	N
+AGRIG	N
+ka-lu-u₂	V
+<EoL>
+{diš}{d}MARDUK-mu-ba-li₂-iṭ	PN
+DUMU	N
+UGULA	N
+DAM.GAR₃	N
+<EoL>
+it-ti	PRP
+NA.AŠ.BAR	N
+ša	DET
+be-el-šu-nu	PN
+<EoL>
+a-hi	N
+{d}SUEN-na-di-in-šu-mi-im	PN
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+it-ta-al-kam	V
+<EoL>
+at-ta	IP
+u₃	CNJ
+DUMU	N
+a-hi	N
+a-bi-ka	N
+<EoL>
+šu-ta-ti-a	V
+<EoL>
+ma-har	PRP
+a-wi-lim	N
+be-el-šu-nu	PN
+<EoL>
+pu-uṭ-ṭe₄-ra-a-šu-ma	V
+<EoL>
+a-na	PRP
+ZIMBIR{ki}	SN
+li-it-ta-al-kam	V
+<EoL>
+ba-lu-šu	PRP
+la	MOD
+ta-a-al-kam	V
+<EoL>
+a-na	PRP
+{iri}bad₃-{d}UTU	SN
+ṭu₂-ur-da-aš-šu	V
+<EoL>
+i-na	PRP
+an-ni-tim	DP
+at-hu-tam	N
+<EoL>
+ku-ul-li-im	V
+<EoL><EoT>
+a-na	PRP
+a-wi-le-e	N
+<EoL>
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂-šu-nu-ti	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+UGULA	N
+DAM.GAR₃.MEŠ	N
+u₃	CNJ
+DI.KU₅.MEŠ-ma	N
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ku-nu-ti	V
+<EoL>
+aš-šum	PRP
+ap-lu-ut	N
+LUKUR	N
+{d}UTU	DN
+<EoL>
+ša	DET
+na-ra-am-i₃-li₂-šu	PN
+<EoL>
+a-hi	N
+i-bi-{d}UTU	PN
+<EoL>
+il-qu₂-u₂-ma	V
+<EoL>
+LU₂.MEŠ	N
+BAD₃{ki}	SN
+<EoL>
+it-ti	PRP
+i-bi-{d}UTU	PN
+<EoL>
+i-di-nu	V
+<EoL>
+a-wa-ti-šu-nu	N
+<EoL>
+ni-mu-ur-ma	V
+<EoL>
+a-na	PRP
+pi₂-i	N
+ṭup-pa-a-tim	N
+ša	DET
+ap-lu-ti	N
+<EoL>
+ša	DET
+i-bi-{d}UTU	PN
+na-šu-u₂	V
+<EoL>
+di-nam	N
+a-na	PRP
+i-bi-{d}UTU	PN
+ni-ig-mu-ur	V
+<EoL>
+u₃	CNJ
+aš-šum	PRP
+LU₂.MEŠ	N
+BAD₃{ki}	SN
+<EoL>
+a-na	PRP
+la	MOD
+a-wa-ti-šu-nu	N
+<EoL>
+i-di-nu	V
+<EoL>
+a-na	PRP
+pi₂-i	N
+ṭup-pi₂	N
+ṣi-im-da-tim	N
+<EoL>
+ki-ma	PRP
+ša	DET
+la	MOD
+šu-ni-a-am	PP
+<EoL>
+ib-qu₂-ru	V
+<EoL>
+še-er-tam	N
+<EoL>
+i-ṣi-ru-šu-nu-ši-im	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+la	MOD
+ta-ri-im-ma	N
+<EoL>
+la	MOD
+ba-qa₂-ri-im	N
+<EoL>
+ka-ni-kam	N
+nu-še-zi-ib-šu-nu-ti	V
+<EoL>
+ka-ni-kam	N
+šu-a-ti	DET
+ši-me-a	V
+<EoL><EoT>
+la-ma-as-su₃	N
+ša	DET
+bi-ia-a-ti-ia	N
+<EoL>
+i-na	PRP
+li-it-tim	N
+u₃	CNJ
+šu-mi	N
+dam-qi₂-im	AJ
+<EoL>
+i-na	PRP
+E₂.GAL	N
+ta-at-ta-na-al-la-ku	V
+<EoL>
+a-bi	N
+ka-ta	IP
+li-la-ab-bi-ru	V
+<EoL>
+a-bi	N
+at-ta	IP
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+la-ma-as-si₂	N
+bi-ia-ti-ia	N
+li-iṣ-ṣu₂-ur-ka	V
+<EoL>
+aš-šum	PRP
+ka-ni-ik	N
+SAG.IR₃	N
+ša	DET
+IR₃-{d}NIN.ŠUBUR	PN
+<EoL>
+DUMU	N
+{d}NIN.URTA.SAG.KALAG	PN
+IR₃-ka	N
+<EoL>
+ša	DET
+ma-har	N
+e-tel-pi₄-{d}na-bi-um	PN
+SANGA	N
+ša-ak-nu	V
+<EoL>
+a-na	PRP
+šu-bu-ul	N
+ka-ni-ki	N
+šu-a-ti	IP
+<EoL>
+a-bi	N
+at-ta	IP
+a-an-na	J
+ta-pu-la-an-ni-ma	V
+<EoL>
+a-na	PRP
+har-ra-nim	N
+tu-uš-te-še-er	V
+<EoL>
+i-nu-ma	SBJ
+a-na	PRP
+e-re-eb	N
+a-bi-ia	N
+ka-ta	IP
+<EoL>
+uz-na-ia	N
+ib-ba-ši-a	V
+<EoL>
+{diš}be-li₂-ia-tum	PN
+DUMU	N
+{d}SUEN-e-ri-iš	PN
+<EoL>
+a-wi-lam	N
+{d}NANNA-MA.AN.SUM	PN
+<EoL>
+is-sa-ah-ra-am	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+ma-har	N
+a-bi-ia	N
+aš-ta-na-ap-pa-ra-am-ma	V
+<EoL>
+a-bi	N
+ka-ni-kam	N
+u₂-ul	MOD
+u₂-ša-bi-lam	V
+<EoL>
+ki-ma	PRP
+{d}NANNA-MA.AN.SUM	PN
+a-na	PRP
+{mi₂}ni-pa-ti-ia	N
+<EoL>
+iš-tap-ra-am	V
+<EoL>
+ul-la-nu	PRP
+a-bi-ia	N
+ka-ta	IP
+<EoL>
+ma-an-na	QP
+u₂-na-ah-a	V
+<EoL>
+a-bi	N
+at-ta	IP
+ki-ma	PRP
+a-an-ni	J
+ta-pu-la-an-ni	V
+<EoL>
+ka-ni-kam	N
+šu-a-ti	DET
+šu-bi-lam-ma	V
+<EoL>
+{diš}{d}NANNA-MA.AN.SUM	PN
+a-na	PRP
+la	MOD
+šu-a-at-tim	PP
+<EoL>
+la	MOD
+u₂-ša-ad-ba-ba-an-ni-ma	V
+<EoL>
+ki-ma	PRP
+i-na-an-na-ma	AV
+a-na	PRP
+a-bi-ia	N
+ka-ta	IP
+<EoL>
+lu-uk-ta-ar-ra-ab	V
+<EoL><EoT>
+a-na	PRP
+ša-pi₂-ri-ia	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+SIG-an-nu-ni-tum-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+aš-šu-mi-ia	PRP
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+ša-pi₂-ri	N
+li-ba-al-li-ṭu₂	V
+<EoL>
+ša-pi₂-ri	N
+aš-šu-mi-ia	PRP
+lu	MOD
+ša-lim	V
+lu	MOD
+ba-li-iṭ	V
+lu	MOD
+da-ri	V
+<EoL>
+DINGIR	N
+na-ṣi-ir	N
+ša-pi₂-ri-ia	N
+re-eš	N
+da-mi-iq-ti	N
+<EoL>
+ša-pi₂-ri-ia	N
+li-ki-il	V
+<EoL>
+šu-lum	N
+ša-pi₂-ri-ia	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+i-li-ka	N
+lu	MOD
+ka-ia-an	AJ
+<EoL>
+ki-ma	PRP
+ša-pi₂-ri	N
+i-du-u₂	V
+iš-tu	PRP
+ITI.1(diš).KAM	NU
+ITI.1(diš).KAM	N
+<EoL>
+mar-ṣa-a-ku-ma	V
+na-di-a-ku	V
+<EoL>
+i-nu-ma	SBJ
+ša-pi₂-ri	N
+iš-tu	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+a-na	PRP
+ZIMBIR{ki}	SN
+a-na	PRP
+ma-har	N
+{d}UTU	DN
+ra-i-mi-šu	AJ
+<EoL>
+il-li-kam	V
+mar-ṣa-a-ku-ma	V
+<EoL>
+it-ti	PRP
+ša-pi₂-ri-ia	N
+u₂-ul	MOD
+an-na-me-er	V
+<EoL>
+ša-pi₂-ri	N
+a-na	PRP
+hi-ṭi-im	N
+la	MOD
+i-ṣa-ab-ba-tam	V
+<EoL>
+1(diš)	NU
+SAG.GEME₂	N
+x	nan
+x	nan
+<EoL>
+ma	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+a-na	PRP
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+šum-ma	MOD
+SAG.GEME₂	N
+i-na	PRP
+E₂	N
+a-gi-ri-ša	N
+<EoL>
+uq-ta-al-la-al	V
+<EoL>
+ba-lum-ma-a	PRP
+be-li-ša	N
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+ha-aṭ-ṭa-am	N
+i-na	PRP
+mu-uh-hi-ša	N
+i-na-ad-di	V
+<EoL>
+u₃	CNJ
+u₂-ša-aq-ba-a-ši	V
+<EoL>
+iš-tu	PRP
+i-na-an-na	AV
+U₄.4(diš).KAM	NU
+U₄.4(diš).KAM	N
+<EoL>
+mi-ni-a-ti-ia	N
+u₂-da-an-na-nam-ma	V
+<EoL>
+a-na	PRP
+ma-har	N
+ša-pi₂-ri-ia	N
+a-al-la-kam	V
+<EoL>
+ša-pi₂-ri	N
+x	nan
+x	nan
+SAG.GEME₂	N
+<EoL>
+ša	DET
+ba-lum	PRP
+be-li-ša	N
+ha-aṭ-ṭa-am	N
+<EoL>
+i-na	PRP
+mu-uh-hi-ša	N
+id-du-u₂	V
+u₃	CNJ
+u₂-ša-aq-bu-ši	V
+<EoL>
+di-nam	N
+ša-pi₂-ri	N
+u₂-ša-ah-ha-za-an-ni	V
+<EoL>
+a-di	PRP
+a-na	PRP
+U₄.5(diš).KAM	NU
+U₄.5(diš).KAM	N
+<EoL>
+a-na	PRP
+ma-har	N
+ša-pi₂-ri-ia	N
+a-al-la-kam	V
+<EoL>
+ša-pi₂-ri	N
+di-nam	N
+šu-a-ti	IP
+<EoL>
+la	MOD
+i-ga-am-ma-ar	V
+<EoL><EoT>
+a-na	PRP
+be-le-su-nu	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-wi-il-{d}IŠKUR-ma	PN
+<EoL>
+be-el-ki	N
+u₃	CNJ
+be-le-et-ki	N
+li-ba-li-ṭu₂-ki	V
+<EoL>
+wa-ar-da	N
+ša	DET
+KU₃.BABBAR	N
+ta-ša-qa₂-li-ma	V
+ta-ša-mi	V
+<EoL>
+ki-ma	PRP
+ia-ti	IP
+u₂-ul	MOD
+uš-ta-ma-ra-ṣa-ak-ki	V
+<EoL>
+aš-šum	PRP
+{munus}si-ip-pi₂-ri-tim	PN
+ša	DET
+ta-aš-pu-ri	V
+<EoL>
+am-mi-nim	QP
+a-na	PRP
+be-el-šu-nu	PN
+ta-aq-bi-a	V
+<EoL>
+GEME₂	N
+u₂-la-a-mi	MOD
+a-na-ad-di-na-ku-nu-ši-im	V
+<EoL>
+a-na-ku-ma-mi	IP
+a-na	PRP
+a-ha-ti-ia	N
+u₂-ta-ar-ra	V
+<EoL>
+aš-šum	PRP
+{diš}MUNUS	N
+{d}ŠA.LA-um-mi	PN
+ak-la-ši-ma	V
+<EoL>
+GEME₂	N
+um-mi	N
+id-di-na-aš-ši	V
+u₂-ul	MOD
+a-na-ad-di-iš-ši	V
+<EoL>
+a-di	PRP
+wa-aš-ba-ku	V
+i-na	PRP
+ru-ug-bi	N
+iš₇-ta-si-ma	V
+<EoL>
+wa-ar-ka-nu-ma	AV
+ki-ma	PRP
+at-lu-ki	N
+iš-mu-u₂	V
+<EoL>
+ur-dam-ma	V
+u₂	CNJ
+a-na-ku	IP
+at-ta-ah-la-al-ma	V
+<EoL>
+U₄.5(diš).KAM	NU
+U₄.5(diš).KAM	N
+E₂	N
+i-di-il-ma	V
+u₂-ul	MOD
+ip-te	V
+<EoL>
+{diš}MUNUS	N
+{d}ŠA.LA-um-mi	PN
+aṣ-ba-at-ma	V
+<EoL>
+ha-ab-ta-ku	V
+is₃-si	V
+um-ma	PRP
+ši-ma	IP
+<EoL>
+GEME₂	N
+ša	DET
+be-el-šu-nu	PN
+a-na-ku	IP
+x	nan
+<EoL>
+be-el-ti	N
+i-qi₂-ša-an-ni	V
+x	nan
+<EoL>
+u₂-ha-ap-pi₂-ši-ma	V
+at-ta-la-ak	V
+<EoL>
+na-ah-ra-rum	N
+wa-ar-ki-ia	PRP
+il-li-ku	V
+<EoL>
+a-du-uk-šu-nu-ti-ma	V
+it-tu-ru	V
+<EoL>
+a-nu-um-ma	AV
+{d}ŠA.LA-um-mi	PN
+<EoL>
+uš-ta-ri-a-ki-iš-ši	V
+ma-aš-ka-na	N
+<EoL>
+ša	DET
+5(diš)	NU
+MA.NA	N
+i-di-ši-ma	V
+ki-le-e-ši	V
+<EoL>
+GEME₂	N
+uz-na-ša	N
+an-ni-iš-ma	AV
+<EoL>
+i-ha-al-li-iq-ki	V
+ma-aš-ka-nu	N
+<EoL>
+li-ba-at-ti-iq-ši	V
+u₂	CNJ
+ša-ni-tam	AJ
+<EoL>
+aš-šum	PRP
+{diš}MUNUS	N
+si-ip-pi₂-ri-tim	PN
+at-ti	IP
+<EoL>
+u₃	CNJ
+{diš}be-el-ta-ni	PN
+a-ha-at-ki	N
+<EoL>
+a-na	PRP
+DUMU.MUNUS	N
+x	nan
+x	nan
+$IR	nan
+x	nan
+x	nan
+x	nan
+ki-a-am	AV
+<EoL>
+qi₂-bi-a-ši-im	V
+a-wi-lum	N
+a-hu-ni	N
+<EoL>
+ša	DET
+a-ša-ri-iš	AV
+wa-aš-bu	V
+ša-at-ti-ša-ma	AV
+<EoL>
+5(diš)	NU
+GEME₂.MEŠ	N
+i-tar-ar-ru-u₂	V
+ša-ad-da-aq-di	AV
+<EoL>
+1(diš)	NU
+GEME₂	N
+a-ha-at-ni	N
+ik-la-a-ma	V
+<EoL>
+pu-ha-am	N
+šu-ba-ri-tam	AJ
+a-na	PRP
+a-hi-ni	N
+<EoL>
+id-di-in-ma	V
+a-hi	N
+an-ni-iš	AV
+ub-la-ši-ma	V
+<EoL>
+a-na-ku	IP
+šu-ba-ri-tam	N
+u₂-ul	MOD
+aṣ-bat	V
+<EoL>
+um-ma	PRP
+a-na-ku-ma	IP
+GEME₂-ti	N
+ma-ma-an	XP
+<EoL>
+iš-pu-ra-am-ma	V
+um-ma	PRP
+ši-i-ma	IP
+<EoL>
+GEME₂-ti	N
+te-ri-im-ma	V
+GEME₂-ki	N
+tu-ri-ma	V
+<EoL>
+GEME₂-sa₃	N
+u₂-ša-ri-ši-ma	V
+GEME₂-sa₃	N
+it-ba-al	V
+u₃	CNJ
+GEME₂-ti	N
+ik-ta-la	V
+<EoL>
+ṭup-pa-ki	N
+li-li-ik-ma	V
+GEME₂-ti	N
+u₃	CNJ
+i-di	N
+GEME₂-ti-ia	N
+ša-ni-ti	AJ
+<EoL>
+ša	DET
+MU.7(diš).KAM	NU
+MU.7(diš).KAM	N
+li-ša-ad-di-nu-ni	V
+<EoL><EoT>
+a-na	PRP
+mu-tu-{d}da-gan	PN
+u₃	CNJ
+ia-bu-bu	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+LU₂-{d}NANNA	PN
+IR₃-ku-nu-ma	N
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}i-tur₂-me-er	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ku-nu-ti	V
+<EoL>
+aš-šu-mi-ia	PRP
+lu	MOD
+ba-al-ṭa₃-tu-nu	V
+<EoL>
+a-na	PRP
+E₂	N
+bi-ti-ku-nu	N
+u₂	CNJ
+e-re-ši-im	N
+<EoL>
+a-ah-ku-nu	N
+la	MOD
+ta-na-ad-de-e	V
+<EoL>
+1(barig)	NU
+1(barig)	N
+ZID₂	N
+u₂	CNJ
+DUH	N
+E₃.A	AJ
+<EoL>
+lu	MOD
+er-su	AJ
+u₃	CNJ
+e₂-a-an-dul₇-li₂	PN
+<EoL>
+a-di	PRP
+DUMU.MEŠ	N
+ši-ip-ri-im	N
+<EoL>
+e-la-am	N
+a-ša-ap-pa-ra-am	V
+<EoL>
+la	MOD
+tu-ša-ba-la-ni-im	V
+<EoL>
+a-na	PRP
+a-wa-ti-im	N
+ša	DET
+šu-ba-at-{d}EN.LIL₂{ki}	SN
+<EoL>
+a-na	PRP
+mi-nim	QP
+a-di	PRP
+u₄-mi-im	N
+an-ni-im	DP
+<EoL>
+a-ah-ku-nu	N
+ta-ad-de-e	V
+<EoL>
+ṭe₄-em	N
+a-wa-ti-im	N
+še-ti	DP
+šu-up-ra-ni-im-ma	V
+<EoL>
+li-ib-bi	N
+li-nu-uh	V
+<EoL>
+ša-ni-tam	AJ
+a-na	PRP
+{d}SUEN-re-me-ni	PN
+<EoL>
+ki-a-am	AV
+qi₂-bi-šu-um	V
+<EoL>
+um-ma	PRP
+at-ta-a-ma	IP
+šum-ma	MOD
+<EoL>
+i-na-an-na	AV
+tu-sa₃-ka-pa-an-ni	V
+<EoL>
+be-el	N
+šu-ku-ši-im	N
+u₂	CNJ
+{geš}UBRI	N
+<EoL>
+i-la-ka-am-ma	V
+<EoL>
+šu-ku-us₂	N
+wa-ši-bu-ut	N
+li-ib-bi	N
+<EoL>
+a-lam	N
+i-ma-ar-ma	V
+<EoL>
+IGI	N
+{d}SUEN.DINGIR	PN
+ta-da-ab-bu-ba	V
+<EoL>
+an-ni-tam	DP
+qi₂-bi-šu-um	V
+<EoL><EoT>
+a-na	PRP
+a-ha-ti-ia	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+e-ṭi-rum-ma	PN
+<EoL>
+ki-ma	PRP
+ti-de-e	V
+i-na	PRP
+di-il-hi-im	N
+<EoL>
+al-li-kam	V
+<EoL>
+aš-šum	PRP
+SAG.IR₃	N
+ša	DET
+u₂-na-i-du-ki	V
+<EoL>
+SAG.IR₃	N
+šu-a-ti	IP
+mi-in-de	AV
+i-bi-i	PN
+<EoL>
+i-il-la-kam-ma	V
+<EoL>
+ba-lu	PRP
+i-ša-la-an-ni	V
+<EoL>
+u₂-še-eṣ-ṣu₂-šu	V
+<EoL>
+SAG.IR₃	N
+šu-a-ti	IP
+ap-pa-tim	N
+<EoL>
+šu-uk-ni-šu	V
+<EoL>
+u₃	CNJ
+ka-an-nam	N
+ša	DET
+URUDU	N
+<EoL>
+ša	DET
+e-zi-ba-ak-ki	V
+<EoL>
+šu-uk-ni-šu	V
+<EoL>
+a-na	PRP
+be-le-tum	PN
+{lu₂}KURUN.NA	N
+<EoL>
+{diš}i-bi-i	PN
+ši-si-i-ma	V
+<EoL>
+ki-a-am	AV
+qi₂-bi-i	V
+um-ma	PRP
+at-ti-ma	IP
+<EoL>
+SAG.IR₃	N
+pa-aq-da-ak-ki	V
+<EoL>
+a-di	PRP
+e-ṭi-rum	PN
+i-il-la-kam	V
+<EoL>
+SAG.IR₃	N
+ba-ba-am	N
+la	MOD
+uṣ-ṣi	V
+<EoL>
+hi-ta-ia-a-ṭi-šu-ma	V
+<EoL>
+la	MOD
+i-ha-aš	V
+<EoL>
+aš-šum	PRP
+2(diš)	NU
+1/2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+ša	DET
+i-na	PRP
+bi-ti	N
+<EoL>
+{diš}{d}UTU-na-ṣi-ir	PN
+<EoL>
+{tug₂}ṣu₂-ba-as-su	N
+qa₂-at-na	AJ
+<EoL>
+id-di-nam-ma	V
+<EoL>
+a-na	PRP
+be-le-tum	PN
+e-te-zi-ib	V
+<EoL>
+DAM.GAR₃-su₂	N
+li-pu-šu-ma	V
+<EoL>
+{tug₂}ṣu₂-ba-tam	N
+šu-a-ti	IP
+<EoL>
+a-na	PRP
+i-bi-i	PN
+gu-um-mu-ri	V
+<EoL><EoT>
+a-na	PRP
+bi-ti-i	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+i-ni-ib-ši-na-ma	PN
+<EoL>
+{d}SUEN	DN
+u₃	CNJ
+{d}INANNA	DN
+$A.$HA{KI}	nan
+aš-šu-mi-ia	PRP
+<EoL>
+li-ba-al-li-ṭu₂-ki	V
+<EoL>
+aš-šum	PRP
+SAG.GEME₂	N
+ša	DET
+ta-aš-ta-na-ap-pa-ri-im	V
+<EoL>
+um-ma	PRP
+at-ti-ma	IP
+SAG.GEME₂	N
+te-er-ri-im	V
+<EoL>
+aš-ta-al-ma	V
+um-ma	PRP
+a-na-ku-u₂-ma	IP
+<EoL>
+ah-ha-tu-ša	N
+SAG.GEME₂-tim	N
+dam-qa₂-tim	AJ
+<EoL>
+i-ša-a	V
+ši-i	IP
+SAG.GEME₂	N
+na-wi-ir-tam	AJ
+<EoL>
+u₂-ul	MOD
+i-šu	V
+i-na	PRP
+zu-mu-ur	N
+ki-a-am	AV
+<EoL>
+iš-ta-na-ap-pa-ra-am	V
+<EoL>
+a-nu-um-ma	AV
+ṭup-pi₂	N
+uš-ta-bi-la-ak-ki-im	V
+<EoL>
+a-na	PRP
+ša	DET
+ṭup-pi₂	N
+ub-la-ak-ki-im	V
+<EoL>
+SAG.GEME₂	N
+id-ni-iš-šum	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+ša	DET
+SAG.GEME₂	N
+ta-na-ad-di-ni-šum	V
+<EoL>
+ru-uk-ki-si-i-šu	V
+<EoL>
+um-ma	PRP
+at-ti-i-ma	IP
+SAG.GEME₂	N
+<EoL>
+u₂-ul	MOD
+tu-ša-ra-am-ma	V
+<EoL>
+tu-šu-u₂-um	AV
+ta-na-ad-di-in	V
+<EoL>
+it-ti	PRP
+ša	DET
+SAG.GEME₂	N
+ta-na-ad-di-iš-šum	V
+<EoL>
+ma-ru	N
+ši-ip-ri-ki	N
+ṭu₂-ur-di-im-ma	V
+<EoL>
+SAG.GEME₂	N
+lu-ša-ri-a-ak-ki-im	V
+<EoL>
+pi₂-qa₂-at	MOD
+lu-u₂	CNJ
+a-bu-ša	N
+<EoL>
+lu-u₂	CNJ
+um-ma-ša	N
+KU₃.BABBAR	N
+u₂-ka-al-lu-ni-ik-ki-im	V
+<EoL>
+um-ma	PRP
+šu-nu-ma	IP
+ma-ra-at-ni	N
+<EoL>
+ni-pa-aṭ-ṭa-ar	V
+la	MOD
+ta-ma-ga-ri	V
+<EoL>
+SAG.GEME₂	N
+pa-aq-da-ak-ki-im	V
+<EoL>
+a-na	PRP
+SAG.GEME₂	N
+la	MOD
+te-gi-i	V
+<EoL>
+pi₂-qa₂-at	MOD
+a-wi-lum	N
+i-ša-ap-pa-ra-ak-ki-im	V
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+lu-u₂	CNJ
+SAG.GEME₂	N
+<EoL>
+lu-u₂	CNJ
+KU₃.BABBAR	N
+u₂-ka-al-la-ak-ki	V
+<EoL>
+la	MOD
+ta-ma-ga-ri	V
+<EoL>
+pi₂-qa₂-at	MOD
+i-na	PRP
+pi₂-i-im	N
+i-ša-ap-pa-ra-ak-ki	V
+<EoL>
+um-ma	PRP
+at-ti-ma	IP
+a-na	PRP
+a-ha-ti-ia	N
+<EoL>
+u₂-ul	MOD
+ad-di-in	V
+a-na	PRP
+ka-a-šum	IP
+<EoL>
+a-na-ad-di-na-ak-kum	V
+<EoL><EoT>
+a-na	PRP
+be-ti-i	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+nam-ra-tum-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ki	V
+<EoL>
+aš-šum	PRP
+{diš}{d}SUEN-be-el-ap-lim	PN
+<EoL>
+ša	DET
+ki-a-am	AV
+ta-aš-pu-ri-im	V
+<EoL>
+um-ma	PRP
+i-na	PRP
+qa₂-be₂-e-ia	N
+<EoL>
+il-li-kam	V
+<EoL>
+{diš}{d}UTU-mu-še-zi-ib	PN
+<EoL>
+aš-šum	PRP
+ṣu₂-ha-ar-tim	N
+<EoL>
+mi-im-ma-a	XP
+u₂-da-ab-ba-ab	V
+<EoL>
+šum-ma	MOD
+i-da-ab-bu-ub	V
+<EoL>
+a-wa-tam	N
+ki-ma	PRP
+ta-ši-im-ti-ki	N
+ep-ši	V
+<EoL>
+a-wa-tum	N
+ša	DET
+{d}SUEN-be-el-ap-lim	PN
+<EoL>
+i-in-ki	N
+ma-ah-ra-at	V
+<EoL>
+{diš}{d}UTU-mu-še-zi-ib	PN
+<EoL>
+i-in-ki	N
+ma-ah-ra-at	V
+<EoL>
+a-šar	CNJ
+e-li-ki	PRP
+ṭa₃-bu	V
+<EoL>
+ki-ma	PRP
+ta-qa₂-ab-bi-i	V
+<EoL>
+li-in-ne-pu-uš	V
+<EoL>
+aš-šum	PRP
+{diš}{d}na-bi-um-ma-lik	PN
+<EoL>
+2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+ka-an-kum	AJ
+<EoL>
+i-na	PRP
+qa₂-ti	N
+{d}UTU-du-um-qi₂	PN
+<EoL>
+li-qe₂-e-ma	V
+<EoL>
+a-na	PRP
+{d}na-bi-um-ma-lik	PN
+<EoL>
+id-ni	V
+<EoL><EoT>
+a-na	PRP
+šu-{d}kab-ta	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+pi₂-lah-{d}INANNA	PN
+ma-ra-at-ka-ma	N
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}INANNA	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+SAG.GEME₂	N
+ša	DET
+DUMU.MEŠ	N
+nu-ra-tim	PN
+<EoL>
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+{diš}nu-ur₂-{d}kab-ta	PN
+a-hu-ka	N
+<EoL>
+i-ti	PRP
+DUMU.MEŠ	N
+iš-ta-ra-tim	N
+<EoL>
+ṭe₄-em-ši-na	N
+ga-am-ra-am	AJ
+<EoL>
+il-ta-qi₂-ha-ku	V
+<EoL>
+a-na	PRP
+a-ma-tim	N
+ši-na-ti	IP
+<EoL>
+u₂-ul	MOD
+šu-hu-za-ku	V
+<EoL>
+DUMU.MEŠ	N
+iš-ta-ra-tim	N
+<EoL>
+KU₃.BABBAR	N
+e-li-šu	N
+i-šu-u₂-ma	V
+<EoL>
+ni-ši-šu	N
+e-še-er	NU
+it-ru	V
+<EoL>
+u₂-ul	MOD
+šu-hu-za-ku	V
+<EoL>
+u₃	CNJ
+ša-ni-tam	AJ
+aš-šum	PRP
+la-te-gi	PN
+<EoL>
+ṭe₄-mi	N
+ga-am-ra-am	AJ
+<EoL>
+ta-ta-ma-ar	V
+<EoL>
+ki-ma	PRP
+ṣu₂-ha-ru	N
+šu-u₂	IP
+<EoL>
+ma-ri-i	N
+<EoL>
+ta-ta-ma-ar	V
+<EoL>
+šum-ma	MOD
+E₂.GAL-lum-ma	N
+<EoL>
+la	MOD
+iq-bi	V
+ṣu₂-ha-ru	N
+šu-u₂	IP
+<EoL>
+a-na	PRP
+wu-šu-ri-im	N
+mi-nu	QP
+x	nan
+<EoL>
+ṣu₂-ha-ra	N
+ša-tu	IP
+la	MOD
+tu-wa-ša-ra-aš-šu	V
+<EoL>
+i-na-an-na	AV
+ši-ta-al-ma	V
+ṣu₂-ha-ra	N
+<EoL>
+ša-tu	IP
+wu-še-ra-aš-šu	V
+e-bu-ru	N
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-u₂-se₂-li	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-da-mi-iq-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}NIN.SI₄.AN.NA	DN
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+iš-tu	PRP
+al-li-kam	V
+<EoL>
+i-na	PRP
+{iri}E₂-šu-{d}SUEN.NA{ki}-ma	SN
+<EoL>
+a-na-ku	IP
+e-li	PRP
+a-a-i-im-ma	XP
+<EoL>
+še-a-am	N
+1(u)	NU
+GUR	N
+i-šu-u₂	V
+<EoL>
+i-na	PRP
+di-na-ti	N
+du-ub-bu-ba-a-ku	V
+<EoL>
+iš-tu	PRP
+i-na-an-na	AV
+<EoL>
+U₄.5(diš).KAM	NU
+U₄.5(diš).KAM	N
+{diš}{d}SUEN-re-me-ni	PN
+<EoL>
+1(u)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+ub-ba-la-ak-kum	V
+<EoL>
+mi-im-ma	XP
+la	MOD
+ta-na-zi-iq	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+i₃-li₂-e-ṭi₃-ir	PN
+<EoL>
+la	MOD
+te-eg-gi	V
+<EoL>
+pa-nu-šu	N
+la	MOD
+i-ṣa-li-mu	V
+<EoL>
+2(diš)	NU
+SILA₃	N
+KAŠ	N
+li-iš-ta-at-ti	V
+<EoL>
+u₃	CNJ
+ṭe₄-e-em	N
+{diš}na-bi-{d}UTU	PN
+<EoL>
+ša	DET
+aš-šum	PRP
+3(diš)	NU
+SAG.IR₃	N
+<EoL>
+i-di-in	V
+a-mu-ur-šu-ma	V
+<EoL>
+ṭe₄-em-šu	N
+ga-am-ra	AJ
+šu-up-ra	V
+<EoL>
+šum-ma	MOD
+i-na	PRP
+ki-it-tim	N
+<EoL>
+a-hi	N
+at-ta	IP
+ni-di	N
+a-hi	N
+la	MOD
+ta-ra-aš-ši	V
+<EoL>
+ki-ma	PRP
+ta-ta-am-ru-u₂-šu	V
+<EoL>
+ki-a-am	AV
+qi₂-bi-šu	V
+um-ma	PRP
+at-ta-a-ma	IP
+<EoL>
+{diš}{d}SUEN-da-mi-iq	PN
+<EoL>
+a-na	PRP
+ṭe₄-mi-ka	N
+la-ma-di	N
+iš-pu-ra	V
+<EoL><EoT>
+a-na	PRP
+a-ki-ia	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-i-qi₂-ša-am-ma	PN
+<EoL>
+ṭup-pi₂	N
+be-li₂-ia	N
+aš-šum	PRP
+pa-ni	N
+U₈.UDU.HI.A	N
+<EoL>
+ša	DET
+te-re-hu-u₂	V
+ṣa-ba-ti	N
+<EoL>
+u₃	CNJ
+ka-ni-ka-at	N
+U₈.UDU.HI.A	N
+ša	DET
+a-na	PRP
+ZI.GA	N
+<EoL>
+tu-še-ṣu₂-u₂	V
+<EoL>
+le-qe₂-em-ma	N
+<EoL>
+i-na	PRP
+ITI.ZIZ₂.AM₃(|A.AN|)	NU
+ITI.ZIZ₂.AM₃(|A.AN|)	N
+U₄.2(u).5(diš).KAM	NU
+U₄.2(u).5(diš).KAM	NU
+U₄.2(u).5(diš).KAM	N
+<EoL>
+a-na	PRP
+E₂	N
+a-ki-tim	N
+sa-na-qi₂-im	N
+<EoL>
+it-ta-aš-pa-ra-ak-kum	V
+<EoL>
+ki-ma	PRP
+i-na	PRP
+ṭup-pi₂	N
+be-li₂-ia	N
+<EoL>
+iš-ša-ap-ra-ak-kum	V
+<EoL>
+pa-ni	N
+U₈.UDU.HI.A	N
+ṣa-ab-ta	V
+<EoL>
+u₃	CNJ
+ka-ni-ka-at	N
+U₈.UDU.HI.A	N
+<EoL>
+ša	DET
+a-na	PRP
+ZI.GA	N
+tu-še-ṣu₂-u₂	V
+<EoL>
+li-qi₂-a-ma	V
+<EoL>
+a-na	PRP
+a-da-an	N
+iš-ša-ap-ra-ak-kum	V
+<EoL>
+a-na	PRP
+E₂	N
+a-ki-tim	N
+si-in-qa₂	V
+<EoL>
+UDU.NITA₂	N
+ma-ṭu₂	V
+a-na	PRP
+pa-ni	N
+la	MOD
+i-pa-ar-ri-ik	V
+<EoL><EoT>
+a-na	PRP
+DUMU.MEŠ	N
+x	nan
+DUMU	N
+{d}MARDUK-na-ṣi-ir	PN
+<EoL>
+a-na	PRP
+DUMU.MEŠ	N
+ib-ni-{d}SUEN	PN
+<EoL>
+DUMU	N
+{d}MARDUK-na-ṣi-ir	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-i-qi₂-ša-am-ma	PN
+<EoL>
+i-na	PRP
+ṭup-pi₂	N
+be-li₂-ia	N
+<EoL>
+aš-šum	PRP
+pa-ni	N
+U₈.UDU.HI.A	N
+ša	DET
+te-re-hu-u₂	V
+ṣa-ba-tim	N
+<EoL>
+u₃	CNJ
+ka-ni-ka-at	N
+U₈.UDU.HI.A	N
+<EoL>
+ša	DET
+a-na	PRP
+ṣi-i-tim	N
+tu-še-ṣu₂-u₂	V
+<EoL>
+le-qe₂-e-em-ma	V
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+a-la-ki-im	N
+<EoL>
+iš-ša-ap-ra-ak-kum	V
+<EoL>
+ṭup-pi₂	N
+be-li₂-ia	N
+ša	DET
+iš-ša-ap-ra-ak-kum	V
+<EoL>
+1(diš)	NU
+NA.AŠ.BAR	N
+il-qi₂-a-am-ma	V
+<EoL>
+a-na	PRP
+ma-ah-ri-ka	N
+it-ta-al-kam	V
+<EoL>
+ki-ma	PRP
+i-na	PRP
+ṭup-pi₂	N
+be-li₂-ia	N
+<EoL>
+iš-ša-ap-ra-ak-kum	V
+<EoL>
+pa-ni	N
+U₈.UDU.HI.A	N
+ša	DET
+te-re-hu-u₂	V
+<EoL>
+ṣa-ab-tam	V
+<EoL>
+u₃	CNJ
+ka-ni-ka-at	N
+U₈.UDU.HI.A	N
+<EoL>
+ša	DET
+a-na	PRP
+ṣi-i-tim	N
+tu-še-ṣu₂-u₂	V
+<EoL>
+li-qi₂-a-am-ma	V
+<EoL>
+i-na	PRP
+ITI.ZIZ₂.AM₃(|A.AN|)	NU
+U₄.2(u).KAM	NU
+U₄.2(u).KAM	N
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+si₂-in-qa₂-am	V
+<EoL>
+1(diš)	NU
+UDU.NITA₂	N
+ma-ṭu₂-u₂	V
+a-na	PRP
+pa-ni	N
+la	MOD
+i-pa-ri-ik	V
+<EoL>
+a-na	PRP
+a-da-an	N
+iš-ša-ap-ra-ak-kum	V
+<EoL>
+tu-la-ba-da-am-ma	V
+<EoL>
+pa-nu-ka	N
+u₂-ul	MOD
+ib-ba-ab-ba-lu	V
+<EoL><EoT>
+a-na	PRP
+na-ka-ar-tum	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-na-di-in-šu-mi-im-ma	PN
+<EoL>
+{d}UTU	DN
+li-ba-al-li-ṭu₂-ki	V
+<EoL>
+GEME₂	N
+ša	DET
+DUMU.MUNUS	N
+{d}IŠKUR-ra-bi	PN
+<EoL>
+a-na	PRP
+be-el-ti-ša	N
+a-wa-tam	N
+<EoL>
+mu-ru-uṣ	N
+li-ib-bi-ia	N
+<EoL>
+aš-pu-ra-am	V
+<EoL>
+i-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+a-mur-ši-ma	V
+<EoL>
+u₃	CNJ
+um-ma	PRP
+ši-i-ma	IP
+<EoL>
+ṭe₄-mi	N
+IGI	N
+na-ka-ar-tim	PN
+<EoL>
+a-ša-ka-an-ma	V
+ša	DET
+ha-di-ka	N
+<EoL>
+a-ša-pa-ra-ak-kum	V
+<EoL>
+ṭe₄-em-ša	N
+ga-am-ra-am	AJ
+<EoL>
+li-im-di-im-ma	V
+šu-up-ri	V
+<EoL>
+{diš}i₃-li₂-na-ap-še-ra	PN
+<EoL>
+šu-up-ri-im	V
+<EoL><EoT>
+a-na	PRP
+GEME₂-ka-la-tim	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}UTU-mu-še-zi-ib-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ki	V
+<EoL>
+aš-šum	PRP
+A.ŠA₃-im	N
+ša	DET
+at-ti	IP
+<EoL>
+u₃	CNJ
+na-ra-am-ta-ni	PN
+ti-iṣ-bu-ta-ti-na	V
+<EoL>
+a-na	PRP
+DUMU	N
+ZIMBIR{ki}	SN
+ṭup-pi₂	N
+u₃	CNJ
+ṭup-pi₂	N
+TAB.BA-tum	PN
+<EoL>
+u₂-da-ni-nam-ma	V
+uš-ta-bi-lam	V
+<EoL>
+a-di	PRP
+a-la-kam	V
+A.ŠA₃-am	N
+u₂-ul	MOD
+i-zu-za-ki-na-ši-im	V
+<EoL>
+i-na	PRP
+a-la-ki-ia	N
+<EoL>
+a-na	PRP
+DI.KU₅	N
+ZIMBIR{ki}	SN
+<EoL>
+u₂-ṭa-ha-ki-na-ti-na	V
+<EoL>
+a-wa-ti-ki-na	N
+i-ma-ru-u₂-ma	V
+<EoL>
+E₂.GAL	N
+i-ka-ša-du-ma	V
+<EoL>
+hi-bi-il-ta-ki	N
+u₂-ga-ma-ra-ki-im	V
+<EoL>
+ap-lu-tum	N
+ṣe-he-er-tum	AJ
+u₃	CNJ
+ra-bi-tum	AJ
+<EoL>
+i-na	PRP
+ZIMBIR{ki}	SN
+u₂-ul	MOD
+i-ba-aš-ši	V
+<EoL><EoT>
+a-na	PRP
+{d}MARDUK-na-ṣi-ir	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+TAB.BA-tum-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+{diš}e-tel-pi₄-{d}na-bi-um	PN
+a-hu-ka	N
+<EoL>
+il-li-kam-ma	V
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+ṣu₂-ha-ru-u₂-ia	N
+SIKI.HI.A	N
+na-šu-u₂-ma	N
+<EoL>
+{diš}da-da-a	PN
+i-mu-ur-šu-nu-ti-ma	V
+<EoL>
+ki-ma	PRP
+ia-ti	IP
+qa₂-be₂-e	N
+<EoL>
+it-ti-šu-nu	PRP
+iš-ta-bi-ma	V
+<EoL>
+SIKI.HI.A	N
+im-ta-ša-ah	V
+<EoL>
+u₃	CNJ
+KU₃.BABBAR	N
+UM.MI.A	N
+uh₂-ta-al-li-iq	V
+<EoL>
+šu-ur-qu₂-um	N
+i-na	PRP
+mu-hi-ka	N
+<EoL>
+na-a-di	V
+<EoL>
+al-kam-ma	V
+a-wi-lum	N
+an-ni-tim	DP
+<EoL>
+a-mu-ur-ši-na-ti	V
+<EoL>
+{diš}ša-at-{d}MARDUK	PN
+<EoL>
+DAM	N
+{diš}i-bi-{d}NIN.ŠUBUR	PN
+a-hi-ka	N
+<EoL>
+um-ma	PRP
+ši-i-ma	IP
+a-na	PRP
+ṣe-er	N
+<EoL>
+ri-qu₂-u₂-ma	V
+wa-aš-bu	V
+<EoL>
+ṣi-di-tam	N
+ni-ša-ap-pa-ak-ma	V
+<EoL>
+še-a-am	N
+ša	DET
+i-na	PRP
+i-bu-ri	N
+<EoL>
+il-qu₂-u₂	V
+li-ku-ul	V
+<EoL><EoT>
+a-na	PRP
+a-bi-ia	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+IR₃-{d}LA.AH.MU-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+a-bi	N
+ka-ta	IP
+li-ba-al-li-ṭu₂	V
+<EoL>
+a-bi	N
+at-ta	IP
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir	N
+a-bi-ia	N
+ka-ta	IP
+re-eš-ka	N
+a-na	PRP
+da-mi-iq-tim	AJ
+<EoL>
+li-ki-il	V
+<EoL>
+a-na	PRP
+šu-lum	N
+a-bi-ia	N
+aš-pu-ra-am	V
+<EoL>
+šu-lum	N
+a-bi-ia	N
+ka-ta	IP
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+<EoL>
+lu	MOD
+da-ri	V
+<EoL>
+aš-šum	PRP
+ša	DET
+a-bi	N
+iš-pu-ra-am	V
+<EoL>
+um-ma	PRP
+a-bi-ma	N
+<EoL>
+da-ba-ab	N
+DUMU.MEŠ	N
+pu-hu-um	PN
+SIPA	N
+<EoL>
+ib-ba-ši-ma	V
+<EoL>
+a-wi-lum	N
+ku-ub-bu-ru-um	PN
+DI.KU₅	N
+<EoL>
+ša	DET
+KU₃.BABBAR	N
+in-na-ad-nu-šum	V
+<EoL>
+KU₃.BABBAR	N
+šu-a-ti	IP
+it-ta-di-in	V
+<EoL>
+ka-ni-ik	N
+KU₃.BABBAR	N
+ša	DET
+ta-ad-di-nu-šu-nu-ši-im	V
+<EoL>
+le-qe₂-a-ma	V
+a-na	PRP
+ma-ah-ri-ia	N
+al-kam-ma	V
+<EoL>
+{lu₂}mu-uš-ke-e-nam	N
+la	MOD
+i-a-ab-ba-tu	V
+<EoL>
+ša	DET
+a-bi	N
+iš-pu-ra-am	V
+<EoL>
+ki-ma	PRP
+a-bi	N
+iš-pu-ra-am	V
+<EoL>
+2(diš)	NU
+ka-ni-ki	N
+šu-nu-ti	DET
+<EoL>
+a-na	PRP
+ma-har	N
+a-bi-ia	N
+ka-ta	IP
+<EoL>
+{diš}tak-la-ku-a-na-{d}MARDUK	PN
+IR₃-ka	N
+<EoL>
+uš-ta-bi-lam	V
+<EoL>
+ki-ma	PRP
+ka-ni-ki	N
+šu-nu-ti	DET
+<EoL>
+a-bi	N
+i-ta-am-ru	V
+<EoL>
+a-na	PRP
+ma-ah-ri-ia	N
+li-te-er-ra-am	V
+<EoL>
+pu-ul-lu-sa-ku-ma	V
+<EoL>
+a-na	PRP
+ma-har	N
+a-bi-ia	N
+u₂-ul	MOD
+al-li-kam	V
+a-bi	N
+at-ta	IP
+<EoL>
+a-na	PRP
+a-wa-tim	N
+la	MOD
+ta-ṣa-ab-ba-tam	V
+<EoL><EoT>
+a-na	PRP
+i-bi-{d}SUEN	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+tu-tu-na-ṣi-ir	PN
+<EoL>
+{d}MARDUK	DN
+at-ma	V
+<EoL>
+i-nu-ma	SBJ
+a-ša-lu-ka	V
+<EoL>
+ki-ma	PRP
+a-na	PRP
+ša₃-ga{ki}	SN
+<EoL>
+u₂-wa-še-ru-ka	V
+<EoL>
+la	MOD
+i-du-u₂-ma	V
+<EoL>
+la	MOD
+aš-ši-qu₂-ka	V
+<EoL>
+ki-ša	AV
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+ta-la-ak	V
+<EoL>
+a-ša-al-ka	V
+<EoL>
+a-di	PRP
+tu-tu-iš-ti-kal₂	DN
+<EoL>
+iq-bi-am	V
+<EoL>
+la	MOD
+i-du-u₂	V
+<EoL>
+šum-ma	MOD
+a-hi	N
+at-ta	IP
+<EoL>
+ki-ṣi₂-ir	N
+li-bi-im	N
+<EoL>
+la	MOD
+ta-ra-aš-še₂₀-em	V
+<EoL>
+ti-de	V
+at-ta	IP
+ki-ma	SBJ
+<EoL>
+iš-tu	PRP
+U₄.2(u).KAM	NU
+U₄.2(u).KAM	N
+<EoL>
+PUZUR₄-{d}IŠKUR	PN
+3(diš)	NU
+GU₄	N
+<EoL>
+u₃	CNJ
+ṣa-ha-ra-am	N
+<EoL>
+a-na	PRP
+na-da-nim	N
+aṭ-ru-ud-ma	V
+<EoL>
+ṣa-ha-rum	N
+ih-ta-li-iq-ma	V
+<EoL>
+PUZUR₄-{d}IŠKUR	PN
+ša-al-ma	V
+<EoL>
+a-ša-ar	N
+ih-li-qu₂-u₂	V
+<EoL>
+li-iq-bi-kum-ma	V
+<EoL>
+li-še₂₀-lu-ni-ku-uš-šu	V
+<EoL>
+šum-ma	MOD
+be-el	N
+x	nan
+<EoL>
+na-pi₂-iš-ti-ia	N
+at-ta	IP
+<EoL>
+uš-ta-am-ri-ṣu₂-ni-in-ni	V
+<EoL>
+PUZUR₄-{d}IŠKUR	PN
+KU₃.BABBAR	N
+ša-ma-aš-šum-ma	V
+<EoL>
+ṭu₂-ur-da-aš-šu	V
+<EoL>
+a-na	PRP
+i-bi-{d}SUEN	PN
+<EoL>
+tu-tu-na-ṣi-ir	PN
+<EoL>
+DUMU	N
+im-lik-DINGIR	PN
+<EoL>
+ARAD₂	N
+{d}MARDUK	DN
+<EoL><EoT>
+a-na	PRP
+li-pi₂-is-sa₃	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+šu-mu-un-li-ṣi-ma	PN
+<EoL>
+NA₄.MUŠ	N
+NA₄.MUŠ	N
+ša	DET
+{d}UTU-na-ṣi-ir	PN
+<EoL>
+a-di-DINGIR	PN
+i-di-nam	V
+<EoL>
+u₃	CNJ
+NA₄	N
+ša-ni-tam	AJ
+<EoL>
+{diš}li-pi₂-it-{d}SUEN	PN
+DUMU	N
+dan-nim	PN
+<EoL>
+id-di-nam	V
+ma-an-za-az	N
+ad-di-nu	V
+<EoL>
+2(diš)	NU
+NA₄.HI.A.MUŠ	N
+NA₄.HI.A.MUŠ	N
+x-x-ši-na	nan
+<EoL>
+u₃	CNJ
+1(diš)	NU
+NA₄	N
+a-hi-tum-ma	AJ
+<EoL>
+it-ti	PRP
+NA₄.HI.A.MUŠ	N
+NA₄.HI.A.MUŠ	N
+ši-na-ti	IP
+<EoL>
+i-na	PRP
+{gi}PISAN	N
+qa₂-ti-ša	N
+<EoL>
+i-na	PRP
+{kuš}tu-uk-ka-nim	N
+x	nan
+<EoL>
+{gi}PISAN	N
+qa₂-ti-ša	N
+x-x	nan
+<EoL>
+at-tu-nu	IP
+ma-x-ad	nan
+x	nan
+<EoL>
+x	nan
+<EoL>
+2(diš)	NU
+NA₄.HI.A	N
+x-x-x-x	nan
+<EoL>
+u₃	CNJ
+1(diš)	NU
+NA₄	N
+a-hi-x-x	nan
+<EoL>
+i-na	PRP
+{kuš}tu-uk-ka-nim	N
+x-x	nan
+<EoL>
+šu-bi-la-x-x	V
+<EoL>
+x	nan
+<EoL><EoT>
+a-na	PRP
+ša-pi₂-ir	N
+ID₂	N
+<EoL>
+ra-pa-aš-ṣil₂-li₂-e₂-a	PN
+<EoL>
+UGULA	N
+LUKUR	N
+{d}UTU	DN
+<EoL>
+DUMU	N
+šul-{d}NIN.ŠUBUR	PN
+<EoL>
+IR₃	N
+sa-am-su-i-lu-na	RN
+<EoL>
+a-na	PRP
+ša-pi₂-ir	N
+na-ri-im	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ra-pa-aš-ṣil₂-li₂-e₂-a-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+{diš}li-wi-ra-a-na-DINGIR	PN
+<EoL>
+IR₃	N
+LUKUR	N
+{d}UTU	DN
+a-na	PRP
+mi-nim	QP
+<EoL>
+ta-ak-la	V
+<EoL>
+u₂-ul	MOD
+DUMU	N
+{iri}ša₃-ga{ki}	SN
+<EoL>
+šu-u₂	IP
+<EoL>
+u₂-ul	MOD
+DUMU	N
+a-wi-lim	N
+<EoL>
+IR₃	N
+LUKUR	N
+{d}UTU	DN
+<EoL>
+wu-uš-še-er	V
+<EoL>
+LUKUR	N
+{d}UTU	DN
+šar-ra-am	N
+<EoL>
+la	MOD
+i-ma-ha-ar	V
+<EoL>
+a-na	PRP
+ri-iš-{d}UTU	PN
+u₂-ul	MOD
+wa-li-id	V
+<EoL>
+um-ma-šu	N
+GEME₂	N
+LUKUR	N
+{d}UTU	DN
+<EoL>
+a-na	PRP
+mi-nim	QP
+a-na	PRP
+re-du-tim	N
+<EoL>
+ta-ša-ṭa₃-ar-šu	V
+<EoL>
+ga-gu-um	N
+a-na	PRP
+ma-ša-i-im	N
+<EoL>
+ša-ki-in	V
+<EoL><EoT>
+a-na	PRP
+an-um-pi₄-{d}UTU	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-a-ha-am-i-din-nam-ma	PN
+<EoL>
+ša	DET
+aš-ta-na-ap-pa-ra-ak-ku-u₂	V
+<EoL>
+la	MOD
+ta-na-az-zi-iq	V
+<EoL>
+KU₃.BABBAR	N
+i-ba-aš-ši-ma	V
+aš-ta-na-ap-pa-ra-ak-ku	V
+<EoL>
+ša	DET
+1(u)	NU
+GIN₂	N
+KU₃.BABBAR	N
+ba-lu-ha	N
+<EoL>
+3(diš)	NU
+GU₂	N
+$KU-lu-ga	nan
+1(aš)	NU
+GUR	N
+ku-uk-ri	N
+<EoL>
+qa-du-um	PRP
+ša	DET
+LUGAL-{d}SUEN	PN
+<EoL>
+1(barig)	NU
+1(barig)	N
+3(ban₂)	NU
+3(ban₂)	N
+ṣu₂-um-la-le-e	N
+<EoL>
+ša	DET
+5(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+bu-ra-šu	N
+<EoL>
+ša	DET
+3(diš)	NU
+GIN₂	N
+I₃	N
+a-si	N
+<EoL>
+ša	DET
+1(u)	NU
+GIN₂	N
+I₃	N
+ŠU.UR₂.MIN₂	N
+<EoL>
+tu-um-ma-da-am	V
+<EoL>
+su-hu-ur-ma	V
+li-qi₂	V
+<EoL>
+u₂-ul	MOD
+ti-di	V
+ki-ma	PRP
+a-na	PRP
+dam-qi₂-ma	N
+KU₃.BABBAR	N
+<EoL>
+u₃	CNJ
+I₃.BA-am	N
+la	MOD
+tu-ma-har	V
+<EoL>
+{geš}BAN₂	N
+2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+dam-qa-am	AJ
+ša-ma-am	V
+<EoL>
+u₃	CNJ
+I₃.GEŠ	N
+UR.ŠUM.MA	N
+{geš}BAN₂.TA	PRP
+{geš}BAN₂.TA	N
+<EoL>
+ša	DET
+5(diš)	NU
+GIN₂	N
+ša-ma-am	V
+<EoL>
+2(barig)	NU
+2(barig)	N
+2(ban₂)	NU
+2(ban₂)	N
+ku-uk-ri	N
+ša	DET
+5(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+<EoL>
+i-ti	PRP
+LUGAL-{d}SUEN	PN
+mu-hu-ur	V
+<EoL>
+lu-u₂-lu	N
+ka-lu-ša	N
+na-ad-na-at	V
+<EoL>
+bu-ra-ša	N
+ša	DET
+te-zi-ba	V
+<EoL>
+a-na	PRP
+1(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+at-ta-di-in	V
+<EoL>
+a-na	PRP
+e-ze-zi-ia	N
+<EoL>
+KU₃.BABBAR	N
+a-ša-am	V
+u₃	CNJ
+da-qa-ti	N
+<EoL>
+ka-lu-ša	N
+na-ad-na-at	V
+<EoL>
+ki	SBJ
+ta-at-ta-al-ku-u₂	V
+da-qa-tum	N
+<EoL>
+it-ta-ṣi₂-i	V
+ṣi₂-bi-it	N
+ṭe₄-mi-im	N
+<EoL>
+ri-ša-ma	V
+al-ka	V
+I₃	N
+ŠU.UR₂.MIN₂	N
+la	MOD
+ta-ma-aš-ši	V
+<EoL><EoT>
+a-na	PRP
+an-um-pi₄-{d}UTU	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-a-ha-am-i-din-nam-ma	PN
+<EoL>
+a-na	PRP
+mi-nim	QP
+a-wa-tu	N
+i-na	PRP
+<EoL>
+aš-ta-pi-ri	N
+e-li-ka	PRP
+ma-ri-iṣ	V
+<EoL>
+aš-pu-ra-ku-ma	V
+um-ma	PRP
+a-na-ku-ma	IP
+<EoL>
+I₃	N
+ŠU.UR₂.MIN₂	N
+ša	DET
+1(u)	NU
+GIN₂	N
+KU₃.BABBAR	N
+šu-bi-la	V
+<EoL>
+I₃	N
+u₂-ul	MOD
+tu-ša-bi-la-am	V
+<EoL>
+u₃	CNJ
+ṣu₂-ha-ra-am	N
+ri-qu₂-su₂	N
+<EoL>
+ta-ṭa₃-ar-ra-da-am	V
+<EoL>
+iš-tu	PRP
+te-zi-ba-an-ni	V
+<EoL>
+da-qa-ti	N
+ag-da-mar	V
+<EoL>
+u₃	CNJ
+I₃	N
+ŠU.UR₂.MIN₂	N
+u₃	CNJ
+ka-na-ak-ti	N
+<EoL>
+u₂-ul	MOD
+i-šu-u₂	V
+i-na	PRP
+KU₃.BABBAR	N
+<EoL>
+ša	DET
+u₂-ša-bi-la-ak-ku-u₂	V
+<EoL>
+{diš}ki-ib-ra-ab-ba	PN
+ŠANDANA-ka	N
+<EoL>
+li-iṣ-ba-at-ma	V
+I₃	N
+da-am-qa-am	AJ
+<EoL>
+ša	DET
+1(u)	NU
+GIN₂	N
+KU₃.BABBAR	N
+I₃	N
+ŠU.UR₂.MIN₂	N
+<EoL>
+ša	DET
+3(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+I₃	N
+A.ZU	N
+<EoL>
+u₃	CNJ
+5(diš)	NU
+GIN₂	N
+I₃	N
+{geš}ERIN	N
+<EoL>
+ša-ma-am-ma	V
+li-qe₂-a	V
+<EoL>
+I₃	N
+ma-ad	V
+šum-ma	MOD
+I₃	N
+<EoL>
+ša	DET
+i-ba-tum	PN
+la	MOD
+da-mi-iq	V
+<EoL>
+su-hu-ur-ma	V
+I₃	N
+da-am-qa-am	AJ
+<EoL>
+ša-ma-am-ma	V
+li-qe₂-a	V
+<EoL>
+ša	DET
+aš-pu-ra-ku	V
+u₂-ul	MOD
+iq-bu-ni-ma	V
+<EoL>
+ki-ma	PRP
+a-x	nan
+x	nan
+x	nan
+x	nan
+u₂-ta-na-ru	V
+<EoL>
+1(ban₂)	NU
+1(ban₂)	N
+I₃	N
+GI	nan
+lu-u₂	CNJ
+{d}TIŠPAK-ga-mil	PN
+<EoL>
+u₃	CNJ
+lu-u₂	CNJ
+ki-ib-ra-ba	PN
+li-še-bi-lu-ku	V
+<EoL><EoT>
+a-na	PRP
+be₂-su₂-u₂	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}TIŠPAK-na-ṣi-ir-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+aš-šu-mi-ia	PRP
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+i-nu-ma	SBJ
+at-ta-al-kam	V
+<EoL>
+u₂-ul	MOD
+aq-bi-a-ki-im	V
+<EoL>
+um-ma	PRP
+a-na-ku-ma	IP
+ru-ut-ta-am	N
+<EoL>
+ri-ši-ma	V
+ka-qa-ad-ki	N
+<EoL>
+lu-u₂	MOD
+ka-bi-it	V
+<EoL>
+i-na-an-na	AV
+{diš}še-le-bu	PN
+<EoL>
+iq-bi-a-am-ma	V
+<EoL>
+ma-di-iš	AV
+hi-du-su₂	N
+ti-i-di	V
+<EoL>
+a-na	PRP
+ITI.1(diš).KAM	NU
+ITI.1(diš).KAM	N
+a-la-kam	N
+<EoL>
+ru-ut-ta	N
+a-na	PRP
+pa-ni-ki	N
+<EoL>
+u₂-ul	MOD
+ta-ar-de-e-ma	V
+<EoL>
+u₂-ul	MOD
+a-ha-ti	N
+it-ti-ki	PRP
+<EoL>
+u₃	CNJ
+a-na	PRP
+ṣu₂-ba-ti	N
+E₂	N
+ha-mu-ti	nan
+<EoL>
+a-wi-il-tu-um	N
+<EoL>
+u₂-ul	MOD
+ki-a-ša	AV
+i-in-ki	N
+<EoL>
+li-ib-ba-aš-ši-i	V
+<EoL>
+mi-im-ma	XP
+ša	DET
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+u₂-ul	MOD
+ku-ub-x	nan
+x	nan
+<EoL>
+1(diš)	NU
+1/2(diš)	NU
+SILA₃	N
+I₃.GEŠ	N
+3(diš)	NU
+KU₆	N
+u₂-ša-bi-lam	V
+<EoL>
+KU₃.BABBAR	N
+šu-bi-lim-ma	V
+a-na	PRP
+ṣi₂-bu-ti-ki	N
+<EoL>
+lu-ša-bi-la-ki	V
+<EoL><EoT>
+a-na	PRP
+aš-ri-i₃-li₂-šu	PN
+ra-im	N
+a-wi-le-e	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}IŠKUR-šar-rum-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+{diš}a-ru-hu-um	PN
+ma-ah-ri-ia	N
+ki-a-am	AV
+iš-ku-un	V
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+še-am	N
+ša	DET
+e-li-ia	PRP
+i-šu-u₂	V
+<EoL>
+i-na	PRP
+bi-it	N
+e-mi-qi₂-ia	N
+a-ba-al-ka	N
+<EoL>
+aq-bi-šum	V
+šu-u₂	IP
+ṣu₂-ha-ar-tam	N
+<EoL>
+ša	DET
+bi-tam	N
+i-na-ṣa-ru	V
+u₃	CNJ
+ŠUKU-ni	N
+<EoL>
+i-ṭe₄-nu	V
+it-te-pi₂	V
+<EoL>
+la	MOD
+na-ṭu₂-u₂	V
+a-na	PRP
+mu-še-ṣi₂-tim	N
+<EoL>
+me-e	N
+ru-ud-du-u₂	V
+<EoL>
+ki-ma	PRP
+at-ta-a	IP
+tap-pu-ti-šu	N
+a-la-ki-im	N
+<EoL>
+la	MOD
+ta-ha-aš	V
+qa₂-bi-im	N
+<EoL>
+su-uq-ti-šu	N
+la-pa-tim	N
+at-ta	IP
+<EoL>
+ṣu₂-ha-ar-ta-šu	N
+te-ne-pi₂	V
+<EoL>
+šum-ma	MOD
+i-na	PRP
+ki-na-tim	N
+ta-ra-ma-ni	V
+<EoL>
+ṣu₂-ha-ar-ta-šu	N
+U₄.5(diš).KAM	NU
+U₄.5(diš).KAM	N
+<EoL>
+wu-še-er	V
+at-ta	IP
+na-ka-ra-ta	V
+<EoL>
+u₂-ul	MOD
+bi-it-ku-nu-u₂	N
+<EoL><EoT>
+a-na	PRP
+IR₃-{d}SUEN	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}a-šur₄-a-su	PN
+u₃	CNJ
+ša-lim-pu-ti-ma	PN
+<EoL>
+{d}UTU	DN
+{d}MARDUK	DN
+u₃	CNJ
+{d}a-šur₄	DN
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+i-bi-{d}UTU	PN
+ša	DET
+ta-aš-pu-ra-ni-a-ši	V
+<EoL>
+{diš}i-bi-{d}UTU	PN
+i-na	PRP
+ma-ah-ri-ni	N
+<EoL>
+ki-a-am	AV
+iš-ku-un	V
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+ṭup-pa-am	N
+iš-tu	PRP
+a-li-im	N
+<EoL>
+ub-lu-ni-šum-ma	V
+<EoL>
+i-na	PRP
+bi-ti-šu	N
+u₂-ka-al	V
+<EoL>
+ki-ma	SBJ
+iš-tu	PRP
+a-li-im	N
+<EoL>
+i-ša-pa-ru-ni-kum	V
+<EoL>
+a-na	PRP
+pi₂-i	N
+ṭup-pi₂	N
+ša	DET
+iš-tu	PRP
+a-li-im	N
+<EoL>
+ub-ba-lu-ni-kum	V
+<EoL>
+e-pu-uš	V
+<EoL>
+aš-šum	PRP
+ku-si-ia	PN
+ša	DET
+ta-aš-pu-ra-ni-a-ši-im	V
+<EoL>
+{diš}u₂-na-ru-um	PN
+i-din-{d}SUEN	PN
+<EoL>
+u₃	CNJ
+li-pi₂-it-eš₁₈-dar	PN
+<EoL>
+a-wi-il-ta-am	N
+<EoL>
+ir-te-du-ni-kum	V
+<EoL>
+ki-ma	PRP
+ni-iṭ-li-ka	N
+<EoL>
+e-pu-uš	V
+<EoL><EoT>
+a-na	PRP
+GEME₂-ka-la-ti-im	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-pil-{d}ki-it-tum-ma	PN
+<EoL>
+be-el-ki	N
+li-ba-al-li-iṭ-ki	V
+<EoL>
+A.ŠA₃-ki	N
+a-na	PRP
+šu-mi-er-ṣe-tim	PN
+<EoL>
+u₃	CNJ
+ta-ra-ia-ti-im	PN
+ta-ad-di-ni	V
+<EoL>
+i-na-an-na	AV
+A.ŠA₃-am	N
+te-ki-mi-šu-nu-ti-ma	V
+<EoL>
+a-na	PRP
+ša-ni-im	N
+ta-na-ad-di-ni	V
+<EoL>
+ki-a-am	AV
+di-nu-um	N
+A.ŠA₃-um	N
+i-na	PRP
+bi-ti	N
+<EoL>
+ID₂	N
+a-ta-ap-pi₂-im	WN
+<EoL>
+šu-ṣi-i-im	N
+<EoL>
+in-ne₂-ki-im-mi-i	V
+<EoL>
+{diš}šu-mi-er-ṣe-tim	PN
+<EoL>
+u₃	CNJ
+ta-ra-ia-tum	PN
+<EoL>
+ma-ah-ri-ia	N
+iš-ku-nu	V
+<EoL>
+um-ma	PRP
+šu-nu-ma	IP
+A.ŠA₃-am	N
+šu-ṣi₂-a	N
+<EoL>
+u₃	CNJ
+$IA-mu-ri-im	nan
+<EoL>
+ṭup-pa-am	N
+ub-lam-ma	V
+<EoL>
+ki-a-am	AV
+aq-bi-šu	V
+<EoL>
+um-ma	PRP
+a-na-ku-ma	IP
+A.ŠA₃-am	N
+u₂-ul	MOD
+<EoL>
+te-pu-uš	V
+<EoL>
+i-nu-ma	SBJ
+it-ta-al-ka-ki-im-mi	V
+<EoL>
+um-ma	PRP
+at-ti-ma	IP
+a-pil-{d}ki-it-tum	PN
+<EoL>
+iš-pu-ra-am	V
+A.ŠA₃-am	N
+u₂-ul	MOD
+a-na-ad-di-na-kum	V
+<EoL><EoT>
+a-na	PRP
+be-le-su₂-nu	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+il-ta-ni-ma	PN
+<EoL>
+mi-nu-um	QP
+ša	DET
+li-ba-ki	N
+<EoL>
+im-ra-ṣu₂-ma	V
+ki-a-am	AV
+<EoL>
+ta-aš-pu-ri-im	V
+<EoL>
+um-ma	PRP
+at-ti-ma	IP
+<EoL>
+i-na	PRP
+ŠE.GEŠ.I₃	N
+šu-hu-ta-ku	V
+<EoL>
+a-na-ku	IP
+e-li-i-i	V
+<EoL>
+šu-ud-ki	V
+<EoL>
+iš-tu-ma	CNJ
+ki-a-am	AV
+<EoL>
+A.ŠA₃-am	N
+ša	DET
+e-pe₂-tu-u₂	V
+<EoL>
+šu-up-ri-im-ma	V
+<EoL>
+ki-ra-am	N
+lu-uš-pu-uk	V
+<EoL>
+u₄-hi-ni	N
+u₂-ra-ṭi-ib	V
+<EoL>
+4(aš)	NU
+GUR	N
+ib-ba-šu-u₂	V
+<EoL>
+SAG.GEME₂	N
+u₂-ha-li-iq	V
+<EoL>
+e-li-i	V
+{d}UTU	DN
+bi-il-ki	N
+<EoL>
+u₂-še-e-da	V
+<EoL><EoT>
+a-na	PRP
+nu-ur₂-{d}kab-ta	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}UTU-li-wi-ir-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}NIN.SI₄.AN.NA	DN
+a-na	PRP
+da-ri-a-tim	N
+<EoL>
+li-ba-al-li-ṭu₃-u₂-ka	V
+<EoL>
+ki-ma	PRP
+UDU.NITA₂.HI.A	N
+ti-šu-u₂	V
+eš-me-ma	V
+<EoL>
+1/3(diš)	NU
+MA.NA	N
+KU₃.BABBAR	N
+ša	DET
+a-a-i-im-ma	XP
+<EoL>
+ka-li-a-ku	V
+<EoL>
+a-nu-um-ma	AV
+ṭup-pi₂	N
+<EoL>
+{diš}i-ba-šar-rum	PN
+<EoL>
+ṣu₂-ha-ar	N
+a-wi-lim	N
+<EoL>
+ša	DET
+UDU.NITA₂.HI.A	N
+ha-aš-hu	V
+<EoL>
+uš-ta-bi-la-ak-kum	V
+<EoL>
+šum-ma	MOD
+ni-ṭi-il-ka	N
+<EoL>
+ṭe₄-em-ka	N
+ga-am-ra-am	AJ
+<EoL>
+šu-up-ra-am-ma	V
+<EoL>
+a-wi-lum	N
+ki-is-su₂	N
+li-il-qi₂-ma	V
+<EoL>
+li-il-li-ka-ak-kum	V
+<EoL>
+UDU.NITA₂.HI.A	N
+i-di-iš-šum	V
+<EoL>
+u₃	CNJ
+ṣu₂-ha-ru	N
+ša	DET
+il-li-ka-ak-kum	V
+<EoL>
+it-ti	PRP
+a-la-ak-tim	N
+<EoL>
+šu-ta-aṣ-bi-ta-aš-šu	V
+<EoL>
+a-na	PRP
+nu-ur₂-{d}kab-ta	PN
+<EoL>
+DUMU	N
+PUZUR₄-A.BA	PN
+<EoL>
+KIŠIB₃	N
+{d}UTU-li-wi-ir	PN
+<EoL>
+DUMU	N
+PUZUR₄-A.BA	PN
+<EoL>
+a-hi-šu	N
+<EoL><EoT>
+a-na	PRP
+a-di-an-ni-tim	PN
+<EoL>
+u₃	CNJ
+eriš-ti-{d}a-a	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+il-ta-ni-ma	PN
+<EoL>
+be-li	N
+u₃	CNJ
+be-el-ti	N
+<EoL>
+li-ba-al-li-ṭu₂-ki-na-ti	V
+<EoL>
+{diš}sin-i-din-nam	PN
+<EoL>
+u₃	CNJ
+DUMU-KI-{ti}tim	PN
+<EoL>
+ma-ah-ri-ki-na	PRP
+<EoL>
+wa-aš-bu	V
+<EoL>
+um-ma	PRP
+{diš}gu-lu-ub-tum-ma	PN
+<EoL>
+i-na	PRP
+i-di-ka	N
+<EoL>
+ša	DET
+a-na	PRP
+na-am-ra-am-ša-ru-ur	PN
+<EoL>
+1(diš)	NU
+SILA₃	N
+ŠE	N
+u₂-ul	MOD
+i-di-nam	V
+<EoL>
+u₃	CNJ
+mi-im-ma	XP
+<EoL>
+la-a	MOD
+ta-pa-la-ha	V
+<EoL>
+šu-lu-um-ku-nu	N
+<EoL>
+šu-up-ra-nim-ma	V
+<EoL>
+li-bi	N
+li-nu-uh	V
+<EoL>
+u₃	CNJ
+um-ma	PRP
+il-ta-ni	PN
+<EoL>
+be₂-re-ku	V
+<EoL>
+u₃	CNJ
+ku-ṣu₂	N
+<EoL>
+ik-ta-aš-du-ni-ni	V
+<EoL>
+e-ri-ši-ia-ma	AV
+<EoL><EoT>
+a-na	PRP
+be-el-ta-ni	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+šu-mu-li-ṣi₂-ma	PN
+<EoL>
+ad-ma-ti	PRP
+ad-ma-ti	AV
+ta-zi-im-ta-ki	N
+<EoL>
+i-ta-ak-la-an-ni	V
+<EoL>
+u₂-lu	CNJ
+i-na	PRP
+pa-ni-ki	N
+<EoL>
+mu-tu-um	N
+li-it-ba-la-an-ni	V
+<EoL>
+wa-ar-ka-tam	N
+u₂-ul	MOD
+ta-ap-ru-si	V
+<EoL>
+GEME₂-ki	N
+u₂-ul	MOD
+ta-qi₂-pi₂-i	V
+<EoL>
+ṣa-ab-ta-ti-ma	V
+<EoL>
+ma-ha-ar	N
+be-li-ki	N
+<EoL>
+u₃	CNJ
+be-el-ti-ki	N
+<EoL>
+tu-na-za-mi-in-ni	V
+<EoL>
+ad-ma-ti	PRP
+ad-ma-ti	AV
+u₂-mi-im	N
+<EoL>
+ta-zi-im-ta-ki	N
+<EoL>
+i-ta-ak-la-an-ni	V
+<EoL>
+šum-ma	MOD
+i-na	PRP
+qa₂-ti-ia	N
+<EoL>
+u₃	CNJ
+i-na	PRP
+E₂-ti-ia	N
+<EoL>
+i-ba-aš-ši-ma	V
+<EoL>
+lu	MOD
+a-pa-qi₂-id-ki	V
+<EoL>
+be-el-ki	N
+u₃	CNJ
+be-le-et-ki	N
+<EoL>
+a-ap-pa-al	V
+<EoL>
+x	nan
+x	nan
+x	nan
+x-ti	nan
+a-ze-er-ki	V
+<EoL>
+GEME₂	N
+lu	CNJ
+ka-ia-na-at-ma	V
+<EoL>
+bi-il-tum	N
+lu	MOD
+ka-ia-na-at	V
+<EoL>
+{d}a-a-ti-la-ti	PN
+<EoL>
+ma-ar-ṣa-at-ma	V
+<EoL>
+bi-il-tam	N
+u₂-ul	MOD
+i-ša-qi₂	V
+<EoL>
+aš-šum	PRP
+{diš}ka-ni-ia	PN
+<EoL>
+ša	DET
+ta-aš-pu-ri-im	V
+<EoL>
+um-ma	PRP
+at-ti-ma	IP
+<EoL>
+ki-ma	PRP
+1(u)	NU
+MA.NA	N
+KU₃.BABBAR	N
+<EoL>
+ša	DET
+a-bu-ša	N
+la	MOD
+i-du	V
+<EoL>
+a-di	PRP
+bu-ši-ki	N
+it-ta-x-x-x-al	nan
+<EoL><EoT>
+a-na	PRP
+li-pi₂-it-{d}TIŠPAK	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+mu-na-wi-ir-tum-ma	PN
+<EoL>
+be-li₂	N
+u₃	CNJ
+be-el-ti	N
+<EoL>
+li-ba-li-ṭu₂-ka	V
+<EoL>
+ki-ma	PRP
+ba-ri-a-ku	V
+<EoL>
+u₂-ul	MOD
+aq-bi-ku-um	V
+<EoL>
+um-ma	PRP
+at-ta-a-ma	IP
+<EoL>
+ŠE-am	N
+u₃	CNJ
+ŠE.GEŠ.I₃	N
+<EoL>
+u₂-ša-ba-la-ki-im	V
+<EoL>
+a-nu-um-ma	AV
+ŠE-am	N
+u₃	CNJ
+ŠE.GEŠ.I₃	N
+<EoL>
+šu-bi-lam	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+{d}SUEN-re-me-ni	PN
+<EoL>
+u₃	CNJ
+{d}TIŠPAK-ga-mil	PN
+<EoL>
+um-ma	PRP
+mu-na-wi-ir-tum-ma	PN
+<EoL>
+be-li₂	N
+u₃	CNJ
+be-el-ti	N
+<EoL>
+li-ba-li-ṭu₂-ku-nu-ti	V
+<EoL>
+a-di-na-ni-ku-nu	PRP
+a-di-na-ni-ku-nu	N
+<EoL>
+ba-ri-a-ku	V
+<EoL>
+1(aš)	NU
+ŠE.GUR.TA.AM₃	N
+ŠE.GUR.TA.AM₃	N
+<EoL>
+šu-bi-la-nim-ma	V
+<EoL>
+lu-uk-ru-ba-ku-nu-ši-im	V
+<EoL><EoT>
+a-na	PRP
+u-bar-rum	PN
+u₃	CNJ
+{d}MARDUK-mu-ba-li₂-iṭ	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-i-qi₂-ša-am-ma	PN
+<EoL>
+ki-ma	PRP
+be-li₂-ia-tum	PN
+be-el	N
+pi₂-ha-ti-ia	N
+<EoL>
+la	MOD
+e-eb-bu	V
+ša-at-ti-ša-am-ma	AV
+<EoL>
+i-na	PRP
+e-bu-ri-im	N
+ŠE-um	N
+ka-ši-it-tum	AJ
+<EoL>
+u₃	CNJ
+i-ni-a-at	N
+GU₄.HI.A-ia	N
+ša-ar-qa₂-tum	AJ
+<EoL>
+i-na	PRP
+qa₂-ti-šu	N
+u₃	CNJ
+i-na	PRP
+qa₂-ti	N
+DUMU.MEŠ-šu	N
+i-ka-aš-ša-du	V
+<EoL>
+a-na	PRP
+ma-ah-ri-ia	N
+u₂-ub-lu-ni-iš-šu-ma	V
+<EoL>
+i-na	PRP
+ṣa-ba-tim-ma	N
+u₂-uš-šu-ri-im	N
+<EoL>
+a-wa-tim	N
+a-na	PRP
+ma-al-ta-ki-im	N
+u₂-ut-te-er	V
+<EoL>
+i-na-an-na	AV
+i-na	PRP
+qa₂-ti	N
+be-li₂-ia-tum	PN
+šu-a-ti	IP
+<EoL>
+la	MOD
+ba-re-e	AJ
+i-ni-a-at	N
+GU₄.HI.A-ia	N
+ka-ši-it-tum	AJ
+<EoL>
+i-na	PRP
+qa₂-ti-šu	N
+ik-ka-aš-da-ma	V
+<EoL>
+ar-ka-tum	N
+ši-i	DET
+u₂-ul	MOD
+ip-pa-ri-is-ma	V
+<EoL>
+{diš}be-li₂-ia-tum	PN
+šu-u₂	DET
+a-di	PRP
+ši-ni-šu	AV
+<EoL>
+a-na	PRP
+ma-ah-ri-ia	N
+il-li-kam-ma	V
+<EoL>
+1(aš)	NU
+1(aš)	N
+3(barig)	NU
+3(barig)	N
+ŠE.GUR	N
+ŠE.GUR	N
+a-na	PRP
+i-di	N
+ERIM.HUN.GA₂	N
+LU₂.ENGAR	N
+ŠA₃.GU₄	N
+<EoL>
+in-na-di-in-šum	V
+<EoL>
+ar-ki-šu-ma	PRP
+1(diš)	NU
+1/2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+a-na	PRP
+i-di	N
+ERIM.HUN.GA₂	N
+<EoL>
+ša	DET
+A.ŠA₃	N
+kar-{d}UTU{ki}	SN
+{diš}IR₃-{d}be-le-tum	PN
+<EoL>
+a-na	PRP
+ma-ah-ri-ku-nu	N
+u₂-ša-bi-lam	V
+ki-ma	PRP
+ze₂-eh-pi₂	N
+ta-am-ma-ra	V
+<EoL>
+{diš}{d}MARDUK-mu-ba-li₂-iṭ	PN
+DUMU	N
+E₂.DUB.BA.A	N
+E₂.DUB.BA.A	N
+<EoL>
+a-di	PRP
+ZIMBIR{ki}	SN
+li-il-li-ik	V
+<EoL>
+ar-ka-at	N
+i-ni-a-at	N
+GU₄.HI.A-ia	N
+<EoL>
+ša-ar-qa₃-tum	AJ
+li-ip-ru-us₂	V
+<EoL>
+re-eš	N
+ERIM.HUN.GA₂.MEŠ	N
+ka-si-mu	N
+ša	DET
+i-na	PRP
+A.ŠA₃-ia	N
+<EoL>
+ik-su-mu	V
+li-iš-ši-ma	V
+<EoL>
+u₃	CNJ
+ṭe₄-em	N
+E₂	N
+GA₂.GI.A	N
+<EoL>
+ša	DET
+{mi₂}la-ma-sa₃-ni	PN
+LUKUR	N
+{d}UTU	DN
+a-ha-ti	N
+<EoL>
+iš-pu-ra-am	V
+li-ip-ru-us₂-ma	V
+<EoL>
+ṭe₄-em-šu	N
+a-na	PRP
+ma-ah-ri-ia	N
+li-te-er-ra-am	V
+<EoL><EoT>
+a-na	PRP
+a-wi-il-{d}IŠKUR	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+DUMU.MUNUS-e-le-e-ma	PN
+<EoL>
+be-li₂	N
+u₃	CNJ
+be-el-ti	N
+aš-šu-mi-ia	PRP
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+hu-za-la-tum	PN
+LUKUR	N
+{d}UTU	DN
+<EoL>
+DUMU.MUNUS	N
+su-mu-ra-ah	PN
+<EoL>
+ša	DET
+u₂-la-mi-du-ka	V
+<EoL>
+am-mi-ni	QP
+at-wa-ša	N
+<EoL>
+la	MOD
+ta-ag-mu-ur-ma	V
+<EoL>
+i-da-na-ba-ab	V
+<EoL>
+a-nu-um-ma	AV
+aš-tap-ra-ku-um	V
+<EoL>
+AGA.US₂	N
+šu-pu-ur-ma	V
+<EoL>
+{diš}ib-ni-{d}MAR.TU	PN
+<EoL>
+UGULA	N
+A.GAR₃	N
+li-it-ru-ni-ku-ma	V
+<EoL>
+at-wa-ša	N
+gu-mu-ur	V
+<EoL>
+ni-di	N
+a-hi-im	N
+<EoL>
+la	MOD
+ta-ra-aš-ši	V
+<EoL>
+a-na	PRP
+a-wi-il-{d}IŠKUR	PN
+<EoL>
+a-hi-ia	N
+<EoL><EoT>
+a-na	PRP
+li-pi₂-it-{d}IŠKUR	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+el-me-šum-ma	PN
+<EoL>
+ši-ta-at	N
+KU₃.BABBAR	N
+ŠAM₃	N
+ša	DET
+qa₂-ti-ka	N
+<EoL>
+ka-ni-ik	N
+1(geš₂).3(diš)	NU
+1(geš₂).3(diš)	CNJ
+1(geš₂).3(diš)	NU
+GU₄	N
+MU.3(aš)	AJ
+<EoL>
+ša	DET
+DINGIR-ki-nam-i-de	PN
+<EoL>
+u₃	CNJ
+5(diš)	NU
+GU₄	N
+MU.3(aš)	AJ
+<EoL>
+ša	DET
+{d}SUEN-ib-ni	PN
+DUMU	N
+ITI-na-wi-ir	PN
+<EoL>
+ša	DET
+a-na	PRP
+ŠAM₃	N
+KU₃.BABBAR	N
+in-na-ad-nu-ni-ik-kum-ma	V
+<EoL>
+a-na	PRP
+na-ṣa-ri-im	N
+tu-te-er-ru-šu-nu-ši-im	V
+<EoL>
+li-qi₂-a-am-ma	V
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+al-kam	V
+<EoL>
+la	MOD
+tu-la-ap-pa-tam	V
+<EoL>
+ar-hi-iš	AV
+<EoL>
+si-in-qa₂-am	V
+<EoL><EoT>
+a-na	PRP
+{d}MARDUK-mu-ša-lim	PN
+<EoL>
+{diš}{d}MARDUK-la-ma-sa₃-šu	PN
+<EoL>
+u₃	CNJ
+{d}SUEN-be-el-ap-lim	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+am-mi-ṣa-du-qa₂-ma	RN
+<EoL>
+ki-ma	PRP
+ERIM	N
+sa-am-ha-ru-u₂	EN
+ERIM-um	N
+ma-du-um-ma	AJ
+<EoL>
+a-na	PRP
+AB₂.GU₄.HI.A	N
+U₈.UDU.HI.A	N
+<EoL>
+u₃	CNJ
+ERIM	N
+wa-ṣi-it	N
+ZIMBIR{ki}-ia-ah-ru-rum	SN
+<EoL>
+ša-ha-ṭi-im	N
+<EoL>
+a-na	PRP
+li-ib-bu	N
+ma-tim	N
+i-bi-ru-nim	V
+<EoL>
+{lu₂}tu-ur-gu-ma-an-num	N
+<EoL>
+ša	DET
+iš-tu	PRP
+E₂.HI.A	N
+ERIM	N
+ka-aš-ši-i	EN
+il-li-kam	V
+<EoL>
+iq-bi-a-am	V
+<EoL>
+a-wa-tum	N
+ši-i	IP
+ta-ki-it-tum	N
+<EoL>
+lu	MOD
+ti-di-a	V
+aš-tap-ra-ak-ku-nu-ši-im	V
+<EoL>
+ABUL	N
+a-di	PRP
+{d}UTU	N
+la	MOD
+iš-qa₂-a-am	V
+<EoL>
+ša	DET
+i-na	PRP
+er-ṣe-et	N
+ZIMBIR{ki}-ia-ah-ru-rum	SN
+<EoL>
+u₃	CNJ
+GU₂	N
+{id₂}BURANUN{ki}	WN
+<EoL>
+ar-hi-iš	AV
+<EoL>
+a-na	PRP
+li-ib-bu	N
+ma-tim	N
+li-is-su-hu-nim	V
+<EoL>
+u₃	CNJ
+MA₂.HI.A	N
+ša	DET
+i-na	PRP
+x	nan
+<EoL>
+u₃	CNJ
+GU₂	N
+{id₂}BURANUN{ki}	WN
+x	nan
+<EoL>
+a-na	PRP
+KAR	N
+ZIMBIR{ki}	SN
+x	nan
+x	nan
+<EoL>
+li-im-mi-du-ši-na-ti	V
+<EoL>
+ERIM	N
+{lu₂}KUR₂	N
+la	MOD
+i-ka-aš-ša-ad	V
+<EoL>
+lu	MOD
+nu-uq-qu₂-da-tu-nu-ma	V
+<EoL>
+a-na	PRP
+pi₂-ha-at	N
+a-lim	N
+na-ṣa-ri-im	N
+<EoL>
+la	MOD
+te-eg-gi-a	V
+<EoL><EoT>
+a-na	PRP
+ni-id-na-at-{d}SUEN	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}MARDUK-la-ma-sa₃-šu-ma	PN
+<EoL>
+aš-šum	PRP
+be-le-su₂-nu	PN
+<EoL>
+DUMU.MUNUS	N
+ki-za-tim	PN
+<EoL>
+u₃	CNJ
+hu-na-ba-tum	PN
+<EoL>
+DUMU.MUNUS	N
+ha-i-im	PN
+aš-pu-ra-kum	V
+<EoL>
+um-ma	PRP
+ši-i-na-ma	IP
+<EoL>
+iš-tu	PRP
+MU.2(diš).KAM	NU
+MU.2(diš).KAM	N
+<EoL>
+A.ŠA₃-lam	N
+<EoL>
+tu-ur-ra-an-ni-ši-im	V
+<EoL>
+a-mi-ni	QP
+ba-ri-a-nu	V
+<EoL>
+a-na	PRP
+ib-ni-{d}MAR.TU	PN
+<EoL>
+u₃	CNJ
+DUMU-er-ṣe-tim	PN
+<EoL>
+aš-pu-ur-ma	V
+<EoL>
+um-ma	PRP
+šu-nu-ma	IP
+<EoL>
+it-ti	PRP
+ša-pi₂-ir	N
+ID₂-ma	N
+<EoL>
+a-na	PRP
+ka-šum	IP
+ṭa₃-ar-da	V
+<EoL>
+ZALAG₂-{d}UTU	PN
+A.ŠA₃-ši-na	N
+<EoL>
+a-pu-ul	V
+<EoL>
+ZALAG₂-{d}UTU	PN
+a-na	PRP
+šar-ri-im	N
+<EoL>
+la	MOD
+i-za-ka-ra-ka	V
+<EoL>
+li-ik-ru-ba-ni-kum	V
+<EoL><EoT>
+a-na	PRP
+nu-ur₂-{d}sag-ku₅	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+e-te-lum	PN
+ra-im-ka-ma	N
+<EoL>
+{d}UTU	DN
+li-ba-al-li-iṭ-ka	V
+<EoL>
+{diš}pu-hu-ru-um	PN
+<EoL>
+ki-am	AV
+iq-bi-im	V
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+2(aš)	NU
+GUR	N
+ŠE	N
+<EoL>
+a-na	PRP
+nu-ur₂-{d}sag-ku₅	PN
+<EoL>
+ad-di-in	V
+<EoL>
+še-am	N
+ša-tu	IP
+a-na	PRP
+a-ha-ti-ka	N
+<EoL>
+{diš}{d}a-a-um-mi-a-li-ti	PN
+<EoL>
+li-iz-bi-il	V
+<EoL>
+ki-am	AV
+aš-pu-ra-kum	V
+<EoL>
+um-ma	PRP
+a-na-ku-u₂-ma	IP
+<EoL>
+še-am	N
+a-ša-ri-iš	AV
+i-di-in-ma	V
+<EoL>
+an-ni-ki-a-am	AV
+<EoL>
+a-na-ku	IP
+lu-di-in	V
+<EoL>
+am-mi-ni	QP
+la	MOD
+ta-ad-di-in	V
+<EoL>
+li-ib-bi	N
+tu-ul-te-mi-in	V
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-ia-tum	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-i-din-nam-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+a-nu-um-ma	AV
+ṭup-pi₂	N
+<EoL>
+a-na	PRP
+DINGIR-šu-ba-ni	PN
+uš-ta-bi-lam	V
+<EoL>
+at-ta	IP
+u₃	CNJ
+DINGIR-šu-ba-ni	PN
+<EoL>
+{diš}na-bi-{d}SUEN	PN
+$AŠ₂-ra-am	nan
+<EoL>
+x	nan
+x	nan
+IR₃	N
+a-na	PRP
+GA	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+x-di-nu-šu	nan
+<EoL>
+li-qe₂-e-ma	V
+a-na	PRP
+ib-ni-{d}MARDUK	PN
+<EoL>
+i-di-in-šu	V
+<EoL>
+pa-ni-ka	N
+ma-di-iš	AV
+<EoL>
+du-ni-in-šu	V
+<EoL>
+a-na	PRP
+ša	DET
+aš-pu-ra-ak-ku	V
+<EoL>
+ni-di	N
+a-hi	N
+la	MOD
+ta-ra-aš-ši	V
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-i-qi₂-ša-am	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}MARDUK-la-ma-sa₃-šu-ma	PN
+<EoL>
+{diš}e-li-e-re-sa	PN
+<EoL>
+DUMU.MUNUS	N
+{d}SUEN-a-bu-šu	PN
+<EoL>
+ki-a-am	AV
+u₂-lam-mi-da-an-ni	V
+<EoL>
+um-ma	PRP
+ši-i-ma	IP
+<EoL>
+A.ŠA₃	N
+i-ri-iš-ma	V
+<EoL>
+GU₂.UN	N
+A.ŠA₃	N
+<EoL>
+it-ba-al-li	V
+<EoL>
+a-nu-um-ma	AV
+aš-tap-ra-ku	V
+<EoL>
+ṭup-pi₂	N
+ki-ma	PRP
+a-ma-ri	N
+<EoL>
+al-kam-ma	V
+LUKUR	N
+{d}UTU	DN
+<EoL>
+a-pu-ul-li	V
+<EoL>
+u₂-ul	MOD
+ta-al-li-kam-ma	V
+<EoL>
+na-aq	N
+me-e	N
+<EoL>
+i-na	PRP
+bi-ti-ka	N
+<EoL>
+u₂-ul	MOD
+i-zi-bu-ni	V
+<EoL><EoT>
+a-na	PRP
+a-wi-lim	N
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂-šu	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+DINGIR-šu-ba-ni-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš-ka	N
+a-na	PRP
+da-mi-iq-tim	AJ
+<EoL>
+li-ki-il	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ka	N
+aš-pu-ra-am	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+lu	MOD
+da-ri	V
+<EoL>
+i-nu-ma	SBJ
+uš-tu	PRP
+ZIMBIR{ki}	SN
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+a-li-kam	V
+<EoL>
+it-ti	PRP
+a-wi-lim	N
+u₂-tul₂-IŠTAR	PN
+an-na-me-er-ma	V
+<EoL>
+x	nan
+x	nan
+x	nan
+ia	nan
+a-wi-lim	N
+ri-iš-{d}ZA.MA₃.MA₃	PN
+<EoL>
+u₂-ki-il-ma	V
+<EoL>
+aš-šum	PRP
+e-tel-pi₄-{d}na-bi-um	PN
+SANGA	N
+{d}a-a	DN
+<EoL>
+ki-a-am	AV
+iq-bi	V
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+pa-ni	N
+pi-ku-tim	nan
+ša	DET
+{d}SUEN-be-el-ap-lim	PN
+<EoL>
+e-tel-pi₄-{d}na-bi-um	PN
+SANGA	N
+{d}a-a	DN
+<EoL>
+ṣa-bi-it	V
+<EoL>
+u₃	CNJ
+a-wi-lim	N
+u₂-tul₂-IŠTAR	PN
+ki-a-am	AV
+iq-bi	V
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+iš-te-en	N
+ki-in-nam	V
+ša-ni-a-am	N
+ki-in-nam	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+ša-aš-ši-im	NU
+ki-in-ni	V
+<EoL>
+x	nan
+x	nan
+bi	nan
+e	nan
+az-za-az	V
+<EoL>
+an-ni-tam	DP
+iq-bi	V
+<EoL>
+ib-ni-{d}MARDUK	PN
+DUMU	N
+E₂.DUB.BA.A	N
+E₂.DUB.BA.A	N
+<EoL>
+i-na	PRP
+qi₂-bi-it	N
+a-wi-lim	N
+u₂-tul₂-IŠTAR	PN
+<EoL>
+a-na	PRP
+ma-har	N
+a-wi-lim	N
+{d}SUEN-im-gur-an-ni	PN
+<EoL>
+il-li-kam-ma	V
+<EoL>
+a-na	PRP
+x	nan
+x	nan
+{d}SUEN-be-el-ap-lim	PN
+šu-a-ti	IP
+<EoL>
+u₃	CNJ
+x	nan
+x	nan
+x	nan
+li-is-su-ni-ik-ku-ma	V
+<EoL>
+ša-ap-ti-šu-nu	N
+ši-me	V
+<EoL>
+u₃	CNJ
+ṭe₄-ma-am	N
+ga-am-ra-am	AJ
+šu-up-ra-am	V
+<EoL>
+u₃	CNJ
+a-wi-lim	N
+u₂-tul₂-IŠTAR	PN
+ki-a-am	AV
+iš-pu-ra-am	V
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+da-ba-ba-am	N
+ma-la	REL
+li-ib-ba-ka	N
+<EoL>
+na-šu	V
+gu-um-me-er-ma	V
+du-bu-ub	V
+<EoL>
+a-na	PRP
+ma-har	N
+{d}SUEN(|EN.ZU|)-im-gur-an-ni	PN
+is-su-na-ti-ma	V
+<EoL>
+da-ba-ba-am	N
+ug-da-am-me-er-ma	V
+<EoL>
+ad-da-bu-ub	V
+u₃	CNJ
+ṭe₄-ma-am	N
+ga-am-ra-am	AJ
+<EoL>
+a-na	PRP
+ma-har	N
+a-wi-lim	N
+u₂-tul₂-IŠTAR	PN
+iš-ta-ap-ra-am	V
+<EoL>
+a-na	PRP
+ib-ni-{d}MARDUK	PN
+DUMU	N
+E₂.DUB.BA.A	N
+E₂.DUB.BA.A	N
+<EoL>
+ki-a-am	AV
+iq-bi	V
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+A.ŠA₃	N
+E₂	N
+u₃	CNJ
+GU₄.HI.A	N
+<EoL>
+a-na	PRP
+DINGIR-šu-ba-ni-ma	PN
+<EoL>
+pa-aq-du	V
+<EoL><EoT>
+a-na	PRP
+a-wi-lim	N
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂-šu	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ma-an-nu-um-ba-lu-uš-ša	PN
+<EoL>
+u₃	CNJ
+{d}ŠUŠINAK-še-mi-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+aš-šu-mi-ni	PRP
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-a-ta	V
+lu	MOD
+ba-al-ṭa-a-ta	V
+<EoL>
+lu	MOD
+da-ri-a-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš-ka	N
+a-na	PRP
+da-mi-iq-tim	AJ
+li-ki-il	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ka	N
+ni-iš-pu-ra-am	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+lu	MOD
+da-ri	V
+<EoL>
+u₂-ul	MOD
+ah-hu-ka-a	N
+ni-i-nu	IP
+<EoL>
+bi-ta-tu-ni	N
+u₂-ul	MOD
+bi-it-ka-a	N
+<EoL>
+a-ah-ka	N
+i-na	PRP
+mu-uh₂-hi-ni	N
+<EoL>
+a-na	PRP
+mi-nim	QP
+ta-na-ad-di	V
+<EoL>
+a-nu-um-ma	AV
+e-ri-x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+ṭup-pa-ni	N
+nu-uš-ta-bi-la-ak-kum	V
+<EoL>
+ŠE.GIŠ.I₃	N
+ša	DET
+1(diš)	NU
+MA.NA	N
+ša	DET
+2(diš)	NU
+MA.NA	N
+<EoL>
+ki-ma	PRP
+i-ba-aš-šu-u₂	V
+<EoL>
+u₃	CNJ
+1(diš)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+ki-ma	PRP
+ta-aq-bi-a-an-ni-a-ši-im	V
+<EoL>
+šu-bi-la-an-ni-a-ši-im-ma	V
+<EoL>
+KU₃.BABBAR	N
+2(diš)	NU
+MA.NA	N
+3(diš)	NU
+MA.NA	N
+<EoL>
+ma-la	REL
+ta-ha-aš-še-hu	V
+<EoL>
+a-na	PRP
+ša	DET
+ṭup-pa-ka	N
+tu-ša-ab-ba-la-an-ni-a-ši-im	V
+<EoL>
+i	MOD
+ni-id-di-in-ma	V
+<EoL>
+li-ib-la-ak-kum	V
+<EoL>
+ŠUKU	N
+u₂-ul	MOD
+ni-šu	V
+<EoL>
+še-um	N
+an-nu-u₂-um	DP
+ša	DET
+ŠE.GIŠ.I₃	N
+an-nu-tum	DP
+<EoL>
+li-ra-hu-ni-a-ši-im	V
+<EoL><EoT>
+a-na	PRP
+SANGA	N
+{d}UTU	DN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ni-id-na-at-{d}SUEN-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+LUKUR	N
+{d}UTU	DN
+MUNUS	N
+kar-{d}UTU{ki}	SN
+<EoL>
+ša	DET
+u₂-lam-mi-du-ka-a-ma	V
+<EoL>
+ta-aš-pur-ra-am	V
+<EoL>
+ki-ma	PRP
+ti-du-u₂	V
+e-bu-rum	N
+<EoL>
+i-na	PRP
+ki-ma	PRP
+i-na-an-na	AV
+<EoL>
+ma-an-nu-um	QP
+ma-an-na-am	XP
+<EoL>
+i-pa-al	V
+<EoL>
+aš-šum	PRP
+2(aš)	NU
+IKU	N
+A.ŠA₃	N
+bil-ti	N
+<EoL>
+a-na	PRP
+ra-bi-a-an	N
+kar-{d}UTU{ki}	SN
+<EoL>
+aq-bi-i-ma	V
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+A.ŠA₃-um	N
+šu-u₂	IP
+a-na	PRP
+ERIM	N
+GI.IL₂.MEŠ	N
+<EoL>
+es-ha-am	V
+<EoL>
+i-na-an-na	AV
+ša	DET
+ta-aš-tap-ra-am	V
+<EoL>
+a-na	PRP
+ma-aš-ka-nim	N
+<EoL>
+ma-aṣ-ṣa-ra-am	N
+li-iš-ku-un	V
+<EoL>
+iš-tu	PRP
+i-na-an-na	AV
+U₄.1(u).KAM	NU
+U₄.1(u).KAM	N
+<EoL>
+uṭ-ṭe₄-tim	N
+ki-ma	PRP
+e-li-im	N
+<EoL>
+a-na-ku	IP
+u₃	CNJ
+at-ta	IP
+<EoL>
+nu-uš-ta-at-ta-a-ma	V
+<EoL>
+ra-bi-a-an	N
+kar-{d}UTU{ki}	SN
+<EoL>
+i-ta-ar-ru-nim	V
+<EoL>
+ka-ni-ik	N
+be-li₂-ia	N
+a-am-ma-ar-ma	V
+<EoL>
+šum-ma	MOD
+A.ŠA₃-um	N
+šu-u₂	IP
+i-na	PRP
+ra-ZA-BI-im	nan
+<EoL>
+šu-uk-nu-uk	V
+A.ŠA₃-ša	N
+i-ta-ar-ši-im	V
+<EoL><EoT>
+a-na	PRP
+x-x-x-tum	nan
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-ha-zi-ir-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ki	V
+<EoL>
+ša-al-ma-ku	V
+la	MOD
+ta-na-ku-di	V
+<EoL>
+a-na	PRP
+ma-an-ki-si{ki}	SN
+ERIM	N
+ak-šu-ud	V
+<EoL>
+x	nan
+ŠE.GUR	N
+ŠE.GUR	N
+i-na	PRP
+E₂	N
+ku-nu-ki-ia	N
+<EoL>
+pi₂-ti-e-ma	V
+a-na	PRP
+i-ni-a-tim	N
+id-ni	V
+<EoL>
+šum-ma	MOD
+še-im	N
+pe₂-ti-a-am	V
+<EoL>
+x	nan
+x	nan
+x	nan
+ti-di	V
+1(diš)	NU
+ṣu₂-ba-tam	N
+id-ni-ma	V
+<EoL>
+šum-ma	MOD
+še-am	N
+šum-ma	MOD
+KU₃.BABBAR	N
+<EoL>
+ša-mi-ma	V
+a-na	PRP
+i-ni-a-tim	N
+id-ni	V
+<EoL>
+{urudu}qu₂-ud-da-tim	N
+u₃	CNJ
+{urudu}pa-aš	nan
+<EoL>
+pa	nan
+DI	nan
+ma	nan
+<EoL>
+{lu₂}HUN.GA₂	N
+a-na	PRP
+ITI.1(diš).KAM.MA	NU
+ITI.1(diš).KAM.MA	N
+<EoL>
+ag-ri-ma	V
+{gi}qa₂-nu-um	N
+ma-li	REL
+i-li-a-am	V
+<EoL>
+lu	MOD
+ka-si-im	V
+<EoL>
+TUG₂	N
+ar-ru-ra-am	N
+ki-ma	PRP
+ta-ap-ta-ar-si	V
+<EoL>
+I₃.GEŠ	N
+u₃	CNJ
+šu-a-ti	IP
+i-di-ni-ma	V
+<EoL>
+x	nan
+pu-ur-šu-mi-ia	N
+ša	DET
+IRI	N
+GIBIL	AJ
+<EoL>
+x	nan
+x	nan
+hu	nan
+ni	nan
+KI	nan
+<EoL>
+x	nan
+si	nan
+ša	DET
+aš-šu-ra-ak-ki	V
+<EoL>
+x	nan
+x	nan
+a-na	PRP
+pa-ni-ia	N
+ep-ši	V
+<EoL>
+a-na	PRP
+a-gi-ir-tim	N
+a-ga-ri-im	N
+<EoL>
+la	MOD
+tu-ma-qi	V
+x	nan
+x	nan
+x	nan
+SIKI.HI.A	N
+<EoL>
+i-id-ni	V
+2(aš)	NU
+GUR	N
+DUH	N
+<EoL>
+a-na	PRP
+še-im	N
+ša-mi-ma	V
+<EoL>
+a-na	PRP
+ṣe-er	N
+UDU	N
+si₂-ir-ki	V
+<EoL>
+x	nan
+x	nan
+i-na	PRP
+mu-hu-ri-im	N
+i-za-zu	V
+<EoL>
+x	nan
+x	nan
+x	nan
+TU	nan
+KU	nan
+ba	nan
+tim	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+li-ba-x	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+li-ku-lu	V
+<EoL><EoT>
+a-na	PRP
+UGULA	N
+ha-ba-ti	N
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-na-di-in-šu-mi-im-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+ki-ma	PRP
+du-un-ni	N
+ha-ab-tu	V
+<EoL>
+te-eš-mu-u₂-ma	V
+ta-ak-ku-du-ma	V
+<EoL>
+ta-aš-pur-ra-am	V
+um-ma	PRP
+at-ta-ma	IP
+<EoL>
+šu-up-ra-am-ma	V
+hu-bu-ut-ka	N
+li-ša-li-mu-ka	V
+<EoL>
+ha-ba-ti-ia	N
+aṣ-ba-at-ma	V
+<EoL>
+a-na	PRP
+i-bi-{d}SUEN	PN
+DUMU	N
+SIG-an-nu-ni-tum	PN
+<EoL>
+u₃	CNJ
+GI₆-li₂-ia	PN
+IR₃	N
+ša	DET
+nu-ra-tum	PN
+<EoL>
+ap-qi₂-id	V
+um-ma	PRP
+šu-nu-ma	IP
+<EoL>
+hi-ṭi₃-it	N
+du-un-nim	N
+<EoL>
+u₃	CNJ
+hu-ub-ti-ka	N
+<EoL>
+ni-pa-al-ka	V
+x	nan
+x	nan
+x	nan
+x	nan
+BU	nan
+x	nan
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+x	nan
+x	nan
+x	nan
+<EoL>
+u₂-ul	MOD
+x	nan
+x	nan
+<EoL>
+IGI	N
+UGULA	N
+ŠU.I	N
+a-na	PRP
+ša-ka-nim	N
+a-za-az	V
+<EoL>
+ša	DET
+ta-aš-tap-ra-am	V
+5(diš)	NU
+ṣu₂-ha-ru-ia	N
+<EoL>
+ša	DET
+i-na	PRP
+du-un-nim	N
+wa-aš-bu	V
+<EoL>
+5(diš)	NU
+ṣu₂-ha-ra-tu-ia	N
+<EoL>
+a-na	PRP
+i-ṣi₂	N
+na-ši-e-em	AJ
+il-li-ka-ma	V
+<EoL>
+ṣu₂-ba-tu-šu-nu	N
+{tug₂}bar-ši-šu-nu	N
+<EoL>
+4(diš)	NU
+ma-DA-tum	nan
+1(diš)	NU
+{giš}MAR{urud}	N
+<EoL>
+1(diš)	NU
+ha-ṣi₂-nu	N
+2(diš)	NU
+MA.NA	N
+SIG₂	N
+<EoL>
+EŠ₂.GAR₃	N
+GEME₂	N
+i-na	PRP
+ma-aš-li-im	N
+<EoL>
+4(ban₂)	NU
+4(ban₂)	N
+ZID₂.DA	N
+1(diš)	NU
+ŠE.ŠUKU	N
+ṣu₂-ha	N
+<EoL>
+6(diš)	NU
+UDU.NITA₂	N
+<EoL>
+5(diš)	NU
+MA.NA	N
+šar-tum	N
+an-nu-um	DP
+ša	DET
+i-na	PRP
+du-un-nim	N
+il-qu₂-u₂	V
+<EoL>
+aš-tap-ra-kum	V
+ki-ma	PRP
+ra-bi-tim	N
+E₂.GAL	N
+la	MOD
+a-ka	V
+<EoL><EoT>
+a-na	PRP
+UGULA	N
+DAM.GAR₃	N
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂-šu	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}UTU-na-ṣi-ir-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+lu	MOD
+da-ri-a-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš	N
+da-mi-iq-ti-ka	N
+li-ki-il	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+lu	MOD
+da-ri	V
+<EoL>
+ki-ma	PRP
+ti-du-u₂	V
+DUMU.MEŠ	N
+{d}SUEN-ha-zi-ir	PN
+<EoL>
+KU₃.BABBAR	N
+a-na	PRP
+ŠAM₃	N
+SAG.IR₃.MEŠ	N
+i-na	PRP
+E₂.GAL	N
+ma-ah-ru	V
+<EoL>
+SAG.IR₃.MEŠ	N
+pu-uh-šu-nu	N
+E₂.GAL	N
+a-pu-ul	V
+<EoL>
+KU₃.GI	N
+EŠ₂.HI.A	nan
+ne-me-et-ta-ku-nu	N
+<EoL>
+a-na-ku-ma	IP
+E₂.GAL	N
+a-pu-ul	V
+<EoL>
+KU₃.BABBAR	N
+il-ki-šu-nu	N
+u₃	CNJ
+KU₃.BABBAR	N
+a-hi-a-ti-šu-nu	N
+<EoL>
+a-na-ku-ma	IP
+a-ša-qa₂-al	V
+<EoL>
+A.ŠA₃	N
+DUMU.MEŠ	N
+{d}SUEN(|EN.ZU|)-ha-zi-ir	PN
+x	nan
+<EoL>
+il-qu₂-nim-ma	V
+GU₄.APIN.HI.A	N
+GU₄.APIN.HI.A	N
+uš-ta-ad-du-u₂	V
+<EoL>
+i-na-an-na	AV
+um-ma-mi	PRP
+ṣu₂-ha-ru-u₂	N
+ša	DET
+UGULA	N
+DAM.GAR₃	N
+<EoL>
+ip-ri-ku-ma	V
+A.ŠA₃	N
+uš-ta-ad-du-u₂	V
+<EoL>
+A.ŠA₃	N
+DUMU.MEŠ	N
+{d}SUEN-ha-zi-ir	PN
+ia-u₂-um	PP
+<EoL>
+a-na-ku	IP
+aš-ta-a-am	V
+<EoL>
+qi₂-bi-i-ma	V
+GU₄.HI.A-ia	N
+la	MOD
+u₂-ša-ad-du-u₂	V
+<EoL>
+u₃	CNJ
+šum-ma	MOD
+GU₄.HI.A-ka	N
+ši-ip-ra-am	N
+<EoL>
+i-pu-šu	V
+a-na	PRP
+ṣu₂-ha-ri-ka	N
+qi₂-bi-i-ma	V
+<EoL>
+ši-ip-ra-am	N
+ki-ma	PRP
+ši-ip-ri-im	N
+<EoL>
+li-te-er-ru	V
+<EoL><EoT>
+ki-ma	PRP
+te-eš-te-ni-im-mu-u₂	V
+<EoL>
+iš-tu	PRP
+ITU.2(diš).KAM	NU
+ITU.2(diš).KAM	N
+KU₃.BABBAR	N
+ŠAM₃	N
+ša	DET
+qa₂-ti	N
+DAM.GAR₃.MEŠ	N
+<EoL>
+uš-ta-ad-da-an	V
+<EoL>
+u₃	CNJ
+i-na	PRP
+pa-ni-i-tim	AV
+<EoL>
+aš-šum	PRP
+KU₃.BABBAR-ka	N
+ṣa-ma-di-im-ma	N
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+a-la-ki-im	N
+<EoL>
+aš-pu-ra-ak-kum	V
+<EoL>
+i-na-an-na	AV
+ri-ša-tum	PN
+NA.AŠ.BAR	N
+<EoL>
+ṭup-pi₂	N
+a-wi-lim	N
+a-na	PRP
+DINGIR-šu-ib-ni-šu	PN
+UGULA	N
+DAM.GAR₃	N
+<EoL>
+aš-šum	PRP
+KU₃.BABBAR	N
+ŠAM₃	N
+ša	DET
+qa₂-ti-šu	N
+<EoL>
+le-qe₂-e-em-ma	V
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+a-la-ki-im	N
+<EoL>
+il-qi₂-a-am-ma	V
+<EoL>
+a-na	PRP
+ZIMBIR{ki}	SN
+it-ta-al-kam	V
+<EoL>
+ki-ma	PRP
+is-sa₃-an-qa₂-ak-kum	V
+<EoL>
+KU₃.BABBAR	N
+ŠAM₃	N
+ša	DET
+qa₂-ti-ka	N
+<EoL>
+li-qi₂-a-am-ma	V
+<EoL>
+it-ti	PRP
+ri-ša-tum	PN
+NA.AŠ.BAR	N
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+al-ka-am	V
+<EoL>
+a-na	PRP
+KU₃.BABBAR	N
+pa	nan
+x	nan
+x	nan
+<EoL>
+aš-tap-ra-ak-kum	V
+x	nan
+<EoL>
+ga-me-er	N
+KU₃.BABBAR	N
+ša	DET
+qa₂-ti-ka	N
+li-qi₂-a-am	V
+<EoL><EoT>
+i-nu-ma	SBJ
+i-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+wa-aš-ba-ta	V
+<EoL>
+aš-šum	PRP
+KU₃.BABBAR	N
+ta-aš-pi₂-it	N
+2(diš)	NU
+MA.NA	N
+KU₃.BABBAR	N
+<EoL>
+gu-um-mu-ri-im-ma	V
+ba-ba-lim	N
+<EoL>
+aq-bi-kum-ma	V
+ki-a-am	AV
+ta-aq-bi-a-am	V
+<EoL>
+um-ma	PRP
+at-ta-ma	IP
+<EoL>
+a-na	PRP
+ZIMBIR{ki}	SN
+a-na	PRP
+ma-ka-ni-ia	nan
+<EoL>
+lu-ul-li-ik-ma	V
+<EoL>
+a-hi-ti	N
+lu-uṣ-mi-id-ma	V
+<EoL>
+KU₃.BABBAR	N
+lu-ub-lam	V
+an-ni-tam	DP
+ta-aq-bi-ma	V
+<EoL>
+KU₃.BABBAR	N
+u₂-ul	MOD
+tu-ša-bi-lam	V
+<EoL>
+a-na	PRP
+e-pe₂-ši	N
+an-ni-i-im	DP
+<EoL>
+lu-u₂	MOD
+ti-de-e	V
+<EoL>
+ki-ma	PRP
+i-na	PRP
+ša-na	NU
+la	MOD
+ma-ga-ri	N
+<EoL>
+te-te-pu-uš	V
+<EoL>
+{diš}ri-ša-tum	PN
+NA.AŠ.BAR	N
+<EoL>
+a-na	PRP
+ma-ah-ri-ka	N
+aṭ-ṭar-dam	V
+<EoL>
+KU₃.BABBAR	N
+ta-aš-pi₂-it	N
+2(diš)	NU
+MA.NA	N
+KU₃.BABBAR	N
+<EoL>
+ṣi-mi-id	V
+li-qi₂-a-am-ma	V
+<EoL>
+it-ti	PRP
+ri-ša-tum	PN
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+al-kam	V
+<EoL>
+a-na	PRP
+ša	DET
+ki-ma	PRP
+i-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+KU₃.BABBAR	N
+ṣa-ma-dam-ma	N
+ba-ba-lam	N
+<EoL>
+ta-aq-bu-ma	V
+la	MOD
+tu-ub-lam	V
+<EoL>
+a-na	PRP
+e-pe₂-ši	N
+an-ni-i-im	DP
+<EoL>
+lu	MOD
+ti-de-e	V
+<EoL><EoT>
+{d}MARDUK	DN
+ra-im-ka	N
+aš-šu-mi-ni	PRP
+li-la-ab-bi-ir-ka	V
+<EoL>
+i-na	PRP
+šu-ul-mi	N
+u₃	CNJ
+ba-la-ṭi	N
+li-ir-te-ed-di-ka	V
+<EoL>
+ni-še-em-me-e-ma	V
+ib-ni-{d}IŠKUR	PN
+RA₂.GAB	N
+<EoL>
+ša	DET
+a-wi-lim	N
+be-li-ni	N
+{d}SUEN-i-qi₂-ša-am	PN
+<EoL>
+a-na	PRP
+še-e	N
+ŠUKU	N
+{d}UTU	DN
+GU₂.UN	N
+a-wi-lim	N
+ib-ni-{d}UTU	PN
+a-bi	N
+ERIM	N
+<EoL>
+le-qe₂-e	N
+a-na	PRP
+ma-ah-ri-ka	N
+il-li-kam	V
+<EoL>
+it-ti	PRP
+ib-ni-{d}IŠKUR	PN
+šu-a-ti	IP
+<EoL>
+da-ba-ba-am	N
+du-um-mu-qa₂-am	AJ
+du-bu-ub	V
+x	nan
+<EoL>
+ma-ka-an	nan
+še-e	N
+šu-a-tu	IP
+li-ma-ad-di-du	V
+<EoL>
+ṭe₄-em-ka	N
+ga-am-ra	AJ
+šu-up-ra-an-ni-a-ši-im	V
+<EoL>
+ša	DET
+pa-ni-ni	N
+i	MOD
+ni-ip-pa-li-is-ma	V
+<EoL>
+ṭe₄-ma-am	N
+ga-am-ra	AJ
+i	MOD
+ni-iš-pu-ra-ak-ku	V
+<EoL>
+šum-ma	MOD
+ib-ni-{d}IŠKUR	PN
+šu-u₂	IP
+<EoL>
+2(geš₂)	NU
+2(geš₂)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+ša	DET
+a-wi-lum	N
+be-el-ni	N
+e-li-ni	PRP
+i-šu-u₂	V
+<EoL>
+i-le-eq-qe₂	V
+<EoL>
+it-ti	PRP
+2(geš₂)	NU
+2(geš₂)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+šu-a-tu	IP
+<EoL>
+2(u).2(aš).2(diš)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+IB₂.KID₂	N
+2(geš₂).2(u).2(aš).2(diš)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+<EoL>
+ša	DET
+i-na	PRP
+GU₂.UN	N
+a-wi-lim	N
+a-bi	N
+ERIM	N
+iz-zi-zu	V
+<EoL>
+it-ti	PRP
+še-e	N
+šu-a-tu	IP
+li-in-na-si-ih-ma	V
+<EoL>
+a-na	PRP
+ŠUKU	N
+{d}UTU	DN
+a-na	PRP
+{d}SUEN-i-din-nam	PN
+LU₂.GAB.A	nan
+<EoL>
+i-di-in	V
+<EoL>
+u₃	CNJ
+šum-ma	MOD
+ib-ni-{d}IŠKUR	PN
+šu-u₂	IP
+<EoL>
+2(geš₂)	NU
+2(geš₂)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+a-na	PRP
+ša	DET
+e-li-ni	IP
+a-wi-lum	N
+be-el-ni	N
+i-šu-u₂	V
+<EoL>
+i-le-eq-qe₂	V
+<EoL>
+da-ba-ba-am	N
+du-um-mu-qa₂-am	AJ
+it-ti-šu	PRP
+du-bu-ub	V
+<EoL>
+1(geš₂)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+li-il-qe₂	V
+1(geš₂)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+a-na	PRP
+ŠUKU	N
+{d}UTU	DN
+<EoL>
+li-ih-bu-ta-ak-kum-ma	V
+<EoL>
+a-na	PRP
+ŠUKU	N
+{d}UTU	DN
+la	MOD
+nu-ta-ak-ka-ak	V
+<EoL>
+ma-la	REL
+ni-iš-pu-ra-ak-ku	V
+ar-hi-iš	AV
+ṭe₄-em-ka	N
+<EoL>
+ma-la	REL
+i-ma-ah-ha-ra-ka	V
+šu-up-ra-an-ni-a-ši-im-ma	V
+<EoL>
+la-ma	PRP
+SISKUR	N
+u₂-še-še-ru	V
+<EoL>
+a-na	PRP
+ŠUKU	N
+E₂	N
+{d}UTU	DN
+i	MOD
+ni-id-bu-ub	V
+<EoL><EoT>
+a-na	PRP
+ma-an-na-tum	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ia-am-ṣi-DINGIR-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ki	V
+<EoL>
+aš-šum	PRP
+še-im	N
+ša	DET
+ul-li-ki-a-am	AV
+<EoL>
+a-na	PRP
+hu-šu-tum	SN
+in-na-ad-nu	V
+<EoL>
+aš-šum	PRP
+še-im	N
+na-da-nim	N
+<EoL>
+a-na	PRP
+ia-ši-im	IP
+hu-šu-tum	SN
+<EoL>
+iš-pu-ra-am	V
+<EoL>
+še-um	N
+u₂-ul	MOD
+i-ba-aš-ši-ma	V
+<EoL>
+u₂-ul	MOD
+id-di-nu-ni-ik-ki-im	V
+<EoL>
+iš-tu	PRP
+i-na-an-na	AV
+U₄.2(u).KAM	NU
+U₄.2(u).KAM	N
+<EoL>
+e-bu-ru-um	N
+<EoL>
+i-na	PRP
+e-bu-ri-im	N
+<EoL>
+še-a-am	N
+i-na-ad-di-nu-ki-im	V
+<EoL>
+šum-ma	MOD
+hu-šu-tum	SN
+<EoL>
+la	MOD
+iš-pu-ra-am-ma	V
+<EoL>
+at-ti	IP
+a-na	PRP
+ṣi-bu-ti-ki	N
+<EoL>
+ta-aš-tap-ri-im	V
+<EoL>
+ṣi-bu-ut	N
+ta-ša-pa-ri-im	V
+<EoL>
+a-ka-al-la-ki-im	V
+<EoL>
+iš-tu	PRP
+i-na-an-na	AV
+i-nu-ma	SBJ
+<EoL>
+ṣi-bu-tam	N
+ta-ar-ta-ši-i	V
+<EoL>
+a-na	PRP
+ia-ši-im	IP
+šu-up-ri-im	V
+<EoL><EoT>
+a-na	PRP
+DINGIR-šu-ib-ni	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+i-lu-ni-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+ša	DET
+ta-aš-pu-ra-am	V
+um-ma	PRP
+at-ta-ma	IP
+<EoL>
+{diš}ip-qu₂-i₃-li₂-šu	PN
+DI.KU₅	N
+i-na	PRP
+pu-uh₂-ri-im	N
+<EoL>
+ma-ga-al	AV
+id-bu-ba-am	V
+li-iš-ša-ap-ra-am-ma	V
+<EoL>
+ar-ka-at	N
+da-ba-bi-ia	N
+li-ip-pa-ri-is	V
+<EoL>
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+a-na	PRP
+a-wi-lim	N
+aq-bi-ma	V
+ṭup-pi₂	N
+a-wi-lim	N
+<EoL>
+a-na	PRP
+GAL.UKKEN.NA	N
+a-na	PRP
+ip-qu₂-{d}na-bi-um	PN
+ŠU.I	N
+<EoL>
+ṭup-pa	N
+a-na	PRP
+ṭe₄-mi-šu	N
+a-na	PRP
+{d}SUEN-re-me-ni	PN
+DI.KU₅	N
+<EoL>
+u₃	CNJ
+ṭup-pi₂	N
+pu-uh₂-ri	N
+a-na	PRP
+a-wi-le-e	N
+DI.KU₅.MEŠ	N
+<EoL>
+u₂-da-an-ni-na-am-ma	V
+uš-ta-bi-lam	V
+<EoL>
+i-na	PRP
+pu-uh₂-ri-im	N
+i-na	PRP
+da-ba-bi-im	N
+<EoL>
+pa-ni	N
+ip-qu₂-i₃-li₂-šu	PN
+šu-a-ti	IP
+la	MOD
+tu-ub-ba-al	V
+<EoL>
+ma-la	REL
+a-wa-ti-ku-nu	N
+ša	DET
+at-ta	IP
+u₃	CNJ
+šu-u₂	IP
+<EoL>
+i-na	PRP
+pu-uh₂-ri	N
+a-wi-lum	N
+a-na	PRP
+pa-ni	N
+a-wi-lim	N
+<EoL>
+ta-da-ab-bu-ba	V
+<EoL>
+a-wi-lu-u₂	N
+i-na	PRP
+mu-uh₂-hi	N
+ip-qu₂-i₃-li₂-šu	PN
+DI.KU₅	N
+<EoL>
+i-ša-as₂-su-u₂	V
+<EoL>
+u₃	CNJ
+ṭup-pa-ti-šu-nu	N
+me-eh-ra-am	N
+<EoL>
+u₂-ša-ab-ba-lu-nim	V
+a-na	PRP
+zi-mi	N
+da-ba-bi	N
+<EoL>
+ša	DET
+i-še-em-mu-u₂	V
+<EoL>
+a-wi-lum	N
+šar-ra-am	N
+u₂-la-am-ma-ad	V
+<EoL>
+aš-šum	PRP
+ŠE.$ŠEŠ	nan
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+ṭup-pi₂	N
+e-tel-pi₄-{d}na-bi-um	PN
+ENKU	N
+<EoL>
+a-na	PRP
+ENKU	N
+ZIMBIR{ki}	SN
+a-pa-li-ka	N
+<EoL>
+ar-ki	PRP
+{d}nin-urta-ni-šu	PN
+u₂-ša-ab-ba-lam	V
+<EoL>
+1(diš).5/6(diš)	NU
+1(diš).5/6(diš)	CNJ
+1(diš).5/6(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+ša	DET
+IGI.6(diš).GAL₂	NU
+KU₃.BABBAR	N
+ZU₂.LUM	N
+DILMUN.NA	GN
+<EoL>
+u₃	CNJ
+{geš}NU.UR₂.MA	N
+<EoL>
+{diš}{d}nin-urta-ni-šu	PN
+a-na	PRP
+ma-ah-ri-ka	N
+<EoL>
+uš-ta-bi-lam	V
+<EoL><EoT>
+a-na	PRP
+DINGIR-šu-ib-ni	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}na-bi-um-na-ṣi-ir-ma	PN
+<EoL>
+še-a-am	N
+a-na	PRP
+AL.DU₃-e-ka	N
+<EoL>
+{diš}{d}x-ra-bi	nan
+il-qe₂-a-am-ma	V
+<EoL>
+a-na	PRP
+ma-ah-ri-ka	N
+it-ta-al-kam	V
+<EoL>
+A.ŠA₃	N
+pi₂-ha-ti-ka	N
+šu-ta-ak-ši-id-ma	V
+<EoL>
+ne-me-et-tam	N
+la	MOD
+ta-ra-aš-ši	V
+<EoL>
+aš-šum	PRP
+DINGIR-šu-ib-ni	PN
+ša-pir	N
+ZIMBIR{ki}	SN
+<EoL>
+ša	DET
+ki-a-am	AV
+ta-aš-pu-ra-am	V
+um-ma	PRP
+at-ta-ma	IP
+<EoL>
+1(diš)	NU
+GU₄	N
+ar-ki-a	AJ
+a-na	PRP
+GU₄	N
+ki-ma	PRP
+GU₄	N
+pu-uh₂-hi	N
+<EoL>
+ad-di-in-šum-ma	V
+1(diš)	NU
+GU₄	N
+MU.2(diš)	AJ
+id-di-nam	V
+<EoL>
+ka-ni-ik	N
+ši-ma-tim	N
+nu-uš-te-zi-ib	V
+x	nan
+<EoL>
+i-na-an-na	AV
+DINGIR-šu-ib-ni	PN
+ša-pir	N
+ZIMBIR{ki}	SN
+<EoL>
+um-ma	PRP
+šu-ma	IP
+GU₄-ka	N
+u₂-ta-ar-ra-ak-ku	V
+<EoL>
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+{diš}DINGIR-šu-ib-ni	PN
+šu-a-ti	IP
+u₂-qe₂-er-ri-bu-nim-ma	V
+<EoL>
+ki-a-am	AV
+aq-bi-šum	V
+i-qa₂-ab-bu-ma	V
+<EoL>
+GU₄	N
+ar-ki-a	AJ
+a-na	PRP
+1(u)	NU
+GIN₂	N
+KU₃.BABBAR	N
+<EoL>
+id-di-nu-ni-ik-ku	V
+<EoL>
+u₃	CNJ
+ka-ni-ik	N
+ši-ma-tim	N
+ta-ad-di-in	V
+<EoL>
+mi-nu-u₂	QP
+a-wa-tum-ma	N
+da-ba-ba-am	N
+tu-še-er-ši	V
+<EoL>
+{diš}DINGIR-šu-ib-ni	PN
+ša-pir	N
+ZIMBIR{ki}	SN
+<EoL>
+um-ma	PRP
+šu-ma	IP
+a-na-ku	IP
+u₃	CNJ
+DINGIR-šu-ib-ni	PN
+IR₃-ka	N
+<EoL>
+GU₄	N
+ki-ma	PRP
+GU₄	N
+nu-up-te-eh-ma	V
+<EoL>
+ka-ni-ik	N
+ši-ma-tim	N
+nu-uš-te-zi-ib	V
+<EoL>
+GU₄	N
+ša	DET
+el-qu₂-u₂	V
+ITI.1(diš).KAM	NU
+ITI.1(diš).KAM	N
+ma-ah-ri-ia	N
+iš-ša-ak-na	V
+<EoL>
+ri-ik-sa-ti-ia	N
+u₂-ul	MOD
+e-en-ni	V
+an-ni-tam	DP
+iq-bi	V
+<EoL>
+aš-šum	PRP
+2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+ša	DET
+a-na	PRP
+be-el-šu-nu	PN
+DUMU	N
+DINGIR-da-mi-iq	PN
+<EoL>
+x	nan
+IKU	N
+A.ŠA₃	N
+la	MOD
+te-pu-šu	V
+KU₃.BABBAR	N
+e-se-ri-im-ma	N
+<EoL>
+šu-bu-lim	N
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+DUMU	N
+E₂.DUB.BA.A	N
+E₂.DUB.BA.A	N
+a-na	PRP
+KU₃.BABBAR	N
+šu-a-ti	IP
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+šu-ud-du-nim	N
+a-wa-tam	N
+ap-ta-qi₂-id	V
+<EoL>
+x	nan
+x-ti-ka	nan
+<EoL>
+x	nan
+IR₃-{d}ul-maš-ši-tum	PN
+UGULA	N
+PA.PA	nan
+<EoL>
+x	nan
+x	nan
+A.ŠA₃	N
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+u₂-da-an-ni-na-am-ma	V
+<EoL>
+uš-ta-bi-lam	V
+aš-šum	PRP
+še-e	N
+ŠUKU-ka	N
+ša	DET
+MU.4(diš).KAM	NU
+MU.4(diš).KAM	N
+<EoL>
+ša	DET
+i-na	PRP
+qa₂-ti	N
+IR₃-{d}ul-maš-ši-tum	PN
+UGULA	N
+PA.PA	nan
+šu-ud-du-nim	N
+<EoL>
+ša	DET
+ta-aš-pu-ra-am	V
+i-nu-ma	SBJ
+IR₃-{d}ul-maš-ši-tum	PN
+šu-u₂	IP
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+i-il-la-kam	V
+<EoL>
+ṭup-pa-ka	N
+šu-bi-lam	V
+UGULA	N
+PA.PA	nan
+šu-a-ti	IP
+li-x	nan
+x	nan
+x	nan
+<EoL>
+še-e	N
+ŠUKU-ka	N
+li-ša-li-mu-ka	V
+<EoL><EoT>
+a-na	PRP
+DINGIR-šu-ib-ni	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}na-bi-um-na-ṣi-ir-ma	PN
+<EoL>
+aš-šum	PRP
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+um-ma	PRP
+at-ta-ma	IP
+{diš}ip-qu₂-i₃-li₂-šu	PN
+DI.KU₅	N
+<EoL>
+ša	DET
+e-li-ia	PRP
+mar-ṣa-at	V
+i-te-pu-uš	V
+<EoL>
+u₃	CNJ
+ABUL.HI.A	N
+uš-ta-di-a-an-ni	V
+<EoL>
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+ma-har	N
+be-li₂-ia	N
+<EoL>
+ad-bu-um-ma	V
+<EoL>
+ṭup-pi₂	N
+be-li₂-ia	N
+<EoL>
+a-na	PRP
+ip-qu₂-i₃-li₂-šu	PN
+šu-a-ti	IP
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+šu-li-i-šu	V
+<EoL>
+i-il-la-kam	V
+<EoL>
+ṣi-bi-it	N
+ṭe₄-mi	N
+ri-ši	V
+<EoL>
+ša	DET
+pa-ni-ka	N
+na-ap-li-is-ma	V
+<EoL>
+ki-ma	PRP
+ṭup-pi₂	N
+šar-ri	N
+<EoL>
+ta-ta-am-ru	V
+<EoL>
+it-ti	PRP
+ip-qu₂-i₃-li₂-šu	PN
+šu-a-ti	IP
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+si-in-qa₂-am	V
+<EoL><EoT>
+a-na	PRP
+DINGIR-šu-ib-ni	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}na-bi-um-na-ṣi-ir-ma	PN
+<EoL>
+aš-šum	PRP
+A.ŠA₃	N
+A.GAR₃	N
+na-ši-a-ri-iš	GN
+<EoL>
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+A.ŠA₃	N
+šu-a-ti	IP
+u₂-ta-aš-še-ru-ni-ik-ku	V
+<EoL>
+u₃	CNJ
+ṭup-pi₂	N
+a-na	PRP
+{d}SUEN-re-me-ni	PN
+DI.KU₅	N
+<EoL>
+u₃	CNJ
+ib-ni-{d}MAR.TU	PN
+UGULA	N
+MAR.TU	EN
+<EoL>
+aš-šum	PRP
+GU₄.APIN.HI.A	N
+GU₄.APIN.HI.A	N
+na-da-nim-ma	N
+<EoL>
+tap-pu-ti-ka	N
+a-la-ki-im	N
+<EoL>
+it-ta-al-kam	V
+<EoL>
+la-ma	PRP
+ša-at-tum	N
+it-ta-al-ku	V
+<EoL>
+A.ŠA₃	N
+šu-a-ti	IP
+<EoL>
+šu-ta-ak-ši-id-ma	V
+<EoL>
+ne-me-et-tam	N
+<EoL>
+la	MOD
+ta-ra-aš-ši	V
+<EoL><EoT>
+a-na	PRP
+be-li₂-ia	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+DINGIR-šu-ib-ni-ma	PN
+<EoL>
+GU₄.APIN.HI.A	N
+GU₄.APIN.HI.A	N
+ša	DET
+be-li₂-ia	N
+ša-al-mu	V
+<EoL>
+ki-ma	PRP
+be-li₂	N
+i-du-u₂	V
+<EoL>
+{diš}u-bar-{d}na-bi-um	PN
+{lu₂}NIMGIR	N
+<EoL>
+u₃	CNJ
+NIMGIR	N
+ERIM.KA₂.E₂.GAL.MEŠ	N
+ERIM.KA₂.E₂.GAL.MEŠ	N
+ERIM.KA₂.E₂.GAL.MEŠ	N
+<EoL>
+ša	DET
+ina	PRP
+qi₂-bi-it	N
+E₂.GAL	N
+<EoL>
+i-na	PRP
+ABUL.MEŠ	N
+ZIMBIR{ki}	SN
+aš-bu-ma	V
+<EoL>
+KA₂	N
+u₂-sa-an-na-qu₂	V
+<EoL>
+i-nu-ma	SBJ
+{geš}APIN.HI.A	N
+ša	DET
+IRI{ki}	N
+x	nan
+x	nan
+<EoL>
+u₂-ša-aṣ-ṣa-ra-ma	V
+la	MOD
+u₂-x-x-x-u₂	nan
+<EoL>
+{diš}u-bar-rum-{d}na-bi-um-ma	PN
+<EoL>
+u₂-mi-x	nan
+<EoL>
+{diš}u-bar-{d}na-bi-um	PN
+šu-u₂	IP
+<EoL>
+1(diš)	NU
+SAG.IR₃	N
+a-ta-ar-tam	AJ
+<EoL>
+ša	DET
+E₂	N
+a-bi-šu-nu-ma	N
+x	nan
+<EoL>
+4(diš)	NU
+at-hu-u₂	N
+qa₂-du-uš-šu	PRP
+<EoL>
+a-na	PRP
+KU₃.BABBAR-im	N
+id-di-nu-ma	V
+<EoL>
+1(diš)	NU
+a-hu-šu	N
+ša	DET
+i-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+ma-har	N
+a-wi-lim	N
+a-bi	N
+ERIM	N
+i-da-ab-bu-bu	V
+<EoL>
+1(u).2(diš)	NU
+GIN₂	N
+KU₃.BABBAR-am	N
+il-qe₂	V
+<EoL>
+u₃	CNJ
+šu-nu	IP
+5(diš).TA.AM₃	NU
+il-qu₂-u₂	V
+<EoL>
+i-na-an-na	AV
+u-bar-rum-{d}na-bi-um	PN
+šu-a-ti	IP
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+a-na	PRP
+ma-har	N
+a-wi-lim	N
+a-bi	N
+ERIM	N
+<EoL>
+uš-te-lu-ni-iš-šu	V
+<EoL>
+be-li₂	N
+ki-ma	PRP
+ra-bu-ti	N
+a-na	PRP
+a-wi-lim	N
+a-bi	N
+ERIM	N
+<EoL>
+li-iq-bi-ma	V
+da-ba-ab-šu	N
+li-in-na-me-er	V
+<EoL>
+u₃	CNJ
+ki-ma	PRP
+a-hu-šu	N
+ra-bu-um	AJ
+x	nan
+x-bu	nan
+<EoL>
+1(u).2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+li-x	nan
+<EoL>
+be-li₂	N
+a-wi-lam	N
+a-bi	N
+ERIM	N
+x	nan
+<EoL>
+li-iš-i	V
+x	nan
+x	nan
+<EoL>
+li-il-qe₂-šu-ma	V
+<EoL>
+li-iš-te-bi-ir-šu-ma	V
+a-na	PRP
+pi₂-ha-ti-šu	N
+<EoL>
+li-it-ta-al-kam	V
+be-li₂	N
+at-ta	IP
+al-kam	V
+<EoL><EoT>
+a-na	PRP
+{d}na-bi-um-at-pa-lam	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+be-la-nu-um-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu-u₂	MOD
+ba-al-ṭa-ta	V
+<EoL>
+lu-u₂	MOD
+ša-al-ma-ta	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ia	N
+ta-aš-pur-ra-am	V
+<EoL>
+ša-al-ma-ku	V
+<EoL>
+ša-la-am-ka	N
+a-na	PRP
+da-ri-a-tim	N
+<EoL>
+{d}MARDUK	DN
+li-iq-bi	V
+<EoL>
+iš-tu	PRP
+i-na-an-na	AV
+U₄.2(diš).KAM	NU
+U₄.2(diš).KAM	N
+<EoL>
+a-na-ku	IP
+a-na	PRP
+ZIMBIR{ki}	SN
+<EoL>
+a-al-la-kam	V
+<EoL>
+aš-šum	PRP
+ṣu₂-ha-re-e	N
+<EoL>
+ša	DET
+ta-aš-pur-am	V
+<EoL>
+a-na	PRP
+DUMU-{d}UTU	PN
+<EoL>
+aš-tap-ra-am	V
+<EoL>
+i-na-ad-di-na-ak-kum	V
+<EoL><EoT>
+a-na	PRP
+{d}na-bi-um-at-pa-lam	PN
+ša	DET
+{d}MARDUK	DN
+u₂-ba-la-ṭu₂-šu	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ig-mil-{d}SUEN-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+6(diš)	NU
+MA₂.HI.A	N
+{id₂}ir-ni-na-ma	WN
+<EoL>
+šu-qa₂-al-pi₂-a-am	N
+<EoL>
+ša	DET
+ta-aš-pur-am	V
+<EoL>
+ṭup-pi₂	N
+IR₃-i₃-li₂-šu	PN
+is₃-ni-qa₂-am	V
+<EoL>
+um-ma-mi	PRP
+i-na	PRP
+U₄.1(u).3(diš).KAM	NU
+U₄.1(u).3(diš).KAM	N
+<EoL>
+x	nan
+x	nan
+ka-mi-is₃	V
+<EoL>
+pa-ni	N
+MA₂.HI.A-ka	N
+ṣa-ab-tam-ma	V
+<EoL>
+a-la-kam	N
+ep-ša	V
+<EoL>
+ki-ma	PRP
+ṭup-pi₂	N
+IR₃-i₃-li₂-šu	PN
+<EoL>
+is₃-ni-qa₂-am	V
+<EoL>
+MA₂.HI.A	N
+as-sa₃-ki-ip	V
+<EoL>
+a-na-ku	IP
+aš-šum	PRP
+ṣe-tim	N
+a-di	PRP
+i-na-an-na	AV
+<EoL>
+u₂-uh-hi-ir	V
+mu-ši-tam	N
+<EoL>
+a-ra-ka-am-ma	V
+še-er-tam-ma	N
+<EoL>
+i-na	PRP
+pi₄	N
+{id₂}{d}UTU	WN
+a-na-ku	IP
+<EoL>
+3(diš)	NU
+MA₂.HI.A	N
+ša	DET
+ta-aš-pur-am	V
+<EoL>
+{id₂}BURANUN{ki}	WN
+iq-qa₂-la-pi₂-a-ni-im	V
+<EoL>
+{id₂}ir-ni-na	WN
+na-qa₂-al-pi₂-a-am	N
+<EoL>
+u₂-ul	MOD
+i-le-a	V
+<EoL><EoT>
+a-na	PRP
+{d}na-bi-um-at-pa-lam	PN
+<EoL>
+u₃	CNJ
+i₃-li₂-iu-u₂-ta	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}MARDUK-mu-ša-lim-ma	PN
+<EoL>
+a-nu-um-ma	AV
+1(u)	NU
+ERIM	N
+e-pi₂-iš-tam	N
+<EoL>
+u₃	CNJ
+1(diš)	NU
+{lu₂}AR₃.AR₃-šu-nu	N
+<EoL>
+a-na	PRP
+u₂-ra-ti-ku-nu	N
+se-e-ri-im	N
+<EoL>
+aṭ-ṭar-dam	V
+<EoL>
+u₂-ra-ti-ku-nu	N
+li-se-e-ru	V
+<EoL>
+i-na	PRP
+se-ri-ku-nu	N
+<EoL>
+a-di	PRP
+u₂-ur	N
+E₂	N
+I₃.DUB	N
+<EoL>
+ša	DET
+GA.GI₄.A{ki}	N
+<EoL>
+u₃	CNJ
+ki-di-im	N
+<EoL>
+la	MOD
+se-e-ru	V
+<EoL>
+u₂-ra-am	N
+ša-ni-a-am	AJ
+<EoL>
+la	MOD
+te-se-e-er-ra	V
+<EoL>
+iš-tu	PRP
+u₂-ur	N
+E₂	N
+I₃.DUB	N
+<EoL>
+ša	DET
+GA.GI₄.A{ki}	N
+<EoL>
+u₃	CNJ
+ša	DET
+ki-di-im	N
+<EoL>
+te-es-se₂-ra	V
+<EoL>
+u₂-ra-ti-ku-nu	N
+a-hi-a-tim	N
+<EoL>
+se-e-ra	V
+<EoL><EoT>
+a-na	PRP
+{d}na-bi-um-at-pa-lam	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}MARDUK-mu-ša-lim-ma	PN
+<EoL>
+aš-šum	PRP
+A.ŠA₃-im	N
+ša	DET
+a-wa-tu-šu	N
+<EoL>
+la	MOD
+ga-am-ra	V
+<EoL>
+ki-a-am	AV
+u₂-na-ah-hi-id	V
+um-ma	PRP
+a-na-ku-ma	IP
+<EoL>
+a-wa-at	N
+A.ŠA₃-im	N
+gu-mu-ur	V
+<EoL>
+ka-ni-ka-am	N
+šu-ze₂-em-ma	V
+<EoL>
+ṭe₄-em	N
+A.ŠA₃-im	N
+šu-up-ra-am	V
+<EoL>
+ki-a-am	AV
+u₂-na-ah-hi-id-ma	V
+<EoL>
+am-mi-nim	QP
+iš-tu	PRP
+ta-al-li-ku	V
+<EoL>
+ṭe₄-em	N
+A.ŠA₃-im	N
+ša	DET
+a-wa-tu-šu	N
+<EoL>
+la	MOD
+ga-am-ra	V
+ša	DET
+u₂-na-ah-hi-du-ka	V
+<EoL>
+ša-pa-rum-ma	N
+<EoL>
+u₂-ul	MOD
+ta-aš-pur-am	V
+<EoL>
+a-wa-a-at	N
+A.ŠA₃-im	N
+ša	DET
+la	MOD
+ga-am-ra	V
+<EoL>
+ta-ag-da-ma-a-ar	V
+x	nan
+<EoL>
+ka-ni-kam	N
+tu-uš-te-zi-i-ib	V
+<EoL>
+šum-ma	MOD
+a-wa-at	N
+A.ŠA₃-im	N
+ša	DET
+la	MOD
+ga-am-ra	V
+ta-ag-da-mar	V
+<EoL>
+ka-ni-kam	N
+tu-uš-te-zi-ib	V
+<EoL>
+ka-ni-kam	N
+šu-a-ti	DET
+a-na	PRP
+ṣu₂-ha-ar-tim	N
+<EoL>
+i-di-im-ma	V
+<EoL>
+ṭup-pi₂	N
+ṣu₂-ha-ar-tim	N
+ša	DET
+ka-ni-kam	N
+<EoL>
+ša	DET
+A.ŠA₃-im	N
+ki-a-am	AV
+u₃	CNJ
+ki-a-am	AV
+<EoL>
+{diš}{d}na-bi-um-at-pa-lam	PN
+ub-lam	V
+<EoL>
+a-na	PRP
+ṣe-ri-ia	N
+šu-bi-lam	V
+<EoL><EoT>
+a-na	PRP
+{d}na-bi-um-at-pa-lam	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}MARDUK-mu-ša-lim-ma	PN
+<EoL>
+LU₂.MEŠ	N
+eb-bu-tum	N
+ša	DET
+šu-ut-SIPA{ki}	PN
+<EoL>
+ṭe₄-em-šu-nu	N
+u₂-te-er-ru-nim-ma	V
+<EoL>
+u₃	CNJ
+ki-a-am	AV
+iq-bu-nim	V
+um-ma	PRP
+šu-nu-ma	IP
+<EoL>
+2(geš₂).2(u)	NU
+2(geš₂).2(u)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+{geš}BA.RI₂.GA	N
+<EoL>
+a-na	PRP
+AL.DU₃-šu	N
+li-id-di-iš-šum	V
+<EoL>
+4(u)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+ZI.GA	N
+KISLAH	N
+<EoL>
+ŠUKU	N
+E₂	N
+ša	DET
+a-di	PRP
+ITI.ŠU.NUMUN.A	NU
+ITI.ŠU.NUMUN.A	N
+$LI-x	nan
+x	nan
+<EoL>
+ki-a-am	AV
+iq-bu-nim	V
+<EoL>
+NIG₂.KA₉	N
+e-pu-uš-ma	V
+<EoL>
+a-na	PRP
+3(geš₂)	NU
+3(geš₂)	NU
+3(geš₂)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+AL.DU₃-ka	N
+<EoL>
+mi-im-ma	XP
+u₂-ul	MOD
+i-šu	V
+<EoL>
+ki-ma	PRP
+ṭup-pi₂	N
+an-ni-a-am	DP
+<EoL>
+ta-am-ma-ru	V
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+al-kam-ma	V
+<EoL>
+a-wa-tam	N
+an-ni-tam	DP
+<EoL>
+ap-la-an-ni	V
+<EoL><EoT>
+a-na	PRP
+{d}na-bi-um-at-pa-lam	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}MARDUK-mu-ša-lim-ma	PN
+<EoL>
+aš-šum	PRP
+HA.ZA.NU.UM{sar}	N
+<EoL>
+a-di	PRP
+la	MOD
+ba-aš-lu	V
+la	MOD
+na-pa-lim	N
+<EoL>
+{diš}ku-ub-bu-tum	PN
+iš-pur-am	V
+<EoL>
+šum-ma	MOD
+HA.ZA.NU.UM{sar}	N
+la	MOD
+ba-aš-lu-ma	V
+<EoL>
+u₃	CNJ
+mi-ik-ru	N
+ha-mu-uṭ	V
+<EoL>
+HA.ZA.NU.UM{sar}	N
+i-ka-am	N
+x	nan
+x-al-la-x-ma	nan
+<EoL>
+a-di	PRP
+la	MOD
+ba-aš-lu	V
+<EoL>
+la	MOD
+in-na-ap-pa-lu	V
+<EoL>
+a-na	PRP
+mi-nim	QP
+HA.ZA.NU.UM{sar}	N
+<EoL>
+la	MOD
+ba-aš-lu-us-su₂-nu	N
+<EoL>
+in-na-ap-pa-lu	V
+<EoL>
+u₃	CNJ
+mi-nu-um	QP
+ša	DET
+aš-šum	PRP
+A.ŠA₃-im	N
+<EoL>
+a-wa-a-tim	N
+tu-za-ab-ba-lu	V
+<EoL>
+a-na	PRP
+a-wa-a-tim	N
+an-ni-tim	DP
+<EoL>
+zu-ub-bu-lim	N
+u₂-ul	MOD
+tu-ta-aš-šar	V
+<EoL>
+ka-ni-kam	N
+ar-hi-iš	AV
+u₂-ul	MOD
+tu-še-ze-eb-šu-ma	V
+<EoL>
+lu	MOD
+ti-de	V
+ki-ma	PRP
+ṭup-pi₂	N
+ta-am-ma-ru	V
+<EoL>
+a-la-lum	N
+u₂-lu-ul-šu-ma	V
+<EoL>
+ka-ni-kam	N
+šu-ze₂-eb-šu	V
+<EoL><EoT>
+a-na	PRP
+{d}na-bi-um-at-pa-lam	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}MARDUK-na-ṣi-ir-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+ṣu₂-ha-ri-ka	N
+ša	DET
+eš₁₈-dar-ILLAT-su₂	PN
+<EoL>
+i-na	PRP
+qa₂-ti-šu-nu	N
+še-a-am	N
+iṣ-ba-tu-ma	V
+<EoL>
+ik-lu-šu-nu-ti-ma	V
+<EoL>
+ta-aš-pur-am	V
+<EoL>
+ki-ma	PRP
+iš-ti₇-iš-šu	AV
+<EoL>
+aq-bi-šum-ma	V
+<EoL>
+u₂-ul	MOD
+iš-me-a-ni	V
+<EoL>
+a-wi-lum	N
+ša-gi-il	V
+<EoL>
+at-wa-am	N
+u₂-ul	MOD
+i-ma-ha-ar	V
+<EoL>
+e-zu-ub	PRP
+la	MOD
+ṣu₂-ha-ri-ka	N
+<EoL>
+ṣu₂-ha-ri	N
+u₂	CNJ
+ša	DET
+ni-šu-dan-nam	PN
+UGULA	N
+E₂	N
+SUKKAL	N
+<EoL>
+še-a-am	N
+na-šu-ma	V
+iṣ-ba-su₂-nu-ti-ma	V
+<EoL>
+nu-pa-aṭ-ṭe₄-er-šu-ma	V
+u₂-ul	MOD
+im-gur-an-ni-a-ti	V
+<EoL>
+um-ma	PRP
+šu-ma	IP
+a-wa-tim	N
+an-ni-a-ti-in	DP
+<EoL>
+{diš}{d}na-bi-um-at-pa-lam-ma	PN
+i-pu-ul-ši-na-ti	V
+<EoL>
+ṭup-pa-ka	N
+šu-bi-la-aš-šum	V
+<EoL><EoT>
+a-na	PRP
+{d}NANNA-in-du₈	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}IŠKUR-ma-gir	PN
+<EoL>
+a-hu-ka-a-ma	N
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+<EoL>
+u₄-mi	N
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+ŠE.GEŠ.I₃	N
+a-ša-am-ma	V
+<EoL>
+a-na	PRP
+SAG.GEME₂	N
+ru-ku-sa-ku	V
+<EoL>
+1/3(diš)	NU
+MA.NA	N
+1(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+NA₄	N
+{d}UTU	DN
+<EoL>
+2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+u₂-lu	CNJ
+3(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+<EoL>
+a-na	PRP
+mu-uh-hi	N
+<EoL>
+ri-ik-si₂-im	N
+<EoL>
+{diš}{d}SUEN-i-ta-šu	PN
+<EoL>
+li-re-di	V
+<EoL>
+{diš}{d}SUEN-i-din-nam	PN
+<EoL>
+u₃	CNJ
+{d}SUEN-i-ta-šu	PN
+<EoL>
+it-ti-ka	PRP
+<EoL>
+li-il₅-li-ku-ma	V
+<EoL>
+SAG.GEME₂	N
+šu-ba-ri-ta	AJ
+<EoL>
+ša	DET
+du-un-nu-na-at	V
+<EoL>
+u₂	CNJ
+ṣe₂-eh-re-et	V
+<EoL>
+ša	DET
+u₂-ba-lu	V
+<EoL>
+ša-ma-am	V
+<EoL>
+u₂-la-šu-ma	CNJ
+<EoL>
+ŠE.GEŠ.I₃	N
+ša	DET
+a-ša-mu	V
+<EoL>
+u₂-ul	MOD
+i-na-ad-di-nu-ni	V
+<EoL>
+gi-im-la-an-ni	V
+<EoL>
+pi₂-ia	N
+la	MOD
+i-sa₃-ra-ar	V
+<EoL>
+ša	DET
+u₂-zu-be₂-e	N
+i-šu-u₂	V
+<EoL><EoT>
+a-na	PRP
+{d}NANNA-in-du₈	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ib-ba-tum	PN
+a-hu-ka-a-ma	N
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+DINGIR-ka	N
+aš-šu-mi-ia	PRP
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+ki-ma	PRP
+ia-ah-su-uk-DINGIR	PN
+i-la-kam-ma	V
+<EoL>
+ṭup-pa-ka	N
+la	MOD
+ub-ba-la-aš-šu-u₂-ma	V
+<EoL>
+an-ni-it-ka	N
+la	MOD
+an-ni-it-ka	N
+<EoL>
+i-na	PRP
+pa-ni-tim	N
+a-na	PRP
+a-ma-az{ki}	GN
+ta-al-li-ik-ma	V
+<EoL>
+i-na	PRP
+ŠA₃	N
+ma-tim	N
+ITI.1(diš).KAM	NU
+ITI.1(diš).KAM	N
+tu-ši-im-ma	V
+<EoL>
+ma-ti-ma	AV
+ṭup-pa-ka	N
+u₂-ul	MOD
+il-li-kam	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+di-na-tim	N
+ta-ta-ap-la-an-ni	V
+<EoL>
+ša	DET
+bi-ri-it	PRP
+u₄-mu-ka-al	AV
+<EoL>
+a-la-ki-im	N
+u₂-ul	MOD
+ta-aš-pu-ra-am	V
+<EoL>
+i-na-an-na	AV
+iš-tu	PRP
+ŠA₃	N
+ma-tim	N
+ITI.1(diš).KAM	NU
+ITI.1(diš).KAM	N
+<EoL>
+wa-aš-ba-ta-ma	V
+u₂-ul	MOD
+ta-aš-pu-ra-am	V
+<EoL>
+a-nu-um-ma	AV
+{diš}ia-ah-su-uk-DINGIR	PN
+<EoL>
+3(u)	NU
+2/3(diš)	NU
+MA.NA	N
+8(diš)	NU
+GIN₂	N
+an-na-kam	N
+<EoL>
+uš-ta-bi-la-ku-nu-ši	V
+<EoL>
+a-ša-ri-iš	AV
+id-na-šu-u₂-ma	V
+<EoL>
+KU₃.BABBAR-šu-u₂	N
+i-na	PRP
+ku-nu-ka-ti-ku-nu	N
+<EoL>
+li-ka-ni-ik	V
+a-na	PRP
+TUG₂.HI.A	N
+KU₃.BABBAR	N
+it-ta-ab-ši	V
+<EoL>
+šum-ma	MOD
+ša-li-im	V
+<EoL>
+DINGIR-lam	N
+ša-al-ma	V
+a-li-ik	V
+<EoL>
+šum-ma	MOD
+a-ša-ri-iš	AV
+KU₃.BABBAR	N
+i-ba-ši	V
+<EoL>
+a-na	PRP
+5(diš)	NU
+GIN₂	N
+i-di-in	V
+<EoL>
+TUG₂.HI.A-tu-ka	N
+u₂-ul	MOD
+an-ni-ki-am	AV
+x	nan
+<EoL>
+mi-de	AV
+{diš}DUMU-{d}UTU	PN
+i-la-ka-ku-um-ma	V
+TUG₂.HI.A-ti-šu	N
+<EoL>
+i-ri-iš-ka	V
+um-ma	PRP
+at-ta-a-ma	IP
+i-na	PRP
+{geš}MA₂-ma	N
+<EoL><EoT>
+a-na	PRP
+{d}NANNA-in-du₈	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ib-ba-tum	PN
+a-hu-ka-ma	N
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+ṣu₂-ha-rum	N
+{diš}be-el-šu-nu	PN
+DUMU	N
+a-hi-ia	N
+<EoL>
+a-na	PRP
+di-nim	N
+i-ga-ra-ni-a-ti	V
+<EoL>
+aš-šum	PRP
+a-wa-tim	N
+ša	DET
+i-din-{d}nu-muš-da	PN
+<EoL>
+DUMU	N
+a-ta-a	PN
+ša	DET
+i-na	PRP
+a-ba-tim{ki}	GN
+<EoL>
+iṣ-ba-ta-ni-ma	V
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+1(u).2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+e-li	PRP
+{diš}u₂-te-e	PN
+<EoL>
+a-hi-ka	N
+i-šu	V
+<EoL>
+a-na	PRP
+ni-iš	N
+DINGIR	N
+<EoL>
+i-di-nu-ni-šu-ma	V
+it-mu-ma	V
+<EoL>
+1/3(diš)	NU
+MA.NA	N
+5(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+<EoL>
+aš-šu-mi-ia	PRP
+{diš}{d}da-gan-zi-im-ra-ti	PN
+<EoL>
+KU₃.BABBAR	N
+iš-qu₂-lu	V
+a-nu-um-ma	AV
+<EoL>
+a-na	PRP
+e-ri-ib-sin	PN
+u₃	CNJ
+ṣil₂-li₂-{d}be-el-ŠINIG	PN
+<EoL>
+aš-tap-ra-am	V
+i-zi-iz-ma	V
+<EoL>
+a-wi-lam	N
+{d}da-gan-zi-im-ra-ti	PN
+<EoL>
+a-na	PRP
+E₂	N
+{d}UTU	DN
+es-ra-ma	V
+<EoL>
+i-na	PRP
+E₂	N
+{d}UTU	DN
+ši-bu-su	N
+<EoL>
+li-iq-bi-ma	V
+hi-si	N
+ku-nu-ka-ti-šu-nu	N
+<EoL>
+li-qe₂-ma	V
+ri-iš-ni	N
+<EoL>
+li-ki-il₅	V
+a-na	PRP
+a-wa-tim	N
+<EoL>
+an-ni-tim	DP
+a-ah-ka	N
+<EoL>
+la-a	MOD
+ta-na-di	V
+ma-di-iš	AV
+<EoL>
+ṣi₂-ri-im	V
+<EoL><EoT>
+a-na	PRP
+{d}NANNA-in-du₈	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ib-ba-tum-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+ša-al-ma-a-ku	V
+<EoL>
+i-na	PRP
+ia-ab-li-ia{ki}	GN
+a-na-ku	IP
+<EoL>
+da-mi-iq	V
+e-pe₂-šu-ma	N
+<EoL>
+an-nu-um	DP
+ša	DET
+te-pu-ša-an-ni	V
+<EoL>
+ša	DET
+i-na	PRP
+pa-ni	N
+wa-ṣi₂-ti-ia	N
+<EoL>
+la	MOD
+ni-in-na-am-ru	V
+<EoL>
+a-na	PRP
+E₂-ti	N
+u₃	CNJ
+ṣu₂-ha-ri	N
+<EoL>
+la	MOD
+te-gi	V
+pi₂-qa-at	AV
+<EoL>
+a-na	PRP
+tu-up-ši-ki-im	N
+<EoL>
+E₂-ta-am	N
+u₂-da-ba-bu-u₂	V
+<EoL>
+1(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+a-ša-ar	N
+<EoL>
+{diš}{mi₂}ta-ri-ib-tum	PN
+<EoL>
+i-qa-bu-ku-um	V
+<EoL>
+i-di-in	V
+<EoL><EoT>
+a-na	PRP
+{d}NANNA-i-in-tu-uh	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ip-qu₂-{d}ša-la-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+5(diš)	NU
+SILA₃	N
+I₃.GEŠ	N
+ša	DET
+it-ti-ia	PRP
+<EoL>
+il-qu₂-nim	V
+SAG.GEME₂	N
+<EoL>
+it-ta-ba-ak	V
+<EoL>
+a-nu-um-ma	AV
+a-pil-ku-bi	PN
+<EoL>
+aṭ-ṭar-da-kum	V
+<EoL>
+1(diš)	NU
+SILA₃	N
+I₃.GEŠ	N
+ša	DET
+pi₂-ša-ti-im	N
+<EoL>
+šu-bi-lam	V
+<EoL>
+{diš}ta-ri-bu-um	PN
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+a-la-ak	V
+a-hi	N
+a-ta-ra-am	V
+<EoL>
+u₂-ul	MOD
+il-li-ik	V
+<EoL>
+qi₂-bi-šum-ma	V
+<EoL>
+li-il-li-ik-ma	V
+<EoL>
+a-ha-šu	N
+li-it-ra-am-ma	V
+<EoL>
+la-ma	PRP
+at-ta-al-ku	V
+<EoL>
+ni-ka-si-šu-nu	N
+<EoL>
+li-pu-šu	V
+<EoL>
+me-hi-ir	N
+ṭup-pi₂-ia	N
+<EoL>
+šu-bi-lam	V
+<EoL><EoT>
+a-na	PRP
+a-hi-ia	N
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂-šu	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ip-qu₂-{d}ša-la-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa₃-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš-ka	N
+<EoL>
+a-na	PRP
+da-mi-iq-tim	AJ
+li-ki-il	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ka	N
+aš-pu-ra-am	V
+<EoL>
+šu-lum-ka	N
+ma-ah-ri	PRP
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+<EoL>
+lu	MOD
+da-ri	V
+<EoL>
+ki-a-am	AV
+ta-aq-bi-a-am	V
+um-ma	PRP
+a-ta-ma	IP
+<EoL>
+ki-ma	PRP
+a-na	PRP
+{iri}ZIMBIR{ki}-ma	SN
+u₂-x-x	nan
+x	nan
+<EoL>
+ṭe₄-mi	N
+a-ša-pa-ra-ak-ku-um	V
+<EoL>
+šu-lum-ka	N
+u₂-ul	MOD
+ta-aš-pu-ra-am	V
+<EoL>
+aš-šum	PRP
+{gi}ku-ru-pe₂-e	N
+aš-šum	PRP
+ha	nan
+nu	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+x-mi	nan
+aš-šum	PRP
+ša-ma-aš-ki-li	N
+<EoL>
+ša	DET
+u₂-na-i-du-ka	V
+šu-uš-qu₂-ul	V
+<EoL>
+a-nu-um-ma	AV
+{d}MARDUK-mu-ša-lim	PN
+<EoL>
+ṭup-pi₂	N
+uš-ta-bi-la-ak-ku-um	V
+<EoL>
+u₃	CNJ
+{gi}ku-ru-pe₂-e	N
+ha	nan
+nu	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+tim	nan
+x	nan
+ma	nan
+$BI	nan
+ma	nan
+x	nan
+x	nan
+<EoL>
+šu-bi-lam	V
+u₃	CNJ
+ki-ma	PRP
+ša	DET
+a-na-ku	IP
+<EoL>
+al-li-ka-am	V
+a-na	PRP
+pa-ni-šu	N
+<EoL>
+i-zi-iz	V
+<EoL>
+u₃	CNJ
+A.ŠA₃	N
+$DIŠ	nan
+ša	DET
+ta	nan
+mi	nan
+ir	nan
+ia	nan
+a-di	PRP
+u₂-ul	MOD
+<EoL>
+a-ṣa-mi-id	V
+šu-lum-ka	N
+ar-hi-iš	AV
+<EoL>
+šu-up-ra-am	V
+u₃	CNJ
+me-hi-ir	N
+ṭup-pi₂-ia	N
+<EoL>
+šu-bi-lam	V
+<EoL><EoT>
+a-na	PRP
+{d}NANNA-in-du₈	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-i-din-nam-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+a-wi-lu-u₂	N
+LU₂	N
+ma-an-ki-sum₂{ki}	SN
+<EoL>
+še-a-am	N
+ša	DET
+il-qu₂-nim	V
+<EoL>
+a-na	PRP
+ṣi-bu-tim	N
+iš-ta-ak-nu-u₂-ma	V
+<EoL>
+še-a-am	N
+ha-aš-hu-u₂	V
+<EoL>
+1(u)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+i-di-iš-šu-nu-ši-im-ma	V
+<EoL>
+{diš}be-el-šu-nu	PN
+ra-bi-a-nu-um	N
+<EoL>
+u₃	CNJ
+ši-bu-ut	N
+IRI{ki}	N
+<EoL>
+ka-ni-kam	N
+li-zi-bu-nim	V
+<EoL>
+šum-ma	MOD
+šu-nu-ti	DET
+<EoL>
+tu-sa₃-al-li-im-šu-nu-ti	V
+<EoL>
+a-na-ku	IP
+it-ti-šu-nu	PRP
+<EoL>
+ka-ni-kam	N
+lu-zi-ba-kum	V
+<EoL>
+ma-ti-ma	AV
+a-na	PRP
+ṣi-bu-tim	N
+<EoL>
+u₂-ul	MOD
+aš-pu-ra-kum	V
+<EoL>
+u₃	CNJ
+šum-ma	MOD
+<EoL>
+it-ti	PRP
+ib-ri-ka	N
+<EoL>
+ta-ma-ra-am	V
+<EoL>
+a-na	PRP
+ša	DET
+aš-pu-ra-kum	V
+<EoL>
+la	MOD
+tu-uš-ta-ha	V
+<EoL>
+i-na	PRP
+an-ni-tim	DP
+at-hu-ut-ka	N
+<EoL>
+lu-mu-ur	V
+<EoL><EoT>
+a-na	PRP
+in-ba-tum	PN
+<EoL>
+u₃	CNJ
+{d}IŠKUR-na-ṣir	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}NANNA-in-du₈-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-li-ṭu₂-ku-nu-ti	V
+<EoL>
+a-na	PRP
+ṣi₂-bu-tim	N
+ša	DET
+al-li-kam	V
+<EoL>
+a-di-ni	AV
+ṣi₂-bu-ti	N
+u₂-ul	MOD
+e-pu-uš	V
+<EoL>
+ṭup-pi₂	N
+i-na	PRP
+a-ma-ri-im	N
+<EoL>
+{diš}{d}IŠKUR-na-ṣi-ir	PN
+u₃	CNJ
+{d}IŠKUR-nu-ri	PN
+<EoL>
+a-la-kam	N
+li-pu-šu-nim	V
+<EoL>
+a-na	PRP
+še-e-im	N
+ša-mi-im	N
+<EoL>
+an-ni-ki-a-am	AV
+u₂-ul	MOD
+i-ba-aš-ši-ma	V
+<EoL>
+a-na	PRP
+{iri}i-ši-in{ki}	GN
+<EoL>
+at-ta-la-ak	V
+<EoL>
+a-na	PRP
+E₂	N
+la	MOD
+te-gi-i	V
+<EoL>
+šum-ma	MOD
+še-a-am	N
+la	MOD
+ti-ša-a	V
+<EoL>
+KU₃.BABBAR	N
+ša	DET
+ta-am-ta-ha-ra	V
+<EoL>
+ṣu₂-ha-rum	N
+li-di-im-ma	V
+še-a-am	N
+<EoL>
+li-ša-ma-ku-nu-ši-im	V
+<EoL>
+šum-ma	MOD
+ŠE.GEŠ.I₃	N
+a-na	PRP
+ṣa-ha-tim	N
+<EoL>
+ta-ad-di-na	V
+I₃.GEŠ	N
+ma-ah-ru-um-ma	AV
+<EoL>
+la-ma	PRP
+e-bu-ri-im	N
+šu-di-na	V
+<EoL>
+šum-ma	MOD
+nu-ur₂-{d}MAR.TU	PN
+<EoL>
+it-ta-al-ka-am-ma	V
+SIKI.HI.A	N
+na-ši	V
+<EoL>
+um-ma	PRP
+at-ta-a-ma	IP
+5(diš)	NU
+GU₂.UN	N
+SIKI.HI.A	N
+<EoL>
+a-na	PRP
+{d}NANNA-in-du₈	PN
+u₂-ṣu₂-ur	V
+<EoL>
+šum-ma	MOD
+ši-ma-am	N
+na-ši	V
+<EoL>
+1(diš)	NU
+ši-ma-am	N
+li-ṣu₂-ra-am	V
+<EoL>
+ṭe₄-ma-am	N
+an-ni-a-am	DP
+{diš}{d}IŠKUR-na-ṣir	PN
+li-ib-la-am	V
+x	nan
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-e-ri-ba-am	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-wi-il-DINGIR-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+KU₃.BABBAR	N
+a-na	PRP
+TUG₂.HI.A	N
+ka-si₂-i-ma	V
+<EoL>
+TUG₂.HI.A	N
+ša	DET
+na-da-nim	N
+<EoL>
+a-di-in-ma	V
+ša-pi₂-il-ti	N
+<EoL>
+TUG₂.HI.A-ia	N
+i-na	PRP
+i-ma-ar{ki}	SN
+<EoL>
+DAM.GAR₃-ru-ta-am	N
+<EoL>
+i-na	PRP
+qa-tim	N
+ta-ki-il-tim	AJ
+<EoL>
+ag-mu-ur-ma	V
+<EoL>
+a-na	PRP
+ha-ši-im{ki}	SN
+<EoL>
+a-na	PRP
+KU₃.BABBAR	N
+ma-ha-ri-im	N
+<EoL>
+a-ta-ṣi₂	V
+<EoL>
+a-nu-um-ma	AV
+6(diš)	NU
+MA.NA	N
+KU₃.BABBAR	N
+<EoL>
+ša	DET
+am-hu-ru	V
+ri-iš-{d}UTU	PN
+<EoL>
+uš-ta-bi-la-kum	V
+<EoL>
+3(diš)	NU
+MA.NA	N
+KU₃.BABBAR	N
+ku-nu-ku-ia	N
+<EoL>
+la	MOD
+i-pe₂-tu-u₂	V
+<EoL>
+u₃	CNJ
+3(diš)	NU
+DUG	N
+he-el-di-tum	nan
+<EoL>
+a-na	PRP
+i-bi-{d}NIN.ŠUBUR	PN
+<EoL>
+{diš}a-pil₂-i₃-li₂-šu	PN
+<EoL>
+u₃	CNJ
+{diš}ib-ba-tum	PN
+<EoL>
+ta-ša-si-i-ma	V
+<EoL>
+ta-na-di-in	V
+<EoL>
+3(diš)	NU
+MA.NA	N
+KU₃.BABBAR	N
+<EoL>
+a-ša-ar	N
+<EoL>
+ni-iṭ-li-ka	N
+ta-na-di-in	V
+<EoL>
+KU₃.BABBAR	N
+MAŠ₂	N
+la	MOD
+i-ka-ṣa-ra-na-ši-im	V
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-e-ri-ba-am	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-wi-il-DINGIR-ma	PN
+{d}UTU	DN
+li-ba-al-li-iṭ-ka	V
+<EoL>
+ša-al-ma-a-ku	V
+3(diš)	NU
+ši-ma-am	N
+<EoL>
+a-ša-am-ma	V
+u₂-ul	MOD
+aṭ-ru-da-kum	V
+<EoL>
+um-ma	PRP
+a-na-ku-u₂-ma	IP
+it-ti-šu-ma	PRP
+<EoL>
+ši-ma-am	N
+ša	DET
+ru-di-im	V
+lu-re-di-i-ma	V
+<EoL>
+lu-ut-ta-la-ak	V
+i-na	PRP
+e-ri-ib-ti	N
+<EoL>
+gi-ri-im	N
+ma-ah-ri-tim	AJ
+<EoL>
+ša	DET
+i-ru-ba-am	V
+ši-ma-am	N
+<EoL>
+ša	DET
+i-ma-qu₂-ta-am	V
+<EoL>
+šum-ma	MOD
+{d}UTU	DN
+it-ba-lam	V
+a-ša-ma-am-ma	V
+<EoL>
+ar-hi-iš	AV
+at-ta-la-kam	V
+<EoL>
+di-in	N
+{d}UTU	DN
+a-nu-um	DP
+<EoL>
+i-pe₂-šum	N
+ša	DET
+te-pu-šu	V
+<EoL>
+šum-ma	MOD
+a-wi-lum	N
+<EoL>
+a-wi-lam-ma	N
+la	MOD
+i-de	V
+<EoL>
+ki-a-am	AV
+i-pi₂-iš	N
+a-wi-lum	N
+<EoL>
+{diš}{mi₂}ba-ka-tum	PN
+SIKI	N
+<EoL>
+u₂-ul	MOD
+i-šu-ma	V
+KU₃.BABBAR	N
+i-ri-iš-ka-ma	V
+<EoL>
+KU₃.BABBAR	N
+u₂-ul	MOD
+ta-na-di-ši-im	V
+<EoL>
+u₂-lu-u₂-ma	CNJ
+SIKI	N
+u₂-ul	MOD
+ta-ša-am-ši	V
+<EoL>
+a-na	PRP
+mi-nim	QP
+e-te-pu-ša-am	V
+<EoL>
+an-ni-a-am	DP
+te-te-ne-pi₂-iš	V
+<EoL>
+u₃	CNJ
+še-a-am	N
+ša	DET
+u₂-na-i-du-ka	V
+<EoL>
+u₂-ul	MOD
+ta-aš-pu-ra-am	V
+<EoL>
+a-na	PRP
+x-ši-im-ma	nan
+ta-aš-ta-ka-an	V
+<EoL>
+4(diš)	NU
+ši-ma-am	N
+ša	DET
+bi-ri-ni	PRP
+<EoL>
+a-na	PRP
+{diš}i₃-li₂-u₃-{d}UTU	PN
+a-di-nam	V
+<EoL>
+KU₃.BABBAR	N
+ši-i-im-ši-na	N
+<EoL>
+ša	DET
+TE	nan
+KU	nan
+u₂	CNJ
+KU₃.BABBAR-am	N
+<EoL>
+ma-li	REL
+KU₃.BABBAR-im	N
+<EoL>
+li-ih-ru-$AZ-ma	V
+<EoL>
+ša-pi₂-il-ti	N
+<EoL>
+KU₃.BABBAR	N
+ba-am-ta-am	N
+<EoL>
+li-di-na-kum	V
+<EoL>
+u₃	CNJ
+ga-mi-ir	N
+<EoL>
+ši-mi-ka	N
+<EoL>
+hu-ru-$AZ	V
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-e-ri-ba-am	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-wi-il-DINGIR-ma	PN
+{d}UTU	DN
+li-ba-al-li-iṭ-ka	V
+<EoL>
+a-nu-um	DP
+ša	DET
+u₂-na-i-du-ka	V
+<EoL>
+um-ma	PRP
+a-na-ku-u₂-ma	IP
+ki-ma	PRP
+e-re-bi-ka	N
+<EoL>
+KU₃.BABBAR	N
+qa-ti	N
+a-wi-li-im	N
+u₂-su-uh	V
+<EoL>
+KU₃.BABBAR	N
+qa-ti	N
+a-wi-li-im	N
+<EoL>
+u₂-ul	MOD
+ta-su-uh	V
+u₃	CNJ
+KU₃.BABBAR	N
+MAŠ₂	N
+u₂-ṣa-ab	V
+<EoL>
+di-in	N
+{d}UTU	DN
+e-pe₂-šum	N
+a-nu-um	DP
+<EoL>
+ša	DET
+te-pu-šu	V
+šum-ma	MOD
+KU₃.BABBAR	N
+qa-ti	N
+<EoL>
+a-wi-li-im	N
+a-di-ni	AV
+la	MOD
+ta-na-sa-ah	V
+<EoL>
+KU₃.BABBAR	N
+qa-ti	N
+a-wi-lim	N
+u₂-su-uh	V
+<EoL>
+u₃	CNJ
+ṭe₄-em-ka	N
+ar-hi-iš	AV
+<EoL>
+šu-up-ra-am	V
+<EoL>
+u₃	CNJ
+ša-pi₂-il-ti	N
+KU₃.BABBAR	N
+<EoL>
+ša	DET
+i-na	PRP
+qa-ti-ka	N
+i-ri-hu	V
+<EoL>
+1(diš)	NU
+ŠE	N
+KU₃.BABBAR	N
+a-na	PRP
+ma-ma-an	XP
+<EoL>
+ba-lu-ia	PRP
+la	MOD
+tu-ši-ṣi₂	V
+<EoL>
+1(diš)	NU
+ŠE	N
+KU₃.BABBAR	N
+tu-ši-ṣi₂-ma	V
+<EoL>
+a-pa-li-ia	N
+u₂-ul	MOD
+te-le-i	V
+<EoL>
+u₃	CNJ
+ši-mu-um	N
+u₂-ul	MOD
+i-ba-aš-ši-ma	V
+<EoL>
+u₂-ul	MOD
+at-ta-al-kam	V
+<EoL>
+{diš}i-lu-{d}UTU	PN
+ši-ma-am	N
+<EoL>
+ša	DET
+i-ba-aš-šu-u₂	V
+<EoL>
+i-la-qe₃-a-ma	V
+a-na	PRP
+5(diš)	NU
+u₄-mi	N
+<EoL>
+i-la-kam	V
+u₃	CNJ
+a-na-ku	IP
+ri-iš	N
+e-ri-ib-ti	N
+<EoL>
+ša	DET
+i-ru-ba-am	V
+u₂-qa₂	V
+<EoL>
+šum-ma	MOD
+ši-mu-um	N
+<EoL>
+im-ta-aq-tam	V
+<EoL>
+ar-hi-iš	AV
+<EoL>
+at-ta-la-kam	V
+<EoL>
+ša	DET
+ar-hi-iš	AV
+<EoL>
+at-lu-ki-im	N
+<EoL>
+i-na	PRP
+qa-ti-ia	N
+<EoL>
+ṣa-ab-ta-ku	V
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-e-ri-ba-am	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-wi-il-DINGIR-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+ša-al-ma-a-ku	V
+<EoL>
+TUG₂.HI.A-ti-ia	N
+at-ta-di-in	V
+<EoL>
+u₃	CNJ
+a-na-ku	IP
+a-na	PRP
+a-šu-ur{ki}	SN
+<EoL>
+at-ta-ṣi₂	V
+{geš}MA₂	N
+ša	DET
+{na₄}UR₅	N
+<EoL>
+{diš}a-da-ia-tum	PN
+a-hu-ka	N
+<EoL>
+ra-ki-ib	V
+i-na	PRP
+{geš}MA₂	N
+<EoL>
+ši-a-ti	IP
+ba-am-tum	N
+<EoL>
+i-ia-tu-un	PP
+<EoL>
+lu-u₂	CNJ
+LU₂	N
+at-ta	IP
+<EoL>
+it-ti-šu	PRP
+ri-ka-am-ma	V
+<EoL>
+{na₄}UR₅.HI.A	N
+bu-ri-a-ma	V
+<EoL>
+ba-ma-at	N
+ri-ik-si-im	N
+<EoL>
+u₃	CNJ
+ša	DET
+i-ba-aš-šu-u₂	V
+<EoL>
+ma-ha-aṣ	V
+<EoL>
+aš-tap-ra-kum	V
+lu-u₂	CNJ
+LU₂	N
+at-ta	IP
+<EoL>
+{na₄}UR₅	N
+iš-te-en₆	NU
+<EoL>
+dam-qa₂-am	AJ
+u₂-su-uq-ma	V
+<EoL>
+a-na	PRP
+E₂	N
+i-di-in	V
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-e-ri-ba-am	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-wi-il-DINGIR-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+ša-al-ma-a-ku	V
+<EoL>
+a-na	PRP
+ia-ab-li-ia{ki}	GN
+<EoL>
+e-te-ru-ub	V
+<EoL>
+i-la-ta-am	N
+ak-ta-aš-da-am	V
+<EoL>
+it-ti	PRP
+i-la-tim	N
+<EoL>
+nu-ta-ka-al-ma	V
+<EoL>
+nu-ṣi₂	V
+<EoL>
+DUG	N
+na-aš-pa-ka-am	N
+<EoL>
+ša	DET
+{diš}i-lu-{d}UTU	PN
+<EoL>
+u₂-ša-bi-lam	V
+<EoL>
+i-na	PRP
+E₂	N
+{diš}ṣil₂-li₂-{d}be-el-ŠINIG	PN
+<EoL>
+li-ša-ki-in	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+hi-ši-ih-tim	N
+<EoL>
+ša	DET
+{diš}ba-ka-tim	PN
+<EoL>
+i-zi-iz	V
+<EoL>
+šum-ma	MOD
+{d}UTU	DN
+iq-ta-bi	V
+<EoL>
+a-na-ku	IP
+ar-hi-iš	AV
+<EoL>
+at-ta-la-kam	V
+<EoL>
+lu₂	MOD
+a-wi-lum	N
+<EoL>
+at-ta	IP
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-e-ri-ba-am	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+LU₂-DINGIR-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+ša-al-ma-a-ku	V
+mi-im-ma	XP
+<EoL>
+la	MOD
+ta-na-ak-ku-ud	V
+<EoL>
+KU₃.BABBAR	N
+u₂-ul	MOD
+im-hu-ra-an-ni-ma	V
+<EoL>
+a-na	PRP
+sa-ma-nim{ki}	SN
+e-te-tu-uq	V
+<EoL>
+aš-šum	PRP
+SAG.IR₃	N
+ša	DET
+a-na	PRP
+{diš}su-um-ma-DINGIR	PN
+<EoL>
+ad-di-nu	V
+SAG.IR₃	N
+ša-a-tu	DET
+<EoL>
+it-ti	PRP
+su-mu-ha-am-mu	PN
+<EoL>
+su-ha-yi-im	EN
+a-na	PRP
+šu-ba-ri	N
+<EoL>
+a-ša-am	V
+<EoL>
+ši-bu-ia	N
+{diš}a-ba-a	PN
+<EoL>
+DUMU	N
+{d}we-er-i-din-nam	PN
+<EoL>
+{diš}ip-qa₂-tum	PN
+tap-pu-šu	N
+<EoL>
+u₃	CNJ
+i-tu-ur-aš-du-u₂	PN
+<EoL>
+a-pi-iš	AV
+{diš}su-mu-ha-am-mu	PN
+<EoL>
+i-na	PRP
+KA₂.DINGIR.RA	SN
+wa-aš-bu	V
+<EoL>
+a-li-ik	V
+tu-ra-aš-šu-ma	V
+<EoL>
+ši-bu-šu	N
+li-iq-bu-ma	V
+<EoL>
+a-wa-tum	N
+ši-na	IP
+li-iq-qa₂-bi-ia	V
+<EoL>
+a-pi-iš	AV
+LU₂	N
+i-na	PRP
+KA₂.DINGIR.RA	SN
+<EoL>
+wa-aš-bu	V
+ni-di	N
+a-hi	N
+<EoL>
+la	MOD
+ta-ra-aš-ši	V
+x	nan
+<EoL>
+a-wa-tim	N
+ši-na-ti	IP
+<EoL>
+gu-mu-ur	V
+SAG.IR₃	N
+a-na	PRP
+1(u).9(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+<EoL>
+i-na	PRP
+aš-šu-ur{ki}	SN
+id-di-nam	V
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-e-ri-ba-am	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-wi-il-DINGIR-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+ša-al-ma-a-ku	V
+<EoL>
+mi-im-ma	XP
+la	MOD
+ta-na-ku-ud	V
+<EoL>
+TUG₂.HI.A	N
+at-ta-di-in	V
+<EoL>
+a-na	PRP
+tu-ku-ul-ti	N
+{d}UTU	DN
+<EoL>
+a-na	PRP
+a-šu-ur{ki}	SN
+<EoL>
+at-ta-ṣi₂	V
+<EoL>
+5(u)	NU
+TUG₂.HI.A	N
+ša	DET
+be-el-šu-nu	PN
+<EoL>
+i-di-nam	V
+<EoL>
+2(diš)	NU
+1/2(diš)	NU
+MA.NA	N
+1(diš)	NU
+1/2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+<EoL>
+NA₄	N
+su-hi-im{ki}	SN
+<EoL>
+u₃	CNJ
+7(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+NA₄	N
+{d}UTU	DN
+<EoL>
+ša	DET
+e-li-ia	PRP
+i-šu	V
+<EoL>
+3(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+a-na	PRP
+ga-am-ri-šu	N
+<EoL>
+$AH-ru-$AZ-ma	nan
+4(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+<EoL>
+an-ni-a-am	DP
+u₃	CNJ
+an-ni-a-am	DP
+<EoL>
+{diš}{d}SUEN-na-ap-še-ra-am	PN
+<EoL>
+uš-ta-bi-la-šu	V
+<EoL>
+i-zi-iz-ma	V
+<EoL>
+ka-ni-ki	N
+<EoL>
+li-qe₃-ma	V
+<EoL>
+re-ši	N
+li-ki-il	V
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-e-ri-ba-am	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-wi-il-DINGIR-ma	PN
+<EoL>
+{d}UTU	DN
+li-ba-al-li-iṭ-ka	V
+<EoL>
+ša-al-ma-a-ku	V
+<EoL>
+i-na	PRP
+a-šu-ur{ki}	SN
+a-na-ku	IP
+<EoL>
+ṣi-bu-ti	N
+e-te-pu-uš₂	V
+<EoL>
+ši-ma-am	N
+ši-na	NU
+ša-la-ša-at	NU
+<EoL>
+e-i-lam-ma	V
+ar-hi-iš	AV
+<EoL>
+at-ta-la-kam	V
+<EoL>
+{geš}MA₂	N
+ša	DET
+{na₄}UR₅.HI.A	N
+<EoL>
+{diš}a-hu-ka	N
+ir-ka-ba-am	V
+<EoL>
+i-na	PRP
+li-ib-bi-im	N
+<EoL>
+ba-am-tum	N
+i-ia-tu	PP
+<EoL>
+aš-pu-ra-kum	V
+lu-u₂	MOD
+a-wi-lum	N
+at-ta	IP
+<EoL>
+{na₄}UR₅.HI.A	N
+šu-nu-ti	DET
+<EoL>
+a-na	PRP
+ri-ik-si-im	N
+<EoL>
+te-ra-šu-nu-ti-ma	V
+<EoL>
+ba-ma-at	N
+ri-ik-si-im	N
+<EoL>
+ma-ha-aṣ	V
+<EoL>
+ṣi₂-bi-it	N
+ṭe₄-mi-im	N
+<EoL>
+a-na	PRP
+pa-ni-ia	N
+<EoL>
+lu-u₂	MOD
+ti-šu	V
+<EoL>
+ar-hi-iš	AV
+<EoL>
+at-ta-la-kam	V
+<EoL><EoT>
+a-na	PRP
+IR₃-{d}SUEN	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ta-ri-ša	PN
+DUMU.MUNUS-ka-a-ma	N
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}a-šur	DN
+<EoL>
+aš-šu-mi-ia	PRP
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+a-mu-ur-ri-tim	N
+<EoL>
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+um-ma	PRP
+at-ta-a-ma	IP
+<EoL>
+ṭu₂-ur-da-aš-ši	V
+<EoL>
+ṣu₂-ha-rum	N
+u₂-ul	MOD
+wa-ši-ib-ma	V
+<EoL>
+a-mu-ur-ri-ta-am	N
+<EoL>
+u₂-ul	MOD
+aṭ-ru-da-kum	V
+<EoL>
+ki-ma	PRP
+ṣu₂-ha-rum	N
+<EoL>
+iš-tu	PRP
+ma-at	N
+<EoL>
+šu-bar-tim	GN
+it-ta-al-kam	V
+<EoL>
+a-mu-ur-ri-ta-am	N
+<EoL>
+u₃	CNJ
+ṣu₂-ha-ra-am	N
+<EoL>
+aṭ-ṭa-ra-da-kum	V
+<EoL>
+aš-šum	PRP
+ṭe₄-em	N
+ta-ma-ar-ti	N
+<EoL>
+ša	DET
+i-bi-{d}UTU	PN
+u₂-ša-bi-la-kum	V
+<EoL>
+{diš}{d}SUEN-i-din-nam	PN
+na-ap-ṭa-ri	N
+<EoL>
+ṭup-pa-am	N
+u₂-ša-bi-lam	V
+<EoL>
+u₃	CNJ
+{d}SUEN-i-din-nam	PN
+<EoL>
+ih-ri-iš-er₃-ra	PN
+<EoL>
+3(diš)	NU
+EŠ₂	N
+ša	DET
+ti-na-tim	N
+<EoL>
+a-na	PRP
+ṣu₂-ha-ar-tim	N
+<EoL>
+u₂-ša-bi-lam	V
+<EoL>
+id-di-nu-ni-ku-um	V
+<EoL>
+DINGIR	N
+u₃	CNJ
+{d}UTU	DN
+gi-mi-il-ma	V
+<EoL>
+ki-ma	PRP
+a-lum	N
+iš-mu-ma	V
+<EoL>
+ik-ru-ba-kum	V
+x	nan
+<EoL>
+i-na-an-na	AV
+li-iš-me-ma	V
+<EoL>
+li-ik-ru-ba-am	V
+<EoL>
+{diš}be-el-ti-la-ma-si₂	PN
+qa-du-um	PRP
+DUMU.MUNUS.MEŠ-ša	N
+<EoL>
+ṭu₂-ur-da-aš-ši	V
+it-ti	PRP
+{d}SUEN-i-din-nam	PN
+<EoL>
+u₃	CNJ
+ri-ik-sa	N
+u₃	CNJ
+{tug₂}lu-ba-re-e	N
+šu-bi-lam	V
+<EoL><EoT>
+a-na	PRP
+ta-tu-ur₂-ma-tum	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ta-ri-ša-a-ma	PN
+<EoL>
+{d}eš₁₈-dar	DN
+u₃	CNJ
+{d}taš-me-tum	DN
+<EoL>
+li-ba-al-li-ṭa-ki	V
+<EoL>
+aš-šum	PRP
+a-mu-ur-ri-tim	N
+<EoL>
+u₃	CNJ
+{d}a-šur-ta-a-ia-ar	PN
+<EoL>
+ša	DET
+ta-aš-pu-ra-nim	V
+<EoL>
+um-ma	PRP
+at-tu-nu-ma	IP
+<EoL>
+ṭu₂-ur-di-iš-šu-nu-ti	V
+<EoL>
+ṣu₂-ha-rum	N
+i-na	PRP
+ma-a-at	N
+<EoL>
+šu-bar-tim	GN
+wa-ši-ib-ma	V
+<EoL>
+u₂-ul	MOD
+aṭ-ru-da-aš-šu-nu-ti	V
+<EoL>
+ki-ma	PRP
+ik-ta-aš-dam	V
+<EoL>
+a-ṭa₂-ra-da-šu-nu-ti	V
+<EoL>
+aš-šum	PRP
+ṭe₄-em	N
+ta-ma-ar-ti	N
+<EoL>
+ša	DET
+i-bi-{d}UTU	PN
+u₂-ša-bi-lam	V
+<EoL>
+{diš}{d}SUEN-i-din-nam	PN
+na-ap-ṭa-ri	N
+<EoL>
+ṭup-pa-am	N
+u₂-ša-bi-lam	V
+<EoL>
+u₃	CNJ
+{d}SUEN-i-din-nam	PN
+<EoL>
+ih-ri-iš-er₃-ra	PN
+<EoL>
+3(diš)	NU
+EŠ₂	N
+ša	DET
+ti-na-tim	N
+<EoL>
+u₂-ša-bi-la-ki-im	V
+<EoL>
+id-di-nu-ni-ik-ki-im	V
+<EoL>
+ki-ma	PRP
+a-ha-ti	N
+at-ti	IP
+<EoL>
+a-lum	N
+a-šur	SN
+iš-me-ma	V
+<EoL>
+i-ka-ra-ba-ku-nu-ši-im	V
+<EoL>
+u₃	CNJ
+a-na-ku	IP
+ma-ha-ar	N
+<EoL>
+eš₁₈-dar	DN
+u₃	CNJ
+{d}taš-me-tum	DN
+<EoL>
+a-na	PRP
+ba-la-ṭi₃-ku-nu	N
+<EoL>
+ak-ta-na-ra-ab	V
+<EoL>
+{diš}be-el-ti-la-ma-si₂	PN
+<EoL>
+qa₂-du-um	PRP
+DUMU.MUNUS.MEŠ-ša	N
+<EoL>
+it-ti	PRP
+{d}SUEN-i-din-nam	PN
+<EoL>
+ṭu₂-ur-da-aš-ši	V
+u₃	CNJ
+ri-ik-sa-am	N
+<EoL>
+ša	DET
+LU₂-{d}IŠKUR	PN
+u₃	CNJ
+wa-ak-lu	N
+ik-nu-ku	V
+<EoL>
+u₃	CNJ
+{tug₂}lu-ba-re-e	N
+šu-bi-la-nim	V
+<EoL><EoT>
+a-na	PRP
+a-wi-lim	N
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-li-ṭu₂-šu	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+su-mu-AKŠAK{ki}-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+i-bi-{d}IŠKUR	PN
+DAM.GAR₃	N
+i-da-ma-ra-aṣ{ki}	GN
+<EoL>
+NIG₂.ŠU	N
+{d}UTU-ma-gir	PN
+<EoL>
+i-na	PRP
+pa-ni-tim	N
+i-nu-ma	SBJ
+a-na	PRP
+tam-li-tim	N
+a-na	PRP
+E₂.DURU₅-bi₂-sa₃{ki}	SN
+<EoL>
+a-wi-lum	N
+il-li-kam	V
+aš-šum	PRP
+i-bi-{d}IŠKUR	PN
+šu-a-ti	IP
+<EoL>
+ki-a-am	AV
+aq-bi-kum	V
+um-ma	PRP
+a-na-ku-ma	IP
+<EoL>
+a-wi-lu-u₂	N
+ša	DET
+iš-di-in	N
+la	MOD
+i-šu-u₂-ma	V
+<EoL>
+a-na	PRP
+pi₂-ha-ti-šu-nu	N
+la	MOD
+iz-za-az-zu	V
+<EoL>
+i-na	PRP
+AGA.US₂.MEŠ	N
+ta-as-su₂-ha-šu-nu-ti-ma	V
+<EoL>
+ṣi-bu-ut-ku-nu	N
+i-ip-pu-šu	V
+<EoL>
+i-na-an-na	AV
+i-bi-{d}IŠKUR	PN
+an-nu-um	DP
+<EoL>
+ši-pi₂-ir	N
+i-ki	N
+šu	nan
+$UD	nan
+x	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+a-na	PRP
+a-wi-lim	N
+x	nan
+<EoL>
+A.ŠA₃-lam	N
+šu-a-ti	IP
+a-na	PRP
+i-di-ka	N
+<EoL>
+te-er-šu-ma	V
+$KU-pa-ar-tam	nan
+ša	DET
+E₂-tim	N
+<EoL>
+ša	DET
+DUMU.MUNUS	N
+E₂-tim	N
+li-il-qe₂-ma	V
+<EoL>
+iš-ti-a-at	NU
+li-pu-uš	V
+<EoL>
+ki-a-am	AV
+a-wa-tam	N
+an-ni-tam	DP
+aq-bi-kum-ma	V
+<EoL>
+a-an-nam	J
+ta-pu-la-an-ni	V
+<EoL>
+i-na-an-na	AV
+i-bi-{d}IŠKUR	PN
+šu-u₂	IP
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+wa-ar-ki-ka	PRP
+il-li-kam	V
+<EoL>
+ṭup-pi₂	N
+ik-šu-da-ak-ka-ma	V
+<EoL>
+a-na	PRP
+ṣe-ri-ka	N
+aṭ-ṭar-da-aš-šu	V
+<EoL>
+šum-ma	MOD
+a-wa-tum	N
+i-in-ka	N
+ma-ah-ra-at	V
+<EoL>
+ṭup-pa-ka	N
+a-na	PRP
+a-wi-lim	N
+šu-bi-lam-ma	V
+<EoL>
+u₃	CNJ
+a-na-ku	IP
+an-ni-ki-a-am	AV
+lu-uš-ter-di-šu-ma	V
+<EoL>
+a-na	PRP
+i-di-ka	N
+te-er-šu	V
+<EoL>
+ša-ni-tam	AJ
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+{diš}IR₃-{d}da-gan	PN
+ma-di-iš	AV
+<EoL>
+ia-ti	IP
+u₃	CNJ
+ša	DET
+E₂	N
+na-ap-ṭa-ri-ia	N
+<EoL>
+u₂-na-az-zi-im	V
+x	nan
+<EoL>
+ki-a-am	AV
+iq-bi-a-am	V
+<EoL>
+a-wi-lum	N
+šu-u₂	IP
+qe₂-er-ba-am	N
+<EoL>
+wa-ar-ka-as-su₂	N
+<EoL>
+pu-ru-us₂	V
+x	nan
+<EoL><EoT>
+a-na	PRP
+a-wi-lim	N
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂-šu	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+i₃-li₂-a-si-i-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+DINGIR	N
+na-ṣi-ir-ka	V
+re-eš	N
+da-mi-iq-ti-ka	N
+<EoL>
+li-ki-il	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ka	N
+aš-pu-ra-am	V
+<EoL>
+šu-lum-ka	N
+ma-har	N
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+lu	MOD
+da-ri	V
+<EoL>
+aš-šum	PRP
+ša	DET
+{d}SUEN-i-tu-ra-am	PN
+u₃	CNJ
+{d}SUEN-še-mi	PN
+<EoL>
+ša	DET
+ṭup-pa-ka	N
+tu-ša-bi-lam	V
+um-ma	PRP
+at-ta-ma	IP
+<EoL>
+A₂	N
+{geš}MA₂	N
+u₃	CNJ
+el-me-šum	PN
+ra-ma-an-ka	RP
+<EoL>
+šu-ta-as-si₂-iq-ma	V
+<EoL>
+x	nan
+ERIM	N
+tu-ub-ba-al-šu-nu-ši	V
+<EoL>
+x	nan
+TUG₂	N
+še-am	N
+u₃	CNJ
+KU₃.BABBAR	N
+<EoL>
+i-di-in-ma	V
+<EoL>
+ERIM	N
+li-li-ka-am	V
+<EoL>
+ša	DET
+ta-aš-pu-ra-am	V
+<EoL>
+a-na	PRP
+ša	DET
+aš-pu-ra-am	V
+ni-di	N
+a-hi-im	N
+u₂-ši-ra-am	V
+<EoL>
+a-na	PRP
+u₂-um	N
+a-da-nim	N
+ša	DET
+aš-ku-nu-šu-nu-ši	V
+<EoL>
+li-il-li-ku-nim-ma	V
+<EoL>
+SA₁₀	N
+SIKI	N
+ša	DET
+ha-aš-ha-at	V
+<EoL>
+li-il-qu₂-u₂	V
+<EoL>
+A₂	N
+{geš}MA₂	N
+a-na	PRP
+U₄.2(u).KAM	NU
+U₄.2(u).KAM	N
+li-li-kam	V
+<EoL><EoT>
+a-na	PRP
+a-bi-ia	N
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+be-el-šu-nu	PN
+ma-ru-ka-ma	N
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+aš-šu-mi-ia	PRP
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+aš-šum	PRP
+a-wa-a-tim	N
+ša	DET
+E₂	N
+a-ha-ti-ia	N
+<EoL>
+qu₂-ut-ti-ši-na	N
+u₃	CNJ
+ga-ma-ri-ši-na	N
+<EoL>
+{diš}ša-am-hu-um	PN
+u₃	CNJ
+a-hu-ši-na	PN
+ah-hu-ia	N
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+il-li-ku-nim-ma	V
+<EoL>
+{diš}aš-di-ṣu₂-ra	PN
+i-mu-ur-šu-nu-ti-ma	V
+<EoL>
+a-na	PRP
+še-im	N
+ša	RP
+ma-ah-ri-ka	PRP
+<EoL>
+pe₂-te-e	V
+u₃	CNJ
+ta-ba-lim	N
+<EoL>
+{diš}i-din-{d}SUEN	PN
+la	MOD
+wa-aš-ra-am	AJ
+<EoL>
+u₃	CNJ
+2(diš)	NU
+LU₂	N
+it-ti-šu	PRP
+<EoL>
+iṭ-ṭa₃-ar-dam	V
+<EoL>
+ki-ma	SBJ
+iš-tu	PRP
+pa-na	N
+ta-ag-mi-la-ni	V
+<EoL>
+u₃	CNJ
+gi-mi-il-la-ka	N
+ra-bu-um	AJ
+<EoL>
+e-li-ia	PRP
+ša-ak-nu	V
+<EoL>
+ZIMBIR{ki}	SN
+ka-lu-šu	N
+i-de-e	V
+<EoL>
+i-na-an-na	AV
+še-a-am	N
+šu-a-ti	IP
+<EoL>
+a-na	PRP
+pe₂-te	V
+la	MOD
+ta-na-ad-di-in	V
+<EoL>
+ki-a-am	AV
+qi₂-bi	V
+um-ma	PRP
+at-ta-ma	IP
+<EoL>
+a-na	PRP
+ri-ib-ba-ti-šu	N
+li-ka-li	V
+<EoL>
+u₃	CNJ
+i-nu-ma	SBJ
+a-wa-tim	N
+ša	DET
+E₂	N
+a-ha-ti-šu	N
+<EoL>
+1(u)	NU
+GIN₂	N
+KU₃.SIG₁₇	N
+1(diš)	NU
+MA.NA	N
+KU₃.BABBAR	N
+<EoL>
+a-na	PRP
+ši-im	N
+še-im	N
+it-ti	PRP
+DAM.GAR₃	N
+<EoL>
+il-qe₂-e-ma	V
+aš-šu-mi-šu	PRP
+<EoL>
+a-na	PRP
+DAM.GAR₃	N
+qa₂-ba-am	N
+<EoL>
+aš-ku-un	V
+šu-zu-ub-ka	N
+<EoL>
+ra-bi-a-am	AJ
+lu-mur	V
+ki-ma	PRP
+ša	DET
+si₂-si₂-ik-ta-ka	N
+<EoL>
+i-ṣa-ab-ba-tu	V
+ma-la	REL
+i-ba-šu	V
+ku-ul-li-ma-an-ni	V
+<EoL><EoT>
+a-na	PRP
+e-ri-ib-{d}SUEN	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ku-ur-ku-ur-tum	PN
+a-ha-at-ka-ma	N
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+be-li₂	N
+{d}IŠKUR	DN
+aš-šu-mi-ia	PRP
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+ša-al-ma-ku	V
+a-na-ku	IP
+u₃	CNJ
+at-ta-a-ma	IP
+<EoL>
+ni-ir-te-eh	V
+i-ša-ni-ma	V
+<EoL>
+um-mi	N
+u₂-la-da-ni	V
+<EoL>
+a-na	PRP
+mi-ni-im	QP
+i-na	PRP
+la	MOD
+a-li-ia	N
+<EoL>
+u₂	CNJ
+šu-mi-ia	N
+a-ta-na-qi₃	V
+<EoL>
+u₃	CNJ
+pi₂-la-ki	N
+me₂-he-er-ti-ia	N
+<EoL>
+u₂-ka-al	V
+a-nu-um-ma	AV
+<EoL>
+{diš}sin-e-ri-ba	PN
+<EoL>
+{diš}i-bi-{d}UTU	PN
+<EoL>
+u₃	CNJ
+ib-ni-še-rum	PN
+<EoL>
+ši-ta-a-al	V
+<EoL>
+ša	DET
+i-te-pu-ša-ni	V
+<EoL>
+i-na	PRP
+bi-ti-im	N
+re-qi₂-im	AJ
+<EoL>
+wa-aš-ba-ku	V
+u₂	CNJ
+mu-ut	N
+ma-ti-i	N
+<EoL>
+a-ma-at	V
+i-na	PRP
+pu-hu-ur	N
+<EoL>
+sa₃-bi-i	N
+i-ta-bi-a-ma	V
+<EoL>
+um-ma	PRP
+šu-ma	IP
+ma-ra-at	N
+<EoL>
+nu-ku-us₂-ti	N
+ma-ra-at	N
+<EoL>
+hu-tu-up-ti	N
+ša	DET
+be-el-le-et	N
+<EoL>
+ta-ah-nu-qa₂	V
+<EoL>
+u₂-ma-am	N
+ma-ra-at	N
+<EoL>
+{diš}sin-ma-gir	PN
+be-li-ka	N
+<EoL>
+a-ta-ha-az	V
+<EoL>
+al-ka-am-ma	V
+<EoL>
+wa-ar-ka-ti	N
+pu-ru-us₂	V
+<EoL>
+šum-ma	MOD
+la	MOD
+ki-a-am-ma	AV
+<EoL>
+a-bi	N
+a-ṣa-ba-at	V
+la	MOD
+<EoL>
+a-na	PRP
+me-e	N
+a-ma-qu₂-ut	V
+<EoL>
+u₂	CNJ
+pi₂-e-iš-ta-am	N
+<EoL>
+a-ša-ka-ak-ka	V
+<EoL>
+at-ta	IP
+ba-al-ṭa₃-ta	V
+<EoL>
+u₂	CNJ
+a-na-ku	IP
+mu-ut	N
+i-ta-x	nan
+a-ma-at	V
+<EoL><EoT>
+a-na	PRP
+ša-pi₂-ri-ia	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+be-el-NUMUN	PN
+IR₃-ka-ma	N
+<EoL>
+ša-pi₂-ri	N
+at-ta	IP
+it-ti-ia	PRP
+IR₃-ki-nu-ni	PN
+DUMU	N
+še₂₀-ep-{d}SUEN	PN
+<EoL>
+a-na	PRP
+DUMU	N
+$KU	nan
+$UL	nan
+a-wi-li	N
+de-ki-i	N
+KU₃.BABBAR	N
+<EoL>
+ta-aṭ-ru-dam	V
+<EoL>
+1(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+ša	DET
+aq-bi-a-ku	V
+<EoL>
+1/2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+ar-du-um	PN
+DUMU	N
+DINGIR-x-x-x	nan
+<EoL>
+id-di-nam	V
+<EoL>
+u₃	CNJ
+1/2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+ar-ra-bu	PN
+AŠGAB	N
+id-di-nam	V
+<EoL>
+u₄-ma-am	AV
+KU₃.BABBAR	N
+šu-a-ti	IP
+ša-pi₂-ri	N
+at-ta	IP
+<EoL>
+u₂-ul	MOD
+ta-am-hu-ur-ma	V
+i-na	PRP
+qa₂-ab-li-a-ti	N
+<EoL>
+ša	DET
+pu-uh₂-ri	N
+ša	DET
+a-wi-le-e	N
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+GIN₂	N
+KU₃.BABBAR	N
+x	nan
+$ZUM-ma	nan
+<EoL>
+x	nan
+x	nan
+x	nan
+x-ka-ar	nan
+x	nan
+x	nan
+<EoL>
+i-na	PRP
+qa₂-ti	N
+ša-pi₂-ri-ia	N
+ka-ta	IP
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+bi	nan
+li	nan
+a-la-aq-qe₂-a-am-ma	V
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+x	nan
+$RA	nan
+a-na	PRP
+ma-har	N
+ša-pi₂-ri-ia	N
+<EoL>
+u₂-ub-ba-lam	V
+<EoL>
+x	nan
+x	nan
+x	nan
+x	nan
+i-na	PRP
+pa-ni	N
+na-pi₂-iš-ti-ia	N
+<EoL>
+a-na	PRP
+ša-pi₂-ri-ia	N
+ka-ta	IP
+<EoL>
+ak-ta-na-ar-ra-ab	V
+<EoL>
+ar-hi-iš	AV
+ša-pi₂-ri	N
+ṭup-pa-šu	N
+<EoL>
+a-na	PRP
+ar-ra-bu	PN
+li-il-li-kam-ma	V
+<EoL>
+la	MOD
+i-ta-ar-ma	V
+la	MOD
+i-da-ab-bu-ub	V
+<EoL>
+u₂-ku-le-e	N
+ša	DET
+a-ku-lu	V
+u₃	CNJ
+aš-tu-u₂	V
+<EoL>
+i-na	PRP
+li-ib-bi-ia	N
+u₂-ul	MOD
+i-de-e	V
+<EoL>
+u₃	CNJ
+x	nan
+$AŠ	nan
+$ŠE	nan
+$RA	nan
+ša	DET
+NINDA	N
+u₃	CNJ
+KAŠ	N
+ša	DET
+a-ku-lu	V
+<EoL>
+u₃	CNJ
+aš-tu-u₂	V
+a-na	PRP
+ṭe₄-mi-šu-ma	N
+<EoL>
+a-ṣa-am-mi-da-am-ma	V
+a-na	PRP
+ma-har	N
+ša-pi₂-ri-ia	N
+<EoL>
+ka-ta	IP
+a-al-la-kam	V
+<EoL>
+x	nan
+x	nan
+x	nan
+mi	nan
+a	nan
+gi	nan
+<EoL>
+x-da-an-ni	nan
+<EoL>
+x	nan
+ze₂-eh-pi₂	nan
+ša-pi₂-ri-ia	N
+li-li-kam	V
+<EoL><EoT>
+a-na	PRP
+a-hi-ia	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-am-ma-ar-i₃-li₂-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+lu	MOD
+ba-al-ṭa-ta	V
+<EoL>
+a-na	PRP
+šu-ul-mi-ka	N
+aš-pu-ra-am	V
+<EoL>
+šu-lum-ka	N
+ma-har	PRP
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+<EoL>
+lu	MOD
+da-ri	V
+<EoL>
+5(diš)	NU
+SILA₃	N
+GAR₃.ŠUM{sar}	N
+ša	DET
+IR₃-eš-še-ši	PN
+<EoL>
+a-hi	N
+at-ta	IP
+šu-mi	N
+ta-az₂-ku-ru	V
+<EoL>
+am-ta-ha-ar	V
+<EoL>
+u₃	CNJ
+har-ra-num	N
+ša	DET
+i-na	PRP
+e-mar{ki}	SN
+<EoL>
+aš-bu-u₂	V
+a-di-ni	AV
+u₂-ul	MOD
+i-sa-ni-qa₂-am-ma	V
+<EoL>
+ta-ma-ar-ta-ka	N
+<EoL>
+u₂-ul	MOD
+u₂-ša-bi-la-ak-ku	V
+<EoL>
+i-na-an-na	AV
+5(diš)	NU
+SILA₃	N
+bu-ra-ša	N
+<EoL>
+{diš}IR₃-eš-še-ši	PN
+uš-ta-bi-la-ak-ku	V
+<EoL>
+a-hi	N
+at-ta	IP
+li-ib-ba-ti	N
+<EoL>
+la	MOD
+ta-ma-al-la	V
+<EoL>
+šum-ma	MOD
+a-la-ak	N
+ṣe-eh-ri	N
+i-ba-aš-ši	V
+<EoL>
+hi-še-eh-ta	N
+ma-la	REL
+ta-ša-ap-pa-ra	V
+<EoL>
+lu-ša-bi-la-ak-ku	V
+<EoL>
+u₃	CNJ
+šum-ma	MOD
+ṣe-eh-ru	N
+la	MOD
+i-il-la-ka	V
+<EoL>
+ṭup-pa-ka	N
+ar-hi-iš	AV
+šu-up-ra-am-ma	V
+<EoL>
+hi-še-eh-ta	N
+ma-la	REL
+ta-ša-ap-pa-ra	V
+<EoL>
+lu-ša-bi-la-ak-ku	V
+<EoL>
+{geš}qa₂-aš-ta	N
+u₃	CNJ
+{na₄}ka-pa-ṣi-a	N
+<EoL>
+{tug₂}BAR.SI.IG	N
+šu-ta-ah-ti-i-ma	V
+<EoL>
+a-na	PRP
+KU₃.BABBAR	N
+ša-ma-am-ma	V
+<EoL>
+šu-bi-lam	V
+<EoL><EoT>
+a-na	PRP
+DINGIR-i₃-in-tu-uh	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+pa-hu-ra-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-li-ṭu₂-ka	V
+<EoL>
+i-nu-u₂-ma	SBJ
+a-ta	IP
+u₃	CNJ
+a-na-ku-u₂	IP
+<EoL>
+ni-in-na-am-ru-u₂	V
+<EoL>
+um-ma	PRP
+a-na-ku-u₂-ma	IP
+<EoL>
+KU₃.BABBAR	N
+a-nu-um-me-a-am	DP
+<EoL>
+id-nam{am}	V
+<EoL>
+ki-a-am	AV
+ta-pu-la-an-ni	V
+<EoL>
+um-ma	PRP
+at-ta-ma	IP
+<EoL>
+gi-ir-ra-am	N
+al-li-ik	V
+<EoL>
+KU₃.BABBAR	N
+u₂-ul	MOD
+na-ši-a-ak-ku	V
+<EoL>
+um-ma	PRP
+at-ta-ma	IP
+<EoL>
+U₄.n.KAM	nan
+i-na	PRP
+ZIMBIR{ki}	SN
+<EoL>
+lu-ši-im-ma	V
+KU₃.BABBAR	N
+lu-ša-bi-la-ku	V
+<EoL>
+a-nu-um-ma	AV
+{diš}SIG-{d}SUEN	PN
+<EoL>
+aṭ-ṭar-da-ku-u₂	V
+<EoL>
+KU₃.BABBAR	N
+šu-bi-lam	V
+<EoL>
+it-ti	PRP
+KU₃.BABBAR	N
+a-hu-ka	N
+<EoL>
+li-il-li-ka-am	V
+<EoL>
+ma-ar	N
+ši-ip-ri-im	N
+<EoL>
+ša	DET
+aš-pur-ra-am	V
+<EoL>
+la	MOD
+u₂-la-pa-ta-am	V
+<EoL>
+ar-hi-iš	AV
+ṭu₂-ur-da	V
+<EoL><EoT>
+a-na	PRP
+i₃-li₂-a-si-ia	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+ip-qu₂-{d}ša-la-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+<EoL>
+iš-tu	PRP
+ša-ad-da-aq-dam	N
+a-na	PRP
+ŠE.NUMUN	N
+<EoL>
+ša	DET
+ša-ma-aš-ki-il-li	N
+u₂-na-i-id-ka-ma	V
+<EoL>
+u₂-ul	MOD
+tu-ša-x-x	nan
+<EoL>
+ṭup-pa-ti-ia	N
+a-di	PRP
+ha-am-ši-šu	NU
+u₂-ša-bi-la-ku-ma	V
+<EoL>
+me-he-er	N
+ṭup-pa-ti-ia	N
+u₂-ul	MOD
+tu-ša-bi-lam	V
+<EoL>
+u₃	CNJ
+ṭe₄-em-ka	N
+u₂-ul	MOD
+ta-aš-pu-ra-am	V
+<EoL>
+ki-ša	AV
+ta-al-la-kam	V
+<EoL>
+a-na	PRP
+u₂-di-ia	N
+šu-ur-ku-bi-im	N
+<EoL>
+uz-na-ia	N
+i-ba-aš-ši-a	V
+x	nan
+<EoL>
+{diš}{d}ia-ab-li-ia-iš-ta-mar	PN
+x	nan
+x	nan
+<EoL>
+ki-ma	PRP
+u₂-de-e	N
+ku-un-nu-ki-im	AJ
+<EoL>
+1(u)	NU
+GIN₂	N
+KU₃.BABBAR	N
+i-na	PRP
+gi-ir-ri-im-ma	N
+x	nan
+<EoL>
+aš-šu	PRP
+ki-a-am-ma	AV
+lu-up-pu-da-ku	V
+<EoL>
+ITI.KIN-{d}INANNA	NU
+ITI.KIN-{d}INANNA	N
+U₄.3(u).KAM	NU
+U₄.3(u).KAM	N
+<EoL>
+a-na	PRP
+ma-ah-ri-ka	N
+a-al-la-kam	V
+<EoL>
+1(ban₂)	NU
+1(ban₂)	N
+ze₂-ra-am	N
+ša	DET
+ša-ma-aš-ki-il-li	N
+x	nan
+<EoL>
+{na₄}ku-nu-kam	N
+a-na	PRP
+{d}ia-ab-li-ia-iš-ta-mar	PN
+<EoL>
+i-di-im-ma	V
+a-na	PRP
+ma-ah-ri-ia	N
+<EoL>
+ṭu₂-ur-dam	V
+<EoL>
+ša-at-tum	N
+la	MOD
+i-iz-zi-ba-an-ni	V
+<EoL>
+1(aš)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+i-di-in-ma	V
+{gi}X.X.NA.HI.A	nan
+<EoL>
+u₃	CNJ
+{gi}X.HI.A	nan
+šu-pi₂-iš	V
+<EoL><EoT>
+a-na	PRP
+IR₃-si-gar	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+gi-mil-{d}MARDUK-ma	PN
+<EoL>
+ki-ma	PRP
+ta-aṭ-ṭu₂-la-an-ni	V
+<EoL>
+a-na	PRP
+E₂-ia	N
+pa-ni-ia	N
+u₂-ul	MOD
+u₂-sa-hi-ir	V
+<EoL>
+it-ti	PRP
+um-mi-ia	N
+u₂-ul	MOD
+am-ta-li-ik	V
+<EoL>
+ki-ma	PRP
+ti-du-u₂	V
+ša	DET
+ha-ar-ra-ni-im	N
+<EoL>
+ša	DET
+pa-ni-ia	N
+u₃	CNJ
+a-ma-at	V
+<EoL>
+u₃	CNJ
+ba-al-ṭa₂-ku	V
+u₃-li	MOD
+i-de-e	V
+<EoL>
+A.ŠA₃	N
+šu-ta-ak-ši-id	V
+<EoL>
+a-na	PRP
+E₂-ti-ka	N
+la	MOD
+te-gu	V
+<EoL>
+la	MOD
+i-ha-ṭi₃-a-ma	V
+li-bi	N
+la	MOD
+i-ri-iq	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+um-mi-ka	N
+<EoL>
+la	MOD
+te-gu	V
+ŠUKU	N
+i-di-in	V
+<EoL>
+ar-hi-iš	AV
+2(barig)	NU
+2(barig)	N
+ZI₃.DA	N
+šu-bi-lam	V
+<EoL>
+a-ma-tum	N
+i-na	PRP
+E₂.GAL	N
+u₂-zu-ba	V
+<EoL>
+ni-da-hi-im	N
+ni-da-hi-im	N
+la	MOD
+ta-ra-ši-a-am	V
+<EoL>
+u₃	CNJ
+la	MOD
+i-ha-ṭi₃-ma	V
+li-bi	N
+<EoL>
+la	MOD
+i-ma-ra-aṣ	V
+it-ti-ka	PRP
+šu-un-ṣi₂-ir-ka	V
+<EoL>
+a-na	PRP
+ša	DET
+aš-pu-ra-ak-ku	V
+<EoL>
+ni-da-hi-im	N
+ni-da-hi-im	N
+la	MOD
+ta-ra-aš-ši	V
+<EoL>
+a-na	PRP
+li-bu	N
+ma-ti-im	N
+<EoL>
+la	MOD
+ta-la-ak	V
+<EoL>
+a-bi	N
+a-hi	N
+at-ta-ma	IP
+ni-da-hi-im	N
+ni-da-hi-im	N
+<EoL>
+la	MOD
+ta-ra-ši-a-am	V
+<EoL><EoT>
+a-na	PRP
+pi₄-{d}UTU	PN
+<EoL>
+{diš}{d}nin-urta-e-ri-iš	PN
+<EoL>
+u₃	CNJ
+im-gur-{d}SUEN	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}er₃-ra-ga-mil-ma	PN
+<EoL>
+aš-šum	PRP
+di-nim	N
+ša	DET
+ta-di-na-ne	V
+i-ia-tim	IP
+i₃-li₂	N
+<EoL>
+ma-ha-ar	N
+ri-iš-{d}UTU	PN
+gi-im-la-ni	V
+<EoL>
+a-na	PRP
+ib-ba-tim	PN
+qi₂-bi-ma	V
+<EoL>
+KU₃.BABBAR	N
+li-ša-bi-lam	V
+<EoL>
+a-na	PRP
+ib-ba-tim	PN
+qi₂-bi₂-ma	V
+<EoL>
+KU₃.BABBAR	N
+la	MOD
+ma-du	AJ
+la	MOD
+mi₂-ma	XP
+<EoL>
+a-nu-ma	AV
+KU₃.BABBAR	N
+šu-bi-lam	V
+<EoL>
+šum-ma	MOD
+KU₃.BABBAR	N
+a-bi	N
+la	MOD
+i-di-na-ku	V
+<EoL>
+u₃	CNJ
+a-na-ku	IP
+aš-pu-ra-ku	V
+<EoL>
+iq-qa-ab-li-it	PRP
+iq-qa-ab-li-it	N
+e-ri-iš-hi-gal	TN
+<EoL>
+ṭup-pa	N
+an-ne₂-em	DP
+iq-qa-ab-li-it	PRP
+iq-qa-ab-li-it	N
+<EoL>
+e-ri-iš-hi-gal	TN
+hi-pi₂-šu-ma	V
+<EoL>
+u₃	CNJ
+at-la-ak	V
+<EoL>
+u₄-mi-ša	N
+tu	nan
+BE	nan
+bu	nan
+<EoL>
+3(diš)	NU
+pa-ar-si-ka-tim	N
+KAŠ	N
+<EoL>
+5(diš)	NU
+pa-ri-si	N
+ŠE	N
+a-na	PRP
+ki-sa₃-tim	N
+<EoL>
+ša	DET
+ṣu₂-ha-re-e	N
+<EoL>
+ṭup-pi₂	N
+{d}er₃-ra-ga-mil	PN
+<EoL>
+a-na	PRP
+pi₄-{d}UTU	PN
+<EoL>
+{diš}{d}nin-gal-e-ri-iš	PN
+<EoL>
+u₃	CNJ
+im-gur-{d}SUEN	PN
+<EoL><EoT>
+a-na	PRP
+a-ta-a	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+nu-ur₂-{d}UTU-ma	PN
+<EoL>
+a-wi-il-tum	N
+<EoL>
+ša	DET
+zi-im-ra-ha-mu	PN
+<EoL>
+la	MOD
+ta-ka-as₂-si	V
+<EoL>
+mi-ṭi-sa	N
+<EoL>
+ma-ah-ra-ku	V
+<EoL>
+li-te-eq	V
+<EoL><EoT>
+be-li₂	N
+{d}na-bi-um	DN
+<EoL>
+aš-šu-mi-ia	PRP
+li-la-ab-bi-ir-ka	V
+<EoL>
+lu	MOD
+ša-al-ma-ta	V
+<EoL>
+iš-ti-iš-šu	AV
+u₃	CNJ
+ši-ni-šu	AV
+<EoL>
+aš-šum	PRP
+5(diš)	NU
+UDU.NITA₂	N
+a-na	PRP
+DUB.SAR.ZA₃.GA	N
+<EoL>
+u₃	CNJ
+a-na	PRP
+IR₃-ku-bi	PN
+mu-ti	N
+a-ha-ti-ka	N
+<EoL>
+qa₂-be₂-e-em-ma	N
+UDU.NITA₂.HI.A	N
+<EoL>
+u₃	CNJ
+HA.ZA.NU.UM	N
+šu-bu-li-im	V
+<EoL>
+aš-pu-ra-ak-kum-ma	V
+<EoL>
+ṭe₄-em-ka	N
+ri-qa₂-am	AJ
+u₂-ul	MOD
+ta-aš-pu-ra-am	V
+<EoL>
+i-na-an-na	AV
+ṭup-pi₂	N
+uš-ta-bi-la-ak-kum	V
+<EoL>
+ša	DET
+GU₂.UN.HI.A	N
+A.ŠA₃-ia	N
+u₃	CNJ
+ZU₂.KEŠ₂	N
+E₂	N
+<EoL>
+5(diš)	NU
+UDU.NITA₂	N
+u₃	CNJ
+at-ta	IP
+<EoL>
+8(diš)	NU
+UDU.NITA₂	N
+šu-bi-lam-ma	V
+<EoL>
+ur₂-ra-am	AV
+i-na	PRP
+KA₂	N
+bu-qu₂-mi	N
+<EoL>
+5(diš)	NU
+UDU.NITA₂	N
+lu-te-er-ra-ak-kum	V
+<EoL>
+1(u)	NU
+UDU.NITA₂	N
+mi-it-gu-ru-ti	N
+<EoL>
+ṣi-im-da-am-ma	V
+šu-bi-lam	V
+<EoL>
+1(u)-am	N
+lu-ma-li	V
+<EoL>
+i-na	PRP
+ITI.APIN.DU₈.A	MN
+U₄.3(u).KAM	NU
+U₄.3(u).KAM	N
+<EoL>
+šu-bi-lam	V
+<EoL>
+a-na	PRP
+ša	DET
+aš-pu-ra-ak-kum	V
+<EoL>
+la	MOD
+tu-uš-ta-a	V
+<EoL>
+i-na	PRP
+U₈.UDU.HI.A-ka	N
+UDU.NITA₂	N
+a-na	PRP
+<EoL>
+1(u)	NU
+UDU.NITA₂	N
+šu-bi-lam	V
+<EoL>
+i-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+1(u)	NU
+UDU.NITA₂	N
+<EoL>
+a-na-ad-di-na-ak-kum	V
+<EoL><EoT>
+a-na	PRP
+a-zi-ir-{d}da-gan	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+{d}SUEN-be-el-NUMUN-ma	PN
+<EoL>
+{d}UTU	DN
+li-ba-al-li-iṭ-ka	V
+<EoL>
+ša	DET
+te-pu-ša-an-ni	V
+da-mi-iq	V
+<EoL>
+aq-bi-i-ma	V
+8(diš)	NU
+SILA₃	N
+I₃.GEŠ	N
+<EoL>
+a-na	PRP
+ṭa-ab-ti	N
+i-di-nu-{ku}kum	V
+<EoL>
+ṭa-ab-ta-am	N
+u₂-ul	MOD
+<EoL>
+tu-ša-bi-lam	V
+<EoL>
+u₃	CNJ
+a-wi-lum	N
+ma-ga-al	AV
+<EoL>
+i-te-ep-ša-an-ni	V
+<EoL>
+U₄	N
+ma-ti-i-ma	AV
+<EoL>
+mi-im-ma	XP
+la	MOD
+iq-bi-am	V
+<EoL>
+u₃	CNJ
+u₂-ne₂-ti-ia	N
+<EoL>
+ša	DET
+a-na	PRP
+ša	DET
+IRI{ki}	N
+a-ha-nu-ta	SN
+<EoL>
+at-lu-ki	N
+ṣe₂-ne₂-e-ku-ma	V
+<EoL>
+{geš}MA₂	N
+uš-ta-$PI-la-an-ni	V
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+8(diš)	NU
+SILA₃	N
+I₃.GEŠ	N
+ša	DET
+ta-aq-bi-am-ma	V
+<EoL>
+a-na	PRP
+a-wi-lim	N
+ad-di-nu	V
+<EoL>
+id-na-am-ma	V
+<EoL>
+u₂-ne₂-ti-ka	N
+lu-wa-ši-ra-ku	V
+<EoL>
+8(diš)	NU
+SILA₃	N
+I₃.GEŠ	N
+2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+<EoL>
+u₂-ba-al	V
+<EoL>
+x	nan
+$ŠI	nan
+ik-lu-ni-in-ni	V
+<EoL>
+ša	DET
+2(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+<EoL>
+ṭa-ab-ta-am	N
+bi-la-am-ma	V
+ma-ga-al	AV
+la	MOD
+i-pu-šu-ni-ni	V
+<EoL><EoT>
+a-na	PRP
+be-el	N
+bi-tim	N
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+DUMU.MUNUS	N
+{d}SUEN-x-x-ma	nan
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+aš-šu-mi-ia	PRP
+<EoL>
+da-ri-iš	AV
+u₄-mi	N
+li-ba-al-li-ṭu₂-ka	V
+<EoL>
+bi-tum	N
+ša-lim	V
+u₃	CNJ
+ṣu₂-ha-ru-u₂	N
+<EoL>
+ša-al-mu	V
+u₃	CNJ
+GU₄.HI.A	N
+ši-ru-šu-nu	N
+<EoL>
+ša-lim	V
+i-na	PRP
+A.ŠA₃-im	N
+<EoL>
+še-am	N
+3(u)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+<EoL>
+el-qe₂	V
+i-na	PRP
+A.ŠA₃	N
+x-x-lim	nan
+<EoL>
+9(aš)	NU
+ŠE.GUR	N
+ŠE.GUR	N
+el-qe₂	V
+<EoL>
+u₃	CNJ
+ki-a-am	AV
+ta-aš-pu-ra-am	V
+<EoL>
+um-ma	PRP
+at-ta-ma	IP
+<EoL>
+al-pa-am	N
+u₂-ša-bi-la-ki-im	V
+<EoL>
+al-pa-am	N
+u₂-ul	MOD
+i-di-nu-ni	V
+<EoL>
+a-wi-lum	N
+ša	DET
+al-pa-am	N
+<EoL>
+tu-ša-bi-la-ak-ku-um-ma	V
+<EoL>
+šu-up-ra-ma	V
+a-wi-la-am	N
+ša-tu	IP
+<EoL>
+a-al-pa-am	N
+lu-ri-iš	V
+<EoL>
+u₃	CNJ
+at-ta	IP
+iš-tu	PRP
+u₄-mi-im	N
+<EoL>
+ša	DET
+al-li-ku	V
+ṭe₄-em-ka	N
+<EoL>
+u₂-ul	MOD
+ta-aš-pu-ra-am	V
+<EoL>
+{diš}a-pil₂-{d}MAR.TU	PN
+<EoL>
+DUMU	N
+i₃-li₂-um-ma-ti	PN
+<EoL>
+a-la-ak-ta-šu	N
+sa-ad-ra-at-ma	V
+<EoL>
+ki-a-am	AV
+aq-bi-šu	V
+um-ma	PRP
+a-na-ku-ma	IP
+<EoL>
+su-hu-ur-šu-ma	V
+<EoL>
+ṭe₄-em-šu	N
+šu-up-ra-am	V
+<EoL>
+u₃	CNJ
+a-na	PRP
+A.ŠA₃	N
+ŠE.GEŠ.I₃	N
+<EoL>
+a-hi	N
+u₂-ul	MOD
+na-di-i	V
+<EoL><EoT>
+a-na	PRP
+{d}SUEN-še-mi	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+lu₂-{d}ha-ia₃-ma	PN
+<EoL>
+E₂	N
+{d}ba-ba₆	DN
+<EoL>
+E₂	N
+{d}nin-gir₂-su	PN
+<EoL>
+a-ka-ra-ab-ku-um	V
+<EoL>
+be₂-ri-a-ku-u₂-ma	V
+<EoL>
+aš-pu-ra-ku-um	V
+<EoL>
+qa₂-ti	N
+za-ka-at	V
+<EoL>
+bu-li-ṭa-ni	V
+<EoL>
+1(diš)	NU
+GIN₂	N
+KU₃.BABBAR	N
+<EoL>
+id-nam-ma	V
+lu-ku-ul	V
+<EoL>
+u₃	CNJ
+la	MOD
+a-ta-ba-al	V
+<EoL>
+du-um-qa₂-am	N
+<EoL>
+e-pi₂-iš-ka	V
+<EoL>
+5(diš)	NU
+KU₆	N
+šu-bi-lam	V
+<EoL>
+a-na	PRP
+{d}ba-ba₆	DN
+<EoL>
+šum-ma	MOD
+i-ba-šu-u₂	V
+<EoL><EoT>
+a-na	PRP
+bi-ti-i	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+DUMU.ZIMBIR-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ki	V
+<EoL>
+a-nu-um-ma	AV
+a-na	PRP
+pe₂-ru-ru-tim	PN
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+DUMU.ZIMBIR-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+li-ba-al-li-ṭu₂-ki	V
+<EoL>
+i-na	PRP
+u₄-mi	N
+aš-tap-ra-ak-ki-mi	V
+<EoL>
+i-na	PRP
+ka-ni-ka-tim	N
+a-hi-a-tim	AJ
+<EoL>
+ša	DET
+i-ba-aš-ši-a	V
+x	nan
+<EoL>
+ka-ni-ka	N
+ša	DET
+<EoL>
+{diš}$IŠ-$KUR-ra-$NE-x	nan
+<EoL>
+li-we-di-ma	V
+<EoL>
+li-il-qe₂	V
+<EoL>
+šum-ma	MOD
+i-na	PRP
+<EoL>
+ka-ni-ka-tim	N
+<EoL>
+a-he₂-tim	AJ
+la	MOD
+i-ta-ma-ar	V
+<EoL>
+ka-ni-ka	N
+li-we-di-ma	V
+<EoL>
+i-na	PRP
+pi₂-ša-an-ni	N
+ku-nu-ka-tim	N
+<EoL>
+ka-ni-ik-šu	N
+li-we-di-ma	V
+<EoL>
+li-il-qe₂	V
+ku-nu-ka	N
+<EoL>
+šum-ma	MOD
+i-na	PRP
+ku-nu-ka-tim	N
+<EoL>
+a-hi-a-tim	AJ
+la	MOD
+u₂-we-di-ma	V
+<EoL>
+la	MOD
+i-mu-ur	V
+pi₂-ša-an-na	N
+<EoL>
+li-ip-te-ma	V
+ka-ni-ka	N
+<EoL>
+li-we-di-ma	V
+li-il-qe₂	V
+<EoL>
+i-na	PRP
+ku-nu-ki-šu	N
+li-ik-nu-uk	V
+<EoL><EoT>
+a-na	PRP
+{d}MARDUK-na-ṣi-ir	PN
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+a-bi-e-šu-uh-ma	RN
+<EoL>
+{diš}ib-ni-{d}x	nan
+x	nan
+x	nan
+ki-a-am	AV
+<EoL>
+x	nan
+x	nan
+x	nan
+u₂-lam-mi-da-an-ni	V
+<EoL>
+um-ma	PRP
+šu-u₂-ma	IP
+<EoL>
+a-na	PRP
+{d}MARDUK-na-ṣi-ir	PN
+UGULA	N
+DAM.GAR₃	N
+<EoL>
+aš-šum	PRP
+ŠAH	N
+ne-me-et-ti-šu	N
+ša	DET
+ITI.GAN.GAN.E₃	MN
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+šu-bu-li-im	V
+<EoL>
+aš-ta-na-ap-pa-ar-šum-ma	V
+<EoL>
+ŠAH	N
+ne-me-et-ti-šu	N
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+u₂-ul	MOD
+u₂-ša-bi-lam	V
+<EoL>
+ki-a-am	AV
+u₂-lam-mi-da-an-ni	V
+<EoL>
+a-na	PRP
+mi-nim	QP
+a-di	PRP
+i-na-an-na	AV
+<EoL>
+ŠAH	N
+ne-me-et-ti-ka	N
+ša	DET
+ITI.GAN.GAN.E₃	MN
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+la	MOD
+tu-ša-bi-lam	V
+<EoL>
+ki-ma	PRP
+ṭup-pi₂	N
+an-ni-a-am	DP
+ta-am-ma-ru	V
+<EoL>
+ŠAH	N
+ne-me-et-ti-ka	N
+ša	DET
+ITI.GAN.GAN.E₃	MN
+<EoL>
+a-na	PRP
+KA₂.DINGIR.RA{ki}	SN
+<EoL>
+šu-bi-lam	V
+<EoL><EoT>
+a-na	PRP
+im-gur-{d}SUEN	PN
+<EoL>
+u₃	CNJ
+a-wi-il-{d}UTU	PN
+<EoL>
+ša	DET
+{d}MARDUK	DN
+u₂-ba-al-la-ṭu₂-šu-nu-ti	V
+<EoL>
+qi₂-bi₂-ma	V
+<EoL>
+um-ma	PRP
+in-bi-IŠTAR-ma	PN
+<EoL>
+{d}UTU	DN
+u₃	CNJ
+{d}MARDUK	DN
+da-ri-iš	AV
+u₄-mi	N
+<EoL>
+li-ba-al-li-ṭu₂-ku-nu-ti	V
+<EoL>
+aš-šum	PRP
+a-ha-ti	N
+sa₃-lu-hu-um	PN
+DAM.GAR₃	N
+<EoL>
+ša	DET
+DI.KU₅.MEŠ	N
+im-hu-ru-u₂-ma	V
+<EoL>
+iš-tu	PRP
+ZIMBIR{ki}	SN
+a-na	PRP
+ta-ri-šu	N
+<EoL>
+iš-ta-ap-ra-am	V
+<EoL>
+x	nan
+pi₂-qa-at	AV
+aš-šu	PRP
+SAG.IR₃	N
+<EoL>
+ma-ha-ar	N
+DI.KU₅.MEŠ	N
+<EoL>
+i-ša-ak-ka-an	V
+<EoL>
+SAG.IR₃	N
+iš-tu	PRP
+MU.3(diš).KAM	NU
+MU.3(diš).KAM	N
+<EoL>
+i-na	PRP
+E₂	N
+a-si-ri	N
+<EoL>
+i-na	PRP
+re-eš	N
+ma-ak-ku-ri-im	N
+<EoL>
+na-di	V
+<EoL>
+i-na	PRP
+wa-ar-ki-im	PRP
+<EoL>
+šar-rum	N
+sa₃-lu-hu-um	PN
+a-na	PRP
+E₂	N
+{d}MARDUK	DN
+<EoL>
+id-di-in-ma	V
+<EoL>
+sa₃-lu-hu-um	PN
+i-na	PRP
+E₂	N
+{d}MARDUK	DN
+<EoL>
+iz-ku-ur-ma	V
+SAG.IR₃	N
+il-qi₂-a-am-ma	V
+<EoL>
+it-ta-al-kam	V
+<EoL>
+šum-ma	MOD
+i-na	PRP
+ki-na-tim	AV
+<EoL>
+ta-ra-am-ma-ni-in-ni	V
+<EoL>
+la	MOD
+tu-uš-ta-ha-x	nan
+x	nan
+x	nan
+x	nan
+<EoL>
+x	nan
+x	nan
+ma	nan
+e-ze-en-ni	V
+<EoL>
+a-wa-tum	N
+ga-am-ra	V
+<EoL>
+šum-ma	MOD
+i-na	PRP
+ṭup-pi₂-ša	N
+<EoL>
+SAG.IR₃	N
+ša-ṭi₄-er	V
+<EoL>
+ki-im-ri-šu	N
+u₃	CNJ
+hi-bi-x	nan
+<EoL>
+li-pu-ul-ma	V
+u₂	CNJ
+x	nan
+x	nan
+<EoL><EoT>
