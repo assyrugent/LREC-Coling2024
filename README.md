@@ -15,3 +15,6 @@ You have to have made a choice on *Separation* before this step. This would mean
 
 ## Training
 As explained in the paper we used the FLAIR toolkit (Version 0.12.2) to train our model, see the 'train_flair.py'. We iterated the training over the folds.
+
+## Rights
+This repository is authored by Gustav Ryberg Smidt, Katrien De Graef and Els Lefever. Everything in the repository is under Creative Commons licenses (CC-BY-NC-4.0).
