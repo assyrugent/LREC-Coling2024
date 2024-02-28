@@ -19,4 +19,5 @@ As explained in the paper we used the FLAIR toolkit (Version 0.12.2) to train ou
 ## Rights
 This repository is authored by Gustav Ryberg Smidt, Katrien De Graef and Els Lefever. Everything in the repository is under Creative Commons licenses (CC-BY-NC-4.0).
 
-![CUNE-IIIF-ORM_logo_1_rounded.png](https://github.com/assyrugent/assets/blob/main/CUNE-IIIF-ORM_logo_1_rounded.png "Logo")
+
+<img src="https://github.com/assyrugent/assets/blob/main/CUNE-IIIF-ORM_logo_1_rounded.png" alt="CUNE-IIIF-FORM logo" title="Logo of the CUNE-IIIF-ORM project" width="150"/>
