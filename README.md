@@ -20,4 +20,4 @@ As explained in the paper we used the FLAIR toolkit (Version 0.12.2) to train ou
 This repository is authored by Gustav Ryberg Smidt, Katrien De Graef and Els Lefever. Everything in the repository is under Creative Commons licenses (CC-BY-NC-4.0).
 
 
-<img src="https://github.com/assyrugent/assets/blob/main/CUNE-IIIF-ORM_logo_1_rounded.png" alt="CUNE-IIIF-FORM logo" title="Logo of the CUNE-IIIF-ORM project" width="150"/>
+<img src="https://github.com/assyrugent/assets/blob/main/CUNE-IIIF-ORM_logo_1_rounded.png" alt="CUNE-IIIF-FORM logo" title="Logo of the CUNE-IIIF-ORM project" width="150"/><img src="https://github.com/assyrugent/assets/blob/main/AssyrUGent%20logo%20non_caps.png" alt="AssyrUGent logo" title="Logo of the AssyrUGent group" width="150"/>
