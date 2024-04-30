@@ -1,4 +1,4 @@
-[1] = Louvre. 2024. "Code de Hammurabi: -1792 / -1750 (1ère dynastie de Babylone : Hammurabi)," Louvre Collection, <href>https://collections.louvre.fr/en/ark:/53355/cl010174436</href>.\\
+[1] = Louvre. 2024. "Code de Hammurabi: -1792 / -1750 (1ère dynastie de Babylone : Hammurabi)," Louvre Collection, <href>https://collections.louvre.fr/en/ark:/53355/cl010174436</href>.\newlinw
 [2] = Louvre. 2024. "tablette: -1894 / -1595 (1ère dynastie de Babylone)," Louvre Collection, <href>https://collections.louvre.fr/en/ark:/53355/cl010125719</href>.
 [3] = CDLI contributors. 2024. “Home,” Cuneiform Digital Library Initiative, <href>https://cdli.mpiwg-berlin.mpg.de/</href>.
 [4] = E. Robson. 2019. "AKK: Oracc Linguistic Annotation for Akkadian," Oracc: The Open Richly Annotated Cuneiform Corpus, Oracc, <href>http://oracc.museum.upenn.edu/doc/help/languages/akkadian/</href>.
