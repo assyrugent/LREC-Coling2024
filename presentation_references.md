@@ -13,3 +13,4 @@ References relevant for presentation at LREC-Coling 2024 by G.R. Smidt, K.D. Gra
 [12] = by @iamyiwha: <href>https://github.com/flairNLP/flair/issues/80</href>.</br>
 [13] = by @alanakbik: <href>https://github.com/flairNLP/flair/issues/527</href>.</br>
 [14] = G.R. Smidt, K.D. Graef and E. Lefever. 2024. "assyrugent / LREC-Coling2024," <href>https://github.com/assyrugent/LREC-Coling2024</href>.</br>
+[15] = F. Thureau-Dangin. 1910. "Lettres et Contrats de l’époque de La Première Dynastie Babylonienne," Paris: Librairie Paul Geuthner.
